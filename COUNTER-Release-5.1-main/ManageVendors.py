@@ -16,6 +16,8 @@ from PyQt5.QtGui import QStandardItemModel, QStandardItem
 from PyQt5.QtCore import Qt, QObject, QModelIndex, pyqtSignal
 from ui import ManageVendorsTab, AddVendor, RemoveVendorDialog, EditVendors
 
+from typing import Tuple
+
 # import ManageDB
 import GeneralUtils
 from GeneralUtils import JsonModel
@@ -108,10 +110,14 @@ class ManageVendorsController(QObject):
         # self.remove_vendor_button = manage_vendors_ui.removeVendorButton
         self.add_vendor_button = manage_vendors_ui.addVendorButton
         self.edit_vendor_button = manage_vendors_ui.editvendorsbutton
-        
-        # TODO i have added this
-        self.version = "5.1"
-        
+
+        # buttons to see different lists
+        self.version50_button = manage_vendors_ui.version50
+        self.version50_button.clicked.connect(self.on_click_version50)
+
+        self.version51_button = manage_vendors_ui.version51
+        self.version51_button.clicked.connect(self.on_click_version51)
+
         # self.export_vendors_button = manage_vendors_ui.exportVendorsButton
         # self.import_vendors_button = manage_vendors_ui.importVendorsButton
 
@@ -123,7 +129,7 @@ class ManageVendorsController(QObject):
         # self.export_vendors_button.clicked.connect(self.on_export_vendors_clicked)
         # self.import_vendors_button.clicked.connect(self.on_import_vendors_clicked)
 
-        # self.vendor_list_view_2 = manage_vendors_ui.vendorsListView_2 # updated : commented
+        self.vendor_list_view = manage_vendors_ui.vendorsListView  # updated : commented
         # self.vendor_list_view_1 = manage_vendors_ui.vendorsListView  # updated
 
         # self.vendor_list_model = QStandardItemModel(self.vendor_list_view)
@@ -142,6 +148,8 @@ class ManageVendorsController(QObject):
         #     self.vendor_names.add(vendor.name.lower())
 
         # self.update_vendors_ui()
+
+    def on_click_version50(self):
         try:
             script_directory = os.path.dirname(os.path.abspath(__file__))
             file_path = os.path.join(
@@ -164,17 +172,42 @@ class ManageVendorsController(QObject):
                     model.appendRow(item)
 
             # Set the model for the QListView
-            # self.vendor_list_view_2.setModel(model) #commented
-            # self.vendor_list_view_1.setModel(model)  # updated
+            self.vendor_list_view.setModel(model)
 
         except Exception as e:
             print(f"Error loading vendors: {e}")
 
-    def edit_vendor(self, new_vendor: Vendor) -> (bool, str):
+    def on_click_version51(self):
+        try:
+            script_directory = os.path.dirname(os.path.abspath(__file__))
+            file_path = os.path.join(script_directory, "vendors51.dat")
+
+            # Read JSON data from vendors.dat
+            with open(file_path, "r") as file:
+                vendors_data = json.load(file)
+
+            # Create a QStringListModel
+            model = QStandardItemModel()
+
+            # Populate the model with vendor names
+            for vendor_data in vendors_data:
+                vendor_name = vendor_data.get("name", "")
+                if vendor_name:
+                    item = QStandardItem(vendor_name)
+                    item.setEditable(False)
+                    model.appendRow(item)
+
+            # Set the model for the QListView
+            self.vendor_list_view.setModel(model)
+
+        except Exception as e:
+            print(f"Error loading vendors: {e}")
+
+    def edit_vendor(self, new_vendor: Vendor) -> Tuple[bool, str]:
 
         return True, ""
 
-    def add_vendor(self, new_vendor: Vendor) -> (bool, str):
+    def add_vendor(self, new_vendor: Vendor) -> Tuple[bool, str]:
         """Adds a new vendor to the system if the vendor is valid
 
         :param new_vendor: The new vendor to be added
