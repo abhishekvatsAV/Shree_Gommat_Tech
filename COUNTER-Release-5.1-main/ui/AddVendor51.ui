@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
- <class>addVendorDialog</class>
- <widget class="QMainWindow" name="addVendorDialog">
+ <class>addVendor51Dialog</class>
+ <widget class="QMainWindow" name="addVendor51Dialog">
   <property name="geometry">
    <rect>
     <x>0</x>
@@ -180,6 +180,19 @@ border-radius: 15px;
              <enum>QFrame::StyledPanel</enum>
             </property>
             <layout class="QGridLayout" name="gridLayout_5">
+             <item row="14" column="0">
+              <widget class="QLabel" name="label_28">
+               <property name="font">
+                <font>
+                 <family>Georgia</family>
+                 <pointsize>10</pointsize>
+                </font>
+               </property>
+               <property name="text">
+                <string>Notes</string>
+               </property>
+              </widget>
+             </item>
              <item row="9" column="0">
               <widget class="QLabel" name="label_5">
                <property name="font">
@@ -193,47 +206,8 @@ border-radius: 15px;
                </property>
               </widget>
              </item>
-             <item row="12" column="0">
-              <widget class="QLabel" name="label_28">
-               <property name="font">
-                <font>
-                 <family>Georgia</family>
-                 <pointsize>10</pointsize>
-                </font>
-               </property>
-               <property name="text">
-                <string>Companies</string>
-               </property>
-              </widget>
-             </item>
-             <item row="11" column="0">
-              <widget class="QLabel" name="provider">
-               <property name="font">
-                <font>
-                 <family>Georgia</family>
-                 <pointsize>10</pointsize>
-                </font>
-               </property>
-               <property name="text">
-                <string>Description</string>
-               </property>
-              </widget>
-             </item>
-             <item row="7" column="0">
-              <widget class="QLabel" name="label_4">
-               <property name="font">
-                <font>
-                 <family>Georgia</family>
-                 <pointsize>10</pointsize>
-                </font>
-               </property>
-               <property name="text">
-                <string>Requester ID</string>
-               </property>
-              </widget>
-             </item>
-             <item row="2" column="1">
-              <widget class="QLabel" name="label_12">
+             <item row="5" column="1">
+              <widget class="QLabel" name="label_13">
                <property name="text">
                 <string>*</string>
                </property>
@@ -252,14 +226,7 @@ border-radius: 15px;
                </property>
               </widget>
              </item>
-             <item row="6" column="1">
-              <widget class="QLabel" name="label_14">
-               <property name="text">
-                <string>*</string>
-               </property>
-              </widget>
-             </item>
-             <item row="4" column="0">
+             <item row="3" column="0">
               <widget class="QLabel" name="label_2">
                <property name="font">
                 <font>
@@ -269,6 +236,60 @@ border-radius: 15px;
                </property>
                <property name="text">
                 <string>Base URL</string>
+               </property>
+              </widget>
+             </item>
+             <item row="6" column="1">
+              <widget class="QLabel" name="label_14">
+               <property name="text">
+                <string>*</string>
+               </property>
+              </widget>
+             </item>
+             <item row="7" column="0">
+              <widget class="QLabel" name="label_4">
+               <property name="font">
+                <font>
+                 <family>Georgia</family>
+                 <pointsize>10</pointsize>
+                </font>
+               </property>
+               <property name="text">
+                <string>Requester ID</string>
+               </property>
+              </widget>
+             </item>
+             <item row="0" column="2">
+              <widget class="QLabel" name="label_16">
+               <property name="text">
+                <string>5.1</string>
+               </property>
+              </widget>
+             </item>
+             <item row="1" column="1">
+              <widget class="QLabel" name="label_12">
+               <property name="text">
+                <string>*</string>
+               </property>
+              </widget>
+             </item>
+             <item row="3" column="1">
+              <widget class="QLabel" name="label_18">
+               <property name="text">
+                <string>*</string>
+               </property>
+              </widget>
+             </item>
+             <item row="11" column="0">
+              <widget class="QLabel" name="label_9">
+               <property name="font">
+                <font>
+                 <family>Georgia</family>
+                 <pointsize>10</pointsize>
+                </font>
+               </property>
+               <property name="text">
+                <string>IP Checking required</string>
                </property>
               </widget>
              </item>
@@ -285,7 +306,40 @@ border-radius: 15px;
                </property>
               </widget>
              </item>
-             <item row="2" column="0">
+             <item row="5" column="0">
+              <widget class="QLabel" name="label_10">
+               <property name="font">
+                <font>
+                 <family>Georgia</family>
+                 <pointsize>10</pointsize>
+                </font>
+               </property>
+               <property name="text">
+                <string>Starting Year</string>
+               </property>
+              </widget>
+             </item>
+             <item row="0" column="0">
+              <widget class="QLabel" name="label_15">
+               <property name="text">
+                <string>Version</string>
+               </property>
+              </widget>
+             </item>
+             <item row="13" column="0">
+              <widget class="QLabel" name="provider">
+               <property name="font">
+                <font>
+                 <family>Georgia</family>
+                 <pointsize>10</pointsize>
+                </font>
+               </property>
+               <property name="text">
+                <string>Provider</string>
+               </property>
+              </widget>
+             </item>
+             <item row="1" column="0">
               <widget class="QLabel" name="label">
                <property name="font">
                 <font>
@@ -298,20 +352,6 @@ border-radius: 15px;
                </property>
               </widget>
              </item>
-             <item row="0" column="0">
-              <widget class="QLabel" name="label_15">
-               <property name="text">
-                <string>Version</string>
-               </property>
-              </widget>
-             </item>
-             <item row="4" column="1">
-              <widget class="QLabel" name="label_18">
-               <property name="text">
-                <string>*</string>
-               </property>
-              </widget>
-             </item>
              <item row="10" column="0">
               <widget class="QLabel" name="label_8">
                <property name="font">
@@ -321,11 +361,24 @@ border-radius: 15px;
                 </font>
                </property>
                <property name="text">
-                <string>is_non_sushi</string>
+                <string>2 Attempts needed</string>
                </property>
               </widget>
              </item>
-             <item row="2" column="2">
+             <item row="12" column="0">
+              <widget class="QLabel" name="label_11">
+               <property name="font">
+                <font>
+                 <family>Georgia</family>
+                 <pointsize>10</pointsize>
+                </font>
+               </property>
+               <property name="text">
+                <string>Request throttled</string>
+               </property>
+              </widget>
+             </item>
+             <item row="1" column="2">
               <widget class="QLineEdit" name="nameEdit">
                <property name="minimumSize">
                 <size>
@@ -343,14 +396,14 @@ color:black;
                </property>
               </widget>
              </item>
-             <item row="0" column="2">
-              <widget class="QLabel" name="label_9">
+             <item row="2" column="2">
+              <widget class="QLabel" name="name_validation_label">
                <property name="text">
-                <string>5.0</string>
+                <string/>
                </property>
               </widget>
              </item>
-             <item row="4" column="2">
+             <item row="3" column="2">
               <widget class="QLineEdit" name="baseUrlEdit">
                <property name="minimumSize">
                 <size>
@@ -368,17 +421,50 @@ color:black;
                </property>
               </widget>
              </item>
-             <item row="3" column="2">
-              <widget class="QLabel" name="name_validation_label">
+             <item row="4" column="2">
+              <widget class="QLabel" name="url_validation_label">
                <property name="text">
                 <string/>
                </property>
               </widget>
              </item>
              <item row="5" column="2">
-              <widget class="QLabel" name="url_validation_label">
-               <property name="text">
-                <string/>
+              <widget class="QDateEdit" name="All_reports_edit_fetch">
+               <property name="enabled">
+                <bool>true</bool>
+               </property>
+               <property name="minimumSize">
+                <size>
+                 <width>0</width>
+                 <height>30</height>
+                </size>
+               </property>
+               <property name="maximumSize">
+                <size>
+                 <width>60</width>
+                 <height>16777215</height>
+                </size>
+               </property>
+               <property name="styleSheet">
+                <string notr="true">QDateEdit {
+	background-color: #cccccc;
+	border-radius: 20px; 
+ color:black;
+}
+</string>
+               </property>
+               <property name="dateTime">
+                <datetime>
+                 <hour>0</hour>
+                 <minute>0</minute>
+                 <second>0</second>
+                 <year>2019</year>
+                 <month>12</month>
+                 <day>29</day>
+                </datetime>
+               </property>
+               <property name="displayFormat">
+                <string>yyyy</string>
                </property>
               </widget>
              </item>
@@ -454,25 +540,33 @@ color:black;}
               </widget>
              </item>
              <item row="10" column="2">
-              <widget class="QCheckBox" name="non_Sushi_check_box">
+              <widget class="QCheckBox" name="two_attempts_check_box">
                <property name="text">
                 <string/>
                </property>
               </widget>
              </item>
              <item row="11" column="2">
-              <widget class="QLineEdit" name="descriptionEdit">
+              <widget class="QCheckBox" name="ip_checking_check_box">
+               <property name="text">
+                <string/>
+               </property>
+              </widget>
+             </item>
+             <item row="12" column="2">
+              <widget class="QCheckBox" name="requests_throttled_check_box">
+               <property name="text">
+                <string/>
+               </property>
+              </widget>
+             </item>
+             <item row="13" column="2">
+              <widget class="QLineEdit" name="providerEdit">
                <property name="sizePolicy">
                 <sizepolicy hsizetype="Expanding" vsizetype="Preferred">
                  <horstretch>0</horstretch>
                  <verstretch>0</verstretch>
                 </sizepolicy>
-               </property>
-               <property name="maximumSize">
-                <size>
-                 <width>16777215</width>
-                 <height>40</height>
-                </size>
                </property>
                <property name="styleSheet">
                 <string notr="true">QLineEdit {
@@ -484,8 +578,8 @@ color:black;
                </property>
               </widget>
              </item>
-             <item row="12" column="2">
-              <widget class="QLineEdit" name="companiesEdit">
+             <item row="14" column="2">
+              <widget class="QLineEdit" name="notesEdit">
                <property name="sizePolicy">
                 <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
                  <horstretch>0</horstretch>
@@ -496,12 +590,6 @@ color:black;
                 <size>
                  <width>339</width>
                  <height>0</height>
-                </size>
-               </property>
-               <property name="maximumSize">
-                <size>
-                 <width>16777215</width>
-                 <height>30</height>
                 </size>
                </property>
                <property name="styleSheet">
@@ -527,15 +615,6 @@ color:black;
   </widget>
  </widget>
  <tabstops>
-  <tabstop>nameEdit</tabstop>
-  <tabstop>baseUrlEdit</tabstop>
-  <tabstop>customerIdEdit</tabstop>
-  <tabstop>requestorIdEdit</tabstop>
-  <tabstop>platformEdit</tabstop>
-  <tabstop>apiKeyEdit</tabstop>
-  <tabstop>non_Sushi_check_box</tabstop>
-  <tabstop>descriptionEdit</tabstop>
-  <tabstop>companiesEdit</tabstop>
   <tabstop>pushButton</tabstop>
  </tabstops>
  <resources/>
