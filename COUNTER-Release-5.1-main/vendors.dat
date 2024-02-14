@@ -1769,5 +1769,38 @@
     "is_non_sushi": false,
     "description": "",
     "companies": ""
+  },
+  {
+    "name": "AAANNS",
+    "base_url": "https://www.science.org/reports",
+    "customer_id": "203fs51555",
+    "requestor_id": "collections@upei.ca",
+    "api_key": "",
+    "platform": "",
+    "is_non_sushi": false,
+    "description": "",
+    "companies": ""
+  },
+  {
+    "name": "AACNNCI (American Association of Cereal Chemists International)",
+    "base_url": "",
+    "customer_id": "",
+    "requestor_id": "",
+    "api_key": "",
+    "platform": "",
+    "is_non_sushi": true,
+    "description": "Counter 4 only for import conversion; BR2, JR5, JR1GOA, JR1, PR1, BR3",
+    "companies": null
+  },
+  {
+    "name": "eilsde",
+    "base_url": "",
+    "customer_id": "",
+    "requestor_id": "",
+    "api_key": "",
+    "platform": "",
+    "is_non_sushi": true,
+    "description": "",
+    "companies": ""
   }
 ]

@@ -11,16 +11,25 @@ from PyQt5.QtWidgets import (
     QWidget,
     QCheckBox,
     QMainWindow,
+    QDateEdit,
 )
 from PyQt5.QtGui import QStandardItemModel, QStandardItem
 from PyQt5.QtCore import Qt, QObject, QModelIndex, pyqtSignal
-from ui import ManageVendorsTab, AddVendor, AddVendor51, RemoveVendorDialog, EditVendors
-
+from ui import (
+    ManageVendorsTab,
+    AddVendor,
+    AddVendor51,
+    RemoveVendorDialog,
+    EditVendors,
+    ImportVersion,
+)
 
 # import ManageDB
 import GeneralUtils
 from GeneralUtils import JsonModel
 from Constants import *
+import datetime
+from PyQt5.QtCore import QDate
 
 # from Settings import SettingsModel
 
@@ -377,7 +386,9 @@ class ManageVendorsController(QObject):
         except Exception as e:
             print(f"Error loading vendors: {e}")
 
-    def add_vendor(self, new_vendor: Vendor51) -> tuple[bool, str]:
+    def add_vendor(
+        self, new_vendor: Vendor51 | Vendor, version: str
+    ) -> tuple[bool, str]:
         """Adds a new vendor to the system if the vendor is valid
 
         :param new_vendor: The new vendor to be added
@@ -385,27 +396,34 @@ class ManageVendorsController(QObject):
         """
 
         # Check if vendor name is valid
-        is_valid, message = self.validate_new_name(
-            new_vendor.name, "", self.curr_version
-        )
+        is_valid, message = self.validate_new_name(new_vendor.name, "", version)
         if not is_valid:
             return is_valid, message
 
-        # if not new_vendor.is_non_sushi:   # old code
+        if version == "5.0":
+            if not new_vendor.is_non_sushi:
+                is_valid, message = self.validate_url(new_vendor.base_url)
+                if not is_valid:
+                    return is_valid, message
+                if new_vendor.customer_id == "":
+                    return False, "Customer Id cannot be empty."
+        else:
+            is_valid, message = self.validate_url(new_vendor.base_url)
+            if not is_valid:
+                return is_valid, message
+            if new_vendor.customer_id == "":
+                return False, "Customer Id cannot be empty."
 
-        is_valid, message = self.validate_url(new_vendor.base_url)
-        if not is_valid:
-            return is_valid, message
-
-        if new_vendor.customer_id == "":
-            return False, "Customer Id cannot be empty."
-
-        if self.curr_version == "5.1":
+        if version == "5.1":
             self.vendors_v51.append(new_vendor)
             self.vendor_names_v51.add(new_vendor.name.lower())
+            self.on_click_version51()
+            self.update_vendors51_dat_file()
         else:
             self.vendors_v50.append(new_vendor)
             self.vendor_names_v50.add(new_vendor.name.lower())
+            self.on_click_version50()
+            self.update_vendors_dat_file()
 
         return True, ""
 
@@ -425,6 +443,15 @@ class ManageVendorsController(QObject):
         name_edit = vendor_dialog_ui.nameEdit
         base_url_edit = vendor_dialog_ui.baseUrlEdit
         start_year = vendor_dialog_ui.All_reports_edit_fetch
+        # Get the current date and time
+        current_date = datetime.datetime.now()
+        # Calculate the date for the same day of the last year
+        last_year_date = QDate(
+            current_date.year - 1, current_date.month, current_date.day
+        )
+        # set previous year date to the start_year
+        start_year.setDate(last_year_date)
+
         customer_id_edit = vendor_dialog_ui.customerIdEdit
         requestor_id_edit = vendor_dialog_ui.requestorIdEdit
         api_key_edit = vendor_dialog_ui.apiKeyEdit
@@ -473,19 +500,10 @@ class ManageVendorsController(QObject):
                 provider_edit.text(),
             )
 
-            is_valid, message = self.add_vendor(vendor)
+            is_valid, message = self.add_vendor(vendor, "5.1")
             if is_valid:
                 self.on_click_version51()
                 self.update_vendors51_dat_file()
-                # print("successfully added the vendor to the list.")
-                # print(f"vendor list version 5.1: [", end=" ")
-                # for item in self.vendors_v51:
-                #     print(item.name, end=" ")
-                # print("]")
-                # print(f"vendor list version 5.0: [", end=" ")
-                # for item in self.vendors_v50:
-                #     print(item.name, end=" ")
-                # print("]")
                 # self.sort_vendors()
                 # self.selected_index = -1
                 # self.update_vendors_ui()
@@ -558,19 +576,10 @@ class ManageVendorsController(QObject):
                 companies_edit.text(),
             )
 
-            is_valid, message = self.add_vendor(vendor)
+            is_valid, message = self.add_vendor(vendor, "5.0")
             if is_valid:
                 self.on_click_version50()
                 self.update_vendors_dat_file()
-                # print("successfully added the vendor to the list.")
-                # print(f"vendor list version 5.1: [", end=" ")
-                # for item in self.vendors_v51:
-                #     print(item.name, end=" ")
-                # print("]")
-                # print(f"vendor list version 5.0: [", end=" ")
-                # for item in self.vendors_v50:
-                #     print(item.name, end=" ")
-                # print("]")
                 # self.sort_vendors()
                 # self.selected_index = -1
                 # self.update_vendors_ui()
@@ -703,15 +712,108 @@ class ManageVendorsController(QObject):
         file_path = os.path.join(script_directory, "vendors.dat")
         self.write_data_to_file(file_path, self.vendors_v50)
 
+    def import_vendor50_clicked(self, import_version_dialog):
+        import_version_dialog.close()
+        file_path = GeneralUtils.choose_file(TSV_FILTER)
+
+        if file_path:
+            self.import_vendors50_tsv(file_path)
+
+    def import_vendors51_clicked(self, import_version_dialog):
+        import_version_dialog.close()
+        file_path = GeneralUtils.choose_file(TSV_FILTER)
+        if file_path:
+            self.import_vendors51_tsv(file_path)
+
     def on_import_vendors_clicked(self):
         """Handles the signal emitted when the import vendors button is clicked.
         A file select dialog is shown to allow the user to select the vendors TSV file to import. The selected file is then imported.
         """
-        file_path = GeneralUtils.choose_file(TSV_FILTER)
-        if file_path:
-            self.import_vendors_tsv(file_path)
+        import_version_dialog = QMainWindow()
+        import_version_dialog_ui = ImportVersion.Ui_importVersionDialog()
 
-    def import_vendors_tsv(self, file_path):
+        import_version_dialog_ui.setupUi(import_version_dialog)
+        import_version_dialog.show()
+
+        select_version50_button = import_version_dialog_ui.importVersion50
+        select_version51_button = import_version_dialog_ui.importVersion51
+
+        select_version50_button.clicked.connect(
+            lambda: self.import_vendor50_clicked(import_version_dialog)
+        )
+        select_version51_button.clicked.connect(
+            lambda: self.import_vendors51_clicked(import_version_dialog)
+        )
+
+        import_version_dialog.exec_()
+
+    def import_vendors51_tsv(self, file_path):
+        """Imports the vendors version 5.1 from a TSV file path to the system
+
+        :param file_path: The file path of the vendors TSV file
+        """
+        try:
+            tsv_file = open(file_path, "r", encoding="utf-8", newline="")
+            reader = csv.DictReader(tsv_file, delimiter="\t")
+            for row in reader:
+                if "requires_two_attempts" in row:
+                    requires_two_attempts = (
+                        row["requires_two_attempts"].lower() == "true"
+                    )
+                else:
+                    requires_two_attempts = False
+
+                if "does_ip_checking" in row:
+                    does_ip_checking = row["does_ip_checking"].lower() == "true"
+                else:
+                    does_ip_checking = False
+
+                if "needs_throttling" in row:
+                    needs_throttling = row["needs_throttling"].lower() == "true"
+                else:
+                    needs_throttling = False
+
+                vendor = Vendor51(
+                    row["name"] if "name" in row else "",
+                    (
+                        row["is_version_5_0_or_5_1"]
+                        if "is_version_5_0_or_5_1" in row
+                        else ""
+                    ),
+                    row["base_url"] if "base_url" in row else "",
+                    row["starting_year"] if "starting_year" in row else "",
+                    row["customer_id"] if "customer_id" in row else "",
+                    row["requestor_id"] if "requestor_id" in row else "",
+                    row["api_key"] if "api_key" in row else "",
+                    row["platform"] if "platform" in row else "",
+                    requires_two_attempts,
+                    does_ip_checking,
+                    needs_throttling,
+                    row["notes"] if "notes" in row else "",
+                    row["provider"] if "provider" in row else "",
+                )
+                is_valid, message = self.add_vendor(vendor, "5.1")
+                if not is_valid:
+                    print(f"error in importing vendors version 5.1 : {message}")
+                    # if self.settings.show_debug_messages: print(message)
+
+            tsv_file.close()
+
+            # self.sort_vendors()
+            # self.selected_index = -1
+            # self.update_vendors_ui()
+            # self.update_vendor_names()
+            # self.populate_edit_vendor_view()
+            # self.vendors_changed_signal.emit(self.vendors)
+            # self.save_all_vendors_to_disk()
+
+            GeneralUtils.show_message(f"Import successful!")
+        except Exception as e:
+            # if self.settings.show_debug_messages: print(f"File import failed: {e}")
+            print("here")
+            GeneralUtils.show_message(f"File import failed: {e}")
+
+    def import_vendors50_tsv(self, file_path):
         """Imports the vendors in a TSV file path to the system
 
         :param file_path: The file path of the vendors TSV file
@@ -735,10 +837,10 @@ class ManageVendorsController(QObject):
                     row["description"] if "description" in row else "",
                     row["companies"] if "companies" in row else "",
                 )
-
-                is_valid, message = self.add_vendor(vendor)
-                # if not is_valid:
-                # if self.settings.show_debug_messages: print(message)
+                is_valid, message = self.add_vendor(vendor, "5.0")
+                if not is_valid:
+                    print(f"error in importing vendors version 5.0 : {message}")
+                    # if self.settings.show_debug_messages: print(message)
 
             tsv_file.close()
 
@@ -828,49 +930,6 @@ class ManageVendorsController(QObject):
         except Exception as e:
             # if self.settings.show_debug_messages: print(f"File export failed: {e}")
             GeneralUtils.show_message(f"File export failed: {e}")
-
-    def generate_tsv_file_v51(self, file_path: str, vendors: list[Vendor51]):
-        with open(file_path, "w", newline="", encoding="utf-8") as tsv_file:
-            tsv_writer = csv.writer(
-                tsv_file, delimiter="\t", quotechar='"', quoting=csv.QUOTE_MINIMAL
-            )
-
-            # Write the header row
-            header = [
-                "name",
-                "is_version_5_0_or_5_1",
-                "base_url",
-                "starting_year",
-                "customer_id",
-                "requestor_id",
-                "api_key",
-                "platform",
-                "requires_two_attempts",
-                "does_ip_checking",
-                "needs_throttling",
-                "notes",
-                "provider",
-            ]
-            tsv_writer.writerow(header)
-
-            # Write data rows
-            for vendor in vendors:
-                row = [
-                    vendor.name,
-                    vendor.is_version_5_0_or_5_1,
-                    vendor.base_url,
-                    vendor.starting_year,
-                    vendor.customer_id,
-                    vendor.requestor_id,
-                    vendor.api_key,
-                    vendor.platform,
-                    vendor.requires_two_attempts,
-                    vendor.does_ip_checking,
-                    vendor.needs_throttling,
-                    vendor.notes,
-                    vendor.provider,
-                ]
-                tsv_writer.writerow(row)
 
     def on_edit_vendor_clicked(self):
         """Handles the signal emitted when the add vendor button is clicked
