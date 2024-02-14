@@ -14,9 +14,8 @@ from PyQt5.QtWidgets import (
 )
 from PyQt5.QtGui import QStandardItemModel, QStandardItem
 from PyQt5.QtCore import Qt, QObject, QModelIndex, pyqtSignal
-from ui import ManageVendorsTab, AddVendor, RemoveVendorDialog, EditVendors
+from ui import ManageVendorsTab, AddVendor, AddVendor51, RemoveVendorDialog, EditVendors
 
-from typing import Tuple
 
 # import ManageDB
 import GeneralUtils
@@ -62,6 +61,86 @@ class Vendor(JsonModel):
         self.description = description
         self.companies = companies
 
+    @classmethod
+    def from_json(cls, json_dict: dict):
+        """This returns a vendor object using the parameters in a json dict
+
+        :param json_dict: A dict containing a vendor's details
+        :return: Vendor
+        """
+        name = json_dict["name"] if "name" in json_dict else ""
+        customer_id = json_dict["customer_id"] if "customer_id" in json_dict else ""
+        base_url = json_dict["base_url"] if "base_url" in json_dict else ""
+        requestor_id = json_dict["requestor_id"] if "requestor_id" in json_dict else ""
+        api_key = json_dict["api_key"] if "api_key" in json_dict else ""
+        platform = json_dict["platform"] if "platform" in json_dict else ""
+        is_non_sushi = (
+            json_dict["is_non_sushi"] if "is_non_sushi" in json_dict else False
+        )
+        description = json_dict["description"] if "description" in json_dict else ""
+        companies = json_dict["companies"] if "companies" in json_dict else ""
+
+        return cls(
+            name,
+            base_url,
+            customer_id,
+            requestor_id,
+            api_key,
+            platform,
+            is_non_sushi,
+            description,
+            companies,
+        )
+
+
+class Vendor51(JsonModel):
+    """This holds a vendor's information
+
+    :param name: The vendor's unique name (Mandatory, unique enforced)
+    :param is_version_5_0_or_5_1: Indicates if this is for version 5.0 or 5.1 (Mandatory)
+    :param base_url: The base URL for making sushi report calls (must end with '/reports', mandatory for 5.0)
+    :param starting_year: Starting year for this version (5.0 or 5.1) (Mandatory)
+    :param customer_id: The customer id used in sushi report calls (Mandatory)
+    :param requestor_id: The requestor id used in sushi report calls
+    :param api_key: The api key used in sushi report calls
+    :param platform: The platform id used in sushi report calls
+    :param requires_two_attempts: Whether it requires two attempts per report (Y/N, mandatory)
+    :param does_ip_checking: Whether it does IP checking (Y/N, mandatory)
+    :param needs_throttling: Whether it needs requests throttled (Y/N, mandatory)
+    :param notes: Additional notes
+    :param provider: Provider information
+    """
+
+    def __init__(
+        self,
+        name: str,
+        is_version_5_0_or_5_1: str,
+        base_url: str,
+        starting_year: str,
+        customer_id: str,
+        requestor_id: str,
+        api_key: str,
+        platform: str,
+        requires_two_attempts: bool,
+        does_ip_checking: bool,
+        needs_throttling: bool,
+        notes: str,
+        provider: str,
+    ):
+        self.name = name
+        self.is_version_5_0_or_5_1 = is_version_5_0_or_5_1  # "5.1"
+        self.base_url = base_url  # https://...../counter/r51/reports
+        self.starting_year = starting_year
+        self.customer_id = customer_id
+        self.requestor_id = requestor_id
+        self.api_key = api_key
+        self.platform = platform
+        self.requires_two_attempts = requires_two_attempts  # True or False
+        self.does_ip_checking = does_ip_checking  # True or False
+        self.needs_throttling = needs_throttling  # True or False
+        self.notes = notes
+        self.provider = provider
+
 
 class ManageVendorsController(QObject):
     """Controls the Manage Vendors tab
@@ -74,8 +153,7 @@ class ManageVendorsController(QObject):
         self,
         manage_vendors_widget: QWidget,
         manage_vendors_ui: ManageVendorsTab.Ui_manage_vendor_tab,
-    ):  # ,
-        # settings: SettingsModel):
+    ):
         super().__init__()
         self.manage_vendors_widget = manage_vendors_widget
 
@@ -108,6 +186,9 @@ class ManageVendorsController(QObject):
         # self.save_vendor_changes_button = manage_vendors_ui.saveVendorChangesButton
         # self.undo_vendor_changes_button = manage_vendors_ui.undoVendorChangesButton
         # self.remove_vendor_button = manage_vendors_ui.removeVendorButton
+
+        self.curr_version = "5.1"
+
         self.add_vendor_button = manage_vendors_ui.addVendorButton
         self.edit_vendor_button = manage_vendors_ui.editvendorsbutton
 
@@ -124,7 +205,14 @@ class ManageVendorsController(QObject):
         # self.save_vendor_changes_button.clicked.connect(self.modify_vendor)
         # self.undo_vendor_changes_button.clicked.connect(self.populate_edit_vendor_view)
         # self.remove_vendor_button.clicked.connect(self.on_remove_vendor_clicked)
-        self.add_vendor_button.clicked.connect(self.on_add_vendor_clicked)
+        self.add_vendor_button.clicked.connect(
+            lambda: (
+                self.on_add_vendor51_clicked()
+                if self.curr_version == "5.1"
+                else self.on_add_vendor_clicked()
+            )
+        )
+
         self.edit_vendor_button.clicked.connect(self.on_edit_vendor_clicked)
         # self.export_vendors_button.clicked.connect(self.on_export_vendors_clicked)
         # self.import_vendors_button.clicked.connect(self.on_import_vendors_clicked)
@@ -140,6 +228,14 @@ class ManageVendorsController(QObject):
 
         self.vendors = []
         self.vendor_names = set()  # Hash set for faster operations
+        self.vendors_v50: list[Vendor51] = []
+        self.vendors_v51: list[Vendor51] = []
+        self.vendor_names_v50 = set()
+        self.vendor_names_v51 = set()
+
+        self.get_vendor_names_v50()
+        self.get_vendor_names_v51()
+
         # vendors_json_string = GeneralUtils.read_json_file(VENDORS_FILE_PATH)
         # vendor_dicts = json.loads(vendors_json_string)
         # for json_dict in vendor_dicts:
@@ -149,7 +245,7 @@ class ManageVendorsController(QObject):
 
         # self.update_vendors_ui()
 
-    def on_click_version50(self):
+    def get_vendor_names_v50(self):
         try:
             script_directory = os.path.dirname(os.path.abspath(__file__))
             file_path = os.path.join(
@@ -160,24 +256,39 @@ class ManageVendorsController(QObject):
             with open(file_path, "r") as file:
                 vendors_data = json.load(file)
 
-            # Create a QStringListModel
-            model = QStandardItemModel()
-
             # Populate the model with vendor names
             for vendor_data in vendors_data:
                 vendor_name = vendor_data.get("name", "")
-                if vendor_name:
-                    item = QStandardItem(vendor_name)
-                    item.setEditable(False)
-                    model.appendRow(item)
+                base_url = vendor_data.get("base_url", "")
+                customer_id = vendor_data.get("customer_id", "")
+                requestor_id = vendor_data.get("requestor_id", "")
+                api_key = vendor_data.get("api_key", "")
+                platform = vendor_data.get("platform", "")
+                is_non_sushi = vendor_data.get("is_non_sushi", False)
+                description = vendor_data.get("description", "")
+                companies = vendor_data.get("companies", "")
 
-            # Set the model for the QListView
-            self.vendor_list_view.setModel(model)
+                # Create a Vendor object and append it to the array
+                vendor_object = Vendor(
+                    name=vendor_name,
+                    base_url=base_url,
+                    customer_id=customer_id,
+                    requestor_id=requestor_id,
+                    api_key=api_key,
+                    platform=platform,
+                    is_non_sushi=is_non_sushi,
+                    description=description,
+                    companies=companies,
+                )
+                if vendor_name:
+                    self.vendors_v50.append(vendor_object)
+                    vendor_name: str = vendor_name.lower()
+                    self.vendor_names_v50.add(vendor_name)
 
         except Exception as e:
             print(f"Error loading vendors: {e}")
 
-    def on_click_version51(self):
+    def get_vendor_names_v51(self):
         try:
             script_directory = os.path.dirname(os.path.abspath(__file__))
             file_path = os.path.join(script_directory, "vendors51.dat")
@@ -186,46 +297,120 @@ class ManageVendorsController(QObject):
             with open(file_path, "r") as file:
                 vendors_data = json.load(file)
 
-            # Create a QStringListModel
-            model = QStandardItemModel()
-
             # Populate the model with vendor names
             for vendor_data in vendors_data:
                 vendor_name = vendor_data.get("name", "")
-                if vendor_name:
-                    item = QStandardItem(vendor_name)
-                    item.setEditable(False)
-                    model.appendRow(item)
+                is_version_5_0_or_5_1 = vendor_data.get("is_version_5_0_or_5_1", "")
+                base_url = vendor_data.get("base_url", "")
+                starting_year = vendor_data.get("starting_year", "")
+                customer_id = vendor_data.get("customer_id", "")
+                requestor_id = vendor_data.get("requestor_id", "")
+                api_key = vendor_data.get("api_key", "")
+                platform = vendor_data.get("platform", "")
+                requires_two_attempts = vendor_data.get("requires_two_attempts", False)
+                does_ip_checking = vendor_data.get("does_ip_checking", False)
+                needs_throttling = vendor_data.get("needs_throttling", False)
+                notes = vendor_data.get("notes", "")
+                provider = vendor_data.get("provider", "")
 
-            # Set the model for the QListView
-            self.vendor_list_view.setModel(model)
+                # Create a Vendor object and append it to the array
+                vendor_object = Vendor51(
+                    name=vendor_name,
+                    is_version_5_0_or_5_1=is_version_5_0_or_5_1,
+                    base_url=base_url,
+                    starting_year=starting_year,
+                    customer_id=customer_id,
+                    requestor_id=requestor_id,
+                    api_key=api_key,
+                    platform=platform,
+                    requires_two_attempts=requires_two_attempts,
+                    does_ip_checking=does_ip_checking,
+                    needs_throttling=needs_throttling,
+                    notes=notes,
+                    provider=provider,
+                )
+                if vendor_name:
+                    self.vendors_v51.append(vendor_object)
+                    vendor_name: str = vendor_name.lower()
+                    self.vendor_names_v51.add(vendor_name)
 
         except Exception as e:
             print(f"Error loading vendors: {e}")
 
-    def edit_vendor(self, new_vendor: Vendor) -> Tuple[bool, str]:
+    def on_click_version50(self):
+        try:
+            # Create a QStringListModel
+            model = QStandardItemModel()
+
+            for vendor_data in self.vendors_v50:
+                vendor_name = vendor_data.name
+                item = QStandardItem(vendor_name)
+                item.setEditable(False)
+                model.appendRow(item)
+
+            self.version50_button.setStyleSheet("background-color: #2095E6;")
+            self.version51_button.setStyleSheet("")
+            # Set the model for the QListView
+            self.vendor_list_view.setModel(model)
+            self.curr_version = "5.0"
+
+        except Exception as e:
+            print(f"Error loading vendors: {e}")
+
+    def on_click_version51(self):
+        try:
+            # Create a QStringListModel
+            model = QStandardItemModel()
+
+            for vendor_data in self.vendors_v51:
+                vendor_name = vendor_data.name
+                item = QStandardItem(vendor_name)
+                item.setEditable(False)
+                model.appendRow(item)
+
+            self.version51_button.setStyleSheet("background-color: #2095E6;")
+            self.version50_button.setStyleSheet("")
+
+            # Set the model for the QListView
+            self.vendor_list_view.setModel(model)
+            self.curr_version = "5.1"
+
+        except Exception as e:
+            print(f"Error loading vendors: {e}")
+
+    def edit_vendor(self, new_vendor: Vendor51) -> tuple[bool, str]:
 
         return True, ""
 
-    def add_vendor(self, new_vendor: Vendor) -> Tuple[bool, str]:
+    def add_vendor(self, new_vendor: Vendor51) -> tuple[bool, str]:
         """Adds a new vendor to the system if the vendor is valid
 
         :param new_vendor: The new vendor to be added
         :returns: (is_successful, message) A Tuple with the completion status and a message
         """
 
-        # Check if vendor is valid
-        is_valid, message = self.validate_new_name(new_vendor.name)
+        # Check if vendor name is valid
+        is_valid, message = self.validate_new_name(
+            new_vendor.name, "", self.curr_version
+        )
         if not is_valid:
             return is_valid, message
 
-        if not new_vendor.is_non_sushi:
-            is_valid, message = self.validate_url(new_vendor.base_url)
-            if not is_valid:
-                return is_valid, message
+        # if not new_vendor.is_non_sushi:   # old code
 
-        self.vendors.append(new_vendor)
-        self.vendor_names.add(new_vendor.name.lower())
+        is_valid, message = self.validate_url(new_vendor.base_url)
+        if not is_valid:
+            return is_valid, message
+
+        if new_vendor.customer_id == "":
+            return False, "Customer Id cannot be empty."
+
+        if self.curr_version == "5.1":
+            self.vendors_v51.append(new_vendor)
+            self.vendor_names_v51.add(new_vendor.name.lower())
+        else:
+            self.vendors_v50.append(new_vendor)
+            self.vendor_names_v50.add(new_vendor.name.lower())
 
         return True, ""
 
@@ -241,68 +426,293 @@ class ManageVendorsController(QObject):
         vendor_dialog.show()
         vendor_dialog.exec_()
 
-    def on_add_vendor_clicked(self):
+    def on_add_vendor51_clicked(self):
         """Handles the signal emitted when the add vendor button is clicked
 
         A dialog is show to allow the user to enter a new vendor's information. If the information entered is valid,
         the vendor is added to the system
         """
         vendor_dialog = QMainWindow()  # Use QMainWindow instead of QDialog
-        vendor_dialog_ui = AddVendor.Ui_addVendorDialog()
+
+        vendor_dialog_ui = AddVendor51.Ui_addVendor51Dialog()
+
         vendor_dialog_ui.setupUi(vendor_dialog)
         vendor_dialog.show()
-        # vendor_dialog = QDialog()
-        # vendor_dialog_ui = AddVendor.Ui_addVendorDialog()
-        # vendor_dialog_ui.setupUi(vendor_dialog)
 
-        # name_edit = vendor_dialog_ui.nameEdit
-        # base_url_edit = vendor_dialog_ui.baseUrlEdit
-        # customer_id_edit = vendor_dialog_ui.customerIdEdit
-        # requestor_id_edit = vendor_dialog_ui.requestorIdEdit
-        # api_key_edit = vendor_dialog_ui.apiKeyEdit
-        # platform_edit = vendor_dialog_ui.platformEdit
+        name_edit = vendor_dialog_ui.nameEdit
+        base_url_edit = vendor_dialog_ui.baseUrlEdit
+        start_year = vendor_dialog_ui.All_reports_edit_fetch
+        customer_id_edit = vendor_dialog_ui.customerIdEdit
+        requestor_id_edit = vendor_dialog_ui.requestorIdEdit
+        api_key_edit = vendor_dialog_ui.apiKeyEdit
+        platform_edit = vendor_dialog_ui.platformEdit
+        two_attempts_check_box = vendor_dialog_ui.two_attempts_check_box
+        ip_checking_check_box = vendor_dialog_ui.ip_checking_check_box
+        requests_throttled_check_box = vendor_dialog_ui.requests_throttled_check_box
+        provider_edit = vendor_dialog_ui.providerEdit
+        notes_edit = vendor_dialog_ui.notesEdit
         # non_sushi_check_box = vendor_dialog_ui.non_Sushi_check_box
         # description_edit = vendor_dialog_ui.descriptionEdit
         # companies_edit = vendor_dialog_ui.companiesEdit
 
+        name_validation_label = vendor_dialog_ui.name_validation_label
+        name_validation_label.hide()
+        url_validation_label = vendor_dialog_ui.url_validation_label
+        url_validation_label.hide()
+
+        name_edit.textChanged.connect(
+            lambda new_name: self.on_name_text_changed(
+                new_name, "", name_validation_label
+            )
+        )
+
+        base_url_edit.textChanged.connect(
+            lambda url: self.on_url_text_changed(url, url_validation_label, True)
+        )
+
         # vendor_dialog_ui.non_sushi_help_button.clicked.connect(
-        #     lambda: GeneralUtils.show_message("Vendors that don't provide SUSHI service can be added to the list for "
-        #                                       "use with Import Reports"))
+        #     lambda: GeneralUtils.show_message("Vendors that don't provide SUSHI service can be added to the list for use with Import Reports"))
 
-        # name_validation_label = vendor_dialog_ui.name_validation_label
-        # name_validation_label.hide()
-        # url_validation_label = vendor_dialog_ui.url_validation_label
-        # url_validation_label.hide()
+        def attempt_add_vendor():
+            vendor = Vendor51(
+                name_edit.text(),
+                "5.1",
+                base_url_edit.text(),
+                start_year.text(),
+                customer_id_edit.text(),
+                requestor_id_edit.text(),
+                api_key_edit.text(),
+                platform_edit.text(),
+                two_attempts_check_box.isChecked(),
+                ip_checking_check_box.isChecked(),
+                requests_throttled_check_box.isChecked(),
+                notes_edit.text(),
+                provider_edit.text(),
+            )
 
-        # name_edit.textChanged.connect(
-        #     lambda new_name: self.on_name_text_changed(new_name, "", name_validation_label))
-        # base_url_edit.textChanged.connect(
-        #     lambda url: self.on_url_text_changed(url, url_validation_label, True, non_sushi_check_box))
+            is_valid, message = self.add_vendor(vendor)
+            if is_valid:
+                self.on_click_version51()
+                # print("successfully added the vendor to the list.")
+                # print(f"vendor list version 5.1: [", end=" ")
+                # for item in self.vendors_v51:
+                #     print(item.name, end=" ")
+                # print("]")
+                # print(f"vendor list version 5.0: [", end=" ")
+                # for item in self.vendors_v50:
+                #     print(item.name, end=" ")
+                # print("]")
+                # self.sort_vendors()
+                # self.selected_index = -1
+                # self.update_vendors_ui()
+                # self.populate_edit_vendor_view()
+                # self.vendors_changed_signal.emit(self.vendors)
+                # self.save_all_vendors_to_disk()
+                vendor_dialog.close()
+            else:
+                GeneralUtils.show_message(message)
 
-        # def attempt_add_vendor():
-        #     vendor = Vendor(name_edit.text(), base_url_edit.text(), customer_id_edit.text(), requestor_id_edit.text(),
-        #                     api_key_edit.text(), platform_edit.text(), non_sushi_check_box.checkState() == Qt.Checked,
-        #                     description_edit.toPlainText(), companies_edit.toPlainText())
-
-        #     is_valid, message = self.add_vendor(vendor)
-        #     if is_valid:
-        #         self.sort_vendors()
-        #         self.selected_index = -1
-        #         self.update_vendors_ui()
-        #         self.populate_edit_vendor_view()
-        #         self.vendors_changed_signal.emit(self.vendors)
-        #         self.save_all_vendors_to_disk()
-        #         vendor_dialog.close()
-        #     else:
-        #         GeneralUtils.show_message(message)
-
-        # button_box = vendor_dialog_ui.buttonBox
-        # ok_button = button_box.button(QDialogButtonBox.Ok)
-        # ok_button.clicked.connect(attempt_add_vendor)
-        # cancel_button = button_box.button(QDialogButtonBox.Cancel)
-        # cancel_button.clicked.connect(lambda: vendor_dialog.close())
+        button_box = vendor_dialog_ui.buttonBox
+        ok_button = button_box.button(QDialogButtonBox.Ok)
+        ok_button.clicked.connect(attempt_add_vendor)
+        cancel_button = button_box.button(QDialogButtonBox.Cancel)
+        cancel_button.clicked.connect(lambda: vendor_dialog.close())
 
         vendor_dialog.exec_()
+
+    def on_add_vendor_clicked(self):
+        vendor_dialog = QMainWindow()  # Use QMainWindow instead of QDialog
+        vendor_dialog_ui = AddVendor.Ui_addVendorDialog()
+
+        vendor_dialog_ui.setupUi(vendor_dialog)
+        vendor_dialog.show()
+
+        name_edit = vendor_dialog_ui.nameEdit
+        base_url_edit = vendor_dialog_ui.baseUrlEdit
+        customer_id_edit = vendor_dialog_ui.customerIdEdit
+        requestor_id_edit = vendor_dialog_ui.requestorIdEdit
+        api_key_edit = vendor_dialog_ui.apiKeyEdit
+        platform_edit = vendor_dialog_ui.platformEdit
+        non_sushi_check_box = vendor_dialog_ui.non_Sushi_check_box
+        description_edit = vendor_dialog_ui.descriptionEdit
+        companies_edit = vendor_dialog_ui.companiesEdit
+
+        # vendor_dialog_ui.non_sushi_help_button.clicked.connect(
+        #     lambda: GeneralUtils.show_message(
+        #         "Vendors that don't provide SUSHI service can be added to the list for "
+        #         "use with Import Reports"
+        #     )
+        # )
+
+        name_validation_label = vendor_dialog_ui.name_validation_label
+        name_validation_label.hide()
+        url_validation_label = vendor_dialog_ui.url_validation_label
+        url_validation_label.hide()
+
+        name_edit.textChanged.connect(
+            lambda new_name: self.on_name_text_changed(
+                new_name, "", name_validation_label
+            )
+        )
+
+        base_url_edit.textChanged.connect(
+            lambda url: self.on_url_text_changed(
+                url, url_validation_label, True, non_sushi_check_box
+            )
+        )
+
+        def attempt_add_vendor():
+            vendor = Vendor(
+                name_edit.text(),
+                base_url_edit.text(),
+                customer_id_edit.text(),
+                requestor_id_edit.text(),
+                api_key_edit.text(),
+                platform_edit.text(),
+                non_sushi_check_box.isChecked(),
+                description_edit.text(),
+                companies_edit.text(),
+            )
+
+            is_valid, message = self.add_vendor(vendor)
+            if is_valid:
+                self.on_click_version50()
+                # print("successfully added the vendor to the list.")
+                # print(f"vendor list version 5.1: [", end=" ")
+                # for item in self.vendors_v51:
+                #     print(item.name, end=" ")
+                # print("]")
+                # print(f"vendor list version 5.0: [", end=" ")
+                # for item in self.vendors_v50:
+                #     print(item.name, end=" ")
+                # print("]")
+                # self.sort_vendors()
+                # self.selected_index = -1
+                # self.update_vendors_ui()
+                # self.populate_edit_vendor_view()
+                # self.vendors_changed_signal.emit(self.vendors)
+                # self.save_all_vendors_to_disk()
+                vendor_dialog.close()
+            else:
+                GeneralUtils.show_message(message)
+
+        button_box = vendor_dialog_ui.buttonBox
+        ok_button = button_box.button(QDialogButtonBox.Ok)
+        ok_button.clicked.connect(attempt_add_vendor)
+        cancel_button = button_box.button(QDialogButtonBox.Cancel)
+        cancel_button.clicked.connect(lambda: vendor_dialog.close())
+
+        vendor_dialog.exec_()
+
+    def on_name_text_changed(
+        self,
+        new_name: str,
+        original_name: str,
+        validation_label: QLabel,
+        version: str = "5.1",
+        validate: bool = True,
+    ):
+        """Handles the signal emitted when a vendor's name is changed
+
+        :param new_name: The new name entered in the text field
+        :param original_name: The vendor's original name
+        :param validation_label: The label to show validation messages
+        :param version: The version of the Vendor List to put the vendor
+        :param validate: This indicates whether the new_name should be validated
+        """
+        if not validate:
+            validation_label.hide()
+            return
+
+        is_valid, message = self.validate_new_name(
+            new_name, original_name, self.curr_version
+        )
+
+        if is_valid:
+            validation_label.hide()
+        else:
+            validation_label.show()
+            validation_label.setText(message)
+
+    def validate_new_name(
+        self, new_name: str, original_name: str = "", version: str = "5.1"
+    ) -> tuple[bool, str]:
+        """Validates a new vendor name
+
+        :param new_name: The new name to be validated
+        :param original_name: The original name
+        :returns: (is_successful, message) A Tuple with the completion status and a message
+        """
+        if not new_name:
+            return False, "Vendor name can't be empty"
+
+        if version == "5.1":
+            if new_name.lower() in self.vendor_names_v51:
+                return False, "Duplicate vendor name"
+            else:
+                return True, ""
+        elif version == "5.0":
+            if new_name.lower() in self.vendor_names_v50:
+                return False, "Duplicate vendor name"
+            else:
+                return True, ""
+        else:
+            return True, ""
+
+    def on_url_text_changed(
+        self,
+        url: str,
+        validation_label: QLabel,
+        validate: bool,
+        non_sushi_check_box: str = "QCheckBox",
+    ):
+        """Handles the signal emitted when a vendor's URL is changed
+
+        :param url: The URL entered in the text field
+        :param validation_label: The label to show validation messages
+        :param validate: This indicates whether the url should be validated
+        :param non_sushi_check_box: The non_sushi checkbox indicator. If checked, the URL is not validated
+        """
+        if not validate:
+            validation_label.hide()
+            return
+
+        if self.curr_version == "5.0" and non_sushi_check_box.isChecked():
+            validation_label.hide()
+            return
+
+        is_valid, message = self.validate_url(url)
+        if is_valid:
+            validation_label.hide()
+        else:
+            validation_label.show()
+            validation_label.setText(message)
+
+    def validate_url(self, url: str) -> tuple[bool, str]:
+        """Validates a new url
+
+        :param url: The URL to be validated
+        :returns: (is_successful, message) A Tuple with the completion status and a message
+        """
+        if not validators.url(url):
+            return False, "Invalid Url"
+        elif self.curr_version == "5.0" and not url.endswith("/reports"):
+            return False, "URL must end with '/reports'"
+        elif self.curr_version == "5.1" and not url.endswith("/counter/r51/reports"):
+            return False, "URL must end with '/counter/r51/reports'"
+        else:
+            return True, ""
+
+
+"""
+
+
+
+
+
+
+
+"""
 
 
 # class ManageVendorFunctionality:
@@ -410,77 +820,6 @@ class ManageVendorsController(QObject):
 #         self.selected_index = model_index.row()
 #         self.populate_edit_vendor_view()
 
-#     def on_name_text_changed(self, new_name: str, original_name: str, validation_label: QLabel, validate: bool = True):
-#         """Handles the signal emitted when a vendor's name is changed
-
-#         :param new_name: The new name entered in the text field
-#         :param original_name: The vendor's original name
-#         :param validation_label: The label to show validation messages
-#         :param validate: This indicates whether the new_name should be validated
-#         """
-#         if not validate:
-#             validation_label.hide()
-#             return
-
-#         is_valid, message = self.validate_new_name(new_name, original_name)
-#         if is_valid:
-#             validation_label.hide()
-#         else:
-#             validation_label.show()
-#             validation_label.setText(message)
-
-#     def on_url_text_changed(self, url: str, validation_label: QLabel, validate: bool, non_sushi_check_box: QCheckBox):
-#         """Handles the signal emitted when a vendor's URL is changed
-
-#         :param url: The URL entered in the text field
-#         :param validation_label: The label to show validation messages
-#         :param validate: This indicates whether the url should be validated
-#         :param non_sushi_check_box: The non_sushi checkbox indicator. If checked, the URL is not validated
-#         """
-#         if not validate:
-#             validation_label.hide()
-#             return
-
-#         if non_sushi_check_box.isChecked():
-#             validation_label.hide()
-#             return
-
-#         is_valid, message = self.validate_url(url)
-#         if is_valid:
-#             validation_label.hide()
-#         else:
-#             validation_label.show()
-#             validation_label.setText(message)
-
-#     def validate_new_name(self, new_name: str, original_name: str = "") -> (bool, str):
-#         """Validates a new vendor name
-
-#         :param new_name: The new name to be validated
-#         :param original_name: The original name
-#         :returns: (is_successful, message) A Tuple with the completion status and a message
-#         """
-#         if not new_name:
-#             return False, "Vendor name can't be empty"
-#         elif new_name.lower() in self.vendor_names:
-#             if original_name and original_name.lower() == new_name.lower():
-#                 return True, ""
-#             else:
-#                 return False, "Duplicate vendor name"
-#         else:
-#             return True, ""
-
-#     def validate_url(self, url: str) -> (bool, str):
-#         """Validates a new url
-
-#         :param url: The URL to be validated
-#         :returns: (is_successful, message) A Tuple with the completion status and a message
-#         """
-#         if not validators.url(url):
-#             return False, "Invalid Url"
-#         elif not url.endswith("/reports"):
-#             return False, "URL must end with '/reports'"
-#         else:
-#             return True, ""
 
 #     def update_vendors_ui(self):
 #         """Updates the UI to show all vendors"""
