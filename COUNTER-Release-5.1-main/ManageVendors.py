@@ -235,6 +235,7 @@ class ManageVendorsController(QObject):
 
         self.get_vendor_names_v50()
         self.get_vendor_names_v51()
+        self.on_click_version51()
 
         # vendors_json_string = GeneralUtils.read_json_file(VENDORS_FILE_PATH)
         # vendor_dicts = json.loads(vendors_json_string)
@@ -248,9 +249,7 @@ class ManageVendorsController(QObject):
     def get_vendor_names_v50(self):
         try:
             script_directory = os.path.dirname(os.path.abspath(__file__))
-            file_path = os.path.join(
-                script_directory, "all_data", "vendor_manager", "vendors.dat"
-            )
+            file_path = os.path.join(script_directory, "vendors.dat")
 
             # Read JSON data from vendors.dat
             with open(file_path, "r") as file:
@@ -378,10 +377,6 @@ class ManageVendorsController(QObject):
         except Exception as e:
             print(f"Error loading vendors: {e}")
 
-    def edit_vendor(self, new_vendor: Vendor51) -> tuple[bool, str]:
-
-        return True, ""
-
     def add_vendor(self, new_vendor: Vendor51) -> tuple[bool, str]:
         """Adds a new vendor to the system if the vendor is valid
 
@@ -413,18 +408,6 @@ class ManageVendorsController(QObject):
             self.vendor_names_v50.add(new_vendor.name.lower())
 
         return True, ""
-
-    def on_edit_vendor_clicked(self):
-        """Handles the signal emitted when the add vendor button is clicked
-
-        A dialog is show to allow the user to enter a new vendor's information. If the information entered is valid,
-        the vendor is added to the system
-        """
-        vendor_dialog = QMainWindow()  # Use QMainWindow instead of QDialog
-        vendor_dialog_ui = EditVendors.Ui_editVendors()
-        vendor_dialog_ui.setupUi(vendor_dialog)
-        vendor_dialog.show()
-        vendor_dialog.exec_()
 
     def on_add_vendor51_clicked(self):
         """Handles the signal emitted when the add vendor button is clicked
@@ -493,6 +476,7 @@ class ManageVendorsController(QObject):
             is_valid, message = self.add_vendor(vendor)
             if is_valid:
                 self.on_click_version51()
+                self.update_vendors51_dat_file()
                 # print("successfully added the vendor to the list.")
                 # print(f"vendor list version 5.1: [", end=" ")
                 # for item in self.vendors_v51:
@@ -577,6 +561,7 @@ class ManageVendorsController(QObject):
             is_valid, message = self.add_vendor(vendor)
             if is_valid:
                 self.on_click_version50()
+                self.update_vendors_dat_file()
                 # print("successfully added the vendor to the list.")
                 # print(f"vendor list version 5.1: [", end=" ")
                 # for item in self.vendors_v51:
@@ -703,8 +688,61 @@ class ManageVendorsController(QObject):
         else:
             return True, ""
 
+    def write_data_to_file(self, file_path: str, vendors: list[Vendor51 | Vendor]):
+        data = [vendor.__dict__ for vendor in vendors]
+        with open(file_path, "w") as file:
+            json.dump(data, file, indent=2)
+
+    def update_vendors51_dat_file(self):
+        script_directory = os.path.dirname(os.path.abspath(__file__))
+        file_path = os.path.join(script_directory, "vendors51.dat")
+        self.write_data_to_file(file_path, self.vendors_v51)
+
+    def update_vendors_dat_file(self):
+        script_directory = os.path.dirname(os.path.abspath(__file__))
+        file_path = os.path.join(script_directory, "vendors.dat")
+        self.write_data_to_file(file_path, self.vendors_v50)
+
+    def on_edit_vendor_clicked(self):
+        """Handles the signal emitted when the add vendor button is clicked
+
+        A dialog is show to allow the user to enter a new vendor's information. If the information entered is valid,
+        the vendor is added to the system
+        """
+        vendor_dialog = QMainWindow()  # Use QMainWindow instead of QDialog
+        vendor_dialog_ui = EditVendors.Ui_editVendors()
+        vendor_dialog_ui.setupUi(vendor_dialog)
+        vendor_dialog.show()
+        vendor_dialog.exec_()
+
+    def edit_vendor(self, new_vendor: Vendor51) -> tuple[bool, str]:
+        return True, ""
+
 
 """
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
