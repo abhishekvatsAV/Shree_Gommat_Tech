@@ -1,8 +1,8 @@
 [
   {
-    "name": "AAAS",
-    "base_url": "https://www.science.org/reports",
-    "customer_id": "20351555",
+    "name": "AAAMary-Liebert",
+    "base_url": "https://www.llkiiigjh.com/reports",
+    "customer_id": "82521",
     "requestor_id": "collections@upei.ca",
     "api_key": "",
     "platform": "",
@@ -11,14 +11,14 @@
     "companies": ""
   },
   {
-    "name": "AACCI (American Association of Cereal Chemists International)",
-    "base_url": "",
-    "customer_id": "",
-    "requestor_id": "",
+    "name": "AAASS",
+    "base_url": "https://www.science.org/reports",
+    "customer_id": "20351555",
+    "requestor_id": "collections@upei.ca",
     "api_key": "",
     "platform": "",
-    "is_non_sushi": true,
-    "description": "Counter 4 only for import conversion; BR2, JR5, JR1GOA, JR1, PR1, BR3",
+    "is_non_sushi": false,
+    "description": "",
     "companies": ""
   },
   {
@@ -30,17 +30,6 @@
     "platform": "",
     "is_non_sushi": true,
     "description": "Counter 4 only for import conversion; JR5, JR1GOA, JR1, PR1, BR3",
-    "companies": ""
-  },
-  {
-    "name": "ABC CLIO",
-    "base_url": "",
-    "customer_id": "",
-    "requestor_id": "",
-    "api_key": "",
-    "platform": "",
-    "is_non_sushi": true,
-    "description": "Counter 4 only for import conversion; DB1",
     "companies": ""
   },
   {
@@ -56,46 +45,13 @@
   },
   {
     "name": "Aclands Anatomy",
-    "base_url": "https://sitemaster.lwwhealthlibrary.com//sushi/reports",
+    "base_url": "",
     "customer_id": "174928",
     "requestor_id": "8334342",
     "api_key": "230952bf-76a2-41ac-8ebf-ff48b656ccea",
     "platform": "",
-    "is_non_sushi": false,
+    "is_non_sushi": true,
     "description": "",
-    "companies": ""
-  },
-  {
-    "name": "ACM Digital Library",
-    "base_url": "https://dl.acm.org/reports",
-    "customer_id": "3659542",
-    "requestor_id": "collections@upei.ca",
-    "api_key": "",
-    "platform": "",
-    "is_non_sushi": false,
-    "description": "",
-    "companies": ""
-  },
-  {
-    "name": "ACS",
-    "base_url": "https://pubs.acs.org/reports",
-    "customer_id": "2298202",
-    "requestor_id": "collections@upei",
-    "api_key": "",
-    "platform": "",
-    "is_non_sushi": false,
-    "description": "",
-    "companies": ""
-  },
-  {
-    "name": "Adam Matthews",
-    "base_url": "https://www.counter.amdigital.co.uk/CounterSushi5Api/reports",
-    "customer_id": "1731",
-    "requestor_id": "",
-    "api_key": "492368c9-2338-49e8-a01b-8cb88504dc49",
-    "platform": "",
-    "is_non_sushi": false,
-    "description": "Adam Matthews primary historical document collections",
     "companies": ""
   },
   {
@@ -649,6 +605,17 @@
     "companies": ""
   },
   {
+    "name": "eilsde",
+    "base_url": "",
+    "customer_id": "",
+    "requestor_id": "",
+    "api_key": "",
+    "platform": "",
+    "is_non_sushi": true,
+    "description": "",
+    "companies": ""
+  },
+  {
     "name": "Elsevier EngVillage",
     "base_url": "https://api.elsevier.com/sushi/reports",
     "customer_id": "C000051268",
@@ -830,6 +797,17 @@
     "customer_id": "collections@upei.ca",
     "requestor_id": "",
     "api_key": "collections@upei.ca|r0bertson1",
+    "platform": "",
+    "is_non_sushi": false,
+    "description": "",
+    "companies": ""
+  },
+  {
+    "name": "hire",
+    "base_url": "http://hire.com/reports",
+    "customer_id": "hiring",
+    "requestor_id": "",
+    "api_key": "",
     "platform": "",
     "is_non_sushi": false,
     "description": "",
@@ -1153,17 +1131,6 @@
     "is_non_sushi": false,
     "description": "",
     "companies": "Atypon"
-  },
-  {
-    "name": "Mary-Ann-Liebert",
-    "base_url": "https://www.liebertpub.com/reports",
-    "customer_id": "8252134",
-    "requestor_id": "collections@upei.ca",
-    "api_key": "",
-    "platform": "",
-    "is_non_sushi": false,
-    "description": "",
-    "companies": ""
   },
   {
     "name": "McGraw Hill (Access Engineering)",
@@ -1705,17 +1672,6 @@
     "companies": ""
   },
   {
-    "name": "University Of Toronto Press",
-    "base_url": "https://www.utpjournals.press/reports",
-    "customer_id": "101005",
-    "requestor_id": "upei",
-    "api_key": "",
-    "platform": "",
-    "is_non_sushi": false,
-    "description": "",
-    "companies": ""
-  },
-  {
     "name": "University-of-Toronto",
     "base_url": "https://www.utpjournals.press/reports",
     "customer_id": "101005",
@@ -1723,83 +1679,6 @@
     "api_key": "",
     "platform": "",
     "is_non_sushi": false,
-    "description": "",
-    "companies": ""
-  },
-  {
-    "name": "UNWTO (United Nations World Tourism Organization)",
-    "base_url": "",
-    "customer_id": "",
-    "requestor_id": "",
-    "api_key": "",
-    "platform": "",
-    "is_non_sushi": true,
-    "description": "Counter 4 only for import conversion; BR2, JR5, JR1, PR1",
-    "companies": ""
-  },
-  {
-    "name": "Wageningen Academic Publishers",
-    "base_url": "",
-    "customer_id": "",
-    "requestor_id": "",
-    "api_key": "",
-    "platform": "",
-    "is_non_sushi": true,
-    "description": "Counter 4 only for import conversion; BR2, JR5, JR1GOA, JR1, PR1, BR3",
-    "companies": ""
-  },
-  {
-    "name": "Wiley",
-    "base_url": "https://onlinelibrary.wiley.com/reports",
-    "customer_id": "EAL0001369",
-    "requestor_id": "EAL0001369",
-    "api_key": "",
-    "platform": "",
-    "is_non_sushi": false,
-    "description": "Books and journals",
-    "companies": "Atypon"
-  },
-  {
-    "name": "hire",
-    "base_url": "http://hire.com/reports",
-    "customer_id": "hiring",
-    "requestor_id": "",
-    "api_key": "",
-    "platform": "",
-    "is_non_sushi": false,
-    "description": "",
-    "companies": ""
-  },
-  {
-    "name": "AAANNS",
-    "base_url": "https://www.science.org/reports",
-    "customer_id": "203fs51555",
-    "requestor_id": "collections@upei.ca",
-    "api_key": "",
-    "platform": "",
-    "is_non_sushi": false,
-    "description": "",
-    "companies": ""
-  },
-  {
-    "name": "AACNNCI (American Association of Cereal Chemists International)",
-    "base_url": "",
-    "customer_id": "",
-    "requestor_id": "",
-    "api_key": "",
-    "platform": "",
-    "is_non_sushi": true,
-    "description": "Counter 4 only for import conversion; BR2, JR5, JR1GOA, JR1, PR1, BR3",
-    "companies": null
-  },
-  {
-    "name": "eilsde",
-    "base_url": "",
-    "customer_id": "",
-    "requestor_id": "",
-    "api_key": "",
-    "platform": "",
-    "is_non_sushi": true,
     "description": "",
     "companies": ""
   }

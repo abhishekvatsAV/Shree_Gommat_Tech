@@ -14,7 +14,7 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 class Ui_Dialog_remove(object):
     def setupUi(self, Dialog_remove):
         Dialog_remove.setObjectName("Dialog_remove")
-        Dialog_remove.resize(592, 143)
+        Dialog_remove.resize(569, 143)
         Dialog_remove.setStyleSheet("*{\n"
 "    \n"
 "border:none;\n"
@@ -50,9 +50,9 @@ class Ui_Dialog_remove(object):
         font.setPointSize(16)
         font.setBold(False)
         font.setItalic(False)
-        font.setWeight(50)
         self.label.setFont(font)
         self.label.setStyleSheet("font: 16pt \"MS Shell Dlg 2\";")
+        self.label.setAlignment(QtCore.Qt.AlignCenter)
         self.label.setObjectName("label")
         self.widget = QtWidgets.QWidget(Dialog_remove)
         self.widget.setGeometry(QtCore.QRect(220, 70, 331, 61))
@@ -68,18 +68,15 @@ class Ui_Dialog_remove(object):
         self.horizontalLayout = QtWidgets.QHBoxLayout(self.widget)
         self.horizontalLayout.setContentsMargins(0, 0, 0, 0)
         self.horizontalLayout.setObjectName("horizontalLayout")
-        self.pushButton = QtWidgets.QPushButton(self.widget)
-        font = QtGui.QFont()
-        font.setPointSize(12)
-        self.pushButton.setFont(font)
-        self.pushButton.setObjectName("pushButton")
-        self.horizontalLayout.addWidget(self.pushButton)
-        self.pushButton_2 = QtWidgets.QPushButton(self.widget)
-        font = QtGui.QFont()
-        font.setPointSize(12)
-        self.pushButton_2.setFont(font)
-        self.pushButton_2.setObjectName("pushButton_2")
-        self.horizontalLayout.addWidget(self.pushButton_2)
+        self.buttonBox = QtWidgets.QDialogButtonBox(self.widget)
+        self.buttonBox.setEnabled(True)
+        self.buttonBox.setAutoFillBackground(False)
+        self.buttonBox.setStyleSheet("")
+        self.buttonBox.setOrientation(QtCore.Qt.Horizontal)
+        self.buttonBox.setStandardButtons(QtWidgets.QDialogButtonBox.Cancel|QtWidgets.QDialogButtonBox.Ok)
+        self.buttonBox.setCenterButtons(False)
+        self.buttonBox.setObjectName("buttonBox")
+        self.horizontalLayout.addWidget(self.buttonBox)
 
         self.retranslateUi(Dialog_remove)
         QtCore.QMetaObject.connectSlotsByName(Dialog_remove)
@@ -88,8 +85,6 @@ class Ui_Dialog_remove(object):
         _translate = QtCore.QCoreApplication.translate
         Dialog_remove.setWindowTitle(_translate("Dialog_remove", "Dialog"))
         self.label.setText(_translate("Dialog_remove", "Are you sure you want to remove this vendor?"))
-        self.pushButton.setText(_translate("Dialog_remove", "OK"))
-        self.pushButton_2.setText(_translate("Dialog_remove", "CANCEL"))
 
 
 if __name__ == "__main__":
