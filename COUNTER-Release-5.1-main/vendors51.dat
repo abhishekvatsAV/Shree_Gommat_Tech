@@ -180,21 +180,6 @@
     "provider": "Step sever"
   },
   {
-    "name": "Brandy Carrillo",
-    "is_version_5_0_or_5_1": "5.1",
-    "base_url": "http://www.anderson-huffman.com/counter/r51/reports",
-    "starting_year": "1975",
-    "customer_id": "115746819",
-    "requestor_id": "039820552",
-    "api_key": "5efedcef-fa50-483b-acb6-4d587b348099",
-    "platform": "4bdee73",
-    "requires_two_attempts": true,
-    "does_ip_checking": true,
-    "needs_throttling": true,
-    "notes": "High pattern size an",
-    "provider": "Bank recen"
-  },
-  {
     "name": "Brett Lo",
     "is_version_5_0_or_5_1": "5.1",
     "base_url": "https://rppp.com/counter/r51/reports",
@@ -268,21 +253,6 @@
     "needs_throttling": false,
     "notes": "Total film feeling R",
     "provider": "Occur say "
-  },
-  {
-    "name": "Cameron Sanchez",
-    "is_version_5_0_or_5_1": "5.1",
-    "base_url": "https://www.taylor-jimenez.com/counter/r51/reports",
-    "starting_year": "1997",
-    "customer_id": "110627467",
-    "requestor_id": "095678829",
-    "api_key": "f0119942-8aca-4bd7-b68f-5950397b9f25",
-    "platform": "6125c7f",
-    "requires_two_attempts": true,
-    "does_ip_checking": true,
-    "needs_throttling": false,
-    "notes": "Direction beautiful ",
-    "provider": "Let from a"
   },
   {
     "name": "Charles Jackson MD",

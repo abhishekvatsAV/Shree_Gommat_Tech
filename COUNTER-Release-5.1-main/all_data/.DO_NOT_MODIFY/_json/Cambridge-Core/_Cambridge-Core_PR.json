@@ -1,0 +1,1 @@
+[{"Code":3070,"Severity":"Warning-Error","Message":"Required ReportFilter Missing","Help_URL":"string","Data":"A required filter for the report selected was not included. This could include filters such as customer_id, begin_date and end_date"}]

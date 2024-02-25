@@ -1,0 +1,8 @@
+
+{
+    "code": 3020,
+    "severity": "Fatal",
+    "message": "Invalid Date Arguments",
+    "helpURL": "/help/sushi",
+    "data": "Begin and/or End date is not in supported formats i.e. yyyy-mm or yyyy-mm-dd"
+}

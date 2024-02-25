@@ -1,0 +1,73 @@
+{
+   "Report_Header" : {
+      "Created" : "2024-02-24T06:01:26Z",
+      "Created_By" : "Project MUSE",
+      "Customer_ID" : "i16692",
+      "Exceptions" : [
+         {
+            "Code" : "3020",
+            "Data" : "Invalid Date Arguments (begin_date='')",
+            "Message" : "Invalid Date Arguments",
+            "Severity" : "Error"
+         },
+         {
+            "Code" : "3020",
+            "Data" : "Invalid Date Arguments (end_date='')",
+            "Message" : "Invalid Date Arguments",
+            "Severity" : "Error"
+         },
+         {
+            "Code" : "3020",
+            "Data" : "Invalid Date Arguments (begin_date > end_date)",
+            "Message" : "Invalid Date Arguments",
+            "Severity" : "Error"
+         },
+         {
+            "Code" : "3020",
+            "Data" : "Invalid Date Arguments",
+            "Message" : "Invalid Date Arguments",
+            "Severity" : "Error"
+         },
+         {
+            "Code" : "3020",
+            "Data" : "Invalid Date Arguments",
+            "Message" : "Invalid Date Arguments",
+            "Severity" : "Error"
+         },
+         {
+            "Code" : "3031",
+            "Data" : "Invalid date range -- too long ago",
+            "Message" : "Usage Not Ready for Requested Dates",
+            "Severity" : "Error"
+         }
+      ],
+      "Institution_ID" : [
+         {
+            "Type" : "Proprietary",
+            "Value" : "MUSE:institution16692"
+         }
+      ],
+      "Institution_Name" : "Prince Edward Island , Univ. of",
+      "Release" : "5",
+      "Report_Filters" : [
+         {
+            "Name" : "Begin_Date",
+            "Value" : ""
+         },
+         {
+            "Name" : "End_Date",
+            "Value" : ""
+         },
+         {
+            "Name" : "Access_Method",
+            "Value" : "Regular"
+         },
+         {
+            "Name" : "Metric_Type",
+            "Value" : "Searches_Platform|Total_Item_Requests|Unique_Item_Requests|Unique_Title_Requests"
+         }
+      ],
+      "Report_ID" : "PR_P1",
+      "Report_Name" : "Platform Usage"
+   }
+}

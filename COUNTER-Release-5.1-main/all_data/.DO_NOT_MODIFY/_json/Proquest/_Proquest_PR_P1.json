@@ -1,0 +1,6 @@
+{
+  "Code": 1030,
+  "Severity": "Fatal",
+  "Message": "Insufficient Information to Process Request",
+  "Data": "begin_date is missing. Include begin_date value in URL query parameter."
+}

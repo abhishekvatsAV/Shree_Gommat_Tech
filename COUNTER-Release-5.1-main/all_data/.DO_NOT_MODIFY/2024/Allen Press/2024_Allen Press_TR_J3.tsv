@@ -1,0 +1,44 @@
+Report_Name	Journal Usage by Access Type
+Report_ID	TR_J3
+Release	5
+Institution_Name	University Of Prince Edward Island
+Institution_ID	Silverchair:19464
+Metric_Types	Total_Item_Investigations; Total_Item_Requests; Unique_Item_Investigations; Unique_Item_Requests
+Report_Filters	Access_Method=Regular; Data_Type=Journal
+Report_Attributes	
+Exceptions	
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-01-31
+Created	2024-02-23T00:00:00Z
+Created_By	Silverchair
+
+Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	Print_ISSN	Online_ISSN	URI	Access_Type	Metric_Type	Reporting_Period_Total	Jan-2024
+Avian Diseases	Allen Press		Allen Press		Silverchair:1000105	0005-2086	1938-4351		Controlled	Total_Item_Investigations	1	1
+Avian Diseases	Allen Press		Allen Press		Silverchair:1000105	0005-2086	1938-4351		Controlled	Unique_Item_Investigations	1	1
+Journal of Coastal Research	Allen Press		Allen Press		Silverchair:1000023	0749-0208	1551-5036		Controlled	Unique_Item_Investigations	1	1
+Journal of Coastal Research	Allen Press		Allen Press		Silverchair:1000023	0749-0208	1551-5036		Controlled	Total_Item_Investigations	2	2
+Journal of Graduate Medical Education	Allen Press		Allen Press		Silverchair:1000012	1949-8349	1949-8357		OA_Gold	Total_Item_Requests	1	1
+Journal of Graduate Medical Education	Allen Press		Allen Press		Silverchair:1000012	1949-8349	1949-8357		OA_Gold	Unique_Item_Investigations	1	1
+Journal of Graduate Medical Education	Allen Press		Allen Press		Silverchair:1000012	1949-8349	1949-8357		OA_Gold	Total_Item_Investigations	1	1
+Journal of Graduate Medical Education	Allen Press		Allen Press		Silverchair:1000012	1949-8349	1949-8357		OA_Gold	Unique_Item_Requests	1	1
+Journal of Green Building	Allen Press		Allen Press		Silverchair:1000088	1552-6100	1943-4618		OA_Gold	Unique_Item_Investigations	1	1
+Journal of Green Building	Allen Press		Allen Press		Silverchair:1000088	1552-6100	1943-4618		OA_Gold	Total_Item_Investigations	2	2
+Journal of Herpetological Medicine and Surgery	Allen Press		Allen Press		Silverchair:1000112	1529-9651	2374-9504		OA_Gold	Unique_Item_Investigations	1	1
+Journal of Herpetological Medicine and Surgery	Allen Press		Allen Press		Silverchair:1000112	1529-9651	2374-9504		OA_Gold	Unique_Item_Requests	1	1
+Journal of Herpetological Medicine and Surgery	Allen Press		Allen Press		Silverchair:1000112	1529-9651	2374-9504		OA_Gold	Total_Item_Requests	1	1
+Journal of Herpetological Medicine and Surgery	Allen Press		Allen Press		Silverchair:1000112	1529-9651	2374-9504		OA_Gold	Total_Item_Investigations	1	1
+Journal of Parasitology	Allen Press		Allen Press		Silverchair:1000004	0022-3395	1937-2345		Controlled	Total_Item_Investigations	3	3
+Journal of Parasitology	Allen Press		Allen Press		Silverchair:1000004	0022-3395	1937-2345		Controlled	Unique_Item_Investigations	2	2
+Journal of Raptor Research	Allen Press		Allen Press		Silverchair:1000186	0892-1016	2162-4569		Controlled	Total_Item_Investigations	2	2
+Journal of Raptor Research	Allen Press		Allen Press		Silverchair:1000186	0892-1016	2162-4569		Controlled	Unique_Item_Investigations	2	2
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		Controlled	Unique_Item_Investigations	41	41
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		Controlled	Total_Item_Investigations	59	59
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		Controlled	Total_Item_Requests	54	54
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		Controlled	Unique_Item_Requests	41	41
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078	0090-3558	1943-3700		OA_Gold	Total_Item_Requests	8	8
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078	0090-3558	1943-3700		OA_Gold	Total_Item_Investigations	17	17
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078	0090-3558	1943-3700		OA_Gold	Unique_Item_Investigations	10	10
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078	0090-3558	1943-3700		OA_Gold	Unique_Item_Requests	8	8
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078	0090-3558	1943-3700		Controlled	Total_Item_Investigations	3	3
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078	0090-3558	1943-3700		Controlled	Unique_Item_Investigations	1	1
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078	0090-3558	1943-3700		Controlled	Total_Item_Requests	2	2
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078	0090-3558	1943-3700		Controlled	Unique_Item_Requests	1	1

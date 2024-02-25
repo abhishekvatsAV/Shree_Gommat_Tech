@@ -1,0 +1,105 @@
+Report_Name	DR Master Report
+Report_ID	DR
+Release	5
+Institution_Name	UNIVERSITY OF PRINCE EDWARD ISLAND
+Institution_ID	
+Metric_Types	
+Report_Filters	Data_Type=Database|Multimedia; Access_Method=Regular
+Report_Attributes	Attributes_To_Show=Data_Type|Access_Method
+Exceptions	
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-01-31
+Created	2024-02-23T13:28:49Z
+Created_By	collections@upei.ca
+
+Database	Publisher	Publisher_ID	Platform	Proprietary_ID	Data_Type	Access_Method	Metric_Type	Reporting_Period_Total	Jan-2024
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Searches_Automated	0	0
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Searches_Federated	0	0
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Searches_Regular	265	265
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Total_Item_Investigations	0	0
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Total_Item_Requests	0	0
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Unique_Item_Investigations	0	0
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Unique_Item_Requests	0	0
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Searches_Automated	0	0
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Searches_Federated	0	0
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Searches_Regular	0	0
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Total_Item_Investigations	422	422
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Total_Item_Requests	0	0
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Unique_Item_Investigations	0	0
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Unique_Item_Requests	0	0
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Searches_Automated	0	0
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Searches_Federated	0	0
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Searches_Regular	0	0
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Total_Item_Investigations	0	0
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Total_Item_Requests	164	164
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Unique_Item_Investigations	0	0
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Unique_Item_Requests	0	0
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Searches_Automated	0	0
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Searches_Federated	0	0
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Searches_Regular	0	0
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Total_Item_Investigations	0	0
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Total_Item_Requests	0	0
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Unique_Item_Investigations	208	208
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Unique_Item_Requests	0	0
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Searches_Automated	0	0
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Searches_Federated	0	0
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Searches_Regular	0	0
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Total_Item_Investigations	0	0
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Total_Item_Requests	0	0
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Unique_Item_Investigations	0	0
+Academic Video Online: Premium	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Unique_Item_Requests	143	143
+Media Hosting Service	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Searches_Automated	0	0
+Media Hosting Service	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Searches_Federated	0	0
+Media Hosting Service	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Searches_Regular	72	72
+Media Hosting Service	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Total_Item_Investigations	0	0
+Media Hosting Service	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Total_Item_Requests	0	0
+Media Hosting Service	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Unique_Item_Investigations	0	0
+Media Hosting Service	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Unique_Item_Requests	0	0
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Searches_Automated	0	0
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Searches_Federated	0	0
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Searches_Regular	72	72
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Total_Item_Investigations	0	0
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Total_Item_Requests	0	0
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Unique_Item_Investigations	0	0
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Unique_Item_Requests	0	0
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Searches_Automated	0	0
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Searches_Federated	0	0
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Searches_Regular	0	0
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Total_Item_Investigations	193	193
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Total_Item_Requests	0	0
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Unique_Item_Investigations	0	0
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Unique_Item_Requests	0	0
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Searches_Automated	0	0
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Searches_Federated	0	0
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Searches_Regular	0	0
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Total_Item_Investigations	0	0
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Total_Item_Requests	85	85
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Unique_Item_Investigations	0	0
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Unique_Item_Requests	0	0
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Searches_Automated	0	0
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Searches_Federated	0	0
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Searches_Regular	0	0
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Total_Item_Investigations	0	0
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Total_Item_Requests	0	0
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Unique_Item_Investigations	90	90
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Unique_Item_Requests	0	0
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Searches_Automated	0	0
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Searches_Federated	0	0
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Searches_Regular	0	0
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Total_Item_Investigations	0	0
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Total_Item_Requests	0	0
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Unique_Item_Investigations	0	0
+Nursing Education in Video: Third Edition	Alexander Street Press		video.alexanderstreet.com		Multimedia	Regular	Unique_Item_Requests	76	76
+Theatre in Video	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Searches_Automated	0	0
+Theatre in Video	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Searches_Federated	0	0
+Theatre in Video	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Searches_Regular	72	72
+Theatre in Video	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Total_Item_Investigations	0	0
+Theatre in Video	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Total_Item_Requests	0	0
+Theatre in Video	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Unique_Item_Investigations	0	0
+Theatre in Video	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Unique_Item_Requests	0	0
+Theatre in Video	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Searches_Automated	0	0
+Theatre in Video	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Searches_Federated	0	0
+Theatre in Video	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Searches_Regular	72	72
+Theatre in Video	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Total_Item_Investigations	0	0
+Theatre in Video	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Total_Item_Requests	0	0
+Theatre in Video	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Unique_Item_Investigations	0	0
+Theatre in Video	Alexander Street Press		video.alexanderstreet.com		Database	Regular	Unique_Item_Requests	0	0

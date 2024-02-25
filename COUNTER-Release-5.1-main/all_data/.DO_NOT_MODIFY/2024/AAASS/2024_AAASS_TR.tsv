@@ -1,0 +1,151 @@
+Report_Name	Title Master Report
+Report_ID	TR
+Release	5
+Institution_Name	University Of Prince Edward Island
+Institution_ID	aaas:20351555
+Metric_Types	
+Report_Filters	
+Report_Attributes	Attributes_To_Show=Data_Type|Section_Type|Access_Type|Access_Method|YOP
+Exceptions	
+Reporting_Period	End_Date=2024-01-31; Begin_Date=2024-01-01
+Created	2024-02-23T05:30:09Z
+Created_By	Atypon Systems LLC.
+
+Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	ISBN	Print_ISSN	Online_ISSN	URI	Data_Type	Section_Type	YOP	Access_Type	Access_Method	Metric_Type	Reporting_Period_Total	Jan-2024
+Articles	American Association for the Advancement of Science		aaas	10.1126/article	aaas:article					Other	Other	2021	Controlled	Regular	Unique_Item_Investigations	5	5
+Articles	American Association for the Advancement of Science		aaas	10.1126/article	aaas:article					Other	Other	2021	Controlled	Regular	Unique_Item_Requests	5	5
+Articles	American Association for the Advancement of Science		aaas	10.1126/article	aaas:article					Other	Other	2021	Controlled	Regular	Total_Item_Requests	5	5
+Articles	American Association for the Advancement of Science		aaas	10.1126/article	aaas:article					Other	Other	2021	Controlled	Regular	Total_Item_Investigations	5	5
+Articles	American Association for the Advancement of Science		aaas	10.1126/article	aaas:article					Other	Other	2023	Controlled	Regular	Unique_Item_Investigations	2	2
+Articles	American Association for the Advancement of Science		aaas	10.1126/article	aaas:article					Other	Other	2023	Controlled	Regular	Unique_Item_Requests	2	2
+Articles	American Association for the Advancement of Science		aaas	10.1126/article	aaas:article					Other	Other	2023	Controlled	Regular	Total_Item_Requests	2	2
+Articles	American Association for the Advancement of Science		aaas	10.1126/article	aaas:article					Other	Other	2023	Controlled	Regular	Total_Item_Investigations	2	2
+Articles	American Association for the Advancement of Science		aaas	10.1126/article	aaas:article					Other	Other	2024	Controlled	Regular	Unique_Item_Investigations	11	11
+Articles	American Association for the Advancement of Science		aaas	10.1126/article	aaas:article					Other	Other	2024	Controlled	Regular	Unique_Item_Requests	11	11
+Articles	American Association for the Advancement of Science		aaas	10.1126/article	aaas:article					Other	Other	2024	Controlled	Regular	Total_Item_Requests	11	11
+Articles	American Association for the Advancement of Science		aaas	10.1126/article	aaas:article					Other	Other	2024	Controlled	Regular	Total_Item_Investigations	11	11
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	1904	Controlled	Regular	Unique_Item_Investigations	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	1904	Controlled	Regular	Total_Item_Investigations	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	1953	Controlled	Regular	Unique_Item_Investigations	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	1953	Controlled	Regular	Total_Item_Investigations	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	1973	Controlled	Regular	Unique_Item_Investigations	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	1973	Controlled	Regular	Total_Item_Investigations	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	1979	Controlled	Regular	Unique_Item_Investigations	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	1979	Controlled	Regular	Total_Item_Investigations	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	1989	Controlled	Regular	Unique_Item_Investigations	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	1989	Controlled	Regular	Total_Item_Investigations	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	1993	Controlled	Regular	Unique_Item_Investigations	2	2
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	1993	Controlled	Regular	Total_Item_Investigations	2	2
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2000	Controlled	Regular	Unique_Item_Investigations	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2000	Controlled	Regular	Unique_Item_Requests	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2000	Controlled	Regular	Total_Item_Requests	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2000	Controlled	Regular	Total_Item_Investigations	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2002	Controlled	Regular	Unique_Item_Investigations	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2002	Controlled	Regular	Unique_Item_Requests	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2002	Controlled	Regular	Total_Item_Requests	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2002	Controlled	Regular	Total_Item_Investigations	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2003	Controlled	Regular	Unique_Item_Investigations	3	3
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2003	Controlled	Regular	Unique_Item_Requests	3	3
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2003	Controlled	Regular	Total_Item_Requests	6	6
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2003	Controlled	Regular	Total_Item_Investigations	6	6
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2006	Controlled	Regular	Unique_Item_Investigations	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2006	Controlled	Regular	Unique_Item_Requests	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2006	Controlled	Regular	Total_Item_Requests	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2006	Controlled	Regular	Total_Item_Investigations	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2007	Controlled	Regular	Unique_Item_Investigations	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2007	Controlled	Regular	Unique_Item_Requests	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2007	Controlled	Regular	Total_Item_Requests	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2007	Controlled	Regular	Total_Item_Investigations	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2008	Controlled	Regular	Unique_Item_Investigations	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2008	Controlled	Regular	Unique_Item_Requests	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2008	Controlled	Regular	Total_Item_Requests	3	3
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2008	Controlled	Regular	Total_Item_Investigations	3	3
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2009	Controlled	Regular	Unique_Item_Investigations	2	2
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2009	Controlled	Regular	Unique_Item_Requests	2	2
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2009	Controlled	Regular	Total_Item_Requests	2	2
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2009	Controlled	Regular	Total_Item_Investigations	2	2
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2010	Controlled	Regular	Unique_Item_Investigations	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2010	Controlled	Regular	Unique_Item_Requests	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2010	Controlled	Regular	Total_Item_Requests	2	2
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2010	Controlled	Regular	Total_Item_Investigations	2	2
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2011	Controlled	Regular	Unique_Item_Investigations	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2011	Controlled	Regular	Unique_Item_Requests	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2011	Controlled	Regular	Total_Item_Requests	2	2
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2011	Controlled	Regular	Total_Item_Investigations	2	2
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2012	Controlled	Regular	Unique_Item_Investigations	2	2
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2012	Controlled	Regular	Unique_Item_Requests	2	2
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2012	Controlled	Regular	Total_Item_Requests	4	4
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2012	Controlled	Regular	Total_Item_Investigations	4	4
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2013	Controlled	Regular	Unique_Item_Investigations	3	3
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2013	Controlled	Regular	Unique_Item_Requests	3	3
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2013	Controlled	Regular	Total_Item_Requests	3	3
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2013	Controlled	Regular	Total_Item_Investigations	3	3
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2014	Controlled	Regular	Unique_Item_Investigations	4	4
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2014	Controlled	Regular	Unique_Item_Requests	4	4
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2014	Controlled	Regular	Total_Item_Requests	7	7
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2014	Controlled	Regular	Total_Item_Investigations	7	7
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2015	Controlled	Regular	Unique_Item_Investigations	2	2
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2015	Controlled	Regular	Unique_Item_Requests	2	2
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2015	Controlled	Regular	Total_Item_Requests	4	4
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2015	Controlled	Regular	Total_Item_Investigations	4	4
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2017	Controlled	Regular	Unique_Item_Investigations	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2017	Controlled	Regular	Unique_Item_Requests	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2017	Controlled	Regular	Total_Item_Requests	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2017	Controlled	Regular	Total_Item_Investigations	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2018	Controlled	Regular	Unique_Item_Investigations	5	5
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2018	Controlled	Regular	Unique_Item_Requests	5	5
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2018	Controlled	Regular	Total_Item_Requests	5	5
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2018	Controlled	Regular	Total_Item_Investigations	6	6
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2019	Controlled	Regular	Unique_Item_Investigations	2	2
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2019	Controlled	Regular	Unique_Item_Requests	2	2
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2019	Controlled	Regular	Total_Item_Requests	3	3
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2019	Controlled	Regular	Total_Item_Investigations	3	3
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2022	Controlled	Regular	Unique_Item_Investigations	3	3
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2022	Controlled	Regular	Unique_Item_Requests	3	3
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2022	Controlled	Regular	Total_Item_Requests	3	3
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2022	Controlled	Regular	Total_Item_Investigations	3	3
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2023	Controlled	Regular	Unique_Item_Investigations	10	10
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2023	Controlled	Regular	Unique_Item_Requests	10	10
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2023	Controlled	Regular	Total_Item_Requests	13	13
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2023	Controlled	Regular	Total_Item_Investigations	13	13
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2024	Controlled	Regular	Unique_Item_Investigations	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2024	Controlled	Regular	Unique_Item_Requests	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2024	Controlled	Regular	Total_Item_Requests	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science		0036-8075	1095-9203		Journal	Article	2024	Controlled	Regular	Total_Item_Investigations	1	1
+Science Advances	American Association for the Advancement of Science		aaas	10.1126/sciadv	aaas:sciadv			2375-2548		Journal	Article	2018	OA_Gold	Regular	Unique_Item_Investigations	1	1
+Science Advances	American Association for the Advancement of Science		aaas	10.1126/sciadv	aaas:sciadv			2375-2548		Journal	Article	2018	OA_Gold	Regular	Unique_Item_Requests	1	1
+Science Advances	American Association for the Advancement of Science		aaas	10.1126/sciadv	aaas:sciadv			2375-2548		Journal	Article	2018	OA_Gold	Regular	Total_Item_Requests	2	2
+Science Advances	American Association for the Advancement of Science		aaas	10.1126/sciadv	aaas:sciadv			2375-2548		Journal	Article	2018	OA_Gold	Regular	Total_Item_Investigations	2	2
+Science Advances	American Association for the Advancement of Science		aaas	10.1126/sciadv	aaas:sciadv			2375-2548		Journal	Article	2020	OA_Gold	Regular	Unique_Item_Investigations	3	3
+Science Advances	American Association for the Advancement of Science		aaas	10.1126/sciadv	aaas:sciadv			2375-2548		Journal	Article	2020	OA_Gold	Regular	Unique_Item_Requests	3	3
+Science Advances	American Association for the Advancement of Science		aaas	10.1126/sciadv	aaas:sciadv			2375-2548		Journal	Article	2020	OA_Gold	Regular	Total_Item_Requests	4	4
+Science Advances	American Association for the Advancement of Science		aaas	10.1126/sciadv	aaas:sciadv			2375-2548		Journal	Article	2020	OA_Gold	Regular	Total_Item_Investigations	4	4
+Science Advances	American Association for the Advancement of Science		aaas	10.1126/sciadv	aaas:sciadv			2375-2548		Journal	Article	2021	OA_Gold	Regular	Unique_Item_Investigations	1	1
+Science Advances	American Association for the Advancement of Science		aaas	10.1126/sciadv	aaas:sciadv			2375-2548		Journal	Article	2021	OA_Gold	Regular	Unique_Item_Requests	1	1
+Science Advances	American Association for the Advancement of Science		aaas	10.1126/sciadv	aaas:sciadv			2375-2548		Journal	Article	2021	OA_Gold	Regular	Total_Item_Requests	1	1
+Science Advances	American Association for the Advancement of Science		aaas	10.1126/sciadv	aaas:sciadv			2375-2548		Journal	Article	2021	OA_Gold	Regular	Total_Item_Investigations	1	1
+Science Advances	American Association for the Advancement of Science		aaas	10.1126/sciadv	aaas:sciadv			2375-2548		Journal	Article	2024	OA_Gold	Regular	Unique_Item_Investigations	6	6
+Science Advances	American Association for the Advancement of Science		aaas	10.1126/sciadv	aaas:sciadv			2375-2548		Journal	Article	2024	OA_Gold	Regular	Unique_Item_Requests	6	6
+Science Advances	American Association for the Advancement of Science		aaas	10.1126/sciadv	aaas:sciadv			2375-2548		Journal	Article	2024	OA_Gold	Regular	Total_Item_Requests	6	6
+Science Advances	American Association for the Advancement of Science		aaas	10.1126/sciadv	aaas:sciadv			2375-2548		Journal	Article	2024	OA_Gold	Regular	Total_Item_Investigations	6	6
+Science Signaling	American Association for the Advancement of Science		aaas	10.1126/signaling	aaas:signaling		1945-0877	1937-9145		Journal	Article	2014	Controlled	Regular	No_License	4	4
+Science Signaling	American Association for the Advancement of Science		aaas	10.1126/signaling	aaas:signaling		1945-0877	1937-9145		Journal	Article	2014	Controlled	Regular	Unique_Item_Investigations	3	3
+Science Signaling	American Association for the Advancement of Science		aaas	10.1126/signaling	aaas:signaling		1945-0877	1937-9145		Journal	Article	2014	Controlled	Regular	Total_Item_Investigations	4	4
+Science Signaling	American Association for the Advancement of Science		aaas	10.1126/signaling	aaas:signaling		1945-0877	1937-9145		Journal	Article	2023	Controlled	Regular	Unique_Item_Investigations	1	1
+Science Signaling	American Association for the Advancement of Science		aaas	10.1126/signaling	aaas:signaling		1945-0877	1937-9145		Journal	Article	2023	Controlled	Regular	Unique_Item_Requests	1	1
+Science Signaling	American Association for the Advancement of Science		aaas	10.1126/signaling	aaas:signaling		1945-0877	1937-9145		Journal	Article	2023	Controlled	Regular	Total_Item_Requests	1	1
+Science Signaling	American Association for the Advancement of Science		aaas	10.1126/signaling	aaas:signaling		1945-0877	1937-9145		Journal	Article	2023	Controlled	Regular	Total_Item_Investigations	1	1
+Science Translational Medicine	American Association for the Advancement of Science		aaas	10.1126/stm	aaas:stm		1946-6234	1946-6242		Journal	Article	2013	Controlled	Regular	Unique_Item_Investigations	2	2
+Science Translational Medicine	American Association for the Advancement of Science		aaas	10.1126/stm	aaas:stm		1946-6234	1946-6242		Journal	Article	2013	Controlled	Regular	Unique_Item_Requests	2	2
+Science Translational Medicine	American Association for the Advancement of Science		aaas	10.1126/stm	aaas:stm		1946-6234	1946-6242		Journal	Article	2013	Controlled	Regular	Total_Item_Requests	2	2
+Science Translational Medicine	American Association for the Advancement of Science		aaas	10.1126/stm	aaas:stm		1946-6234	1946-6242		Journal	Article	2013	Controlled	Regular	Total_Item_Investigations	2	2
+Science Translational Medicine	American Association for the Advancement of Science		aaas	10.1126/stm	aaas:stm		1946-6234	1946-6242		Journal	Article	2019	Controlled	Regular	No_License	1	1
+Science Translational Medicine	American Association for the Advancement of Science		aaas	10.1126/stm	aaas:stm		1946-6234	1946-6242		Journal	Article	2019	Controlled	Regular	Unique_Item_Investigations	1	1
+Science Translational Medicine	American Association for the Advancement of Science		aaas	10.1126/stm	aaas:stm		1946-6234	1946-6242		Journal	Article	2019	Controlled	Regular	Unique_Item_Requests	1	1
+Science Translational Medicine	American Association for the Advancement of Science		aaas	10.1126/stm	aaas:stm		1946-6234	1946-6242		Journal	Article	2019	Controlled	Regular	Total_Item_Requests	2	2
+Science Translational Medicine	American Association for the Advancement of Science		aaas	10.1126/stm	aaas:stm		1946-6234	1946-6242		Journal	Article	2019	Controlled	Regular	Total_Item_Investigations	2	2
+Science Translational Medicine	American Association for the Advancement of Science		aaas	10.1126/stm	aaas:stm		1946-6234	1946-6242		Journal	Article	2022	Controlled	Regular	Unique_Item_Investigations	1	1
+Science Translational Medicine	American Association for the Advancement of Science		aaas	10.1126/stm	aaas:stm		1946-6234	1946-6242		Journal	Article	2022	Controlled	Regular	Unique_Item_Requests	1	1
+Science Translational Medicine	American Association for the Advancement of Science		aaas	10.1126/stm	aaas:stm		1946-6234	1946-6242		Journal	Article	2022	Controlled	Regular	Total_Item_Requests	1	1
+Science Translational Medicine	American Association for the Advancement of Science		aaas	10.1126/stm	aaas:stm		1946-6234	1946-6242		Journal	Article	2022	Controlled	Regular	Total_Item_Investigations	1	1
+Science Translational Medicine	American Association for the Advancement of Science		aaas	10.1126/stm	aaas:stm		1946-6234	1946-6242		Journal	Article	2023	Controlled	Regular	No_License	2	2

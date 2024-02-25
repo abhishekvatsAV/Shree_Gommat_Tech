@@ -1,0 +1,30 @@
+Report_Name	Journal Usage by Access Type
+Report_ID	TR_J3
+Release	5
+Institution_Name	University Of Prince Edward Island
+Institution_ID	aaas:20351555
+Metric_Types	Total_Item_Investigations; Total_Item_Requests; Unique_Item_Investigations; Unique_Item_Requests
+Report_Filters	Data_Type=Journal; Access_Method=Regular
+Report_Attributes	
+Exceptions	
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-01-31
+Created	2024-02-23T05:29:50Z
+Created_By	Atypon Systems LLC.
+
+Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	Print_ISSN	Online_ISSN	URI	Access_Type	Metric_Type	Reporting_Period_Total	Jan-2024
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		Controlled	Unique_Item_Investigations	52	52
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		Controlled	Unique_Item_Requests	45	45
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		Controlled	Total_Item_Requests	63	63
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		Controlled	Total_Item_Investigations	71	71
+Science Advances	American Association for the Advancement of Science		aaas	10.1126/sciadv	aaas:sciadv		2375-2548		OA_Gold	Unique_Item_Investigations	11	11
+Science Advances	American Association for the Advancement of Science		aaas	10.1126/sciadv	aaas:sciadv		2375-2548		OA_Gold	Unique_Item_Requests	11	11
+Science Advances	American Association for the Advancement of Science		aaas	10.1126/sciadv	aaas:sciadv		2375-2548		OA_Gold	Total_Item_Requests	13	13
+Science Advances	American Association for the Advancement of Science		aaas	10.1126/sciadv	aaas:sciadv		2375-2548		OA_Gold	Total_Item_Investigations	13	13
+Science Signaling	American Association for the Advancement of Science		aaas	10.1126/signaling	aaas:signaling	1945-0877	1937-9145		Controlled	Unique_Item_Investigations	4	4
+Science Signaling	American Association for the Advancement of Science		aaas	10.1126/signaling	aaas:signaling	1945-0877	1937-9145		Controlled	Unique_Item_Requests	1	1
+Science Signaling	American Association for the Advancement of Science		aaas	10.1126/signaling	aaas:signaling	1945-0877	1937-9145		Controlled	Total_Item_Requests	1	1
+Science Signaling	American Association for the Advancement of Science		aaas	10.1126/signaling	aaas:signaling	1945-0877	1937-9145		Controlled	Total_Item_Investigations	5	5
+Science Translational Medicine	American Association for the Advancement of Science		aaas	10.1126/stm	aaas:stm	1946-6234	1946-6242		Controlled	Unique_Item_Investigations	4	4
+Science Translational Medicine	American Association for the Advancement of Science		aaas	10.1126/stm	aaas:stm	1946-6234	1946-6242		Controlled	Unique_Item_Requests	4	4
+Science Translational Medicine	American Association for the Advancement of Science		aaas	10.1126/stm	aaas:stm	1946-6234	1946-6242		Controlled	Total_Item_Requests	5	5
+Science Translational Medicine	American Association for the Advancement of Science		aaas	10.1126/stm	aaas:stm	1946-6234	1946-6242		Controlled	Total_Item_Investigations	5	5

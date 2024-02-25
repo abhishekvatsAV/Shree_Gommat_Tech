@@ -1,0 +1,71 @@
+{
+   "Report_Header" : {
+      "Created" : "2024-02-24T06:01:16Z",
+      "Created_By" : "Project MUSE",
+      "Customer_ID" : "i16692",
+      "Exceptions" : [
+         {
+            "Code" : "3020",
+            "Data" : "Invalid Date Arguments (begin_date='')",
+            "Message" : "Invalid Date Arguments",
+            "Severity" : "Error"
+         },
+         {
+            "Code" : "3020",
+            "Data" : "Invalid Date Arguments (end_date='')",
+            "Message" : "Invalid Date Arguments",
+            "Severity" : "Error"
+         },
+         {
+            "Code" : "3020",
+            "Data" : "Invalid Date Arguments (begin_date > end_date)",
+            "Message" : "Invalid Date Arguments",
+            "Severity" : "Error"
+         },
+         {
+            "Code" : "3020",
+            "Data" : "Invalid Date Arguments",
+            "Message" : "Invalid Date Arguments",
+            "Severity" : "Error"
+         },
+         {
+            "Code" : "3020",
+            "Data" : "Invalid Date Arguments",
+            "Message" : "Invalid Date Arguments",
+            "Severity" : "Error"
+         },
+         {
+            "Code" : "3031",
+            "Data" : "Invalid date range -- too long ago",
+            "Message" : "Usage Not Ready for Requested Dates",
+            "Severity" : "Error"
+         }
+      ],
+      "Institution_ID" : [
+         {
+            "Type" : "Proprietary",
+            "Value" : "MUSE:institution16692"
+         }
+      ],
+      "Institution_Name" : "Prince Edward Island , Univ. of",
+      "Release" : "5",
+      "Report_Attributes" : [
+         {
+            "Name" : "Attributes_To_Show",
+            "Value" : "Data_Type|Access_Method"
+         }
+      ],
+      "Report_Filters" : [
+         {
+            "Name" : "Begin_Date",
+            "Value" : ""
+         },
+         {
+            "Name" : "End_Date",
+            "Value" : ""
+         }
+      ],
+      "Report_ID" : "PR",
+      "Report_Name" : "Platform Master Report"
+   }
+}

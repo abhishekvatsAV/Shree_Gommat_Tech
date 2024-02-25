@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1166</width>
+    <width>1010</width>
     <height>752</height>
    </rect>
   </property>
@@ -159,7 +159,6 @@ hover:grey
                         <font>
                          <family>Georgia</family>
                          <pointsize>10</pointsize>
-                         <weight>50</weight>
                          <bold>false</bold>
                         </font>
                        </property>
@@ -177,7 +176,7 @@ border: none ;
                       </widget>
                      </item>
                      <item row="1" column="0">
-                      <widget class="QListView" name="listView_2">
+                      <widget class="QListView" name="standard_report_types_list_view">
                        <property name="sizePolicy">
                         <sizepolicy hsizetype="Preferred" vsizetype="Expanding">
                          <horstretch>0</horstretch>
@@ -185,7 +184,7 @@ border: none ;
                         </sizepolicy>
                        </property>
                        <property name="styleSheet">
-                        <string notr="true">color:black;</string>
+                        <string notr="true">color:white;</string>
                        </property>
                        <property name="movement">
                         <enum>QListView::Static</enum>
@@ -266,9 +265,9 @@ border: none ;
                       </widget>
                      </item>
                      <item row="2" column="1">
-                      <widget class="QDateEdit" name="dateedit1_3">
+                      <widget class="QDateEdit" name="end_date_edit_fetch_year">
                        <property name="styleSheet">
-                        <string notr="true">color:black;</string>
+                        <string notr="true"/>
                        </property>
                        <property name="displayFormat">
                         <string>yyyy</string>
@@ -286,7 +285,7 @@ border: none ;
                       </widget>
                      </item>
                      <item row="1" column="1">
-                      <widget class="QDateEdit" name="dateedit1_2">
+                      <widget class="QDateEdit" name="begin_date_edit_fetch_year">
                        <property name="enabled">
                         <bool>true</bool>
                        </property>
@@ -297,7 +296,7 @@ border: none ;
                         </sizepolicy>
                        </property>
                        <property name="styleSheet">
-                        <string notr="true">color:black; font-size:15;</string>
+                        <string notr="true">font-size:15;</string>
                        </property>
                        <property name="dateTime">
                         <datetime>
@@ -341,7 +340,7 @@ border: none ;
                       </widget>
                      </item>
                      <item row="1" column="3">
-                      <widget class="QComboBox" name="comboBox">
+                      <widget class="QComboBox" name="begin_month_combo_box">
                        <property name="font">
                         <font>
                          <family>Georgia</family>
@@ -349,7 +348,7 @@ border: none ;
                         </font>
                        </property>
                        <property name="styleSheet">
-                        <string notr="true">color:Black;</string>
+                        <string notr="true"/>
                        </property>
                        <item>
                         <property name="text">
@@ -414,7 +413,7 @@ border: none ;
                       </widget>
                      </item>
                      <item row="2" column="3">
-                      <widget class="QComboBox" name="comboBox_2">
+                      <widget class="QComboBox" name="end_month_combo_box">
                        <property name="font">
                         <font>
                          <family>Georgia</family>
@@ -422,7 +421,7 @@ border: none ;
                         </font>
                        </property>
                        <property name="styleSheet">
-                        <string notr="true">Color:black;</string>
+                        <string notr="true"/>
                        </property>
                        <item>
                         <property name="text">
@@ -498,7 +497,6 @@ border: none ;
                         <font>
                          <family>Georgia</family>
                          <pointsize>12</pointsize>
-                         <weight>50</weight>
                          <bold>false</bold>
                         </font>
                        </property>
@@ -536,39 +534,8 @@ border: 2px solid grey ;
                      <enum>QFrame::Raised</enum>
                     </property>
                     <layout class="QGridLayout" name="gridLayout_6">
-                     <item row="0" column="0" colspan="2">
-                      <widget class="QLabel" name="lblFetchAllReport_3">
-                       <property name="font">
-                        <font>
-                         <family>Georgia</family>
-                         <pointsize>12</pointsize>
-                         <weight>50</weight>
-                         <bold>false</bold>
-                        </font>
-                       </property>
-                       <property name="autoFillBackground">
-                        <bool>false</bool>
-                       </property>
-                       <property name="styleSheet">
-                        <string notr="true">border:none</string>
-                       </property>
-                       <property name="text">
-                        <string>Select Vendors</string>
-                       </property>
-                       <property name="alignment">
-                        <set>Qt::AlignCenter</set>
-                       </property>
-                      </widget>
-                     </item>
-                     <item row="2" column="0" colspan="2">
-                      <widget class="QListView" name="listView">
-                       <property name="styleSheet">
-                        <string notr="true">color:black;</string>
-                       </property>
-                      </widget>
-                     </item>
-                     <item row="1" column="1">
-                      <widget class="QPushButton" name="pushButton_4">
+                     <item row="3" column="1">
+                      <widget class="QPushButton" name="deselect_allvendors_button">
                        <property name="font">
                         <font>
                          <family>Georgia</family>
@@ -583,8 +550,8 @@ border: 2px solid grey ;
                        </property>
                       </widget>
                      </item>
-                     <item row="1" column="0">
-                      <widget class="QPushButton" name="pushButton_3">
+                     <item row="3" column="0">
+                      <widget class="QPushButton" name="select_allvendors_button">
                        <property name="font">
                         <font>
                          <family>Georgia</family>
@@ -595,6 +562,56 @@ border: 2px solid grey ;
                        </property>
                        <property name="text">
                         <string>Select All</string>
+                       </property>
+                      </widget>
+                     </item>
+                     <item row="0" column="0" colspan="2">
+                      <widget class="QLabel" name="lblFetchAllReport_3">
+                       <property name="font">
+                        <font>
+                         <family>Georgia</family>
+                         <pointsize>12</pointsize>
+                         <bold>false</bold>
+                        </font>
+                       </property>
+                       <property name="autoFillBackground">
+                        <bool>false</bool>
+                       </property>
+                       <property name="styleSheet">
+                        <string notr="true">border:none;</string>
+                       </property>
+                       <property name="text">
+                        <string>Select Vendors</string>
+                       </property>
+                       <property name="alignment">
+                        <set>Qt::AlignCenter</set>
+                       </property>
+                      </widget>
+                     </item>
+                     <item row="4" column="0" colspan="2">
+                      <widget class="QListView" name="vendors_list_view_fetch">
+                       <property name="styleSheet">
+                        <string notr="true">color:white;</string>
+                       </property>
+                      </widget>
+                     </item>
+                     <item row="1" column="0">
+                      <widget class="QPushButton" name="version_51_button">
+                       <property name="styleSheet">
+                        <string notr="true">text-align:center;</string>
+                       </property>
+                       <property name="text">
+                        <string>Version 5.1</string>
+                       </property>
+                      </widget>
+                     </item>
+                     <item row="1" column="1">
+                      <widget class="QPushButton" name="version_50_button">
+                       <property name="styleSheet">
+                        <string notr="true">text-align:center;</string>
+                       </property>
+                       <property name="text">
+                        <string>Version 5.0</string>
                        </property>
                       </widget>
                      </item>
@@ -631,7 +648,7 @@ border: 2px solid grey ;
                        </property>
                        <layout class="QGridLayout" name="gridLayout_8">
                         <item row="1" column="0">
-                         <widget class="QPushButton" name="pushButton_2">
+                         <widget class="QPushButton" name="select_more_options_button">
                           <property name="enabled">
                            <bool>true</bool>
                           </property>
@@ -678,7 +695,7 @@ text-align:center;</string>
                        </property>
                        <layout class="QGridLayout" name="gridLayout_13">
                         <item row="2" column="1">
-                         <widget class="QCheckBox" name="checkBox_3">
+                         <widget class="QCheckBox" name="dr_master_report_checkbox">
                           <property name="font">
                            <font>
                             <family>Georgia</family>
@@ -690,7 +707,7 @@ text-align:center;</string>
                          </widget>
                         </item>
                         <item row="2" column="0">
-                         <widget class="QCheckBox" name="checkBox_2">
+                         <widget class="QCheckBox" name="tr_master_report_checkbox">
                           <property name="font">
                            <font>
                             <family>Georgia</family>
@@ -702,7 +719,7 @@ text-align:center;</string>
                          </widget>
                         </item>
                         <item row="1" column="0">
-                         <widget class="QCheckBox" name="checkBox">
+                         <widget class="QCheckBox" name="pr_master_report_checkbox">
                           <property name="font">
                            <font>
                             <family>Georgia</family>
@@ -714,7 +731,7 @@ text-align:center;</string>
                          </widget>
                         </item>
                         <item row="1" column="1">
-                         <widget class="QCheckBox" name="checkBox_4">
+                         <widget class="QCheckBox" name="ir_master_report_checkbox">
                           <property name="font">
                            <font>
                             <family>Georgia</family>
@@ -726,7 +743,7 @@ text-align:center;</string>
                          </widget>
                         </item>
                         <item row="0" column="0">
-                         <widget class="QPushButton" name="pushButton_5">
+                         <widget class="QPushButton" name="select_all_master_reports_button">
                           <property name="font">
                            <font>
                             <family>Georgia</family>
@@ -741,7 +758,7 @@ text-align:center;</string>
                          </widget>
                         </item>
                         <item row="0" column="1">
-                         <widget class="QPushButton" name="pushButton_6">
+                         <widget class="QPushButton" name="deselect_all_master_reports_button">
                           <property name="font">
                            <font>
                             <family>Georgia</family>
@@ -770,7 +787,6 @@ text-align:center;</string>
                         <font>
                          <family>Georgia</family>
                          <pointsize>12</pointsize>
-                         <weight>50</weight>
                          <bold>false</bold>
                         </font>
                        </property>
@@ -827,14 +843,14 @@ border:none;
                          </widget>
                         </item>
                         <item row="1" column="0">
-                         <widget class="QLineEdit" name="lineEdit">
+                         <widget class="QLineEdit" name="custom_dir_edit">
                           <property name="styleSheet">
-                           <string notr="true">color:black;</string>
+                           <string notr="true">color:white;</string>
                           </property>
                          </widget>
                         </item>
                         <item row="2" column="0">
-                         <widget class="QPushButton" name="pushButton">
+                         <widget class="QPushButton" name="custom_dir_button">
                           <property name="font">
                            <font>
                             <family>Georgia</family>
@@ -852,8 +868,8 @@ border:none;
                        </layout>
                       </widget>
                      </item>
-                     <item row="6" column="0" colspan="2">
-                      <widget class="QPushButton" name="btnFetchSelectedReports">
+                     <item row="6" column="0" colspan="2" alignment="Qt::AlignHCenter">
+                      <widget class="QPushButton" name="fetch_selected_reports_button">
                        <property name="sizePolicy">
                         <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
                          <horstretch>0</horstretch>
@@ -908,7 +924,6 @@ padding-bottom:10px;
                <font>
                 <family>Georgia</family>
                 <pointsize>10</pointsize>
-                <weight>50</weight>
                 <bold>false</bold>
                 <kerning>true</kerning>
                </font>
@@ -998,16 +1013,16 @@ alignment: AlignCenter;
                   </sizepolicy>
                  </property>
                  <property name="styleSheet">
-                  <string notr="true">color:black;</string>
+                  <string notr="true"/>
                  </property>
                  <property name="dateTime">
                   <datetime>
                    <hour>0</hour>
                    <minute>0</minute>
                    <second>0</second>
-                   <year>2020</year>
-                   <month>1</month>
-                   <day>1</day>
+                   <year>2019</year>
+                   <month>12</month>
+                   <day>25</day>
                   </datetime>
                  </property>
                  <property name="displayFormat">
@@ -1016,7 +1031,7 @@ alignment: AlignCenter;
                 </widget>
                </item>
                <item>
-                <widget class="QPushButton" name="btnFetchAllReport">
+                <widget class="QPushButton" name="fetch_all_data_button">
                  <property name="font">
                   <font>
                    <family>Georgia</family>

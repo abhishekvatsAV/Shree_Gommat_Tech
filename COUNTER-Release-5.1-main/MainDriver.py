@@ -25,6 +25,8 @@ from ui import (
     Settingtab,
 )
 from ManageVendors import ManageVendorsController
+from FetchReports import FetchReportsController
+# from Settings import SettingsController
 import GeneralUtils
 import hashlib
 
@@ -181,6 +183,8 @@ if __name__ == "__main__":
     fetch_reports_tab = QWidget(main_window)
     fetch_reports_ui = FetchReportsTab.Ui_FetchReports()
     fetch_reports_ui.setupUi(fetch_reports_tab)
+    fetch_reports_controller = FetchReportsController(manage_vendors_controller.vendors_v50,manage_vendors_controller.vendors_v51 ,fetch_reports_tab, fetch_reports_ui)
+    # TODO: update parameters if needed send settings also
     # fetch_reports_controller = FetchReportsController(manage_vendors_controller.vendors, settings_controller.settings,fetch_reports_tab, fetch_reports_ui)
     search_tab = QWidget(main_window)
     search_ui = SearchTab.Ui_Search()

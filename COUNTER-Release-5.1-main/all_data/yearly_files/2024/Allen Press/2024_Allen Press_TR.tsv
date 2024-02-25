@@ -1,0 +1,151 @@
+Report_Name	Title Master Report
+Report_ID	TR
+Release	5
+Institution_Name	University Of Prince Edward Island
+Institution_ID	Silverchair:19464
+Metric_Types	
+Report_Filters	
+Report_Attributes	
+Exceptions	
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-01-31
+Created	2024-02-23T00:00:00Z
+Created_By	Silverchair
+
+Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	ISBN	Print_ISSN	Online_ISSN	URI	Metric_Type	Reporting_Period_Total	Jan-2024
+Avian Diseases	Allen Press		Allen Press		Silverchair:1000105		0005-2086	1938-4351		Total_Item_Investigations	1	1
+Avian Diseases	Allen Press		Allen Press		Silverchair:1000105		0005-2086	1938-4351		No_License	1	1
+Avian Diseases	Allen Press		Allen Press		Silverchair:1000105		0005-2086	1938-4351		Unique_Item_Investigations	1	1
+Journal of Coastal Research	Allen Press		Allen Press		Silverchair:1000023		0749-0208	1551-5036		Unique_Item_Investigations	1	1
+Journal of Coastal Research	Allen Press		Allen Press		Silverchair:1000023		0749-0208	1551-5036		Total_Item_Investigations	2	2
+Journal of Graduate Medical Education	Allen Press		Allen Press		Silverchair:1000012		1949-8349	1949-8357		Total_Item_Requests	1	1
+Journal of Graduate Medical Education	Allen Press		Allen Press		Silverchair:1000012		1949-8349	1949-8357		Unique_Item_Investigations	1	1
+Journal of Graduate Medical Education	Allen Press		Allen Press		Silverchair:1000012		1949-8349	1949-8357		Total_Item_Investigations	1	1
+Journal of Graduate Medical Education	Allen Press		Allen Press		Silverchair:1000012		1949-8349	1949-8357		Unique_Item_Requests	1	1
+Journal of Green Building	Allen Press		Allen Press		Silverchair:1000088		1552-6100	1943-4618		Unique_Item_Investigations	1	1
+Journal of Green Building	Allen Press		Allen Press		Silverchair:1000088		1552-6100	1943-4618		Total_Item_Investigations	2	2
+Journal of Herpetological Medicine and Surgery	Allen Press		Allen Press		Silverchair:1000112		1529-9651	2374-9504		Unique_Item_Investigations	1	1
+Journal of Herpetological Medicine and Surgery	Allen Press		Allen Press		Silverchair:1000112		1529-9651	2374-9504		Unique_Item_Requests	1	1
+Journal of Herpetological Medicine and Surgery	Allen Press		Allen Press		Silverchair:1000112		1529-9651	2374-9504		Total_Item_Requests	1	1
+Journal of Herpetological Medicine and Surgery	Allen Press		Allen Press		Silverchair:1000112		1529-9651	2374-9504		Total_Item_Investigations	1	1
+Journal of Parasitology	Allen Press		Allen Press		Silverchair:1000004		0022-3395	1937-2345		No_License	1	1
+Journal of Parasitology	Allen Press		Allen Press		Silverchair:1000004		0022-3395	1937-2345		Total_Item_Investigations	1	1
+Journal of Parasitology	Allen Press		Allen Press		Silverchair:1000004		0022-3395	1937-2345		Unique_Item_Investigations	1	1
+Journal of Parasitology	Allen Press		Allen Press		Silverchair:1000004		0022-3395	1937-2345		Total_Item_Investigations	2	2
+Journal of Parasitology	Allen Press		Allen Press		Silverchair:1000004		0022-3395	1937-2345		Unique_Item_Investigations	1	1
+Journal of Raptor Research	Allen Press		Allen Press		Silverchair:1000186		0892-1016	2162-4569		Total_Item_Investigations	2	2
+Journal of Raptor Research	Allen Press		Allen Press		Silverchair:1000186		0892-1016	2162-4569		Unique_Item_Investigations	2	2
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Investigations	4	4
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Requests	4	4
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Investigations	2	2
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Requests	2	2
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Investigations	2	2
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Requests	2	2
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Investigations	5	5
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Requests	2	2
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Investigations	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Requests	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Investigations	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Requests	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Investigations	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Requests	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Investigations	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Requests	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Investigations	2	2
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Requests	2	2
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Investigations	2	2
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Requests	2	2
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Investigations	2	2
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Requests	2	2
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Requests	4	4
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Investigations	4	4
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Investigations	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Requests	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Investigations	2	2
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Requests	2	2
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Requests	7	7
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Investigations	7	7
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Investigations	4	4
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Requests	4	4
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Investigations	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Requests	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Investigations	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Requests	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Requests	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Investigations	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Requests	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Investigations	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Investigations	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Requests	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Requests	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Investigations	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Requests	2	2
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Requests	4	4
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Investigations	2	2
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Investigations	4	4
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Investigations	5	5
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Requests	5	5
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Requests	4	4
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Investigations	4	4
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Requests	2	2
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Investigations	4	4
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Investigations	2	2
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Requests	2	2
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Requests	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Investigations	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Requests	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Investigations	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Investigations	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Requests	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Investigations	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Requests	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Investigations	2	2
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Requests	2	2
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Investigations	2	2
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Requests	2	2
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Requests	3	3
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Investigations	3	3
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Investigations	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Requests	1	1
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Investigations	10	10
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Investigations	10	10
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Total_Item_Requests	10	10
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033		0587-2871	1547-3317		Unique_Item_Requests	10	10
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Total_Item_Investigations	2	2
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Unique_Item_Investigations	1	1
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Total_Item_Investigations	2	2
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Unique_Item_Investigations	1	1
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Total_Item_Requests	1	1
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Unique_Item_Requests	1	1
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Total_Item_Requests	1	1
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Total_Item_Investigations	3	3
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Unique_Item_Investigations	2	2
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Unique_Item_Requests	1	1
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Unique_Item_Requests	1	1
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Unique_Item_Investigations	1	1
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Total_Item_Investigations	2	2
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Total_Item_Requests	1	1
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Total_Item_Requests	1	1
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Total_Item_Investigations	2	2
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Unique_Item_Requests	1	1
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Unique_Item_Investigations	1	1
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Total_Item_Investigations	2	2
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Total_Item_Requests	1	1
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Unique_Item_Investigations	1	1
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Unique_Item_Requests	1	1
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Unique_Item_Investigations	1	1
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Unique_Item_Requests	1	1
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Total_Item_Requests	1	1
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Total_Item_Investigations	2	2
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Total_Item_Investigations	1	1
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Unique_Item_Investigations	1	1
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Total_Item_Requests	1	1
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Unique_Item_Requests	1	1
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Total_Item_Investigations	1	1
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Unique_Item_Investigations	1	1
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Total_Item_Requests	1	1
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Unique_Item_Requests	1	1
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		No_License	1	1
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Total_Item_Investigations	3	3
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Unique_Item_Investigations	1	1
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Total_Item_Requests	2	2
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078		0090-3558	1943-3700		Unique_Item_Requests	1	1

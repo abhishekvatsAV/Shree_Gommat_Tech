@@ -1,0 +1,14 @@
+Report_Name	Title Master Report
+Report_ID	TR
+Release	5
+Institution_Name	
+Institution_ID	AMS:UPEIS*CHA
+Metric_Types	No_License; Total_Item_Investigations; Total_Item_Requests; Unique_Item_Investigations; Unique_Item_Requests; Unique_Title_Investigations; Unique_Title_Requests
+Report_Filters	Data_Type=Book; Data_Type=Journal
+Report_Attributes	
+Exceptions	
+Reporting_Period	
+Created	2024-02-23T07:42:07-05:00
+Created_By	American Mathematical Society
+
+Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	ISBN	Print_ISSN	Online_ISSN	URI	Data_Type	Section_Type	YOP	Access_Type	Access_Method	Metric_Type	Reporting_Period_Total	Jan-2024
