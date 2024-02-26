@@ -16,6 +16,7 @@ from PyQt5.QtGui import QIcon, QPixmap
 from PyQt5.uic import loadUi
 from PyQt5.QtCore import QPropertyAnimation, QEasingCurve
 import os
+from Settings import SettingsController
 from ui import (
     AddVendor,
     MainWindow,
@@ -178,7 +179,7 @@ if __name__ == "__main__":
     settings_tab = QWidget(main_window)
     settings_ui = Settingtab.Ui_SettingTab()
     settings_ui.setupUi(settings_tab)
-    # settings_controller = SettingsController(settings_tab, settings_ui)
+    settings_controller = SettingsController(settings_tab, settings_ui)
 
     fetch_reports_tab = QWidget(main_window)
     fetch_reports_ui = FetchReportsTab.Ui_FetchReports()
