@@ -65,6 +65,7 @@ import subprocess
 current_file_path = os.path.abspath(__file__)
 directory_path = os.path.dirname(current_file_path)
 
+
 # region Models
 class SupportedReportModel(JsonModel):
     """Models a SUSHI Supported Report"""
@@ -1453,8 +1454,10 @@ class FetchReportsController(FetchReportsAbstract):
             item.setCheckable(True)
             item.setEditable(False)
             self.standard_report_types_list_model.appendRow(item)
-        
-        self.standard_report_types_list_model.itemChanged.connect(self.handleItemChanged)
+
+        self.standard_report_types_list_model.itemChanged.connect(
+            self.handleItemChanged
+        )
 
         # self.select_report_types_btn = fetch_reports_ui.select_report_types_button_fetch
         # self.select_report_types_btn.clicked.connect(self.select_all_report_types)
@@ -1682,6 +1685,20 @@ class FetchReportsController(FetchReportsAbstract):
                 if selected_option[3] == ["all"]:
                     continue
                 line_edit.setText("|".join(selected_option[3]))
+
+        self.show_more_options_ok_button = self.more_option_dialog_ui.buttonBox.button(
+            QDialogButtonBox.Ok
+        )
+        self.show_more_options_ok_button.clicked.connect(
+            lambda: self.more_option_dialog.close()
+        )
+
+        self.show_more_options_cancel_button = (
+            self.more_option_dialog_ui.buttonBox.button(QDialogButtonBox.Cancel)
+        )
+        self.show_more_options_cancel_button.clicked.connect(
+            lambda: [self.reset_selected_options(), self.more_option_dialog.close()]
+        )
 
         self.more_option_dialog.exec_()
 

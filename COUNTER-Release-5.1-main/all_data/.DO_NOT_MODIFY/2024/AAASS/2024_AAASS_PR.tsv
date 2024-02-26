@@ -5,19 +5,19 @@ Institution_Name	University Of Prince Edward Island
 Institution_ID	aaas:20351555
 Metric_Types	
 Report_Filters	
-Report_Attributes	Attributes_To_Show=Data_Type|Access_Method
-Exceptions	
+Report_Attributes	Attributes_To_Show=Data_Type
+Exceptions	3060: Invalid ReportFilter Value (Filter parameter: DATA_TYPE has invalid value(s): [Multimedia]. )
 Reporting_Period	End_Date=2024-01-31; Begin_Date=2024-01-01
-Created	2024-02-25T02:34:57Z
+Created	2024-02-25T03:14:24Z
 Created_By	Atypon Systems LLC.
 
 Platform	Data_Type	Access_Method	Metric_Type	Reporting_Period_Total	Jan-2024
-aaas	Other	Regular	Unique_Item_Investigations	18	18
-aaas	Other	Regular	Total_Item_Requests	18	18
-aaas	Other	Regular	Total_Item_Investigations	18	18
-aaas	Other	Regular	Unique_Item_Requests	18	18
-aaas	Platform	Regular	Searches_Platform	95	95
-aaas	Journal	Regular	Unique_Item_Investigations	71	71
-aaas	Journal	Regular	Total_Item_Requests	82	82
-aaas	Journal	Regular	Total_Item_Investigations	94	94
-aaas	Journal	Regular	Unique_Item_Requests	61	61
+aaas	Other		Unique_Item_Investigations	18	18
+aaas	Other		Total_Item_Requests	18	18
+aaas	Other		Total_Item_Investigations	18	18
+aaas	Other		Unique_Item_Requests	18	18
+aaas	Platform		Searches_Platform	95	95
+aaas	Journal		Unique_Item_Investigations	71	71
+aaas	Journal		Total_Item_Requests	82	82
+aaas	Journal		Total_Item_Investigations	94	94
+aaas	Journal		Unique_Item_Requests	61	61

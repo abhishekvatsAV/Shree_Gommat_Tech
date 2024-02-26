@@ -14,11 +14,11 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 class Ui_MoreOptionsDialog(object):
     def setupUi(self, MoreOptionsDialog):
         MoreOptionsDialog.setObjectName("MoreOptionsDialog")
-        MoreOptionsDialog.resize(375, 418)
+        MoreOptionsDialog.resize(375, 430)
         self.centralwidget = QtWidgets.QWidget(MoreOptionsDialog)
         self.centralwidget.setObjectName("centralwidget")
         self.verticalLayoutWidget = QtWidgets.QWidget(self.centralwidget)
-        self.verticalLayoutWidget.setGeometry(QtCore.QRect(0, 9, 371, 381))
+        self.verticalLayoutWidget.setGeometry(QtCore.QRect(0, 9, 371, 411))
         self.verticalLayoutWidget.setObjectName("verticalLayoutWidget")
         self.verticalLayout = QtWidgets.QVBoxLayout(self.verticalLayoutWidget)
         self.verticalLayout.setContentsMargins(0, 0, 0, 0)
@@ -37,6 +37,10 @@ class Ui_MoreOptionsDialog(object):
         self.options_frame = QtWidgets.QGridLayout(self.options_frame_main)
         self.options_frame.setObjectName("options_frame")
         self.verticalLayout.addWidget(self.options_frame_main, 0, QtCore.Qt.AlignHCenter|QtCore.Qt.AlignTop)
+        self.buttonBox = QtWidgets.QDialogButtonBox(self.verticalLayoutWidget)
+        self.buttonBox.setStandardButtons(QtWidgets.QDialogButtonBox.Cancel|QtWidgets.QDialogButtonBox.Ok)
+        self.buttonBox.setObjectName("buttonBox")
+        self.verticalLayout.addWidget(self.buttonBox)
         MoreOptionsDialog.setCentralWidget(self.centralwidget)
 
         self.retranslateUi(MoreOptionsDialog)
