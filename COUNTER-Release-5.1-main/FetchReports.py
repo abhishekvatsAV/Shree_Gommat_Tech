@@ -28,6 +28,7 @@ import GeneralUtils
 import requests
 from GeneralUtils import show_message, JsonModel
 from ManageDB import UpdateDatabaseWorker
+from Settings import SettingsModel
 from ui import (
     FetchReportsTab,
     FetchProgressDialog,
@@ -907,7 +908,7 @@ class RequestData:
         begin_date: QDate,
         end_date: QDate,
         save_location: str,
-        # settings: SettingsModel,
+        settings: SettingsModel,
         special_options: SpecialReportOptions = None,
     ):
         self.vendor = vendor
@@ -915,7 +916,7 @@ class RequestData:
         self.begin_date = begin_date
         self.end_date = end_date
         self.save_location = save_location
-        # self.settings = settings
+        self.settings = settings
         self.special_options = special_options
 
     def __repr__(self):
@@ -924,7 +925,11 @@ class RequestData:
 
 class FetchReportsAbstract:
     def __init__(
-        self, vendors_v50: list[Vendor], vendors_v51: list[Vendor51], widget: QWidget
+        self,
+        vendors_v50: list[Vendor],
+        vendors_v51: list[Vendor51],
+        settings: SettingsModel,
+        widget: QWidget,
     ):
         """This contains common functionality shared between classes that fetch reports
 
@@ -950,7 +955,7 @@ class FetchReportsAbstract:
         self.save_dir = ""
         self.is_cancelling = False
         self.is_yearly_fetch = False
-        # self.settings = settings
+        self.settings = settings
         self.database_report_data = []
         # endregion
 
@@ -1339,7 +1344,6 @@ class FetchReportsAbstract:
         return True
 
 
-# class FetchReportsController(FetchReportsAbstract):
 class FetchReportsController(FetchReportsAbstract):
     """Controls the Fetch Reports tab
 
@@ -1357,10 +1361,11 @@ class FetchReportsController(FetchReportsAbstract):
         self,
         vendors_v50: list[Vendor],
         vendors_v51: list[Vendor51],
+        settings: SettingsModel,
         widget: QWidget,
         fetch_reports_ui: FetchReportsTab.Ui_FetchReports,
     ):
-        super().__init__(vendors_v50, vendors_v51, widget)
+        super().__init__(vendors_v50, vendors_v51, settings, widget)
         self.widget = widget
         self.selected_options = SpecialReportOptions()
 
@@ -1466,8 +1471,8 @@ class FetchReportsController(FetchReportsAbstract):
 
         # # region Custom Directory
         self.custom_dir_edit = fetch_reports_ui.custom_dir_edit
-        # self.custom_dir_edit.setText(self.settings.other_directory)
-        self.custom_dir_edit.setText(f"{directory_path}/all_data/selecetd_reports/")
+        self.custom_dir_edit.setText(self.settings.other_directory)
+        # self.custom_dir_edit.setText(f"{directory_path}/all_data/selecetd_reports/")
 
         self.custom_dir_button = fetch_reports_ui.custom_dir_button
         self.custom_dir_button.clicked.connect(self.on_custom_dir_clicked)
@@ -1525,9 +1530,11 @@ class FetchReportsController(FetchReportsAbstract):
         self.get_checked_standard_reports_types_list()
 
         if len(self.standard_reports_types_list) > 0 or count != 1:
-            self.custom_dir_edit.setText(f"{directory_path}/all_data/selecetd_reports/")
+            # self.custom_dir_edit.setText(f"{directory_path}/all_data/selecetd_reports/")
+            self.custom_dir_edit.setText(self.settings.other_directory)
         else:
-            self.custom_dir_edit.setText(f"{directory_path}/all_data/special_reports/")
+            # self.custom_dir_edit.setText(f"{directory_path}/all_data/special_reports/")
+            self.custom_dir_edit.setText(self.settings.other_directory)
 
     # Vendor List Section
     def update_vendors_ui(self, version: str):
@@ -1954,8 +1961,8 @@ class FetchReportsController(FetchReportsAbstract):
             return
 
         self.is_yearly_fetch = True
-        # self.save_dir = self.settings.yearly_directory
-        self.save_dir = f"{directory_path}/all_data/yearly_files/"
+        self.save_dir = self.settings.yearly_directory
+        # self.save_dir = f"{directory_path}/all_data/yearly_files/"
         self.selected_data = []
         curr_date = QDate.currentDate()
         formatted_date = curr_date.toString(
@@ -1979,7 +1986,7 @@ class FetchReportsController(FetchReportsAbstract):
                 self.begin_date,
                 self.end_date,
                 self.save_dir,
-                # self.settings,
+                self.settings,
             )
             self.selected_data.append(request_data)
 
@@ -1990,8 +1997,8 @@ class FetchReportsController(FetchReportsAbstract):
 
         self.total_processes = len(self.selected_data)
         self.started_processes = 0
-        # concurrent_vendors = self.settings.concurrent_vendors
-        concurrent_vendors = 2  # taking 2 as a temperory value
+        concurrent_vendors = self.settings.concurrent_vendors
+        # concurrent_vendors = 2  # taking 2 as a temperory value
         while (
             self.started_processes < len(self.selected_data)
             and self.started_processes < concurrent_vendors
@@ -2002,7 +2009,7 @@ class FetchReportsController(FetchReportsAbstract):
             self.started_processes += 1
 
     def fetch_selected_data(self):
-        """#TODO Fetches reports based on the selected options in the UI"""
+        """ Fetches reports based on the selected options in the UI"""
         if self.total_processes > 0 or self.is_updating_database:
             GeneralUtils.show_message(f"Waiting for pending processes to complete...")
             # if self.settings.show_debug_messages:
@@ -2055,7 +2062,7 @@ class FetchReportsController(FetchReportsAbstract):
         custom_dir = self.custom_dir_edit.text()
 
         if len(self.standard_reports_types_list) > 0 or count > 1:
-            # TODO do the normal fetch with normal options
+            # do the normal fetch with normal options
             selected_report_types = []
             for i in range(len(ALL_REPORTS)):
                 if (
@@ -2086,22 +2093,22 @@ class FetchReportsController(FetchReportsAbstract):
             if len(selected_report_types) == 0:
                 GeneralUtils.show_message("No report type selected")
                 return
-            # self.save_dir = custom_dir if custom_dir else self.settings.other_directory
-            self.save_dir = (
-                custom_dir
-                if custom_dir
-                else f"{directory_path}/all_data/selected_reports/"
-            )
+            self.save_dir = custom_dir if custom_dir else self.settings.other_directory
+            # self.save_dir = (
+            #     custom_dir
+            #     if custom_dir
+            #     else f"{directory_path}/all_data/selected_reports/"
+            # )
             self.selected_options = None
         else:
-            # TODO do the fetch with special options
+            # do the fetch with special options
             selected_report_types = [self.major_report_type.value]
-            # self.save_dir = custom_dir if custom_dir else self.settings.other_directory
-            self.save_dir = (
-                custom_dir
-                if custom_dir
-                else f"{directory_path}/all_data/special_reports/"
-            )
+            self.save_dir = custom_dir if custom_dir else self.settings.other_directory
+            # self.save_dir = (
+            #     custom_dir
+            #     if custom_dir
+            #     else f"{directory_path}/all_data/special_reports/"
+            # )
 
         # print("🔥  selected_report_types: ", selected_report_types)
 
@@ -2113,7 +2120,7 @@ class FetchReportsController(FetchReportsAbstract):
                     self.begin_date,
                     self.end_date,
                     self.save_dir,
-                    # self.settings,
+                    self.settings,
                     self.selected_options,
                 )
                 self.selected_data.append(request_data)
@@ -2126,8 +2133,8 @@ class FetchReportsController(FetchReportsAbstract):
 
         self.total_processes = len(self.selected_data)
         self.started_processes = 0
-        # concurrent_vendors = self.settings.concurrent_vendors
-        concurrent_vendors = 2
+        concurrent_vendors = self.settings.concurrent_vendors
+        # concurrent_vendors = 2
         while (
             self.started_processes < len(self.selected_data)
             and self.started_processes < concurrent_vendors
@@ -2153,16 +2160,16 @@ class VendorWorker(QObject):
         self.vendor = request_data.vendor
         self.target_report_types = request_data.target_report_types
         # self.show_debug = request_data.settings.show_debug_messages
-        # self.concurrent_reports = request_data.settings.concurrent_reports
-        self.concurrent_reports = 2
-        # self.request_interval = request_data.settings.request_interval
-        self.request_interval = 10
-        # self.request_timeout = request_data.settings.request_timeout
-        self.request_timeout = 120
-        # self.user_agent = request_data.settings.user_agent
-        self.user_agent = (
-            "Mozilla/5.0 Firefox/73.0 Chrome/80.0.3987.132 Safari/605.1.15"
-        )
+        self.concurrent_reports = request_data.settings.concurrent_reports
+        # self.concurrent_reports = 2
+        self.request_interval = request_data.settings.request_interval
+        # self.request_interval = 10
+        self.request_timeout = request_data.settings.request_timeout
+        # self.request_timeout = 120
+        self.user_agent = request_data.settings.user_agent
+        # self.user_agent = (
+        #     "Mozilla/5.0 Firefox/73.0 Chrome/80.0.3987.132 Safari/605.1.15"
+        # )
         self.reports_to_process = []
         self.started_processes = 0
         self.completed_processes = 0
@@ -2407,17 +2414,17 @@ class ReportWorker(QObject):
         self.begin_date = request_data.begin_date
         self.end_date = request_data.end_date
         # self.show_debug = request_data.settings.show_debug_messages
-        # self.request_timeout = request_data.settings.request_timeout
-        self.request_timeout = 120
-        # self.user_agent = request_data.settings.user_agent
-        self.user_agent = (
-            "Mozilla/5.0 Firefox/73.0 Chrome/80.0.3987.132 Safari/605.1.15"
-        )
+        self.request_timeout = request_data.settings.request_timeout
+        # self.request_timeout = 120
+        self.user_agent = request_data.settings.user_agent
+        # self.user_agent = (
+        #     "Mozilla/5.0 Firefox/73.0 Chrome/80.0.3987.132 Safari/605.1.15"
+        # )
         self.save_dir = request_data.save_location
         self.special_options = request_data.special_options
 
-        # self.is_yearly = self.save_dir == request_data.settings.yearly_directory
-        self.is_yearly = True
+        self.is_yearly = self.save_dir == request_data.settings.yearly_directory
+        # self.is_yearly = True
         self.is_special = self.special_options is not None
         self.is_master = self.report_type in MASTER_REPORTS
 
