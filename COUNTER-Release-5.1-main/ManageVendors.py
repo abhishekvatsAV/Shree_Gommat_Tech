@@ -111,7 +111,7 @@ class Vendor51(JsonModel):
     ):
         self.name = name
         self.is_version_5_0_or_5_1 = is_version_5_0_or_5_1  # "5.1"
-        self.base_url = base_url  # https://...../counter/r51/reports
+        self.base_url = base_url  # https://...../r51/reports
         self.starting_year = starting_year
         self.customer_id = customer_id
         self.requestor_id = requestor_id

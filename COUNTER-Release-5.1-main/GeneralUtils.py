@@ -21,7 +21,7 @@ def save_json_file(file_dir: str, file_name: str, json_string: str):
     try:
         if not path.isdir(file_dir):
             makedirs(file_dir)
-        file = open(file_dir + file_name, 'w')
+        file = open(file_dir + file_name, "w")
         file.write(json_string)
         file.close()
     except IOError as e:
@@ -31,7 +31,7 @@ def save_json_file(file_dir: str, file_name: str, json_string: str):
 def read_json_file(file_path: str) -> str:
     json_string = "[]"
     try:
-        file = open(file_path, 'r', encoding='utf-8-sig')
+        file = open(file_path, "r", encoding="utf-8-sig")
         json_string = file.read()
         file.close()
     except IOError:
@@ -48,8 +48,10 @@ def show_message(message: str):
     message_box.exec_()
 
 
-def ask_confirmation(message: str = 'Are you sure you want to continue?') -> bool:
-    reply = QMessageBox.question(main_window, "Confirm", message, QMessageBox.Yes, QMessageBox.No)
+def ask_confirmation(message: str = "Are you sure you want to continue?") -> bool:
+    reply = QMessageBox.question(
+        main_window, "Confirm", message, QMessageBox.Yes, QMessageBox.No
+    )
     return reply == QMessageBox.Yes
 
 
@@ -62,7 +64,7 @@ def open_file_or_dir(target_path: str):
         else:
             webbrowser.open_new_tab(path.realpath(target_path))
     else:
-        show_message(f"\'{target_path}\' does not exist")
+        show_message(f"'{target_path}' does not exist")
 
 
 def choose_file(name_filters) -> str:
@@ -97,6 +99,28 @@ def choose_directory() -> str:
     return dir_path
 
 
+def choose_database_file() -> str:
+    file_path = ""
+    dialog = QFileDialog(main_window)
+    dialog.setFileMode(QFileDialog.ExistingFile)
+    dialog.setNameFilter("Database Files (*.db)")
+    if dialog.exec_():
+        file_path = dialog.selectedFiles()[0]
+
+    return file_path
+
+
+def choose_dat_file() -> str:
+    file_path = ""
+    dialog = QFileDialog(main_window)
+    dialog.setFileMode(QFileDialog.ExistingFile)
+    dialog.setNameFilter("DAT Files (*.dat)")
+    if dialog.exec_():
+        file_path = dialog.selectedFiles()[0]
+
+    return file_path
+
+
 def choose_save(name_filters) -> str:
     file_path = ""
     dialog = QFileDialog(main_window)
@@ -125,7 +149,9 @@ def get_special_file_dir(base_path: str, vendor_name: str) -> str:
     return f"{base_path}{vendor_name}/special/"
 
 
-def get_special_file_name(vendor_name: str, report_type: str, begin_date: QDate, end_date: QDate) -> str:
+def get_special_file_name(
+    vendor_name: str, report_type: str, begin_date: QDate, end_date: QDate
+) -> str:
     return f"{vendor_name}_{report_type}_{begin_date.toString('yyyy-MMM')}_{end_date.toString('yyyy-MMM')}_S.tsv"
 
 
@@ -133,7 +159,9 @@ def get_other_file_dir(base_path: str, vendor_name: str) -> str:
     return f"{base_path}{vendor_name}/"
 
 
-def get_other_file_name(vendor_name: str, report_type: str, begin_date: QDate, end_date: QDate) -> str:
+def get_other_file_name(
+    vendor_name: str, report_type: str, begin_date: QDate, end_date: QDate
+) -> str:
     return f"{vendor_name}_{report_type}_{begin_date.toString('yyyy-MMM')}_{end_date.toString('yyyy-MMM')}.tsv"
 
 
@@ -145,9 +173,16 @@ def get_major_report_type(report_type: str) -> MajorReportType:
     elif report_type == "DR" or report_type == "DR_D1" or report_type == "DR_D2":
         return MajorReportType.DATABASE
 
-    elif report_type == "TR" or report_type == "TR_B1" or report_type == "TR_B2" \
-            or report_type == "TR_B3" or report_type == "TR_J1" or report_type == "TR_J2" \
-            or report_type == "TR_J3" or report_type == "TR_J4":
+    elif (
+        report_type == "TR"
+        or report_type == "TR_B1"
+        or report_type == "TR_B2"
+        or report_type == "TR_B3"
+        or report_type == "TR_J1"
+        or report_type == "TR_J2"
+        or report_type == "TR_J3"
+        or report_type == "TR_J4"
+    ):
         return MajorReportType.TITLE
 
     elif report_type == "IR" or report_type == "IR_A1" or report_type == "IR_M1":
@@ -159,11 +194,11 @@ def save_data_as_tsv(file_name: str, data: Sequence[Any]):
 
     :param file_name: the name and location to save the results at
     :param data: the data to save in the file"""
-    file = open(file_name, 'w', newline="", encoding='utf-8')
-    if file.mode == 'w':
-        output = csv.writer(file, delimiter='\t', quotechar='\"')
+    file = open(file_name, "w", newline="", encoding="utf-8")
+    if file.mode == "w":
+        output = csv.writer(file, delimiter="\t", quotechar='"')
         for row in data:
             output.writerow(row)
         file.close()
     else:
-        print('Error: could not open file ' + file_name)
+        print("Error: could not open file " + file_name)

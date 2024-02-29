@@ -7,8 +7,8 @@ Metric_Types
 Report_Filters	Data_Type=Database
 Report_Attributes	Attributes_To_Show=Data_Type|Access_Method
 Exceptions	3030: No Usage Available for Requested Dates (Requested data between 2024-01-01 and 2024-01-31)
-Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-01-31
-Created	2024-02-25T02:35:27Z
+Reporting_Period	End_Date=2024-01-31; Begin_Date=2024-01-01
+Created	2024-02-29T02:45:41Z
 Created_By	Atypon Systems LLC.
 
 Database	Publisher	Publisher_ID	Platform	Proprietary_ID	Data_Type	Access_Method	Metric_Type	Reporting_Period_Total	Jan-2024

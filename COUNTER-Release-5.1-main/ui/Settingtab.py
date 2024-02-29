@@ -14,7 +14,7 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 class Ui_SettingTab(object):
     def setupUi(self, SettingTab):
         SettingTab.setObjectName("SettingTab")
-        SettingTab.resize(539, 508)
+        SettingTab.resize(605, 595)
         SettingTab.setStyleSheet("*{\n"
 "    \n"
 "border:none;\n"
@@ -79,29 +79,28 @@ class Ui_SettingTab(object):
         font.setFamily("Georgia")
         font.setPointSize(14)
         font.setBold(True)
+        font.setItalic(False)
         self.save_button.setFont(font)
-        self.save_button.setStyleSheet("\n"
-"  QPushButton {\n"
-"    border: 2px solid #000000;\n"
-"border-color:grey;\n"
-"border-radius:15px;\n"
-"text-align:center;\n"
+        self.save_button.setStyleSheet("QPushButton {\n"
+"    background-color: #1768E3; \n"
+"    color: #FFFFFF;\n"
+"    font: bold;\n"
+"   border-radius: 4px;\n"
+"text: center;\n"
 "}\n"
 "\n"
-"QPushButton:hover {\n"
-"    background-color: lightblue;\n"
+"QPushButton:hover{\n"
+" background-color: #2095E6;\n"
+"cursor: pointer;\n"
 "}\n"
-"QToolTip {\n"
-"    color: black; \n"
-"    background-color: #FFFFE0; \n"
-"}\n"
+"\n"
 "")
         icon = QtGui.QIcon()
         icon.addPixmap(QtGui.QPixmap("../Final Project/COUNTER-Release-5.1/ui/resources/Icons/diskette.png"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
         self.save_button.setIcon(icon)
         self.save_button.setIconSize(QtCore.QSize(25, 25))
         self.save_button.setObjectName("save_button")
-        self.gridLayout_6.addWidget(self.save_button, 0, 0, 1, 1)
+        self.gridLayout_6.addWidget(self.save_button, 0, 0, 1, 1, QtCore.Qt.AlignHCenter|QtCore.Qt.AlignVCenter)
         self.horizontalLayout.addLayout(self.gridLayout_6)
         spacerItem1 = QtWidgets.QSpacerItem(40, 20, QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Minimum)
         self.horizontalLayout.addItem(spacerItem1)
@@ -173,10 +172,40 @@ class Ui_SettingTab(object):
         font.setPointSize(12)
         self.concurrent_reports_spin_box.setFont(font)
         self.concurrent_reports_spin_box.setStyleSheet("QSpinBox {\n"
-"    color: black; /* 文本颜色为黑色 */\n"
-"    background-color: #cccccc;\n"
+"    border: 2px solid #808080;\n"
+"    border-radius: 4px;\n"
+"    padding-left: 5px;\n"
+"padding: 2px;\n"
 "}\n"
-"")
+"\n"
+"QSpinBox::up-button, QSpinBox::down-button {\n"
+"    border: none;\n"
+"    padding-right: 5px;\n"
+"}\n"
+"\n"
+"QSpinBox::up-button {\n"
+"    subcontrol-position: top right;\n"
+"}\n"
+"\n"
+"QSpinBox::down-button {\n"
+"    subcontrol-position: bottom right;\n"
+"}\n"
+"\n"
+"QSpinBox::up-arrow, QSpinBox::down-arrow {\n"
+"    border: 5px solid rgba(255, 255, 255, 0);\n"
+"    width: 0;\n"
+"    height: 0;\n"
+"}\n"
+"\n"
+"QSpinBox::up-arrow {\n"
+"    border-top: none;\n"
+"    border-bottom-color: white;\n"
+"}\n"
+"\n"
+"QSpinBox::down-arrow {\n"
+"    border-bottom: none;\n"
+"    border-top-color: white;\n"
+"}")
         self.concurrent_reports_spin_box.setMaximum(9999)
         self.concurrent_reports_spin_box.setObjectName("concurrent_reports_spin_box")
         self.gridLayout.addWidget(self.concurrent_reports_spin_box, 4, 1, 1, 3)
@@ -186,10 +215,40 @@ class Ui_SettingTab(object):
         font.setPointSize(12)
         self.concurrent_vendors_spin_box.setFont(font)
         self.concurrent_vendors_spin_box.setStyleSheet("QSpinBox {\n"
-"    color: black; /* 文本颜色为黑色 */\n"
-"    background-color: #cccccc;\n"
+"    border: 2px solid #808080;\n"
+"    border-radius: 4px;\n"
+"    padding-left: 5px;\n"
+"padding: 2px;\n"
 "}\n"
-"")
+"\n"
+"QSpinBox::up-button, QSpinBox::down-button {\n"
+"    border: none;\n"
+"    padding-right: 5px;\n"
+"}\n"
+"\n"
+"QSpinBox::up-button {\n"
+"    subcontrol-position: top right;\n"
+"}\n"
+"\n"
+"QSpinBox::down-button {\n"
+"    subcontrol-position: bottom right;\n"
+"}\n"
+"\n"
+"QSpinBox::up-arrow, QSpinBox::down-arrow {\n"
+"    border: 5px solid rgba(255, 255, 255, 0);\n"
+"    width: 0;\n"
+"    height: 0;\n"
+"}\n"
+"\n"
+"QSpinBox::up-arrow {\n"
+"    border-top: none;\n"
+"    border-bottom-color: white;\n"
+"}\n"
+"\n"
+"QSpinBox::down-arrow {\n"
+"    border-bottom: none;\n"
+"    border-top-color: white;\n"
+"}")
         self.concurrent_vendors_spin_box.setMaximum(9999)
         self.concurrent_vendors_spin_box.setObjectName("concurrent_vendors_spin_box")
         self.gridLayout.addWidget(self.concurrent_vendors_spin_box, 3, 1, 1, 3)
@@ -199,10 +258,40 @@ class Ui_SettingTab(object):
         font.setPointSize(12)
         self.request_timeout_spin_box.setFont(font)
         self.request_timeout_spin_box.setStyleSheet("QSpinBox {\n"
-"    color: black; /* 文本颜色为黑色 */\n"
-"    background-color: #cccccc;\n"
+"    border: 2px solid #808080;\n"
+"    border-radius: 4px;\n"
+"    padding-left: 5px;\n"
+"padding: 2px;\n"
 "}\n"
-"")
+"\n"
+"QSpinBox::up-button, QSpinBox::down-button {\n"
+"    border: none;\n"
+"    padding-right: 5px;\n"
+"}\n"
+"\n"
+"QSpinBox::up-button {\n"
+"    subcontrol-position: top right;\n"
+"}\n"
+"\n"
+"QSpinBox::down-button {\n"
+"    subcontrol-position: bottom right;\n"
+"}\n"
+"\n"
+"QSpinBox::up-arrow, QSpinBox::down-arrow {\n"
+"    border: 5px solid rgba(255, 255, 255, 0);\n"
+"    width: 0;\n"
+"    height: 0;\n"
+"}\n"
+"\n"
+"QSpinBox::up-arrow {\n"
+"    border-top: none;\n"
+"    border-bottom-color: white;\n"
+"}\n"
+"\n"
+"QSpinBox::down-arrow {\n"
+"    border-bottom: none;\n"
+"    border-top-color: white;\n"
+"}")
         self.request_timeout_spin_box.setMaximum(9999)
         self.request_timeout_spin_box.setObjectName("request_timeout_spin_box")
         self.gridLayout.addWidget(self.request_timeout_spin_box, 2, 1, 1, 3)
@@ -212,10 +301,11 @@ class Ui_SettingTab(object):
         font.setPointSize(12)
         self.user_agent_edit.setFont(font)
         self.user_agent_edit.setStyleSheet("QLineEdit {\n"
-"    color: black; /* 文本颜色为黑色 */\n"
-"    background-color: #cccccc;\n"
-"}\n"
-"")
+"    border: 2px solid #808080;\n"
+"    border-radius: 4px;\n"
+"    padding-left: 5px;\n"
+"    padding: 4px;\n"
+"}")
         self.user_agent_edit.setObjectName("user_agent_edit")
         self.gridLayout.addWidget(self.user_agent_edit, 5, 1, 1, 3)
         self.request_interval_spin_box = QtWidgets.QSpinBox(self.frame_2)
@@ -224,10 +314,40 @@ class Ui_SettingTab(object):
         font.setPointSize(12)
         self.request_interval_spin_box.setFont(font)
         self.request_interval_spin_box.setStyleSheet("QSpinBox {\n"
-"    color: black; /* 文本颜色为黑色 */\n"
-"    background-color: #cccccc;\n"
+"    border: 2px solid #808080;\n"
+"    border-radius: 4px;\n"
+"    padding-left: 5px;\n"
+"    padding: 2px;\n"
 "}\n"
-"")
+"\n"
+"QSpinBox::up-button, QSpinBox::down-button {\n"
+"    border: none;\n"
+"    padding-right: 5px;\n"
+"}\n"
+"\n"
+"QSpinBox::up-button {\n"
+"    subcontrol-position: top right;\n"
+"}\n"
+"\n"
+"QSpinBox::down-button {\n"
+"    subcontrol-position: bottom right;\n"
+"}\n"
+"\n"
+"QSpinBox::up-arrow, QSpinBox::down-arrow {\n"
+"    border: 5px solid rgba(255, 255, 255, 0);\n"
+"    width: 0;\n"
+"    height: 0;\n"
+"}\n"
+"\n"
+"QSpinBox::up-arrow {\n"
+"    border-top: none;\n"
+"    border-bottom-color: white;\n"
+"}\n"
+"\n"
+"QSpinBox::down-arrow {\n"
+"    border-bottom: none;\n"
+"    border-top-color: white;\n"
+"}")
         self.request_interval_spin_box.setMaximum(9999)
         self.request_interval_spin_box.setObjectName("request_interval_spin_box")
         self.gridLayout.addWidget(self.request_interval_spin_box, 1, 1, 1, 3)
@@ -237,8 +357,9 @@ class Ui_SettingTab(object):
         font.setPointSize(12)
         self.directory_edit.setFont(font)
         self.directory_edit.setStyleSheet("QLineEdit {\n"
-"    color: black; /* 文本颜色为黑色 */\n"
-"    background-color: #cccccc;\n"
+"    color: white; \n"
+"    background-color: #2E2F30;\n"
+"    padding: 4px;\n"
 "}\n"
 "")
         self.directory_edit.setObjectName("directory_edit")
@@ -247,33 +368,51 @@ class Ui_SettingTab(object):
         font = QtGui.QFont()
         font.setFamily("Georgia")
         font.setPointSize(12)
+        font.setBold(True)
+        font.setItalic(False)
         self.select_directory_button.setFont(font)
-        self.select_directory_button.setStyleSheet("QPushButton:hover {\n"
-"    background-color: #0000FF; /* 鼠标悬停时的背景颜色为蓝色 */\n"
-"    color: #FFFFFF; /* 鼠标悬停时的文字颜色为白色 */\n"
+        self.select_directory_button.setStyleSheet("QPushButton {\n"
+"    background-color: #1768E3; \n"
+"    color: #FFFFFF;\n"
+"    font: bold;\n"
+"   border-radius: 4px;\n"
+"text: center;\n"
 "}\n"
+"\n"
+"QPushButton:hover{\n"
+" background-color: #2095E6;\n"
+"}\n"
+"\n"
 "")
         icon1 = QtGui.QIcon()
         icon1.addPixmap(QtGui.QPixmap("../Final Project/COUNTER-Release-5.1/ui/resources/Icons/folder.png"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
         self.select_directory_button.setIcon(icon1)
         self.select_directory_button.setObjectName("select_directory_button")
-        self.gridLayout.addWidget(self.select_directory_button, 0, 4, 1, 1)
+        self.gridLayout.addWidget(self.select_directory_button, 0, 4, 1, 1, QtCore.Qt.AlignHCenter|QtCore.Qt.AlignVCenter)
         self.directory_type_comboBox = QtWidgets.QComboBox(self.frame_2)
         self.directory_type_comboBox.setEnabled(True)
         font = QtGui.QFont()
         font.setFamily("Georgia")
         font.setPointSize(12)
         self.directory_type_comboBox.setFont(font)
-        self.directory_type_comboBox.setStyleSheet("QComboBox {\n"
-"    color: black; /* QComboBox中的文本颜色为黑色 */\n"
-"    background-color: #cccccc;\n"
+        self.directory_type_comboBox.setStyleSheet("\n"
+"QComboBox {\n"
+"    color: white; \n"
+"    background-color: #2E2F30;\n"
+"border-radius: 4px;\n"
+"padding: 4px;\n"
 "}\n"
 "\n"
 "QComboBox QAbstractItemView {\n"
-"    color: black; /* 下拉列表中的文本颜色为黑色 */\n"
+"    color: white; \n"
+"    background-color: #2E2F30;\n"
+"    border-radius: 4px;\n"
 "}\n"
+"\n"
 "")
         self.directory_type_comboBox.setEditable(False)
+        self.directory_type_comboBox.setSizeAdjustPolicy(QtWidgets.QComboBox.AdjustToMinimumContentsLengthWithIcon)
+        self.directory_type_comboBox.setMinimumContentsLength(15)
         self.directory_type_comboBox.setObjectName("directory_type_comboBox")
         self.directory_type_comboBox.addItem("")
         self.directory_type_comboBox.addItem("")
@@ -312,22 +451,19 @@ class Ui_SettingTab(object):
         font.setFamily("Georgia")
         font.setPointSize(14)
         font.setBold(True)
+        font.setItalic(False)
         self.settings_rebuild_database_button.setFont(font)
-        self.settings_rebuild_database_button.setStyleSheet("\n"
-"  QPushButton {\n"
-"    border: 2px solid #000000;\n"
-"border-color:grey;\n"
-"border-radius:15px;\n"
-"text-align:center;\n"
+        self.settings_rebuild_database_button.setStyleSheet("QPushButton {\n"
+"    background-color: #1768E3; \n"
+"    color: #FFFFFF;\n"
+"    font: bold;\n"
+"   border-radius: 4px;\n"
+"text: center;\n"
 "}\n"
 "\n"
-"QPushButton:hover {\n"
-"    background-color: lightblue;\n"
-"}\n"
-"\n"
-"QToolTip {\n"
-"    color: black; \n"
-"    background-color: #FFFFE0; \n"
+"QPushButton:hover{\n"
+" background-color: #2095E6;\n"
+"cursor: pointer;\n"
 "}\n"
 "\n"
 "")
@@ -336,7 +472,7 @@ class Ui_SettingTab(object):
         self.settings_rebuild_database_button.setIcon(icon2)
         self.settings_rebuild_database_button.setIconSize(QtCore.QSize(25, 25))
         self.settings_rebuild_database_button.setObjectName("settings_rebuild_database_button")
-        self.gridLayout_3.addWidget(self.settings_rebuild_database_button, 0, 1, 1, 1)
+        self.gridLayout_3.addWidget(self.settings_rebuild_database_button, 0, 1, 1, 1, QtCore.Qt.AlignHCenter|QtCore.Qt.AlignVCenter)
         spacerItem4 = QtWidgets.QSpacerItem(40, 20, QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Minimum)
         self.gridLayout_3.addItem(spacerItem4, 0, 2, 1, 1)
         self.gridLayout_2.addLayout(self.gridLayout_3, 0, 0, 1, 1)

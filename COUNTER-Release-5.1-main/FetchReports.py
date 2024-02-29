@@ -1012,14 +1012,11 @@ class FetchReportsAbstract:
 
         :param request_data: The request data for this vendor request
         """
-        print("🥶🥶🥶🥶  request_data: ", request_data)
         worker_id = request_data.vendor.name
-        # print("🔥  worker_id: ", worker_id);
         if worker_id in self.vendor_workers:
             return  # Avoid processing a vendor twice
 
         vendor_worker = VendorWorker(worker_id, request_data)
-        # print("🔥  vendor_worker: ", vendor_worker);
         vendor_worker.worker_finished_signal.connect(self.on_vendor_worker_finished)
         vendor_thread = QThread()
         self.vendor_workers[worker_id] = vendor_worker, vendor_thread
@@ -1096,13 +1093,11 @@ class FetchReportsAbstract:
         logging.info(
             f"Vendor : {vendor.name} status:  {vendor_result.completion_status} message: {vendor_result.message}"
         )
-        # print("😜 vendor: ", vendor.name)
-        # print("😜😜 vendor_result: ", vendor_result)
+
         for report_result in report_results:
             result_widget = self.get_result_widget(
                 vendor, vendor_results_widget, report_result
             )
-            # print("🥶🥶🥶 report_result: ", report_result)
             vertical_layout.addWidget(result_widget)
 
     def get_result_widget(
@@ -1968,7 +1963,7 @@ class FetchReportsController(FetchReportsAbstract):
         formatted_date = curr_date.toString(
             "yyyy-MM-dd-"
         ) + QTime.currentTime().toString("hh:mm:ss")
-        # print(formatted_date)
+
         logging.basicConfig(
             level=logging.INFO,
             filename=f"{directory_path}/all_data/Logs/{formatted_date}-v{'50' if self.curr_version == '5.0' else '51'}.log",
@@ -1990,7 +1985,6 @@ class FetchReportsController(FetchReportsAbstract):
             )
             self.selected_data.append(request_data)
 
-        # print("🔥  self.selected_data: ", len(self.selected_data))
         self.is_last_fetch_advanced = False
         self.start_progress_dialog("Fetch Reports Progress")
         self.retry_data = []
@@ -2004,7 +1998,6 @@ class FetchReportsController(FetchReportsAbstract):
             and self.started_processes < concurrent_vendors
         ):
             request_data = self.selected_data[self.started_processes]
-            # print("🔥  request_data: ", request_data);
             self.fetch_vendor_data(request_data)
             self.started_processes += 1
 
@@ -2033,7 +2026,7 @@ class FetchReportsController(FetchReportsAbstract):
         formatted_date = curr_date.toString(
             "yyyy-MM-dd-"
         ) + QTime.currentTime().toString("hh:mm:ss")
-        # print(formatted_date)
+
         logging.basicConfig(
             level=logging.INFO,
             filename=f"{directory_path}/all_data/Logs/{formatted_date}-v{'50' if self.curr_version == '5.0' else '51'}.log",
@@ -2110,7 +2103,6 @@ class FetchReportsController(FetchReportsAbstract):
             #     else f"{directory_path}/all_data/special_reports/"
             # )
 
-        # print("🔥  selected_report_types: ", selected_report_types)
 
         for i in range(self.vendor_list_model.rowCount()):
             if self.vendor_list_model.item(i).checkState() == Qt.Checked:

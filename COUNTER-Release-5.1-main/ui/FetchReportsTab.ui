@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>1010</width>
-    <height>752</height>
+    <height>693</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -184,7 +184,10 @@ border: none ;
                         </sizepolicy>
                        </property>
                        <property name="styleSheet">
-                        <string notr="true">color:white;</string>
+                        <string notr="true">color:white;
+background-color: #1E1E1E;
+border-radius: 4px;
+padding: 2px;</string>
                        </property>
                        <property name="movement">
                         <enum>QListView::Static</enum>
@@ -266,8 +269,47 @@ border: none ;
                      </item>
                      <item row="2" column="1">
                       <widget class="QDateEdit" name="end_date_edit_fetch_year">
+                       <property name="minimumSize">
+                        <size>
+                         <width>0</width>
+                         <height>20</height>
+                        </size>
+                       </property>
                        <property name="styleSheet">
-                        <string notr="true"/>
+                        <string notr="true">QDateEdit {
+    border: 2px solid #808080;
+    border-radius: 4px;
+    padding-left: 5px;
+}
+
+QDateEdit::up-button, QDateEdit::down-button {
+    border: none;
+    padding-right: 5px;
+}
+
+QDateEdit::up-button {
+    subcontrol-position: top right;
+}
+
+QDateEdit::down-button {
+    subcontrol-position: bottom right;
+}
+
+QDateEdit::up-arrow, QDateEdit::down-arrow {
+    border: 5px solid rgba(255, 255, 255, 0);
+    width: 0;
+    height: 0;
+}
+
+QDateEdit::up-arrow {
+    border-top: none;
+    border-bottom-color: white;
+}
+
+QDateEdit::down-arrow {
+    border-bottom: none;
+    border-top-color: white;
+}</string>
                        </property>
                        <property name="displayFormat">
                         <string>yyyy</string>
@@ -295,8 +337,47 @@ border: none ;
                          <verstretch>0</verstretch>
                         </sizepolicy>
                        </property>
+                       <property name="minimumSize">
+                        <size>
+                         <width>0</width>
+                         <height>20</height>
+                        </size>
+                       </property>
                        <property name="styleSheet">
-                        <string notr="true">font-size:15;</string>
+                        <string notr="true">QDateEdit {
+    border: 2px solid #808080;
+    border-radius: 4px;
+    padding-left: 5px;
+}
+
+QDateEdit::up-button, QDateEdit::down-button {
+    border: none;
+    padding-right: 5px;
+}
+
+QDateEdit::up-button {
+    subcontrol-position: top right;
+}
+
+QDateEdit::down-button {
+    subcontrol-position: bottom right;
+}
+
+QDateEdit::up-arrow, QDateEdit::down-arrow {
+    border: 5px solid rgba(255, 255, 255, 0);
+    width: 0;
+    height: 0;
+}
+
+QDateEdit::up-arrow {
+    border-top: none;
+    border-bottom-color: white;
+}
+
+QDateEdit::down-arrow {
+    border-bottom: none;
+    border-top-color: white;
+}</string>
                        </property>
                        <property name="dateTime">
                         <datetime>
@@ -348,68 +429,17 @@ border: none ;
                         </font>
                        </property>
                        <property name="styleSheet">
-                        <string notr="true"/>
+                        <string notr="true">color:white;
+border-radius: 0px;
+background: #2E2F30;
+padding-left: 5px;</string>
                        </property>
-                       <item>
-                        <property name="text">
-                         <string>January</string>
-                        </property>
-                       </item>
-                       <item>
-                        <property name="text">
-                         <string>Feburary</string>
-                        </property>
-                       </item>
-                       <item>
-                        <property name="text">
-                         <string>March</string>
-                        </property>
-                       </item>
-                       <item>
-                        <property name="text">
-                         <string>April</string>
-                        </property>
-                       </item>
-                       <item>
-                        <property name="text">
-                         <string>May</string>
-                        </property>
-                       </item>
-                       <item>
-                        <property name="text">
-                         <string>June</string>
-                        </property>
-                       </item>
-                       <item>
-                        <property name="text">
-                         <string>July</string>
-                        </property>
-                       </item>
-                       <item>
-                        <property name="text">
-                         <string>August</string>
-                        </property>
-                       </item>
-                       <item>
-                        <property name="text">
-                         <string>September</string>
-                        </property>
-                       </item>
-                       <item>
-                        <property name="text">
-                         <string>October</string>
-                        </property>
-                       </item>
-                       <item>
-                        <property name="text">
-                         <string>November</string>
-                        </property>
-                       </item>
-                       <item>
-                        <property name="text">
-                         <string>December</string>
-                        </property>
-                       </item>
+                       <property name="sizeAdjustPolicy">
+                        <enum>QComboBox::AdjustToMinimumContentsLengthWithIcon</enum>
+                       </property>
+                       <property name="minimumContentsLength">
+                        <number>10</number>
+                       </property>
                       </widget>
                      </item>
                      <item row="2" column="3">
@@ -421,68 +451,17 @@ border: none ;
                         </font>
                        </property>
                        <property name="styleSheet">
-                        <string notr="true"/>
+                        <string notr="true">color:white;
+border-radius: 0px;
+background: #2E2F30;
+padding-left: 5px;</string>
                        </property>
-                       <item>
-                        <property name="text">
-                         <string>January</string>
-                        </property>
-                       </item>
-                       <item>
-                        <property name="text">
-                         <string>Feburary</string>
-                        </property>
-                       </item>
-                       <item>
-                        <property name="text">
-                         <string>March</string>
-                        </property>
-                       </item>
-                       <item>
-                        <property name="text">
-                         <string>April</string>
-                        </property>
-                       </item>
-                       <item>
-                        <property name="text">
-                         <string>May</string>
-                        </property>
-                       </item>
-                       <item>
-                        <property name="text">
-                         <string>June</string>
-                        </property>
-                       </item>
-                       <item>
-                        <property name="text">
-                         <string>July</string>
-                        </property>
-                       </item>
-                       <item>
-                        <property name="text">
-                         <string>August</string>
-                        </property>
-                       </item>
-                       <item>
-                        <property name="text">
-                         <string>September</string>
-                        </property>
-                       </item>
-                       <item>
-                        <property name="text">
-                         <string>October</string>
-                        </property>
-                       </item>
-                       <item>
-                        <property name="text">
-                         <string>November</string>
-                        </property>
-                       </item>
-                       <item>
-                        <property name="text">
-                         <string>December</string>
-                        </property>
-                       </item>
+                       <property name="sizeAdjustPolicy">
+                        <enum>QComboBox::AdjustToMinimumContentsLengthWithIcon</enum>
+                       </property>
+                       <property name="minimumContentsLength">
+                        <number>10</number>
+                       </property>
                       </widget>
                      </item>
                      <item row="0" column="0" colspan="4">
@@ -591,7 +570,10 @@ border: 2px solid grey ;
                      <item row="4" column="0" colspan="2">
                       <widget class="QListView" name="vendors_list_view_fetch">
                        <property name="styleSheet">
-                        <string notr="true">color:white;</string>
+                        <string notr="true">color:white;
+background-color: #1E1E1E;
+border-radius: 4px;
+padding: 2px;</string>
                        </property>
                       </widget>
                      </item>
@@ -845,7 +827,8 @@ border:none;
                         <item row="1" column="0">
                          <widget class="QLineEdit" name="custom_dir_edit">
                           <property name="styleSheet">
-                           <string notr="true">color:white;</string>
+                           <string notr="true">color:white;
+background-color: #1E1E1E;</string>
                           </property>
                          </widget>
                         </item>
@@ -1012,8 +995,47 @@ alignment: AlignCenter;
                    <verstretch>0</verstretch>
                   </sizepolicy>
                  </property>
+                 <property name="minimumSize">
+                  <size>
+                   <width>0</width>
+                   <height>23</height>
+                  </size>
+                 </property>
                  <property name="styleSheet">
-                  <string notr="true"/>
+                  <string notr="true">QDateEdit {
+    border: 2px solid #808080;
+    border-radius: 4px;
+    padding-left: 5px;
+}
+
+QDateEdit::up-button, QDateEdit::down-button {
+    border: none;
+    padding-right: 5px;
+}
+
+QDateEdit::up-button {
+    subcontrol-position: top right;
+}
+
+QDateEdit::down-button {
+    subcontrol-position: bottom right;
+}
+
+QDateEdit::up-arrow, QDateEdit::down-arrow {
+    border: 5px solid rgba(255, 255, 255, 0);
+    width: 0;
+    height: 0;
+}
+
+QDateEdit::up-arrow {
+    border-top: none;
+    border-bottom-color: white;
+}
+
+QDateEdit::down-arrow {
+    border-bottom: none;
+    border-top-color: white;
+}</string>
                  </property>
                  <property name="dateTime">
                   <datetime>
@@ -1022,7 +1044,7 @@ alignment: AlignCenter;
                    <second>0</second>
                    <year>2019</year>
                    <month>12</month>
-                   <day>25</day>
+                   <day>24</day>
                   </datetime>
                  </property>
                  <property name="displayFormat">

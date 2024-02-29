@@ -16,6 +16,7 @@ from PyQt5.QtGui import QIcon, QPixmap
 from PyQt5.uic import loadUi
 from PyQt5.QtCore import QPropertyAnimation, QEasingCurve
 import os
+from Search import SearchController
 from Settings import SettingsController
 from ui import (
     AddVendor,
@@ -192,10 +193,11 @@ if __name__ == "__main__":
         fetch_reports_tab,
         fetch_reports_ui,
     )
+
     search_tab = QWidget(main_window)
     search_ui = SearchTab.Ui_Search()
     search_ui.setupUi(search_tab)
-    # search_controller = SearchController(search_ui, settings_controller.settings)
+    search_controller = SearchController(search_ui, settings_controller.settings)
 
     # region Add tabs to main window
     main_window_ui.tab_widget.addTab(

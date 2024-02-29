@@ -7,12 +7,12 @@ Metric_Types
 Report_Filters	
 Report_Attributes	Attributes_To_Show=Data_Type|Access_Method
 Exceptions	
-Reporting_Period	End_Date=2024-01-31; Begin_Date=2024-01-01
-Created	2024-02-23T04:31:03Z
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-01-31
+Created	2024-02-29T02:46:48Z
 Created_By	Atypon Systems LLC.
 
 Platform	Data_Type	Access_Method	Metric_Type	Reporting_Period_Total	Jan-2024
 Annual Reviews	Journal	Regular	Unique_Item_Investigations	48	48
-Annual Reviews	Journal	Regular	Unique_Item_Requests	41	41
-Annual Reviews	Journal	Regular	Total_Item_Investigations	79	79
 Annual Reviews	Journal	Regular	Total_Item_Requests	61	61
+Annual Reviews	Journal	Regular	Total_Item_Investigations	79	79
+Annual Reviews	Journal	Regular	Unique_Item_Requests	41	41

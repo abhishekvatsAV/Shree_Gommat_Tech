@@ -7,8 +7,8 @@ Metric_Types	Searches_Platform; Total_Item_Requests; Unique_Item_Requests; Uniqu
 Report_Filters	Access_Method=Regular
 Report_Attributes	
 Exceptions	
-Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-01-31
-Created	2024-02-25T02:34:48Z
+Reporting_Period	End_Date=2024-01-31; Begin_Date=2024-01-01
+Created	2024-02-29T02:45:01Z
 Created_By	Atypon Systems LLC.
 
 Platform	Metric_Type	Reporting_Period_Total	Jan-2024

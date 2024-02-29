@@ -14,18 +14,22 @@ from GeneralUtils import JsonModel
 class Setting(Enum):
     """An enum of all settings"""
 
-    YEARLY_DIR = 0
-    OTHER_DIR = 1
-    REQUEST_INTERVAL = 2
-    REQUEST_TIMEOUT = 3
-    CONCURRENT_VENDORS = 4
-    CONCURRENT_REPORTS = 5
-    USER_AGENT = 6
+    DATABASE_LOCATION = 0
+    VENDORS_LOCATION = 1
+    YEARLY_DIR = 2
+    OTHER_DIR = 3
+    REQUEST_INTERVAL = 4
+    REQUEST_TIMEOUT = 5
+    CONCURRENT_VENDORS = 6
+    CONCURRENT_REPORTS = 7
+    USER_AGENT = 8
 
 
 class SettingsModel(JsonModel):
     """This holds the user's settings.
 
+    :param database_location: The location where the database is saved.
+    :param vendors_location: The location where vendor data is saved.
     :param yearly_directory: The directory where yearly reports are saved. Yearly reports are reports that include all
         the available data for a year.
     :param other_directory: The default directory where non-yearly reports are saved.
@@ -39,6 +43,8 @@ class SettingsModel(JsonModel):
     def __init__(
         self,
         # show_debug_messages: bool,
+        database_location: str,
+        vendors_location: str,
         yearly_directory: str,
         other_directory: str,
         request_interval: int,
@@ -51,6 +57,8 @@ class SettingsModel(JsonModel):
         # self.show_debug_messages = show_debug_messages
         self.yearly_directory = path.abspath(yearly_directory) + path.sep
         self.other_directory = path.abspath(other_directory) + path.sep
+        self.database_location = path.abspath(database_location)
+        self.vendors_location = path.abspath(vendors_location)
         self.request_interval = request_interval
         self.request_timeout = request_timeout
         self.concurrent_vendors = concurrent_vendors
@@ -65,6 +73,16 @@ class SettingsModel(JsonModel):
         #     if "show_debug_messages" in json_dict
         #     else SHOW_DEBUG_MESSAGES
         # )
+        database_location = (
+            json_dict["database_location"]
+            if "database_location" in json_dict
+            else DATABASE_LOCATION
+        )
+        vendors_location = (
+            json_dict["vendors_location"]
+            if "vendors_location" in json_dict
+            else VENDORS_FILE_PATH
+        )
         yearly_directory = (
             json_dict["yearly_directory"]
             if "yearly_directory" in json_dict
@@ -106,6 +124,8 @@ class SettingsModel(JsonModel):
 
         return cls(
             # show_debug_messages,
+            database_location,
+            vendors_location,
             yearly_directory,
             other_directory,
             request_interval,
@@ -150,10 +170,9 @@ class SettingsController(QObject):
         self.concurrent_reports_spin_box = settings_ui.concurrent_reports_spin_box
         self.user_agent_edit = settings_ui.user_agent_edit
 
+        self.dir_edit.setText(self.settings.database_location)
         self.dir_edit.textChanged.connect(self.on_dir_edit_changed)
         self.dir_type_comboBox.currentIndexChanged.connect(self.update_dir_edit)
-        # self.yearly_dir_edit.setText(self.settings.yearly_directory)
-        # self.other_dir_edit.setText(self.settings.other_directory)
         self.request_interval_spin_box.setValue(self.settings.request_interval)
         self.request_timeout_spin_box.setValue(self.settings.request_timeout)
         self.concurrent_vendors_spin_box.setValue(self.settings.concurrent_vendors)
@@ -163,12 +182,9 @@ class SettingsController(QObject):
         settings_ui.select_directory_button.clicked.connect(
             self.on_directory_setting_clicked
         )
-        # settings_ui.yearly_directory_button.clicked.connect(
-        #     lambda: self.on_directory_setting_clicked(Setting.YEARLY_DIR)
-        # )
-        # settings_ui.other_directory_button.clicked.connect(
-        #     lambda: self.on_directory_setting_clicked(Setting.OTHER_DIR)
-        # )
+
+        settings_ui.save_button.clicked.connect(self.on_save_button_clicked)
+        # endregion
 
         # region Search
         # set up restore database button
@@ -180,13 +196,15 @@ class SettingsController(QObject):
         self.rebuild_database_button.clicked.connect(self.on_rebuild_database_clicked)
         # endregion
 
-        settings_ui.save_button.clicked.connect(self.on_save_button_clicked)
-
     def update_dir_edit(self, index):
         if self.dir_type_comboBox.currentText() == "Yearly reports":
             self.dir_edit.setText(self.settings.yearly_directory)
         elif self.dir_type_comboBox.currentText() == "Other reports":
             self.dir_edit.setText(self.settings.other_directory)
+        elif self.dir_type_comboBox.currentText() == "Search database":
+            self.dir_edit.setText(self.settings.database_location)
+        elif self.dir_type_comboBox.currentText() == "Vendor data file":
+            self.dir_edit.setText(self.settings.vendors_location)
         else:
             self.dir_edit.setText("")
 
@@ -195,6 +213,10 @@ class SettingsController(QObject):
             self.settings.yearly_directory = new_text
         elif self.dir_type_comboBox.currentText() == "Other reports":
             self.settings.other_directory = new_text
+        elif self.dir_type_comboBox.currentText() == "Search database":
+            self.settings.database_location = new_text
+        elif self.dir_type_comboBox.currentText() == "Vendor data file":
+            self.settings.vendors_location = new_text
 
     def on_directory_setting_clicked(self):
         """Handles the signal emitted when a choose folder button is clicked
@@ -203,16 +225,26 @@ class SettingsController(QObject):
         """
         if self.dir_type_comboBox.currentText() == "Yearly reports":
             setting = Setting.YEARLY_DIR
+            dir_path = GeneralUtils.choose_directory()
         elif self.dir_type_comboBox.currentText() == "Other reports":
             setting = Setting.OTHER_DIR
-        dir_path = GeneralUtils.choose_directory()
+            dir_path = GeneralUtils.choose_directory()
+        elif self.dir_type_comboBox.currentText() == "Search database":
+            setting = Setting.DATABASE_LOCATION
+            dir_path = GeneralUtils.choose_database_file()
+        elif self.dir_type_comboBox.currentText() == "Vendor data file":
+            setting = Setting.VENDORS_LOCATION
+            dir_path = GeneralUtils.choose_dat_file()
+
         if dir_path:
             if setting == Setting.YEARLY_DIR:
-                # self.yearly_dir_edit.setText(dir_path)
                 self.settings.yearly_directory = dir_path
             elif setting == Setting.OTHER_DIR:
-                # self.other_dir_edit.setText(dir_path)
                 self.settings.other_directory = dir_path
+            elif setting == Setting.DATABASE_LOCATION:
+                self.settings.database_location = dir_path
+            elif setting == Setting.VENDORS_LOCATION:
+                self.settings.vendors_location = dir_path
 
             self.dir_edit.setText(dir_path)
 

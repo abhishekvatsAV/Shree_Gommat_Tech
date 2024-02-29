@@ -7,8 +7,8 @@ Metric_Types	Total_Item_Investigations; Total_Item_Requests; Unique_Item_Investi
 Report_Filters	Access_Method=Regular; Data_Type=Book
 Report_Attributes	
 Exceptions	3030: No Usage Available for Requested Dates (Requested data between 2024-01-01 and 2024-01-31)
-Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-01-31
-Created	2024-02-23T05:28:20Z
+Reporting_Period	End_Date=2024-01-31; Begin_Date=2024-01-01
+Created	2024-02-29T02:45:11Z
 Created_By	Atypon Systems LLC.
 
 Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	ISBN	Print_ISSN	Online_ISSN	URI	YOP	Access_Type	Metric_Type	Reporting_Period_Total	Jan-2024
