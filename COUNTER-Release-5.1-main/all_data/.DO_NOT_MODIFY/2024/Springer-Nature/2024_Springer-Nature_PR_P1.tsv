@@ -1,0 +1,26 @@
+Report_Name	Platform Usage
+Report_ID	PR_P1
+Release	5
+Institution_Name	Robertson Library, UPEI
+Institution_ID	SN:3000162182
+Metric_Types	Searches_Platform; Total_Item_Requests; Unique_Item_Requests; Unique_Title_Requests
+Report_Filters	Access_Method=Regular
+Report_Attributes	
+Exceptions	
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-01T14:02:20Z
+Created_By	SpringerNature
+
+Platform	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+nature.com	Unique_Item_Requests	725	725	0
+nature.com	Total_Item_Requests	964	964	0
+nature.com	Searches_Platform	23	23	0
+SN:ResearchGate	Unique_Item_Requests	83	83	0
+SN:ResearchGate	Total_Item_Requests	90	90	0
+SpringerLink	Unique_Item_Requests	1905	1905	0
+SpringerLink	Total_Item_Requests	2663	2663	0
+SpringerLink	Searches_Platform	49	49	0
+SpringerLink	Unique_Title_Requests	149	149	0
+SpringerMaterials	Unique_Item_Requests	1	1	0
+SpringerMaterials	Total_Item_Requests	2	2	0
+SpringerMaterials	Searches_Platform	14	14	0

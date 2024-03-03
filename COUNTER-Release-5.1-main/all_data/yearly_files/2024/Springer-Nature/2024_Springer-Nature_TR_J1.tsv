@@ -1,0 +1,1078 @@
+Report_Name	Journal Requests (Excluding OA_Gold)
+Report_ID	TR_J1
+Release	5
+Institution_Name	Robertson Library, UPEI
+Institution_ID	SN:3000162182
+Metric_Types	Total_Item_Requests; Unique_Item_Requests
+Report_Filters	Data_Type=Journal; Access_Type=Controlled; Access_Method=Regular
+Report_Attributes	
+Exceptions	
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-01T14:02:22Z
+Created_By	SpringerNature
+
+Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	Print_ISSN	Online_ISSN	URI	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+3 Biotech	Springer International Publishing		SpringerLink	10.1007/13205.2190-5738	SN:13205	2190-572X	2190-5738		Unique_Item_Requests	2	2	0
+3 Biotech	Springer International Publishing		SpringerLink	10.1007/13205.2190-5738	SN:13205	2190-572X	2190-5738		Total_Item_Requests	2	2	0
+Abdominal Imaging	Springer US		SpringerLink	10.1007/261.1432-0509	SN:261	0942-8925	1432-0509		Unique_Item_Requests	1	1	0
+Abdominal Imaging	Springer US		SpringerLink	10.1007/261.1432-0509	SN:261	0942-8925	1432-0509		Total_Item_Requests	2	2	0
+Academic Psychiatry	Springer International Publishing		SpringerLink		SN:40596	1042-9670	1545-7230		Unique_Item_Requests	2	2	0
+Academic Psychiatry	Springer International Publishing		SpringerLink		SN:40596	1042-9670	1545-7230		Total_Item_Requests	2	2	0
+Acta Geophysica	Springer International Publishing		SpringerLink		SN:11600	1895-6572	1895-7455		Unique_Item_Requests	2	2	0
+Acta Geophysica	Springer International Publishing		SpringerLink		SN:11600	1895-6572	1895-7455		Total_Item_Requests	2	2	0
+Acta Geotechnica	Springer Berlin Heidelberg		SpringerLink	10.1007/11440.1861-1133	SN:11440	1861-1125	1861-1133		Unique_Item_Requests	1	1	0
+Acta Geotechnica	Springer Berlin Heidelberg		SpringerLink	10.1007/11440.1861-1133	SN:11440	1861-1125	1861-1133		Total_Item_Requests	2	2	0
+Acta Mechanica	Springer Vienna		SpringerLink	10.1007/707.1619-6937	SN:707	0001-5970	1619-6937		Unique_Item_Requests	1	1	0
+Acta Mechanica	Springer Vienna		SpringerLink	10.1007/707.1619-6937	SN:707	0001-5970	1619-6937		Total_Item_Requests	2	2	0
+Acta Neurochirurgica	Springer-Verlag		SpringerLink		SN:701	0001-6268	0942-0940		Unique_Item_Requests	1	1	0
+Acta Neurochirurgica	Springer-Verlag		SpringerLink		SN:701	0001-6268	0942-0940		Total_Item_Requests	1	1	0
+Acta Neurologica Belgica	Springer International Publishing		SpringerLink	10.1007/13760.2240-2993	SN:13760	0300-9009	2240-2993		Unique_Item_Requests	1	1	0
+Acta Neurologica Belgica	Springer International Publishing		SpringerLink	10.1007/13760.2240-2993	SN:13760	0300-9009	2240-2993		Total_Item_Requests	3	3	0
+Acta Neuropathologica	Springer-Verlag		SpringerLink		SN:401	0001-6322	1432-0533		Unique_Item_Requests	3	3	0
+Acta Neuropathologica	Springer-Verlag		SpringerLink		SN:401	0001-6322	1432-0533		Total_Item_Requests	4	4	0
+Acta Parasitologica	Springer International Publishing		SpringerLink		SN:11686	1230-2821	1896-1851		Unique_Item_Requests	1	1	0
+Acta Parasitologica	Springer International Publishing		SpringerLink		SN:11686	1230-2821	1896-1851		Total_Item_Requests	2	2	0
+Adaptive Human Behavior and Physiology	Springer International Publishing		SpringerLink		SN:40750		2198-7335		Unique_Item_Requests	1	1	0
+Adaptive Human Behavior and Physiology	Springer International Publishing		SpringerLink		SN:40750		2198-7335		Total_Item_Requests	1	1	0
+Administration and Policy in Mental Health and Mental Health Services Research	Springer US		SpringerLink	10.1007/10488.1573-3289	SN:10488	0894-587X	1573-3289		Unique_Item_Requests	1	1	0
+Administration and Policy in Mental Health and Mental Health Services Research	Springer US		SpringerLink	10.1007/10488.1573-3289	SN:10488	0894-587X	1573-3289		Total_Item_Requests	2	2	0
+Advances in Atmospheric Sciences	Science Press		SpringerLink	10.1007/376.1861-9533	SN:376	0256-1530	1861-9533		Unique_Item_Requests	3	3	0
+Advances in Atmospheric Sciences	Science Press		SpringerLink	10.1007/376.1861-9533	SN:376	0256-1530	1861-9533		Total_Item_Requests	3	3	0
+Advances in Neurodevelopmental Disorders	Springer International Publishing		SpringerLink		SN:41252	2366-7532	2366-7540		Unique_Item_Requests	1	1	0
+Advances in Neurodevelopmental Disorders	Springer International Publishing		SpringerLink		SN:41252	2366-7532	2366-7540		Total_Item_Requests	2	2	0
+Agricultural Research	Springer India		SpringerLink	10.1007/40003.2249-7218	SN:40003	2249-720X	2249-7218		Unique_Item_Requests	1	1	0
+Agricultural Research	Springer India		SpringerLink	10.1007/40003.2249-7218	SN:40003	2249-720X	2249-7218		Total_Item_Requests	2	2	0
+Agronomy for Sustainable Development	Springer Paris		SpringerLink	10.1007/13593.1773-0155	SN:13593	1774-0746	1773-0155		Unique_Item_Requests	6	6	0
+Agronomy for Sustainable Development	Springer Paris		SpringerLink	10.1007/13593.1773-0155	SN:13593	1774-0746	1773-0155		Total_Item_Requests	9	9	0
+Air Quality, Atmosphere & Health	Springer Netherlands		SpringerLink	10.1007/11869.1873-9326	SN:11869	1873-9318	1873-9326		Unique_Item_Requests	1	1	0
+Air Quality, Atmosphere & Health	Springer Netherlands		SpringerLink	10.1007/11869.1873-9326	SN:11869	1873-9318	1873-9326		Total_Item_Requests	1	1	0
+Ambio	Springer Netherlands		SpringerLink	10.1007/13280.1654-7209	SN:13280	0044-7447	1654-7209		Unique_Item_Requests	3	3	0
+Ambio	Springer Netherlands		SpringerLink	10.1007/13280.1654-7209	SN:13280	0044-7447	1654-7209		Total_Item_Requests	4	4	0
+American Journal of Potato Research	Springer US		SpringerLink	10.1007/12230.1874-9380	SN:12230	1099-209X	1874-9380		Unique_Item_Requests	3	3	0
+American Journal of Potato Research	Springer US		SpringerLink	10.1007/12230.1874-9380	SN:12230	1099-209X	1874-9380		Total_Item_Requests	5	5	0
+Amino Acids	Springer Vienna		SpringerLink	10.1007/726.1438-2199	SN:726	0939-4451	1438-2199		Unique_Item_Requests	12	12	0
+Amino Acids	Springer Vienna		SpringerLink	10.1007/726.1438-2199	SN:726	0939-4451	1438-2199		Total_Item_Requests	20	20	0
+Analytical and Bioanalytical Chemistry	Springer Berlin Heidelberg		SpringerLink	10.1007/216.1618-2650	SN:216	1618-2642	1618-2650		Unique_Item_Requests	1	1	0
+Analytical and Bioanalytical Chemistry	Springer Berlin Heidelberg		SpringerLink	10.1007/216.1618-2650	SN:216	1618-2642	1618-2650		Total_Item_Requests	1	1	0
+Animal Cognition	Springer Berlin Heidelberg		SpringerLink	10.1007/10071.1435-9456	SN:10071	1435-9448	1435-9456		Unique_Item_Requests	3	3	0
+Animal Cognition	Springer Berlin Heidelberg		SpringerLink	10.1007/10071.1435-9456	SN:10071	1435-9448	1435-9456		Total_Item_Requests	4	4	0
+Annales Henri Poincaré	Springer International Publishing		SpringerLink	10.1007/23.1424-0661	SN:23	1424-0637	1424-0661		Unique_Item_Requests	1	1	0
+Annales Henri Poincaré	Springer International Publishing		SpringerLink	10.1007/23.1424-0661	SN:23	1424-0637	1424-0661		Total_Item_Requests	2	2	0
+Annals of Biomedical Engineering	Springer International Publishing		SpringerLink	10.1007/10439.1573-9686	SN:10439	0090-6964	1573-9686		Unique_Item_Requests	2	2	0
+Annals of Biomedical Engineering	Springer International Publishing		SpringerLink	10.1007/10439.1573-9686	SN:10439	0090-6964	1573-9686		Total_Item_Requests	3	3	0
+Annals of Operations Research	Springer US		SpringerLink	10.1007/10479.1572-9338	SN:10479	0254-5330	1572-9338		Unique_Item_Requests	2	2	0
+Annals of Operations Research	Springer US		SpringerLink	10.1007/10479.1572-9338	SN:10479	0254-5330	1572-9338		Total_Item_Requests	3	3	0
+Annals of Surgical Oncology	Springer-Verlag		SpringerLink		SN:10434	1068-9265	1534-4681		Unique_Item_Requests	1	1	0
+Annals of Surgical Oncology	Springer-Verlag		SpringerLink		SN:10434	1068-9265	1534-4681		Total_Item_Requests	2	2	0
+Antonie van Leeuwenhoek	Springer International Publishing		SpringerLink	10.1007/10482.1572-9699	SN:10482	0003-6072	1572-9699		Unique_Item_Requests	1	1	0
+Antonie van Leeuwenhoek	Springer International Publishing		SpringerLink	10.1007/10482.1572-9699	SN:10482	0003-6072	1572-9699		Total_Item_Requests	2	2	0
+Applied Intelligence	Springer US		SpringerLink	10.1007/10489.1573-7497	SN:10489	0924-669X	1573-7497		Unique_Item_Requests	1	1	0
+Applied Intelligence	Springer US		SpringerLink	10.1007/10489.1573-7497	SN:10489	0924-669X	1573-7497		Total_Item_Requests	2	2	0
+Applied Magnetic Resonance	Springer Vienna		SN:ResearchGate	10.1007/723.1613-7507	SN:723	0937-9347	1613-7507		Unique_Item_Requests	1	1	0
+Applied Magnetic Resonance	Springer Vienna		SN:ResearchGate	10.1007/723.1613-7507	SN:723	0937-9347	1613-7507		Total_Item_Requests	1	1	0
+Applied Microbiology and Biotechnology	Springer Berlin Heidelberg		SpringerLink	10.1007/253.1432-0614	SN:253	0175-7598	1432-0614		Unique_Item_Requests	7	7	0
+Applied Microbiology and Biotechnology	Springer Berlin Heidelberg		SpringerLink	10.1007/253.1432-0614	SN:253	0175-7598	1432-0614		Total_Item_Requests	9	9	0
+Applied Research in Quality of Life	Springer Netherlands		SpringerLink	10.1007/11482.1871-2576	SN:11482	1871-2584	1871-2576		Unique_Item_Requests	2	2	0
+Applied Research in Quality of Life	Springer Netherlands		SpringerLink	10.1007/11482.1871-2576	SN:11482	1871-2584	1871-2576		Total_Item_Requests	2	2	0
+Aquaculture International	Springer International Publishing		SpringerLink	10.1007/10499.1573-143X	SN:10499	0967-6120	1573-143X		Unique_Item_Requests	4	4	0
+Aquaculture International	Springer International Publishing		SpringerLink	10.1007/10499.1573-143X	SN:10499	0967-6120	1573-143X		Total_Item_Requests	9	9	0
+Arabian Journal of Geosciences	Springer International Publishing		SpringerLink	10.1007/12517.1866-7538	SN:12517	1866-7511	1866-7538		Unique_Item_Requests	6	6	0
+Arabian Journal of Geosciences	Springer International Publishing		SpringerLink	10.1007/12517.1866-7538	SN:12517	1866-7511	1866-7538		Total_Item_Requests	8	8	0
+Archaeologies	Springer US		SpringerLink	10.1007/11759.1935-3987	SN:11759	1555-8622	1935-3987		Unique_Item_Requests	1	1	0
+Archaeologies	Springer US		SpringerLink	10.1007/11759.1935-3987	SN:11759	1555-8622	1935-3987		Total_Item_Requests	1	1	0
+Archival Science	Springer Netherlands		SpringerLink	10.1007/10502.1573-7519	SN:10502	1389-0166	1573-7519		Unique_Item_Requests	1	1	0
+Archival Science	Springer Netherlands		SpringerLink	10.1007/10502.1573-7519	SN:10502	1389-0166	1573-7519		Total_Item_Requests	1	1	0
+Archive for Mathematical Logic	Springer-Verlag		SpringerLink		SN:153	0933-5846	1432-0665		Unique_Item_Requests	1	1	0
+Archive for Mathematical Logic	Springer-Verlag		SpringerLink		SN:153	0933-5846	1432-0665		Total_Item_Requests	1	1	0
+Archives of Dermatological Research	Springer-Verlag		SpringerLink		SN:403	0340-3696	1432-069X		Unique_Item_Requests	1	1	0
+Archives of Dermatological Research	Springer-Verlag		SpringerLink		SN:403	0340-3696	1432-069X		Total_Item_Requests	2	2	0
+Archives of Gynecology and Obstetrics	Springer Berlin Heidelberg		SpringerLink	10.1007/404.1432-0711	SN:404		1432-0711		Unique_Item_Requests	2	2	0
+Archives of Gynecology and Obstetrics	Springer Berlin Heidelberg		SpringerLink	10.1007/404.1432-0711	SN:404		1432-0711		Total_Item_Requests	5	5	0
+Archives of Microbiology	Springer Berlin Heidelberg		SpringerLink	10.1007/203.1432-072X	SN:203	0302-8933	1432-072X		Unique_Item_Requests	3	3	0
+Archives of Microbiology	Springer Berlin Heidelberg		SpringerLink	10.1007/203.1432-072X	SN:203	0302-8933	1432-072X		Total_Item_Requests	5	5	0
+Archives of Sexual Behavior	Springer US		SpringerLink	10.1007/10508.1573-2800	SN:10508	0004-0002	1573-2800		Unique_Item_Requests	20	20	0
+Archives of Sexual Behavior	Springer US		SpringerLink	10.1007/10508.1573-2800	SN:10508	0004-0002	1573-2800		Total_Item_Requests	28	28	0
+Archives of Toxicology	Springer Berlin Heidelberg		SpringerLink	10.1007/204.1432-0738	SN:204	0340-5761	1432-0738		Unique_Item_Requests	6	6	0
+Archives of Toxicology	Springer Berlin Heidelberg		SpringerLink	10.1007/204.1432-0738	SN:204	0340-5761	1432-0738		Total_Item_Requests	6	6	0
+Archives of Virology	Springer Vienna		SpringerLink		SN:705	0304-8608	1432-8798		Unique_Item_Requests	4	4	0
+Archives of Virology	Springer Vienna		SpringerLink		SN:705	0304-8608	1432-8798		Total_Item_Requests	4	4	0
+Arthropod-Plant Interactions	Springer Netherlands		SN:ResearchGate	10.1007/11829.1872-8847	SN:11829	1872-8855	1872-8847		Unique_Item_Requests	1	1	0
+Arthropod-Plant Interactions	Springer Netherlands		SN:ResearchGate	10.1007/11829.1872-8847	SN:11829	1872-8855	1872-8847		Total_Item_Requests	1	1	0
+Artificial Intelligence Review	Springer Netherlands		SpringerLink	10.1007/10462.1573-7462	SN:10462	0269-2821	1573-7462		Unique_Item_Requests	2	2	0
+Artificial Intelligence Review	Springer Netherlands		SpringerLink	10.1007/10462.1573-7462	SN:10462	0269-2821	1573-7462		Total_Item_Requests	4	4	0
+Artificial Life and Robotics	Springer Japan		SpringerLink	10.1007/10015.1614-7456	SN:10015	1433-5298	1614-7456		Unique_Item_Requests	2	2	0
+Artificial Life and Robotics	Springer Japan		SpringerLink	10.1007/10015.1614-7456	SN:10015	1433-5298	1614-7456		Total_Item_Requests	4	4	0
+Asia Pacific Education Review	Springer Netherlands		SpringerLink	10.1007/12564.1876-407X	SN:12564	1598-1037	1876-407X		Unique_Item_Requests	1	1	0
+Asia Pacific Education Review	Springer Netherlands		SpringerLink	10.1007/12564.1876-407X	SN:12564	1598-1037	1876-407X		Total_Item_Requests	1	1	0
+Asia Pacific Journal of Management	Springer US		SpringerLink		SN:10490	0217-4561	1572-9958		Unique_Item_Requests	1	1	0
+Asia Pacific Journal of Management	Springer US		SpringerLink		SN:10490	0217-4561	1572-9958		Total_Item_Requests	1	1	0
+Atlantic Economic Journal	Kluwer Academic Publishers		SpringerLink		SN:11293	0197-4254	1573-9678		Unique_Item_Requests	1	1	0
+Atlantic Economic Journal	Kluwer Academic Publishers		SpringerLink		SN:11293	0197-4254	1573-9678		Total_Item_Requests	1	1	0
+Attention, Perception, & Psychophysics	Springer US		SpringerLink		SN:13414	1943-3921	1943-393X		Unique_Item_Requests	7	7	0
+Attention, Perception, & Psychophysics	Springer US		SpringerLink		SN:13414	1943-3921	1943-393X		Total_Item_Requests	10	10	0
+Behavioral Ecology and Sociobiology	Springer Berlin Heidelberg		SpringerLink	10.1007/265.1432-0762	SN:265	0340-5443	1432-0762		Unique_Item_Requests	9	9	0
+Behavioral Ecology and Sociobiology	Springer Berlin Heidelberg		SpringerLink	10.1007/265.1432-0762	SN:265	0340-5443	1432-0762		Total_Item_Requests	12	12	0
+Biochemistry (Moscow)	Kluwer Academic Publishers-Plenum Publishers		SpringerLink		SN:10541	0006-2979	1608-3040		Unique_Item_Requests	1	1	0
+Biochemistry (Moscow)	Kluwer Academic Publishers-Plenum Publishers		SpringerLink		SN:10541	0006-2979	1608-3040		Total_Item_Requests	1	1	0
+Biodiversity and Conservation	Springer Netherlands		SpringerLink	10.1007/10531.1572-9710	SN:10531	0960-3115	1572-9710		Unique_Item_Requests	6	6	0
+Biodiversity and Conservation	Springer Netherlands		SpringerLink	10.1007/10531.1572-9710	SN:10531	0960-3115	1572-9710		Total_Item_Requests	8	8	0
+BioEnergy Research	Springer US		SN:ResearchGate	10.1007/12155.1939-1242	SN:12155	1939-1234	1939-1242		Unique_Item_Requests	1	1	0
+BioEnergy Research	Springer US		SN:ResearchGate	10.1007/12155.1939-1242	SN:12155	1939-1234	1939-1242		Total_Item_Requests	2	2	0
+BioEnergy Research	Springer US		SpringerLink	10.1007/12155.1939-1242	SN:12155	1939-1234	1939-1242		Unique_Item_Requests	3	3	0
+BioEnergy Research	Springer US		SpringerLink	10.1007/12155.1939-1242	SN:12155	1939-1234	1939-1242		Total_Item_Requests	3	3	0
+Biologia	SP Versita		SpringerLink		SN:11756	0006-3088	1336-9563		Unique_Item_Requests	2	2	0
+Biologia	SP Versita		SpringerLink		SN:11756	0006-3088	1336-9563		Total_Item_Requests	2	2	0
+Biological Cybernetics	Springer-Verlag		SpringerLink		SN:422	0340-1200	1432-0770		Unique_Item_Requests	1	1	0
+Biological Cybernetics	Springer-Verlag		SpringerLink		SN:422	0340-1200	1432-0770		Total_Item_Requests	1	1	0
+Biological Invasions	Springer International Publishing		SN:ResearchGate	10.1007/10530.1573-1464	SN:10530	1387-3547	1573-1464		Unique_Item_Requests	1	1	0
+Biological Invasions	Springer International Publishing		SN:ResearchGate	10.1007/10530.1573-1464	SN:10530	1387-3547	1573-1464		Total_Item_Requests	1	1	0
+Biological Invasions	Springer International Publishing		SpringerLink	10.1007/10530.1573-1464	SN:10530	1387-3547	1573-1464		Unique_Item_Requests	15	15	0
+Biological Invasions	Springer International Publishing		SpringerLink	10.1007/10530.1573-1464	SN:10530	1387-3547	1573-1464		Total_Item_Requests	17	17	0
+Biology & Philosophy	Springer Netherlands		SpringerLink	10.1007/10539.1572-8404	SN:10539	0169-3867	1572-8404		Unique_Item_Requests	2	2	0
+Biology & Philosophy	Springer Netherlands		SpringerLink	10.1007/10539.1572-8404	SN:10539	0169-3867	1572-8404		Total_Item_Requests	2	2	0
+Biology and Fertility of Soils	Springer Berlin Heidelberg		SpringerLink	10.1007/374.1432-0789	SN:374	0178-2762	1432-0789		Unique_Item_Requests	3	3	0
+Biology and Fertility of Soils	Springer Berlin Heidelberg		SpringerLink	10.1007/374.1432-0789	SN:374	0178-2762	1432-0789		Total_Item_Requests	5	5	0
+Biology Bulletin	Pleiades Publishing		SpringerLink	10.1134/10525.1608-3059	SN:10525	1062-3590	1608-3059		Unique_Item_Requests	1	1	0
+Biology Bulletin	Pleiades Publishing		SpringerLink	10.1134/10525.1608-3059	SN:10525	1062-3590	1608-3059		Total_Item_Requests	2	2	0
+Biomass Conversion and Biorefinery	Springer Berlin Heidelberg		SpringerLink	10.1007/13399.2190-6823	SN:13399	2190-6815	2190-6823		Unique_Item_Requests	5	5	0
+Biomass Conversion and Biorefinery	Springer Berlin Heidelberg		SpringerLink	10.1007/13399.2190-6823	SN:13399	2190-6815	2190-6823		Total_Item_Requests	8	8	0
+Biomedical Engineering	Springer US		SpringerLink	10.1007/10527.1573-8256	SN:10527	0006-3398	1573-8256		Unique_Item_Requests	1	1	0
+Biomedical Engineering	Springer US		SpringerLink	10.1007/10527.1573-8256	SN:10527	0006-3398	1573-8256		Total_Item_Requests	1	1	0
+Biotechnology Letters	Kluwer Academic Publishers		SpringerLink		SN:10529	0141-5492	1573-6776		Unique_Item_Requests	1	1	0
+Biotechnology Letters	Kluwer Academic Publishers		SpringerLink		SN:10529	0141-5492	1573-6776		Total_Item_Requests	1	1	0
+Biotechnology Techniques	Kluwer Academic Publishers		SpringerLink		SN:10542	0951-208X	1573-6784		Unique_Item_Requests	1	1	0
+Biotechnology Techniques	Kluwer Academic Publishers		SpringerLink		SN:10542	0951-208X	1573-6784		Total_Item_Requests	1	1	0
+Brain Structure and Function	Springer Berlin Heidelberg		SpringerLink	10.1007/429.1863-2661	SN:429	1863-2653	1863-2661		Unique_Item_Requests	1	1	0
+Brain Structure and Function	Springer Berlin Heidelberg		SpringerLink	10.1007/429.1863-2661	SN:429	1863-2653	1863-2661		Total_Item_Requests	2	2	0
+Brain Topography	Springer US		SpringerLink		SN:10548	0896-0267	1573-6792		Unique_Item_Requests	1	1	0
+Brain Topography	Springer US		SpringerLink		SN:10548	0896-0267	1573-6792		Total_Item_Requests	2	2	0
+Brazilian Journal of Microbiology	Springer International Publishing		SpringerLink		SN:42770	1517-8382	1678-4405		Unique_Item_Requests	6	6	0
+Brazilian Journal of Microbiology	Springer International Publishing		SpringerLink		SN:42770	1517-8382	1678-4405		Total_Item_Requests	16	16	0
+Breast Cancer Research	BioMed Central		SpringerLink		SN:13058		1465-542X		Unique_Item_Requests	1	1	0
+Breast Cancer Research	BioMed Central		SpringerLink		SN:13058		1465-542X		Total_Item_Requests	2	2	0
+Breast Cancer Research and Treatment	Springer US		SpringerLink	10.1007/10549.1573-7217	SN:10549	0167-6806	1573-7217		Unique_Item_Requests	3	3	0
+Breast Cancer Research and Treatment	Springer US		SpringerLink	10.1007/10549.1573-7217	SN:10549	0167-6806	1573-7217		Total_Item_Requests	4	4	0
+British Dental Journal	Nature Publishing Group UK		nature.com		SN:41415	0007-0610	1476-5373		Unique_Item_Requests	1	1	0
+British Dental Journal	Nature Publishing Group UK		nature.com		SN:41415	0007-0610	1476-5373		Total_Item_Requests	2	2	0
+Bulletin of Environmental Contamination and Toxicology	Springer US		SpringerLink	10.1007/128.1432-0800	SN:128	0007-4861	1432-0800		Unique_Item_Requests	1	1	0
+Bulletin of Environmental Contamination and Toxicology	Springer US		SpringerLink	10.1007/128.1432-0800	SN:128	0007-4861	1432-0800		Total_Item_Requests	2	2	0
+Business & Information Systems Engineering	Springer Fachmedien Wiesbaden		SpringerLink	10.1007/12599.1867-0202	SN:12599	2363-7005	1867-0202		Unique_Item_Requests	1	1	0
+Business & Information Systems Engineering	Springer Fachmedien Wiesbaden		SpringerLink	10.1007/12599.1867-0202	SN:12599	2363-7005	1867-0202		Total_Item_Requests	1	1	0
+Canadian Journal of Anesthesia/Journal canadien d'anesthésie	Springer US		SpringerLink	10.1007/12630.1496-8975	SN:12630	0832-610X	1496-8975		Unique_Item_Requests	2	2	0
+Canadian Journal of Anesthesia/Journal canadien d'anesthésie	Springer US		SpringerLink	10.1007/12630.1496-8975	SN:12630	0832-610X	1496-8975		Total_Item_Requests	2	2	0
+Canadian Journal of Public Health	Springer International Publishing		SpringerLink		SN:41997	0008-4263	1920-7476		Unique_Item_Requests	4	4	0
+Canadian Journal of Public Health	Springer International Publishing		SpringerLink		SN:41997	0008-4263	1920-7476		Total_Item_Requests	6	6	0
+Cancer and Metastasis Reviews	Kluwer Academic Publishers-Plenum Publishers		SpringerLink		SN:10555	0167-7659	1573-7233		Unique_Item_Requests	2	2	0
+Cancer and Metastasis Reviews	Kluwer Academic Publishers-Plenum Publishers		SpringerLink		SN:10555	0167-7659	1573-7233		Total_Item_Requests	2	2	0
+Cancer Gene Therapy	Nature Publishing Group US		nature.com	10.1038/41417.1476-5500	SN:41417	0929-1903	1476-5500		Unique_Item_Requests	1	1	0
+Cancer Gene Therapy	Nature Publishing Group US		nature.com	10.1038/41417.1476-5500	SN:41417	0929-1903	1476-5500		Total_Item_Requests	1	1	0
+Carbon Letters	Springer Nature Singapore		SpringerLink		SN:42823	1976-4251	2233-4998		Unique_Item_Requests	1	1	0
+Carbon Letters	Springer Nature Singapore		SpringerLink		SN:42823	1976-4251	2233-4998		Total_Item_Requests	1	1	0
+Catalysis Surveys from Asia	Springer US		SpringerLink	10.1007/10563.1574-9266	SN:10563	1571-1013	1574-9266		Unique_Item_Requests	3	3	0
+Catalysis Surveys from Asia	Springer US		SpringerLink	10.1007/10563.1574-9266	SN:10563	1571-1013	1574-9266		Total_Item_Requests	3	3	0
+Cell and Tissue Research	Springer Berlin Heidelberg		SpringerLink	10.1007/441.1432-0878	SN:441	0302-766X	1432-0878		Unique_Item_Requests	2	2	0
+Cell and Tissue Research	Springer Berlin Heidelberg		SpringerLink	10.1007/441.1432-0878	SN:441	0302-766X	1432-0878		Total_Item_Requests	3	3	0
+Cell Biochemistry and Biophysics	Springer US		SpringerLink	10.1007/12013.1559-0283	SN:12013	1085-9195	1559-0283		Unique_Item_Requests	5	5	0
+Cell Biochemistry and Biophysics	Springer US		SpringerLink	10.1007/12013.1559-0283	SN:12013	1085-9195	1559-0283		Total_Item_Requests	6	6	0
+Cell Death & Differentiation	Nature Publishing Group UK		nature.com		SN:41418	1350-9047	1476-5403		Unique_Item_Requests	5	5	0
+Cell Death & Differentiation	Nature Publishing Group UK		nature.com		SN:41418	1350-9047	1476-5403		Total_Item_Requests	6	6	0
+Cell Research	Nature Publishing Group UK		nature.com		SN:41422	1001-0602	1748-7838		Unique_Item_Requests	1	1	0
+Cell Research	Nature Publishing Group UK		nature.com		SN:41422	1001-0602	1748-7838		Total_Item_Requests	1	1	0
+Cellulose	Springer Netherlands		SpringerLink	10.1007/10570.1572-882X	SN:10570	0969-0239	1572-882X		Unique_Item_Requests	1	1	0
+Cellulose	Springer Netherlands		SpringerLink	10.1007/10570.1572-882X	SN:10570	0969-0239	1572-882X		Total_Item_Requests	1	1	0
+Central European Journal of Biology	Versita		SpringerLink		SN:11535	1895-104X	1644-3632		Unique_Item_Requests	1	1	0
+Central European Journal of Biology	Versita		SpringerLink		SN:11535	1895-104X	1644-3632		Total_Item_Requests	2	2	0
+ChemTexts	Springer International Publishing		SpringerLink		SN:40828		2199-3793		Unique_Item_Requests	2	2	0
+ChemTexts	Springer International Publishing		SpringerLink		SN:40828		2199-3793		Total_Item_Requests	4	4	0
+Child and Adolescent Social Work Journal	Springer US		SpringerLink	10.1007/10560.1573-2797	SN:10560	0738-0151	1573-2797		Unique_Item_Requests	2	2	0
+Child and Adolescent Social Work Journal	Springer US		SpringerLink	10.1007/10560.1573-2797	SN:10560	0738-0151	1573-2797		Total_Item_Requests	5	5	0
+Child Indicators Research	Springer Netherlands		SpringerLink	10.1007/12187.1874-8988	SN:12187	1874-897X	1874-8988		Unique_Item_Requests	3	3	0
+Child Indicators Research	Springer Netherlands		SpringerLink	10.1007/12187.1874-8988	SN:12187	1874-897X	1874-8988		Total_Item_Requests	3	3	0
+Children's Literature in Education	Springer Netherlands		SpringerLink	10.1007/10583.1573-1693	SN:10583	0045-6713	1573-1693		Unique_Item_Requests	3	3	0
+Children's Literature in Education	Springer Netherlands		SpringerLink	10.1007/10583.1573-1693	SN:10583	0045-6713	1573-1693		Total_Item_Requests	4	4	0
+China International Strategy Review	Springer Nature Singapore		SpringerLink		SN:42533	2524-5627	2524-5635		Unique_Item_Requests	2	2	0
+China International Strategy Review	Springer Nature Singapore		SpringerLink		SN:42533	2524-5627	2524-5635		Total_Item_Requests	2	2	0
+Chinese Journal of Integrative Medicine	Springer Berlin Heidelberg		SpringerLink		SN:11655	1672-0415	1993-0402		Unique_Item_Requests	1	1	0
+Chinese Journal of Integrative Medicine	Springer Berlin Heidelberg		SpringerLink		SN:11655	1672-0415	1993-0402		Total_Item_Requests	1	1	0
+Chinese Journal of Polymer Science	Chinese Chemical Society and Institute of Chemistry, CAS		SpringerLink	10.1007/10118.1439-6203	SN:10118	0256-7679	1439-6203		Unique_Item_Requests	1	1	0
+Chinese Journal of Polymer Science	Chinese Chemical Society and Institute of Chemistry, CAS		SpringerLink	10.1007/10118.1439-6203	SN:10118	0256-7679	1439-6203		Total_Item_Requests	1	1	0
+Chromatographia	Springer-Verlag		SpringerLink		SN:10337	0009-5893	1612-1112		Unique_Item_Requests	1	1	0
+Chromatographia	Springer-Verlag		SpringerLink		SN:10337	0009-5893	1612-1112		Total_Item_Requests	1	1	0
+Circular Economy and Sustainability	Springer International Publishing		SpringerLink		SN:43615	2730-597X	2730-5988		Unique_Item_Requests	1	1	0
+Circular Economy and Sustainability	Springer International Publishing		SpringerLink		SN:43615	2730-597X	2730-5988		Total_Item_Requests	1	1	0
+Clean Technologies and Environmental Policy	Springer Berlin Heidelberg		SpringerLink	10.1007/10098.1618-9558	SN:10098	1618-954X	1618-9558		Unique_Item_Requests	6	6	0
+Clean Technologies and Environmental Policy	Springer Berlin Heidelberg		SpringerLink	10.1007/10098.1618-9558	SN:10098	1618-954X	1618-9558		Total_Item_Requests	7	7	0
+Climate Dynamics	Springer Berlin Heidelberg		SN:ResearchGate	10.1007/382.1432-0894	SN:382	0930-7575	1432-0894		Unique_Item_Requests	1	1	0
+Climate Dynamics	Springer Berlin Heidelberg		SN:ResearchGate	10.1007/382.1432-0894	SN:382	0930-7575	1432-0894		Total_Item_Requests	1	1	0
+Climate Dynamics	Springer Berlin Heidelberg		SpringerLink	10.1007/382.1432-0894	SN:382	0930-7575	1432-0894		Unique_Item_Requests	15	15	0
+Climate Dynamics	Springer Berlin Heidelberg		SpringerLink	10.1007/382.1432-0894	SN:382	0930-7575	1432-0894		Total_Item_Requests	17	17	0
+Climatic Change	Springer Netherlands		SpringerLink	10.1007/10584.1573-1480	SN:10584	0165-0009	1573-1480		Unique_Item_Requests	21	21	0
+Climatic Change	Springer Netherlands		SpringerLink	10.1007/10584.1573-1480	SN:10584	0165-0009	1573-1480		Total_Item_Requests	33	33	0
+Clinical and Experimental Medicine	Springer Milan		SpringerLink		SN:10238	1591-8890	1591-9528		Unique_Item_Requests	1	1	0
+Clinical and Experimental Medicine	Springer Milan		SpringerLink		SN:10238	1591-8890	1591-9528		Total_Item_Requests	1	1	0
+Clinical Child and Family Psychology Review	Springer US		SpringerLink	10.1007/10567.1573-2827	SN:10567	1096-4037	1573-2827		Unique_Item_Requests	1	1	0
+Clinical Child and Family Psychology Review	Springer US		SpringerLink	10.1007/10567.1573-2827	SN:10567	1096-4037	1573-2827		Total_Item_Requests	1	1	0
+Clinical Social Work Journal	Springer US		SpringerLink	10.1007/10615.1573-3343	SN:10615	0091-1674	1573-3343		Unique_Item_Requests	2	2	0
+Clinical Social Work Journal	Springer US		SpringerLink	10.1007/10615.1573-3343	SN:10615	0091-1674	1573-3343		Total_Item_Requests	2	2	0
+Cluster Computing	Springer US		SpringerLink	10.1007/10586.1573-7543	SN:10586	1386-7857	1573-7543		Unique_Item_Requests	1	1	0
+Cluster Computing	Springer US		SpringerLink	10.1007/10586.1573-7543	SN:10586	1386-7857	1573-7543		Total_Item_Requests	1	1	0
+Cognition, Technology & Work	Springer London		SpringerLink	10.1007/10111.1435-5566	SN:10111	1435-5558	1435-5566		Unique_Item_Requests	1	1	0
+Cognition, Technology & Work	Springer London		SpringerLink	10.1007/10111.1435-5566	SN:10111	1435-5558	1435-5566		Total_Item_Requests	1	1	0
+Cognitive Processing	Springer Berlin Heidelberg		SpringerLink	10.1007/10339.1612-4790	SN:10339	1612-4782	1612-4790		Unique_Item_Requests	1	1	0
+Cognitive Processing	Springer Berlin Heidelberg		SpringerLink	10.1007/10339.1612-4790	SN:10339	1612-4782	1612-4790		Total_Item_Requests	2	2	0
+Communications in Mathematical Physics	Springer-Verlag		SpringerLink		SN:220	0010-3616	1432-0916		Unique_Item_Requests	2	2	0
+Communications in Mathematical Physics	Springer-Verlag		SpringerLink		SN:220	0010-3616	1432-0916		Total_Item_Requests	2	2	0
+Computational Statistics	Springer Berlin Heidelberg		SpringerLink	10.1007/180.1613-9658	SN:180	0943-4062	1613-9658		Unique_Item_Requests	1	1	0
+Computational Statistics	Springer Berlin Heidelberg		SpringerLink	10.1007/180.1613-9658	SN:180	0943-4062	1613-9658		Total_Item_Requests	1	1	0
+Computer Supported Cooperative Work (CSCW)	Springer Netherlands		SpringerLink	10.1007/10606.1573-7551	SN:10606	0925-9724	1573-7551		Unique_Item_Requests	2	2	0
+Computer Supported Cooperative Work (CSCW)	Springer Netherlands		SpringerLink	10.1007/10606.1573-7551	SN:10606	0925-9724	1573-7551		Total_Item_Requests	4	4	0
+Conservation Genetics	Springer Netherlands		SpringerLink	10.1007/10592.1572-9737	SN:10592	1566-0621	1572-9737		Unique_Item_Requests	3	3	0
+Conservation Genetics	Springer Netherlands		SpringerLink	10.1007/10592.1572-9737	SN:10592	1566-0621	1572-9737		Total_Item_Requests	4	4	0
+Contemporary Family Therapy	Springer US		SpringerLink	10.1007/10591.1573-3335	SN:10591	0892-2764	1573-3335		Unique_Item_Requests	1	1	0
+Contemporary Family Therapy	Springer US		SpringerLink	10.1007/10591.1573-3335	SN:10591	0892-2764	1573-3335		Total_Item_Requests	1	1	0
+Contemporary School Psychology	Springer New York		SpringerLink		SN:40688	2159-2020	2161-1505		Unique_Item_Requests	2	2	0
+Contemporary School Psychology	Springer New York		SpringerLink		SN:40688	2159-2020	2161-1505		Total_Item_Requests	2	2	0
+Continental Philosophy Review	Springer Netherlands		SpringerLink	10.1007/11007.1573-1103	SN:11007	1387-2842	1573-1103		Unique_Item_Requests	1	1	0
+Continental Philosophy Review	Springer Netherlands		SpringerLink	10.1007/11007.1573-1103	SN:11007	1387-2842	1573-1103		Total_Item_Requests	1	1	0
+Coral Reefs	Springer-Verlag		SpringerLink		SN:338	0722-4028	1432-0975		Unique_Item_Requests	2	2	0
+Coral Reefs	Springer-Verlag		SpringerLink		SN:338	0722-4028	1432-0975		Total_Item_Requests	5	5	0
+Critical Criminology	Springer Netherlands		SpringerLink	10.1007/10612.1572-9877	SN:10612	1205-8629	1572-9877		Unique_Item_Requests	1	1	0
+Critical Criminology	Springer Netherlands		SpringerLink	10.1007/10612.1572-9877	SN:10612	1205-8629	1572-9877		Total_Item_Requests	1	1	0
+Cultural Studies of Science Education	Springer Netherlands		SpringerLink	10.1007/11422.1871-1510	SN:11422	1871-1502	1871-1510		Unique_Item_Requests	1	1	0
+Cultural Studies of Science Education	Springer Netherlands		SpringerLink	10.1007/11422.1871-1510	SN:11422	1871-1502	1871-1510		Total_Item_Requests	2	2	0
+Culture and Brain	Springer Berlin Heidelberg		SpringerLink	10.1007/40167.2193-8660	SN:40167	2193-8652	2193-8660		Unique_Item_Requests	2	2	0
+Culture and Brain	Springer Berlin Heidelberg		SpringerLink	10.1007/40167.2193-8660	SN:40167	2193-8652	2193-8660		Total_Item_Requests	4	4	0
+Culture, Medicine, and Psychiatry	Springer US		SpringerLink	10.1007/11013.1573-076X	SN:11013	0165-005X	1573-076X		Unique_Item_Requests	2	2	0
+Culture, Medicine, and Psychiatry	Springer US		SpringerLink	10.1007/11013.1573-076X	SN:11013	0165-005X	1573-076X		Total_Item_Requests	3	3	0
+Current Addiction Reports	Springer International Publishing		SpringerLink		SN:40429		2196-2952		Unique_Item_Requests	1	1	0
+Current Addiction Reports	Springer International Publishing		SpringerLink		SN:40429		2196-2952		Total_Item_Requests	2	2	0
+Current Attention Disorders Reports	Current Science Inc.		SpringerLink		SN:12618	1943-4561	1943-457X		Unique_Item_Requests	1	1	0
+Current Attention Disorders Reports	Current Science Inc.		SpringerLink		SN:12618	1943-4561	1943-457X		Total_Item_Requests	2	2	0
+Current Cardiology Reports	Springer US		SpringerLink	10.1007/11886.1534-3170	SN:11886	1523-3782	1534-3170		Unique_Item_Requests	2	2	0
+Current Cardiology Reports	Springer US		SpringerLink	10.1007/11886.1534-3170	SN:11886	1523-3782	1534-3170		Total_Item_Requests	3	3	0
+Current Climate Change Reports	Springer International Publishing		SN:ResearchGate		SN:40641		2198-6061		Unique_Item_Requests	1	1	0
+Current Climate Change Reports	Springer International Publishing		SN:ResearchGate		SN:40641		2198-6061		Total_Item_Requests	1	1	0
+Current Dermatology Reports	Springer US		SpringerLink	10.1007/13671.2162-4933	SN:13671		2162-4933		Unique_Item_Requests	2	2	0
+Current Dermatology Reports	Springer US		SpringerLink	10.1007/13671.2162-4933	SN:13671		2162-4933		Total_Item_Requests	4	4	0
+Current Environmental Health Reports	Springer International Publishing		SpringerLink		SN:40572		2196-5412		Unique_Item_Requests	6	6	0
+Current Environmental Health Reports	Springer International Publishing		SpringerLink		SN:40572		2196-5412		Total_Item_Requests	12	12	0
+Current Forestry Reports	Springer International Publishing		SpringerLink		SN:40725		2198-6436		Unique_Item_Requests	2	2	0
+Current Forestry Reports	Springer International Publishing		SpringerLink		SN:40725		2198-6436		Total_Item_Requests	4	4	0
+Current Gastroenterology Reports	Springer US		SpringerLink	10.1007/11894.1534-312X	SN:11894	1522-8037	1534-312X		Unique_Item_Requests	1	1	0
+Current Gastroenterology Reports	Springer US		SpringerLink	10.1007/11894.1534-312X	SN:11894	1522-8037	1534-312X		Total_Item_Requests	4	4	0
+Current Hypertension Reports	Springer US		SpringerLink		SN:11906	1522-6417	1534-3111		Unique_Item_Requests	2	2	0
+Current Hypertension Reports	Springer US		SpringerLink		SN:11906	1522-6417	1534-3111		Total_Item_Requests	3	3	0
+Current Microbiology	Springer US		SpringerLink	10.1007/284.1432-0991	SN:284	0343-8651	1432-0991		Unique_Item_Requests	2	2	0
+Current Microbiology	Springer US		SpringerLink	10.1007/284.1432-0991	SN:284	0343-8651	1432-0991		Total_Item_Requests	4	4	0
+Current Pediatrics Reports	Springer US		SpringerLink		SN:40124		2167-4841		Unique_Item_Requests	1	1	0
+Current Pediatrics Reports	Springer US		SpringerLink		SN:40124		2167-4841		Total_Item_Requests	2	2	0
+Current Pollution Reports	Springer International Publishing		SpringerLink		SN:40726		2198-6592		Unique_Item_Requests	1	1	0
+Current Pollution Reports	Springer International Publishing		SpringerLink		SN:40726		2198-6592		Total_Item_Requests	2	2	0
+Current Psychiatry Reports	Springer US		SpringerLink	10.1007/11920.1535-1645	SN:11920	1523-3812	1535-1645		Unique_Item_Requests	3	3	0
+Current Psychiatry Reports	Springer US		SpringerLink	10.1007/11920.1535-1645	SN:11920	1523-3812	1535-1645		Total_Item_Requests	4	4	0
+Current Psychology	Springer US		SpringerLink	10.1007/12144.1936-4733	SN:12144	1046-1310	1936-4733		Unique_Item_Requests	13	13	0
+Current Psychology	Springer US		SpringerLink	10.1007/12144.1936-4733	SN:12144	1046-1310	1936-4733		Total_Item_Requests	18	18	0
+Current Reviews in Musculoskeletal Medicine	Springer US		SpringerLink	10.1007/12178.1935-9748	SN:12178	1935-973X	1935-9748		Unique_Item_Requests	1	1	0
+Current Reviews in Musculoskeletal Medicine	Springer US		SpringerLink	10.1007/12178.1935-9748	SN:12178	1935-973X	1935-9748		Total_Item_Requests	2	2	0
+Current Sexual Health Reports	Springer US		SpringerLink	10.1007/11930.1548-3592	SN:11930	1548-3584	1548-3592		Unique_Item_Requests	3	3	0
+Current Sexual Health Reports	Springer US		SpringerLink	10.1007/11930.1548-3592	SN:11930	1548-3584	1548-3592		Total_Item_Requests	3	3	0
+Current Treatment Options in Oncology	Springer US		SN:ResearchGate	10.1007/11864.1534-6277	SN:11864	1527-2729	1534-6277		Unique_Item_Requests	1	1	0
+Current Treatment Options in Oncology	Springer US		SN:ResearchGate	10.1007/11864.1534-6277	SN:11864	1527-2729	1534-6277		Total_Item_Requests	1	1	0
+Current Treatment Options in Psychiatry	Springer International Publishing		SpringerLink		SN:40501		2196-3061		Unique_Item_Requests	3	3	0
+Current Treatment Options in Psychiatry	Springer International Publishing		SpringerLink		SN:40501		2196-3061		Total_Item_Requests	4	4	0
+Curriculum Perspectives	Springer Singapore		SpringerLink		SN:41297	0159-7868	2367-1793		Unique_Item_Requests	2	2	0
+Curriculum Perspectives	Springer Singapore		SpringerLink		SN:41297	0159-7868	2367-1793		Total_Item_Requests	4	4	0
+Cytotechnology	Springer Netherlands		SpringerLink		SN:10616	0920-9069	1573-0778		Unique_Item_Requests	3	3	0
+Cytotechnology	Springer Netherlands		SpringerLink		SN:10616	0920-9069	1573-0778		Total_Item_Requests	10	10	0
+De Economist	Springer US		SpringerLink		SN:10645	0013-063X	1572-9982		Unique_Item_Requests	1	1	0
+De Economist	Springer US		SpringerLink		SN:10645	0013-063X	1572-9982		Total_Item_Requests	1	1	0
+Der Anaesthesist	Springer-Verlag		SpringerLink		SN:101	0003-2417			Unique_Item_Requests	1	1	0
+Der Anaesthesist	Springer-Verlag		SpringerLink		SN:101	0003-2417			Total_Item_Requests	1	1	0
+Der Internist	Springer Medizin		SpringerLink	10.1007/108.1432-1289	SN:108	0020-9554	1432-1289		Unique_Item_Requests	1	1	0
+Der Internist	Springer Medizin		SpringerLink	10.1007/108.1432-1289	SN:108	0020-9554	1432-1289		Total_Item_Requests	2	2	0
+Die Kulturpflanze	Kluwer Academic Publishers		SpringerLink		SN:10722	0075-7209	1573-5109		Unique_Item_Requests	1	1	0
+Die Kulturpflanze	Kluwer Academic Publishers		SpringerLink		SN:10722	0075-7209	1573-5109		Total_Item_Requests	1	1	0
+Drug Delivery and Translational Research	Springer US		SpringerLink	10.1007/13346.2190-3948	SN:13346	2190-393X	2190-3948		Unique_Item_Requests	1	1	0
+Drug Delivery and Translational Research	Springer US		SpringerLink	10.1007/13346.2190-3948	SN:13346	2190-393X	2190-3948		Total_Item_Requests	2	2	0
+Dysphagia	Springer-Verlag		SpringerLink		SN:455	0179-051X	1432-0460		Unique_Item_Requests	2	2	0
+Dysphagia	Springer-Verlag		SpringerLink		SN:455	0179-051X	1432-0460		Total_Item_Requests	2	2	0
+Early Childhood Education Journal	Springer Netherlands		SpringerLink	10.1007/10643.1573-1707	SN:10643	1082-3301	1573-1707		Unique_Item_Requests	5	5	0
+Early Childhood Education Journal	Springer Netherlands		SpringerLink	10.1007/10643.1573-1707	SN:10643	1082-3301	1573-1707		Total_Item_Requests	8	8	0
+Earth Science Informatics	Springer Berlin Heidelberg		SpringerLink	10.1007/12145.1865-0481	SN:12145	1865-0473	1865-0481		Unique_Item_Requests	2	2	0
+Earth Science Informatics	Springer Berlin Heidelberg		SpringerLink	10.1007/12145.1865-0481	SN:12145	1865-0473	1865-0481		Total_Item_Requests	4	4	0
+Eating and Weight Disorders - Studies on Anorexia, Bulimia and Obesity	Springer International Publishing		SpringerLink		SN:40519	1124-4909	1590-1262		Unique_Item_Requests	4	4	0
+Eating and Weight Disorders - Studies on Anorexia, Bulimia and Obesity	Springer International Publishing		SpringerLink		SN:40519	1124-4909	1590-1262		Total_Item_Requests	6	6	0
+Ecological Research	Springer Japan		SpringerLink		SN:11284	0912-3814	1440-1703		Unique_Item_Requests	3	3	0
+Ecological Research	Springer Japan		SpringerLink		SN:11284	0912-3814	1440-1703		Total_Item_Requests	4	4	0
+Ecosystems	Springer US		SpringerLink	10.1007/10021.1435-0629	SN:10021	1432-9840	1435-0629		Unique_Item_Requests	2	2	0
+Ecosystems	Springer US		SpringerLink	10.1007/10021.1435-0629	SN:10021	1432-9840	1435-0629		Total_Item_Requests	2	2	0
+Ecotoxicology	Springer US		SpringerLink	10.1007/10646.1573-3017	SN:10646	0963-9292	1573-3017		Unique_Item_Requests	4	4	0
+Ecotoxicology	Springer US		SpringerLink	10.1007/10646.1573-3017	SN:10646	0963-9292	1573-3017		Total_Item_Requests	5	5	0
+Education and Information Technologies	Springer US		SpringerLink	10.1007/10639.1573-7608	SN:10639	1360-2357	1573-7608		Unique_Item_Requests	5	5	0
+Education and Information Technologies	Springer US		SpringerLink	10.1007/10639.1573-7608	SN:10639	1360-2357	1573-7608		Total_Item_Requests	7	7	0
+Educational Technology Research and Development	Kluwer Academic Publishers		SpringerLink		SN:11423	1042-1629	1556-6501		Unique_Item_Requests	1	1	0
+Educational Technology Research and Development	Kluwer Academic Publishers		SpringerLink		SN:11423	1042-1629	1556-6501		Total_Item_Requests	1	1	0
+Empirical Economics	Springer Berlin Heidelberg		SpringerLink	10.1007/181.1435-8921	SN:181	0377-7332	1435-8921		Unique_Item_Requests	5	5	0
+Empirical Economics	Springer Berlin Heidelberg		SpringerLink	10.1007/181.1435-8921	SN:181	0377-7332	1435-8921		Total_Item_Requests	7	7	0
+Employee Responsibilities and Rights Journal	Springer US		SpringerLink	10.1007/10672.1573-3378	SN:10672	0892-7545	1573-3378		Unique_Item_Requests	2	2	0
+Employee Responsibilities and Rights Journal	Springer US		SpringerLink	10.1007/10672.1573-3378	SN:10672	0892-7545	1573-3378		Total_Item_Requests	4	4	0
+Endocrine	Springer US		SpringerLink		SN:12020	1355-008X	1559-0100		Unique_Item_Requests	1	1	0
+Endocrine	Springer US		SpringerLink		SN:12020	1355-008X	1559-0100		Total_Item_Requests	2	2	0
+Endocrine Pathology	Springer US		SpringerLink	10.1007/12022.1559-0097	SN:12022	1046-3976	1559-0097		Unique_Item_Requests	1	1	0
+Endocrine Pathology	Springer US		SpringerLink	10.1007/12022.1559-0097	SN:12022	1046-3976	1559-0097		Total_Item_Requests	1	1	0
+Energy Efficiency	Springer Netherlands		SpringerLink	10.1007/12053.1570-6478	SN:12053	1570-646X	1570-6478		Unique_Item_Requests	1	1	0
+Energy Efficiency	Springer Netherlands		SpringerLink	10.1007/12053.1570-6478	SN:12053	1570-646X	1570-6478		Total_Item_Requests	2	2	0
+Energy, Ecology and Environment	Joint Center on Global Change and Earth System Science of the University of Maryland and Beijing Normal University		SpringerLink		SN:40974	2363-7692	2363-8338		Unique_Item_Requests	1	1	0
+Energy, Ecology and Environment	Joint Center on Global Change and Earth System Science of the University of Maryland and Beijing Normal University		SpringerLink		SN:40974	2363-7692	2363-8338		Total_Item_Requests	1	1	0
+Engineering with Computers	Springer London		SN:ResearchGate	10.1007/366.1435-5663	SN:366	0177-0667	1435-5663		Unique_Item_Requests	1	1	0
+Engineering with Computers	Springer London		SN:ResearchGate	10.1007/366.1435-5663	SN:366	0177-0667	1435-5663		Total_Item_Requests	1	1	0
+Environment, Development and Sustainability	Springer Netherlands		SpringerLink	10.1007/10668.1573-2975	SN:10668	1387-585X	1573-2975		Unique_Item_Requests	7	7	0
+Environment, Development and Sustainability	Springer Netherlands		SpringerLink	10.1007/10668.1573-2975	SN:10668	1387-585X	1573-2975		Total_Item_Requests	13	13	0
+Environmental and Resource Economics	Springer Netherlands		SpringerLink	10.1007/10640.1573-1502	SN:10640	0924-6460	1573-1502		Unique_Item_Requests	12	12	0
+Environmental and Resource Economics	Springer Netherlands		SpringerLink	10.1007/10640.1573-1502	SN:10640	0924-6460	1573-1502		Total_Item_Requests	21	21	0
+Environmental Biology of Fishes	Springer Netherlands		SpringerLink		SN:10641	0378-1909	1573-5133		Unique_Item_Requests	3	3	0
+Environmental Biology of Fishes	Springer Netherlands		SpringerLink		SN:10641	0378-1909	1573-5133		Total_Item_Requests	3	3	0
+Environmental Earth Sciences	Springer Berlin Heidelberg		SN:ResearchGate	10.1007/12665.1866-6299	SN:12665	1866-6280	1866-6299		Unique_Item_Requests	2	2	0
+Environmental Earth Sciences	Springer Berlin Heidelberg		SN:ResearchGate	10.1007/12665.1866-6299	SN:12665	1866-6280	1866-6299		Total_Item_Requests	2	2	0
+Environmental Earth Sciences	Springer Berlin Heidelberg		SpringerLink	10.1007/12665.1866-6299	SN:12665	1866-6280	1866-6299		Unique_Item_Requests	1	1	0
+Environmental Earth Sciences	Springer Berlin Heidelberg		SpringerLink	10.1007/12665.1866-6299	SN:12665	1866-6280	1866-6299		Total_Item_Requests	1	1	0
+Environmental Management	Springer US		SpringerLink	10.1007/267.1432-1009	SN:267	0364-152X	1432-1009		Unique_Item_Requests	2	2	0
+Environmental Management	Springer US		SpringerLink	10.1007/267.1432-1009	SN:267	0364-152X	1432-1009		Total_Item_Requests	6	6	0
+Environmental Monitoring and Assessment	Springer International Publishing		SpringerLink	10.1007/10661.1573-2959	SN:10661	0167-6369	1573-2959		Unique_Item_Requests	10	10	0
+Environmental Monitoring and Assessment	Springer International Publishing		SpringerLink	10.1007/10661.1573-2959	SN:10661	0167-6369	1573-2959		Total_Item_Requests	14	14	0
+Environmental Science and Pollution Research	Springer Berlin Heidelberg		SN:ResearchGate	10.1007/11356.1614-7499	SN:11356	0944-1344	1614-7499		Unique_Item_Requests	3	3	0
+Environmental Science and Pollution Research	Springer Berlin Heidelberg		SN:ResearchGate	10.1007/11356.1614-7499	SN:11356	0944-1344	1614-7499		Total_Item_Requests	4	4	0
+Environmental Science and Pollution Research	Springer Berlin Heidelberg		SpringerLink	10.1007/11356.1614-7499	SN:11356	0944-1344	1614-7499		Unique_Item_Requests	29	29	0
+Environmental Science and Pollution Research	Springer Berlin Heidelberg		SpringerLink	10.1007/11356.1614-7499	SN:11356	0944-1344	1614-7499		Total_Item_Requests	47	47	0
+Esophagus	Springer-Verlag		SpringerLink		SN:10388	1612-9059	1612-9067		Unique_Item_Requests	1	1	0
+Esophagus	Springer-Verlag		SpringerLink		SN:10388	1612-9059	1612-9067		Total_Item_Requests	1	1	0
+Estuaries and Coasts	Springer US		SpringerLink	10.1007/12237.1559-2731	SN:12237	1559-2723	1559-2731		Unique_Item_Requests	9	9	0
+Estuaries and Coasts	Springer US		SpringerLink	10.1007/12237.1559-2731	SN:12237	1559-2723	1559-2731		Total_Item_Requests	11	11	0
+Ethical Theory and Moral Practice	Springer Netherlands		SpringerLink		SN:10677	1386-2820	1572-8447		Unique_Item_Requests	2	2	0
+Ethical Theory and Moral Practice	Springer Netherlands		SpringerLink		SN:10677	1386-2820	1572-8447		Total_Item_Requests	3	3	0
+European Archives of Oto-Rhino-Laryngology	Springer-Verlag		SpringerLink		SN:405	0937-4477	1434-4726		Unique_Item_Requests	2	2	0
+European Archives of Oto-Rhino-Laryngology	Springer-Verlag		SpringerLink		SN:405	0937-4477	1434-4726		Total_Item_Requests	3	3	0
+European Child & Adolescent Psychiatry	Springer Berlin Heidelberg		SpringerLink	10.1007/787.1435-165X	SN:787	1018-8827	1435-165X		Unique_Item_Requests	7	7	0
+European Child & Adolescent Psychiatry	Springer Berlin Heidelberg		SpringerLink	10.1007/787.1435-165X	SN:787	1018-8827	1435-165X		Total_Item_Requests	10	10	0
+European Food Research and Technology	Springer Berlin Heidelberg		SpringerLink	10.1007/217.1438-2385	SN:217	1438-2377	1438-2385		Unique_Item_Requests	2	2	0
+European Food Research and Technology	Springer Berlin Heidelberg		SpringerLink	10.1007/217.1438-2385	SN:217	1438-2377	1438-2385		Total_Item_Requests	2	2	0
+European Journal for Philosophy of Science	Springer Netherlands		SpringerLink	10.1007/13194.1879-4920	SN:13194	1879-4912	1879-4920		Unique_Item_Requests	1	1	0
+European Journal for Philosophy of Science	Springer Netherlands		SpringerLink	10.1007/13194.1879-4920	SN:13194	1879-4912	1879-4920		Total_Item_Requests	1	1	0
+European Journal of Applied Physiology	Springer Berlin Heidelberg		SpringerLink	10.1007/421.1439-6327	SN:421	1439-6319	1439-6327		Unique_Item_Requests	3	3	0
+European Journal of Applied Physiology	Springer Berlin Heidelberg		SpringerLink	10.1007/421.1439-6327	SN:421	1439-6319	1439-6327		Total_Item_Requests	3	3	0
+European Journal of Clinical Microbiology & Infectious Diseases	Springer Berlin Heidelberg		SpringerLink	10.1007/10096.1435-4373	SN:10096	0934-9723	1435-4373		Unique_Item_Requests	1	1	0
+European Journal of Clinical Microbiology & Infectious Diseases	Springer Berlin Heidelberg		SpringerLink	10.1007/10096.1435-4373	SN:10096	0934-9723	1435-4373		Total_Item_Requests	2	2	0
+European Journal of Clinical Nutrition	Nature Publishing Group UK		nature.com	10.1038/41430.1476-5640	SN:41430	0954-3007	1476-5640		Unique_Item_Requests	1	1	0
+European Journal of Clinical Nutrition	Nature Publishing Group UK		nature.com	10.1038/41430.1476-5640	SN:41430	0954-3007	1476-5640		Total_Item_Requests	2	2	0
+European Journal of Epidemiology	Springer Netherlands		SpringerLink	10.1007/10654.1573-7284	SN:10654	0393-2990	1573-7284		Unique_Item_Requests	1	1	0
+European Journal of Epidemiology	Springer Netherlands		SpringerLink	10.1007/10654.1573-7284	SN:10654	0393-2990	1573-7284		Total_Item_Requests	2	2	0
+European Journal of Human Genetics	Springer International Publishing		nature.com		SN:41431	1018-4813	1476-5438		Unique_Item_Requests	3	3	0
+European Journal of Human Genetics	Springer International Publishing		nature.com		SN:41431	1018-4813	1476-5438		Total_Item_Requests	4	4	0
+European Journal of Nuclear Medicine and Molecular Imaging	Springer-Verlag		SpringerLink		SN:259	1619-7070	1619-7089		Unique_Item_Requests	1	1	0
+European Journal of Nuclear Medicine and Molecular Imaging	Springer-Verlag		SpringerLink		SN:259	1619-7070	1619-7089		Total_Item_Requests	2	2	0
+European Journal of Nutrition	Springer Berlin Heidelberg		SpringerLink	10.1007/394.1436-6215	SN:394	1436-6207	1436-6215		Unique_Item_Requests	3	3	0
+European Journal of Nutrition	Springer Berlin Heidelberg		SpringerLink	10.1007/394.1436-6215	SN:394	1436-6207	1436-6215		Total_Item_Requests	6	6	0
+European Journal of Pediatrics	Springer Berlin Heidelberg		SpringerLink	10.1007/431.1432-1076	SN:431		1432-1076		Unique_Item_Requests	1	1	0
+European Journal of Pediatrics	Springer Berlin Heidelberg		SpringerLink	10.1007/431.1432-1076	SN:431		1432-1076		Total_Item_Requests	1	1	0
+European Journal of Plant Pathology	Springer Netherlands		SpringerLink	10.1007/10658.1573-8469	SN:10658	0929-1873	1573-8469		Unique_Item_Requests	3	3	0
+European Journal of Plant Pathology	Springer Netherlands		SpringerLink	10.1007/10658.1573-8469	SN:10658	0929-1873	1573-8469		Total_Item_Requests	6	6	0
+European Radiology	Springer-Verlag		SpringerLink		SN:330	0938-7994	1432-1084		Unique_Item_Requests	1	1	0
+European Radiology	Springer-Verlag		SpringerLink		SN:330	0938-7994	1432-1084		Total_Item_Requests	1	1	0
+Evolutionary Ecology	Kluwer Academic Publishers		SpringerLink		SN:10682	0269-7653	1573-8477		Unique_Item_Requests	1	1	0
+Evolutionary Ecology	Kluwer Academic Publishers		SpringerLink		SN:10682	0269-7653	1573-8477		Total_Item_Requests	1	1	0
+Evolutionary Psychological Science	Springer International Publishing		SpringerLink		SN:40806		2198-9885		Unique_Item_Requests	2	2	0
+Evolutionary Psychological Science	Springer International Publishing		SpringerLink		SN:40806		2198-9885		Total_Item_Requests	3	3	0
+Experientia	Birkhäuser-Verlag		SpringerLink		SN:18	0014-4754			Unique_Item_Requests	1	1	0
+Experientia	Birkhäuser-Verlag		SpringerLink		SN:18	0014-4754			Total_Item_Requests	1	1	0
+Experimental and Applied Acarology	Springer International Publishing		SpringerLink	10.1007/10493.1572-9702	SN:10493	0168-8162	1572-9702		Unique_Item_Requests	4	4	0
+Experimental and Applied Acarology	Springer International Publishing		SpringerLink	10.1007/10493.1572-9702	SN:10493	0168-8162	1572-9702		Total_Item_Requests	5	5	0
+Experimental Brain Research	Springer Berlin Heidelberg		SpringerLink	10.1007/221.1432-1106	SN:221	0014-4819	1432-1106		Unique_Item_Requests	1	1	0
+Experimental Brain Research	Springer Berlin Heidelberg		SpringerLink	10.1007/221.1432-1106	SN:221	0014-4819	1432-1106		Total_Item_Requests	1	1	0
+Experimental Techniques	Springer International Publishing		SpringerLink		SN:40799	0732-8818	1747-1567		Unique_Item_Requests	2	2	0
+Experimental Techniques	Springer International Publishing		SpringerLink		SN:40799	0732-8818	1747-1567		Total_Item_Requests	7	7	0
+Eye	Nature Publishing Group UK		nature.com		SN:41433	0950-222X	1476-5454		Unique_Item_Requests	2	2	0
+Eye	Nature Publishing Group UK		nature.com		SN:41433	0950-222X	1476-5454		Total_Item_Requests	2	2	0
+Fibers and Polymers	Springer Berlin Heidelberg		SpringerLink	10.1007/12221.1875-0052	SN:12221	1229-9197	1875-0052		Unique_Item_Requests	1	1	0
+Fibers and Polymers	Springer Berlin Heidelberg		SpringerLink	10.1007/12221.1875-0052	SN:12221	1229-9197	1875-0052		Total_Item_Requests	1	1	0
+Fire Technology	Springer US		SpringerLink	10.1007/10694.1572-8099	SN:10694	0015-2684	1572-8099		Unique_Item_Requests	2	2	0
+Fire Technology	Springer US		SpringerLink	10.1007/10694.1572-8099	SN:10694	0015-2684	1572-8099		Total_Item_Requests	5	5	0
+Fish Physiology and Biochemistry	Springer Netherlands		SpringerLink	10.1007/10695.1573-5168	SN:10695	0920-1742	1573-5168		Unique_Item_Requests	4	4	0
+Fish Physiology and Biochemistry	Springer Netherlands		SpringerLink	10.1007/10695.1573-5168	SN:10695	0920-1742	1573-5168		Total_Item_Requests	6	6	0
+Food Ethics	Springer International Publishing		SpringerLink		SN:41055	2364-6853	2364-6861		Unique_Item_Requests	1	1	0
+Food Ethics	Springer International Publishing		SpringerLink		SN:41055	2364-6853	2364-6861		Total_Item_Requests	1	1	0
+Food Security	Springer Netherlands		SpringerLink	10.1007/12571.1876-4525	SN:12571	1876-4517	1876-4525		Unique_Item_Requests	2	2	0
+Food Security	Springer Netherlands		SpringerLink	10.1007/12571.1876-4525	SN:12571	1876-4517	1876-4525		Total_Item_Requests	3	3	0
+Forschung im Ingenieurwesen	Springer Berlin Heidelberg		SpringerLink	10.1007/10010.1434-0860	SN:10010	0015-7899	1434-0860		Unique_Item_Requests	2	2	0
+Forschung im Ingenieurwesen	Springer Berlin Heidelberg		SpringerLink	10.1007/10010.1434-0860	SN:10010	0015-7899	1434-0860		Total_Item_Requests	2	2	0
+Frontiers of Computer Science	Higher Education Press		SpringerLink	10.1007/11704.2095-2236	SN:11704	2095-2228	2095-2236		Unique_Item_Requests	1	1	0
+Frontiers of Computer Science	Higher Education Press		SpringerLink	10.1007/11704.2095-2236	SN:11704	2095-2228	2095-2236		Total_Item_Requests	1	1	0
+Frontiers of Earth Science	Higher Education Press		SpringerLink	10.1007/11707.2095-0209	SN:11707	2095-0195	2095-0209		Unique_Item_Requests	2	2	0
+Frontiers of Earth Science	Higher Education Press		SpringerLink	10.1007/11707.2095-0209	SN:11707	2095-0195	2095-0209		Total_Item_Requests	2	2	0
+Frontiers of Mechanical Engineering	Higher Education Press		SpringerLink	10.1007/11465.2095-0241	SN:11465	2095-0233	2095-0241		Unique_Item_Requests	2	2	0
+Frontiers of Mechanical Engineering	Higher Education Press		SpringerLink	10.1007/11465.2095-0241	SN:11465	2095-0233	2095-0241		Total_Item_Requests	4	4	0
+Gender Issues	Springer US		SpringerLink	10.1007/12147.1936-4717	SN:12147	1098-092X	1936-4717		Unique_Item_Requests	1	1	0
+Gender Issues	Springer US		SpringerLink	10.1007/12147.1936-4717	SN:12147	1098-092X	1936-4717		Total_Item_Requests	1	1	0
+Gene Therapy	Nature Publishing Group UK		nature.com	10.1038/41434.1476-5462	SN:41434	0969-7128	1476-5462		Unique_Item_Requests	1	1	0
+Gene Therapy	Nature Publishing Group UK		nature.com	10.1038/41434.1476-5462	SN:41434	0969-7128	1476-5462		Total_Item_Requests	2	2	0
+General Relativity and Gravitation	Springer US		SpringerLink	10.1007/10714.1572-9532	SN:10714	0001-7701	1572-9532		Unique_Item_Requests	1	1	0
+General Relativity and Gravitation	Springer US		SpringerLink	10.1007/10714.1572-9532	SN:10714	0001-7701	1572-9532		Total_Item_Requests	1	1	0
+Geoheritage	Springer Berlin Heidelberg		SpringerLink	10.1007/12371.1867-2485	SN:12371	1867-2477	1867-2485		Unique_Item_Requests	1	1	0
+Geoheritage	Springer Berlin Heidelberg		SpringerLink	10.1007/12371.1867-2485	SN:12371	1867-2477	1867-2485		Total_Item_Requests	1	1	0
+GeoJournal	Springer Netherlands		SpringerLink	10.1007/10708.1572-9893	SN:10708	0343-2521	1572-9893		Unique_Item_Requests	15	15	0
+GeoJournal	Springer Netherlands		SpringerLink	10.1007/10708.1572-9893	SN:10708	0343-2521	1572-9893		Total_Item_Requests	20	20	0
+GeroScience	Springer International Publishing		SpringerLink	10.1007/11357.1574-4647	SN:11357	2509-2715	2509-2723		Unique_Item_Requests	2	2	0
+GeroScience	Springer International Publishing		SpringerLink	10.1007/11357.1574-4647	SN:11357	2509-2715	2509-2723		Total_Item_Requests	4	4	0
+Graphs and Combinatorics	Springer Japan		SpringerLink	10.1007/373.1435-5914	SN:373	0911-0119	1435-5914		Unique_Item_Requests	2	2	0
+Graphs and Combinatorics	Springer Japan		SpringerLink	10.1007/373.1435-5914	SN:373	0911-0119	1435-5914		Total_Item_Requests	4	4	0
+Heart and Vessels	Springer-Verlag		SpringerLink		SN:380	0910-8327	1615-2573		Unique_Item_Requests	1	1	0
+Heart and Vessels	Springer-Verlag		SpringerLink		SN:380	0910-8327	1615-2573		Total_Item_Requests	1	1	0
+Heart Failure Reviews	Springer US		SpringerLink	10.1007/10741.1573-7322	SN:10741	1382-4147	1573-7322		Unique_Item_Requests	1	1	0
+Heart Failure Reviews	Springer US		SpringerLink	10.1007/10741.1573-7322	SN:10741	1382-4147	1573-7322		Total_Item_Requests	1	1	0
+HEC Forum	Springer Netherlands		SpringerLink	10.1007/10730.1572-8498	SN:10730	0956-2737	1572-8498		Unique_Item_Requests	2	2	0
+HEC Forum	Springer Netherlands		SpringerLink	10.1007/10730.1572-8498	SN:10730	0956-2737	1572-8498		Total_Item_Requests	2	2	0
+Helgoländer Meeresuntersuchungen	Springer-Verlag		SpringerLink		SN:10152	0174-3597	1438-3888		Unique_Item_Requests	1	1	0
+Helgoländer Meeresuntersuchungen	Springer-Verlag		SpringerLink		SN:10152	0174-3597	1438-3888		Total_Item_Requests	1	1	0
+Heredity	Springer International Publishing		nature.com		SN:41437	0018-067X	1365-2540		Unique_Item_Requests	11	11	0
+Heredity	Springer International Publishing		nature.com		SN:41437	0018-067X	1365-2540		Total_Item_Requests	11	11	0
+Higher Education	Springer Netherlands		SpringerLink	10.1007/10734.1573-174X	SN:10734	0018-1560	1573-174X		Unique_Item_Requests	4	4	0
+Higher Education	Springer Netherlands		SpringerLink	10.1007/10734.1573-174X	SN:10734	0018-1560	1573-174X		Total_Item_Requests	4	4	0
+Human Arenas	Springer International Publishing		SpringerLink		SN:42087	2522-5790	2522-5804		Unique_Item_Requests	1	1	0
+Human Arenas	Springer International Publishing		SpringerLink		SN:42087	2522-5790	2522-5804		Total_Item_Requests	2	2	0
+Human Ecology	Springer US		SpringerLink		SN:10745	0300-7839	1572-9915		Unique_Item_Requests	5	5	0
+Human Ecology	Springer US		SpringerLink		SN:10745	0300-7839	1572-9915		Total_Item_Requests	6	6	0
+Human Studies	Springer Netherlands		SpringerLink	10.1007/10746.1572-851X	SN:10746	0163-8548	1572-851X		Unique_Item_Requests	21	21	0
+Human Studies	Springer Netherlands		SpringerLink	10.1007/10746.1572-851X	SN:10746	0163-8548	1572-851X		Total_Item_Requests	22	22	0
+Hydrobiologia	Springer International Publishing		SpringerLink	10.1007/10750.1573-5117	SN:10750	0018-8158	1573-5117		Unique_Item_Requests	9	9	0
+Hydrobiologia	Springer International Publishing		SpringerLink	10.1007/10750.1573-5117	SN:10750	0018-8158	1573-5117		Total_Item_Requests	12	12	0
+Hydrogeology Journal	Springer-Verlag		SpringerLink		SN:10040	1431-2174	1435-0157		Unique_Item_Requests	4	4	0
+Hydrogeology Journal	Springer-Verlag		SpringerLink		SN:10040	1431-2174	1435-0157		Total_Item_Requests	4	4	0
+Inflammation	Springer US		SN:ResearchGate	10.1007/10753.1573-2576	SN:10753	0360-3997	1573-2576		Unique_Item_Requests	1	1	0
+Inflammation	Springer US		SN:ResearchGate	10.1007/10753.1573-2576	SN:10753	0360-3997	1573-2576		Total_Item_Requests	1	1	0
+Inflammation	Kluwer Academic Publishers-Plenum Publishers		SpringerLink		SN:10753	0360-3997	1573-2576		Unique_Item_Requests	1	1	0
+Inflammation	Kluwer Academic Publishers-Plenum Publishers		SpringerLink		SN:10753	0360-3997	1573-2576		Total_Item_Requests	1	1	0
+Inorganic Materials	Kluwer Academic Publishers-Plenum Publishers		SpringerLink		SN:10789	0020-1685	1608-3172		Unique_Item_Requests	1	1	0
+Inorganic Materials	Kluwer Academic Publishers-Plenum Publishers		SpringerLink		SN:10789	0020-1685	1608-3172		Total_Item_Requests	1	1	0
+Integrative Psychological and Behavioral Science	Springer US		SpringerLink	10.1007/12124.1936-3567	SN:12124	1932-4502	1936-3567		Unique_Item_Requests	3	3	0
+Integrative Psychological and Behavioral Science	Springer US		SpringerLink	10.1007/12124.1936-3567	SN:12124	1932-4502	1936-3567		Total_Item_Requests	4	4	0
+Intensive Care Medicine	Springer-Verlag		SpringerLink		SN:134	0342-4642	1432-1238		Unique_Item_Requests	1	1	0
+Intensive Care Medicine	Springer-Verlag		SpringerLink		SN:134	0342-4642	1432-1238		Total_Item_Requests	1	1	0
+Interchange	Springer Netherlands		SpringerLink	10.1007/10780.1573-1790	SN:10780	0826-4805	1573-1790		Unique_Item_Requests	2	2	0
+Interchange	Springer Netherlands		SpringerLink	10.1007/10780.1573-1790	SN:10780	0826-4805	1573-1790		Total_Item_Requests	2	2	0
+International Journal for the Advancement of Counselling	Kluwer Academic Publishers		SpringerLink		SN:10447	0165-0653	1573-3246		Unique_Item_Requests	1	1	0
+International Journal for the Advancement of Counselling	Kluwer Academic Publishers		SpringerLink		SN:10447	0165-0653	1573-3246		Total_Item_Requests	2	2	0
+International Journal of Artificial Intelligence in Education	Springer New York		SpringerLink		SN:40593	1560-4292	1560-4306		Unique_Item_Requests	1	1	0
+International Journal of Artificial Intelligence in Education	Springer New York		SpringerLink		SN:40593	1560-4292	1560-4306		Total_Item_Requests	1	1	0
+International Journal of Behavioral Medicine	Springer US		SpringerLink	10.1007/12529.1532-7558	SN:12529	1070-5503	1532-7558		Unique_Item_Requests	2	2	0
+International Journal of Behavioral Medicine	Springer US		SpringerLink	10.1007/12529.1532-7558	SN:12529	1070-5503	1532-7558		Total_Item_Requests	3	3	0
+International Journal of Biometeorology	Springer Berlin Heidelberg		SpringerLink	10.1007/484.1432-1254	SN:484	0020-7128	1432-1254		Unique_Item_Requests	1	1	0
+International Journal of Biometeorology	Springer Berlin Heidelberg		SpringerLink	10.1007/484.1432-1254	SN:484	0020-7128	1432-1254		Total_Item_Requests	2	2	0
+International Journal of Community Well-Being	Springer International Publishing		SpringerLink		SN:42413	2524-5295	2524-5309		Unique_Item_Requests	2	2	0
+International Journal of Community Well-Being	Springer International Publishing		SpringerLink		SN:42413	2524-5295	2524-5309		Total_Item_Requests	2	2	0
+International Journal of Computer Assisted Radiology and Surgery	Springer International Publishing		SpringerLink	10.1007/11548.1861-6429	SN:11548	1861-6410	1861-6429		Unique_Item_Requests	2	2	0
+International Journal of Computer Assisted Radiology and Surgery	Springer International Publishing		SpringerLink	10.1007/11548.1861-6429	SN:11548	1861-6410	1861-6429		Total_Item_Requests	2	2	0
+International Journal of Environmental Science and Technology	Springer Berlin Heidelberg		SpringerLink	10.1007/13762.1735-2630	SN:13762	1735-1472	1735-2630		Unique_Item_Requests	2	2	0
+International Journal of Environmental Science and Technology	Springer Berlin Heidelberg		SpringerLink	10.1007/13762.1735-2630	SN:13762	1735-1472	1735-2630		Total_Item_Requests	3	3	0
+International Journal of Ethics Education	Springer International Publishing		SpringerLink		SN:40889	2363-9997	2364-0006		Unique_Item_Requests	1	1	0
+International Journal of Ethics Education	Springer International Publishing		SpringerLink		SN:40889	2363-9997	2364-0006		Total_Item_Requests	1	1	0
+International Journal of Latin American Religions	Springer International Publishing		SpringerLink		SN:41603	2509-9957	2509-9965		Unique_Item_Requests	1	1	0
+International Journal of Latin American Religions	Springer International Publishing		SpringerLink		SN:41603	2509-9957	2509-9965		Total_Item_Requests	1	1	0
+International Journal of Machine Learning and Cybernetics	Springer Berlin Heidelberg		SpringerLink	10.1007/13042.1868-808X	SN:13042	1868-8071	1868-808X		Unique_Item_Requests	1	1	0
+International Journal of Machine Learning and Cybernetics	Springer Berlin Heidelberg		SpringerLink	10.1007/13042.1868-808X	SN:13042	1868-8071	1868-808X		Total_Item_Requests	2	2	0
+International Journal of Mental Health and Addiction	Springer US		SpringerLink	10.1007/11469.1557-1882	SN:11469	1557-1874	1557-1882		Unique_Item_Requests	1	1	0
+International Journal of Mental Health and Addiction	Springer US		SpringerLink	10.1007/11469.1557-1882	SN:11469	1557-1874	1557-1882		Total_Item_Requests	2	2	0
+International Journal of Peptide Research and Therapeutics	Springer Netherlands		SpringerLink	10.1007/10989.1573-3904	SN:10989	1573-3149	1573-3904		Unique_Item_Requests	2	2	0
+International Journal of Peptide Research and Therapeutics	Springer Netherlands		SpringerLink	10.1007/10989.1573-3904	SN:10989	1573-3149	1573-3904		Total_Item_Requests	3	3	0
+International Journal of Science and Mathematics Education	Springer Netherlands		SpringerLink		SN:10763	1571-0068	1573-1774		Unique_Item_Requests	1	1	0
+International Journal of Science and Mathematics Education	Springer Netherlands		SpringerLink		SN:10763	1571-0068	1573-1774		Total_Item_Requests	1	1	0
+International Journal of System Assurance Engineering and Management	Springer India		SpringerLink	10.1007/13198.0976-4348	SN:13198	0975-6809	0976-4348		Unique_Item_Requests	1	1	0
+International Journal of System Assurance Engineering and Management	Springer India		SpringerLink	10.1007/13198.0976-4348	SN:13198	0975-6809	0976-4348		Total_Item_Requests	2	2	0
+International Journal of Technology and Design Education	Springer Netherlands		SpringerLink	10.1007/10798.1573-1804	SN:10798	0957-7572	1573-1804		Unique_Item_Requests	2	2	0
+International Journal of Technology and Design Education	Springer Netherlands		SpringerLink	10.1007/10798.1573-1804	SN:10798	0957-7572	1573-1804		Total_Item_Requests	2	2	0
+International Journal of Tropical Insect Science	Springer International Publishing		SpringerLink		SN:42690		1742-7592		Unique_Item_Requests	2	2	0
+International Journal of Tropical Insect Science	Springer International Publishing		SpringerLink		SN:42690		1742-7592		Total_Item_Requests	4	4	0
+International Review of Education	Springer Netherlands		SpringerLink	10.1007/11159.1573-0638	SN:11159	0020-8566	1573-0638		Unique_Item_Requests	1	1	0
+International Review of Education	Springer Netherlands		SpringerLink	10.1007/11159.1573-0638	SN:11159	0020-8566	1573-0638		Total_Item_Requests	1	1	0
+International Tax and Public Finance	Springer US		SpringerLink	10.1007/10797.1573-6970	SN:10797	0927-5940	1573-6970		Unique_Item_Requests	4	4	0
+International Tax and Public Finance	Springer US		SpringerLink	10.1007/10797.1573-6970	SN:10797	0927-5940	1573-6970		Total_Item_Requests	6	6	0
+International Urology and Nephrology	Kluwer Academic Publishers		SpringerLink		SN:11255	0301-1623	1573-2584		Unique_Item_Requests	1	1	0
+International Urology and Nephrology	Kluwer Academic Publishers		SpringerLink		SN:11255	0301-1623	1573-2584		Total_Item_Requests	3	3	0
+Iranian Journal of Science and Technology, Transactions of Civil Engineering	Springer International Publishing		SpringerLink		SN:40996	2228-6160	2364-1843		Unique_Item_Requests	1	1	0
+Iranian Journal of Science and Technology, Transactions of Civil Engineering	Springer International Publishing		SpringerLink		SN:40996	2228-6160	2364-1843		Total_Item_Requests	1	1	0
+Iranian Journal of Science and Technology, Transactions of Mechanical Engineering	Springer International Publishing		SpringerLink		SN:40997	2228-6187	2364-1835		Unique_Item_Requests	1	1	0
+Iranian Journal of Science and Technology, Transactions of Mechanical Engineering	Springer International Publishing		SpringerLink		SN:40997	2228-6187	2364-1835		Total_Item_Requests	1	1	0
+Irrigation Science	Springer Berlin Heidelberg		SpringerLink	10.1007/271.1432-1319	SN:271	0342-7188	1432-1319		Unique_Item_Requests	1	1	0
+Irrigation Science	Springer Berlin Heidelberg		SpringerLink	10.1007/271.1432-1319	SN:271	0342-7188	1432-1319		Total_Item_Requests	1	1	0
+Izvestiya, Physics of the Solid Earth	Pleiades Publishing		SpringerLink	10.1134/11486.1555-6506	SN:11486	1069-3513	1555-6506		Unique_Item_Requests	1	1	0
+Izvestiya, Physics of the Solid Earth	Pleiades Publishing		SpringerLink	10.1134/11486.1555-6506	SN:11486	1069-3513	1555-6506		Total_Item_Requests	1	1	0
+Japanese Journal of Mathematics	Springer Japan		SpringerLink		SN:11537	0289-2316	1861-3624		Unique_Item_Requests	1	1	0
+Japanese Journal of Mathematics	Springer Japan		SpringerLink		SN:11537	0289-2316	1861-3624		Total_Item_Requests	2	2	0
+Journal of Abnormal Child Psychology	Kluwer Academic Publishers-Plenum Publishers		SpringerLink		SN:10802	0091-0627	1573-2835		Unique_Item_Requests	2	2	0
+Journal of Abnormal Child Psychology	Kluwer Academic Publishers-Plenum Publishers		SpringerLink		SN:10802	0091-0627	1573-2835		Total_Item_Requests	2	2	0
+Journal of Academic Ethics	Springer Netherlands		SpringerLink	10.1007/10805.1572-8544	SN:10805	1570-1727	1572-8544		Unique_Item_Requests	2	2	0
+Journal of Academic Ethics	Springer Netherlands		SpringerLink	10.1007/10805.1572-8544	SN:10805	1570-1727	1572-8544		Total_Item_Requests	2	2	0
+Journal of Adult Development	Springer US		SpringerLink		SN:10804	1068-0667	1573-3440		Unique_Item_Requests	2	2	0
+Journal of Adult Development	Springer US		SpringerLink		SN:10804	1068-0667	1573-3440		Total_Item_Requests	2	2	0
+Journal of Ambient Intelligence and Humanized Computing	Springer Berlin Heidelberg		SpringerLink	10.1007/12652.1868-5145	SN:12652	1868-5137	1868-5145		Unique_Item_Requests	2	2	0
+Journal of Ambient Intelligence and Humanized Computing	Springer Berlin Heidelberg		SpringerLink	10.1007/12652.1868-5145	SN:12652	1868-5137	1868-5145		Total_Item_Requests	5	5	0
+Journal of Anesthesia	Springer Japan		SpringerLink	10.1007/540.1438-8359	SN:540	0913-8668	1438-8359		Unique_Item_Requests	3	3	0
+Journal of Anesthesia	Springer Japan		SpringerLink	10.1007/540.1438-8359	SN:540	0913-8668	1438-8359		Total_Item_Requests	6	6	0
+Journal of Applied Electrochemistry	Kluwer Academic Publishers		SpringerLink		SN:10800	0021-891X	1572-8838		Unique_Item_Requests	2	2	0
+Journal of Applied Electrochemistry	Kluwer Academic Publishers		SpringerLink		SN:10800	0021-891X	1572-8838		Total_Item_Requests	2	2	0
+Journal of Applied Phycology	Springer Netherlands		SN:ResearchGate	10.1007/10811.1573-5176	SN:10811	0921-8971	1573-5176		Unique_Item_Requests	3	3	0
+Journal of Applied Phycology	Springer Netherlands		SN:ResearchGate	10.1007/10811.1573-5176	SN:10811	0921-8971	1573-5176		Total_Item_Requests	3	3	0
+Journal of Applied Phycology	Springer Netherlands		SpringerLink	10.1007/10811.1573-5176	SN:10811	0921-8971	1573-5176		Unique_Item_Requests	2	2	0
+Journal of Applied Phycology	Springer Netherlands		SpringerLink	10.1007/10811.1573-5176	SN:10811	0921-8971	1573-5176		Total_Item_Requests	4	4	0
+Journal of Arid Land	Science Press		SpringerLink	10.1007/40333.2194-7783	SN:40333	1674-6767	2194-7783		Unique_Item_Requests	1	1	0
+Journal of Arid Land	Science Press		SpringerLink	10.1007/40333.2194-7783	SN:40333	1674-6767	2194-7783		Total_Item_Requests	1	1	0
+Journal of Assisted Reproduction and Genetics	Springer US		SpringerLink	10.1007/10815.1573-7330	SN:10815	1058-0468	1573-7330		Unique_Item_Requests	2	2	0
+Journal of Assisted Reproduction and Genetics	Springer US		SpringerLink	10.1007/10815.1573-7330	SN:10815	1058-0468	1573-7330		Total_Item_Requests	4	4	0
+Journal of Autism and Developmental Disorders	Springer US		SpringerLink	10.1007/10803.1573-3432	SN:10803	0162-3257	1573-3432		Unique_Item_Requests	5	5	0
+Journal of Autism and Developmental Disorders	Springer US		SpringerLink	10.1007/10803.1573-3432	SN:10803	0162-3257	1573-3432		Total_Item_Requests	10	10	0
+Journal of Behavioral Medicine	Springer US		SpringerLink	10.1007/10865.1573-3521	SN:10865	0160-7715	1573-3521		Unique_Item_Requests	5	5	0
+Journal of Behavioral Medicine	Springer US		SpringerLink	10.1007/10865.1573-3521	SN:10865	0160-7715	1573-3521		Total_Item_Requests	7	7	0
+Journal of Bioenergetics and Biomembranes	Springer US		SpringerLink	10.1007/10863.1573-6881	SN:10863	0145-479X	1573-6881		Unique_Item_Requests	1	1	0
+Journal of Bioenergetics and Biomembranes	Springer US		SpringerLink	10.1007/10863.1573-6881	SN:10863	0145-479X	1573-6881		Total_Item_Requests	2	2	0
+Journal of Bioethical Inquiry	Springer Nature Singapore		SpringerLink	10.1007/11673.1872-4353	SN:11673	1176-7529	1872-4353		Unique_Item_Requests	2	2	0
+Journal of Bioethical Inquiry	Springer Nature Singapore		SpringerLink	10.1007/11673.1872-4353	SN:11673	1176-7529	1872-4353		Total_Item_Requests	3	3	0
+Journal of Biosciences	Springer-Verlag		SpringerLink		SN:12038	0250-5991	0973-7138		Unique_Item_Requests	1	1	0
+Journal of Biosciences	Springer-Verlag		SpringerLink		SN:12038	0250-5991	0973-7138		Total_Item_Requests	1	1	0
+Journal of Business and Psychology	Springer US		SpringerLink	10.1007/10869.1573-353X	SN:10869	0889-3268	1573-353X		Unique_Item_Requests	1	1	0
+Journal of Business and Psychology	Springer US		SpringerLink	10.1007/10869.1573-353X	SN:10869	0889-3268	1573-353X		Total_Item_Requests	1	1	0
+Journal of Business Ethics	Springer Netherlands		SpringerLink	10.1007/10551.1573-0697	SN:10551	0167-4544	1573-0697		Unique_Item_Requests	9	9	0
+Journal of Business Ethics	Springer Netherlands		SpringerLink	10.1007/10551.1573-0697	SN:10551	0167-4544	1573-0697		Total_Item_Requests	11	11	0
+Journal of Cancer Education	Springer US		SpringerLink	10.1007/13187.1543-0154	SN:13187	0885-8195	1543-0154		Unique_Item_Requests	1	1	0
+Journal of Cancer Education	Springer US		SpringerLink	10.1007/13187.1543-0154	SN:13187	0885-8195	1543-0154		Total_Item_Requests	1	1	0
+Journal of Cancer Survivorship	Springer US		SpringerLink	10.1007/11764.1932-2267	SN:11764	1932-2259	1932-2267		Unique_Item_Requests	1	1	0
+Journal of Cancer Survivorship	Springer US		SpringerLink	10.1007/11764.1932-2267	SN:11764	1932-2259	1932-2267		Total_Item_Requests	1	1	0
+Journal of Chemical Crystallography	Springer US		SpringerLink		SN:10870	1074-1542	1572-8854		Unique_Item_Requests	1	1	0
+Journal of Chemical Crystallography	Springer US		SpringerLink		SN:10870	1074-1542	1572-8854		Total_Item_Requests	1	1	0
+Journal of Child & Adolescent Trauma	Springer International Publishing		SpringerLink		SN:40653	1936-1521	1936-153X		Unique_Item_Requests	1	1	0
+Journal of Child & Adolescent Trauma	Springer International Publishing		SpringerLink		SN:40653	1936-1521	1936-153X		Total_Item_Requests	4	4	0
+Journal of Child and Family Studies	Springer US		SpringerLink	10.1007/10826.1573-2843	SN:10826	1062-1024	1573-2843		Unique_Item_Requests	13	13	0
+Journal of Child and Family Studies	Springer US		SpringerLink	10.1007/10826.1573-2843	SN:10826	1062-1024	1573-2843		Total_Item_Requests	18	18	0
+Journal of Coastal Conservation	Springer Netherlands		SpringerLink	10.1007/11852.1874-7841	SN:11852	1400-0350	1874-7841		Unique_Item_Requests	4	4	0
+Journal of Coastal Conservation	Springer Netherlands		SpringerLink	10.1007/11852.1874-7841	SN:11852	1400-0350	1874-7841		Total_Item_Requests	7	7	0
+Journal of Community Health	Springer US		SpringerLink	10.1007/10900.1573-3610	SN:10900	0094-5145	1573-3610		Unique_Item_Requests	1	1	0
+Journal of Community Health	Springer US		SpringerLink	10.1007/10900.1573-3610	SN:10900	0094-5145	1573-3610		Total_Item_Requests	2	2	0
+Journal of Comparative Physiology A	Springer Berlin Heidelberg		SpringerLink	10.1007/359.1432-1351	SN:359	0340-7594	1432-1351		Unique_Item_Requests	6	6	0
+Journal of Comparative Physiology A	Springer Berlin Heidelberg		SpringerLink	10.1007/359.1432-1351	SN:359	0340-7594	1432-1351		Total_Item_Requests	8	8	0
+Journal of Comparative Physiology B	Springer Berlin Heidelberg		SpringerLink	10.1007/360.1432-136X	SN:360	0174-1578	1432-136X		Unique_Item_Requests	1	1	0
+Journal of Comparative Physiology B	Springer Berlin Heidelberg		SpringerLink	10.1007/360.1432-136X	SN:360	0174-1578	1432-136X		Total_Item_Requests	2	2	0
+Journal of Cross-Cultural Gerontology	Springer US		SpringerLink	10.1007/10823.1573-0719	SN:10823	0169-3816	1573-0719		Unique_Item_Requests	2	2	0
+Journal of Cross-Cultural Gerontology	Springer US		SpringerLink	10.1007/10823.1573-0719	SN:10823	0169-3816	1573-0719		Total_Item_Requests	2	2	0
+Journal of Developmental and Physical Disabilities	Springer US		SpringerLink	10.1007/10882.1573-3580	SN:10882	1056-263X	1573-3580		Unique_Item_Requests	1	1	0
+Journal of Developmental and Physical Disabilities	Springer US		SpringerLink	10.1007/10882.1573-3580	SN:10882	1056-263X	1573-3580		Total_Item_Requests	2	2	0
+Journal of Educational Change	Kluwer Academic Publishers		SpringerLink		SN:10833	1389-2843	1573-1812		Unique_Item_Requests	2	2	0
+Journal of Educational Change	Kluwer Academic Publishers		SpringerLink		SN:10833	1389-2843	1573-1812		Total_Item_Requests	2	2	0
+Journal of Elementary Science Education	Springer Netherlands		SpringerLink		SN:13270	1090-185X			Unique_Item_Requests	1	1	0
+Journal of Elementary Science Education	Springer Netherlands		SpringerLink		SN:13270	1090-185X			Total_Item_Requests	1	1	0
+Journal of Environmental Studies and Sciences	Springer US		SpringerLink	10.1007/13412.2190-6491	SN:13412	2190-6483	2190-6491		Unique_Item_Requests	2	2	0
+Journal of Environmental Studies and Sciences	Springer US		SpringerLink	10.1007/13412.2190-6491	SN:13412	2190-6483	2190-6491		Total_Item_Requests	5	5	0
+Journal of Ethology	Springer-Verlag		SpringerLink		SN:10164	0289-0771	1439-5444		Unique_Item_Requests	1	1	0
+Journal of Ethology	Springer-Verlag		SpringerLink		SN:10164	0289-0771	1439-5444		Total_Item_Requests	1	1	0
+Journal of Experimental Criminology	Springer Netherlands		SpringerLink	10.1007/11292.1572-8315	SN:11292	1573-3750	1572-8315		Unique_Item_Requests	1	1	0
+Journal of Experimental Criminology	Springer Netherlands		SpringerLink	10.1007/11292.1572-8315	SN:11292	1573-3750	1572-8315		Total_Item_Requests	1	1	0
+Journal of Family and Economic Issues	Springer US		SpringerLink		SN:10834	1058-0476	1573-3475		Unique_Item_Requests	1	1	0
+Journal of Family and Economic Issues	Springer US		SpringerLink		SN:10834	1058-0476	1573-3475		Total_Item_Requests	2	2	0
+Journal of Family Violence	Springer US		SpringerLink	10.1007/10896.1573-2851	SN:10896	0885-7482	1573-2851		Unique_Item_Requests	1	1	0
+Journal of Family Violence	Springer US		SpringerLink	10.1007/10896.1573-2851	SN:10896	0885-7482	1573-2851		Total_Item_Requests	2	2	0
+Journal of Food Measurement and Characterization	Springer US		SpringerLink		SN:11694	2193-4126	2193-4134		Unique_Item_Requests	1	1	0
+Journal of Food Measurement and Characterization	Springer US		SpringerLink		SN:11694	2193-4126	2193-4134		Total_Item_Requests	1	1	0
+Journal of Food Science and Technology	Springer India		SpringerLink	10.1007/13197.0975-8402	SN:13197	0022-1155	0975-8402		Unique_Item_Requests	7	7	0
+Journal of Food Science and Technology	Springer India		SpringerLink	10.1007/13197.0975-8402	SN:13197	0022-1155	0975-8402		Total_Item_Requests	9	9	0
+Journal of Forestry Research	Northeast Forestry University		SpringerLink		SN:11676	1007-662X	1993-0607		Unique_Item_Requests	1	1	0
+Journal of Forestry Research	Northeast Forestry University		SpringerLink		SN:11676	1007-662X	1993-0607		Total_Item_Requests	1	1	0
+Journal of Gambling Studies	Springer US		SpringerLink	10.1007/10899.1573-3602	SN:10899		1573-3602		Unique_Item_Requests	2	2	0
+Journal of Gambling Studies	Springer US		SpringerLink	10.1007/10899.1573-3602	SN:10899		1573-3602		Total_Item_Requests	4	4	0
+Journal of Gastroenterology	Springer-Verlag		SpringerLink		SN:535	0944-1174	1435-5922		Unique_Item_Requests	1	1	0
+Journal of Gastroenterology	Springer-Verlag		SpringerLink		SN:535	0944-1174	1435-5922		Total_Item_Requests	1	1	0
+Journal of General Internal Medicine	Springer International Publishing		SpringerLink	10.1007/11606.1525-1497	SN:11606	0884-8734	1525-1497		Unique_Item_Requests	3	3	0
+Journal of General Internal Medicine	Springer International Publishing		SpringerLink	10.1007/11606.1525-1497	SN:11606	0884-8734	1525-1497		Total_Item_Requests	3	3	0
+Journal of Global Optimization	Springer US		SpringerLink		SN:10898	0925-5001	1573-2916		Unique_Item_Requests	1	1	0
+Journal of Global Optimization	Springer US		SpringerLink		SN:10898	0925-5001	1573-2916		Total_Item_Requests	1	1	0
+Journal of Happiness Studies	Springer Netherlands		SpringerLink		SN:10902	1389-4978	1573-7780		Unique_Item_Requests	4	4	0
+Journal of Happiness Studies	Springer Netherlands		SpringerLink		SN:10902	1389-4978	1573-7780		Total_Item_Requests	4	4	0
+Journal of Immigrant and Minority Health	Springer US		SpringerLink	10.1007/10903.1557-1920	SN:10903	1557-1912	1557-1920		Unique_Item_Requests	1	1	0
+Journal of Immigrant and Minority Health	Springer US		SpringerLink	10.1007/10903.1557-1920	SN:10903	1557-1912	1557-1920		Total_Item_Requests	2	2	0
+Journal of Inclusion Phenomena and Macrocyclic Chemistry	Springer Netherlands		SN:ResearchGate	10.1007/10847.1573-1111	SN:10847	1388-3127	1573-1111		Unique_Item_Requests	2	2	0
+Journal of Inclusion Phenomena and Macrocyclic Chemistry	Springer Netherlands		SN:ResearchGate	10.1007/10847.1573-1111	SN:10847	1388-3127	1573-1111		Total_Item_Requests	2	2	0
+Journal of Inorganic and Organometallic Polymers and Materials	Springer US		SpringerLink	10.1007/10904.1574-1451	SN:10904	1574-1443	1574-1451		Unique_Item_Requests	10	10	0
+Journal of Inorganic and Organometallic Polymers and Materials	Springer US		SpringerLink	10.1007/10904.1574-1451	SN:10904	1574-1443	1574-1451		Total_Item_Requests	15	15	0
+Journal of Insect Conservation	Springer International Publishing		SpringerLink	10.1007/10841.1572-9753	SN:10841	1366-638X	1572-9753		Unique_Item_Requests	3	3	0
+Journal of Insect Conservation	Springer International Publishing		SpringerLink	10.1007/10841.1572-9753	SN:10841	1366-638X	1572-9753		Total_Item_Requests	3	3	0
+Journal of Intelligent & Robotic Systems	Springer Netherlands		SpringerLink	10.1007/10846.1573-0409	SN:10846	0921-0296	1573-0409		Unique_Item_Requests	2	2	0
+Journal of Intelligent & Robotic Systems	Springer Netherlands		SpringerLink	10.1007/10846.1573-0409	SN:10846	0921-0296	1573-0409		Total_Item_Requests	2	2	0
+Journal of International Migration and Integration	Springer Netherlands		SpringerLink		SN:12134	1488-3473	1874-6365		Unique_Item_Requests	8	8	0
+Journal of International Migration and Integration	Springer Netherlands		SpringerLink		SN:12134	1488-3473	1874-6365		Total_Item_Requests	10	10	0
+Journal of Labor Research	Springer US		SpringerLink		SN:12122	0195-3613	1936-4768		Unique_Item_Requests	1	1	0
+Journal of Labor Research	Springer US		SpringerLink		SN:12122	0195-3613	1936-4768		Total_Item_Requests	1	1	0
+Journal of Mammalian Evolution	Springer US		SpringerLink		SN:10914	1064-7554	1573-7055		Unique_Item_Requests	1	1	0
+Journal of Mammalian Evolution	Springer US		SpringerLink		SN:10914	1064-7554	1573-7055		Total_Item_Requests	1	1	0
+Journal of Mammary Gland Biology and Neoplasia	Springer US		SpringerLink		SN:10911	1083-3021	1573-7039		Unique_Item_Requests	3	3	0
+Journal of Mammary Gland Biology and Neoplasia	Springer US		SpringerLink		SN:10911	1083-3021	1573-7039		Total_Item_Requests	4	4	0
+Journal of Management & Governance	Springer US		SpringerLink	10.1007/10997.1572-963X	SN:10997	1385-3457	1572-963X		Unique_Item_Requests	2	2	0
+Journal of Management & Governance	Springer US		SpringerLink	10.1007/10997.1572-963X	SN:10997	1385-3457	1572-963X		Total_Item_Requests	3	3	0
+Journal of Material Cycles and Waste Management	Springer Japan		SpringerLink	10.1007/10163.1611-8227	SN:10163	1438-4957	1611-8227		Unique_Item_Requests	2	2	0
+Journal of Material Cycles and Waste Management	Springer Japan		SpringerLink	10.1007/10163.1611-8227	SN:10163	1438-4957	1611-8227		Total_Item_Requests	3	3	0
+Journal of Materials Engineering and Performance	Springer US		SpringerLink	10.1007/11665.1544-1024	SN:11665	1059-9495	1544-1024		Unique_Item_Requests	2	2	0
+Journal of Materials Engineering and Performance	Springer US		SpringerLink	10.1007/11665.1544-1024	SN:11665	1059-9495	1544-1024		Total_Item_Requests	2	2	0
+Journal of Mechanical Science and Technology	Korean Society of Mechanical Engineers		SpringerLink	10.1007/12206.1976-3824	SN:12206	1738-494X	1976-3824		Unique_Item_Requests	5	5	0
+Journal of Mechanical Science and Technology	Korean Society of Mechanical Engineers		SpringerLink	10.1007/12206.1976-3824	SN:12206	1738-494X	1976-3824		Total_Item_Requests	6	6	0
+Journal of Medical Humanities	Springer US		SpringerLink	10.1007/10912.1573-3645	SN:10912	1041-3545	1573-3645		Unique_Item_Requests	1	1	0
+Journal of Medical Humanities	Springer US		SpringerLink	10.1007/10912.1573-3645	SN:10912	1041-3545	1573-3645		Total_Item_Requests	1	1	0
+Journal of Molecular Evolution	Springer-Verlag		SpringerLink		SN:239	0022-2844	1432-1432		Unique_Item_Requests	3	3	0
+Journal of Molecular Evolution	Springer-Verlag		SpringerLink		SN:239	0022-2844	1432-1432		Total_Item_Requests	3	3	0
+Journal of Molecular Medicine	Springer Berlin Heidelberg		SpringerLink	10.1007/109.1432-1440	SN:109	0946-2716	1432-1440		Unique_Item_Requests	1	1	0
+Journal of Molecular Medicine	Springer Berlin Heidelberg		SpringerLink	10.1007/109.1432-1440	SN:109	0946-2716	1432-1440		Total_Item_Requests	5	5	0
+Journal of Neural Transmission	Springer-Verlag		SpringerLink		SN:702	0300-9564	1435-1463		Unique_Item_Requests	1	1	0
+Journal of Neural Transmission	Springer-Verlag		SpringerLink		SN:702	0300-9564	1435-1463		Total_Item_Requests	1	1	0
+Journal of Neuro-Oncology	Springer US		SpringerLink		SN:11060	0167-594X	1573-7373		Unique_Item_Requests	1	1	0
+Journal of Neuro-Oncology	Springer US		SpringerLink		SN:11060	0167-594X	1573-7373		Total_Item_Requests	2	2	0
+Journal of Neuroimmune Pharmacology	Springer US		SpringerLink	10.1007/11481.1557-1904	SN:11481	1557-1890	1557-1904		Unique_Item_Requests	1	1	0
+Journal of Neuroimmune Pharmacology	Springer US		SpringerLink	10.1007/11481.1557-1904	SN:11481	1557-1890	1557-1904		Total_Item_Requests	2	2	0
+Journal of Neurology	Springer Berlin Heidelberg		SpringerLink	10.1007/415.1432-1459	SN:415	0340-5354	1432-1459		Unique_Item_Requests	3	3	0
+Journal of Neurology	Springer Berlin Heidelberg		SpringerLink	10.1007/415.1432-1459	SN:415	0340-5354	1432-1459		Total_Item_Requests	4	4	0
+Journal of NeuroVirology	Springer US		SpringerLink	10.1007/13365.1538-2443	SN:13365	1355-0284	1538-2443		Unique_Item_Requests	1	1	0
+Journal of NeuroVirology	Springer US		SpringerLink	10.1007/13365.1538-2443	SN:13365	1355-0284	1538-2443		Total_Item_Requests	2	2	0
+Journal of Oceanography	Springer Singapore		SpringerLink	10.1007/10872.1573-868X	SN:10872	0916-8370	1573-868X		Unique_Item_Requests	1	1	0
+Journal of Oceanography	Springer Singapore		SpringerLink	10.1007/10872.1573-868X	SN:10872	0916-8370	1573-868X		Total_Item_Requests	1	1	0
+Journal of Ornithology	Springer Berlin Heidelberg		SpringerLink		SN:10336	2193-7192	2193-7206		Unique_Item_Requests	1	1	0
+Journal of Ornithology	Springer Berlin Heidelberg		SpringerLink		SN:10336	2193-7192	2193-7206		Total_Item_Requests	1	1	0
+Journal of Parasitic Diseases	Springer India		SpringerLink	10.1007/12639.0975-0703	SN:12639	0971-7196	0975-0703		Unique_Item_Requests	2	2	0
+Journal of Parasitic Diseases	Springer India		SpringerLink	10.1007/12639.0975-0703	SN:12639	0971-7196	0975-0703		Total_Item_Requests	4	4	0
+Journal of Pest Science	Springer Berlin Heidelberg		SpringerLink		SN:10340	1612-4758	1612-4766		Unique_Item_Requests	1	1	0
+Journal of Pest Science	Springer Berlin Heidelberg		SpringerLink		SN:10340	1612-4758	1612-4766		Total_Item_Requests	2	2	0
+Journal of Physiology and Biochemistry	Springer Netherlands		SpringerLink	10.1007/13105.1877-8755	SN:13105	1138-7548	1877-8755		Unique_Item_Requests	1	1	0
+Journal of Physiology and Biochemistry	Springer Netherlands		SpringerLink	10.1007/13105.1877-8755	SN:13105	1138-7548	1877-8755		Total_Item_Requests	1	1	0
+Journal of Plant Growth Regulation	Springer US		SpringerLink	10.1007/344.1435-8107	SN:344	0721-7595	1435-8107		Unique_Item_Requests	1	1	0
+Journal of Plant Growth Regulation	Springer US		SpringerLink	10.1007/344.1435-8107	SN:344	0721-7595	1435-8107		Total_Item_Requests	2	2	0
+Journal of Plant Pathology	Springer International Publishing		SpringerLink		SN:42161		2239-7264		Unique_Item_Requests	1	1	0
+Journal of Plant Pathology	Springer International Publishing		SpringerLink		SN:42161		2239-7264		Total_Item_Requests	2	2	0
+Journal of Polymer Research	Springer Netherlands		SpringerLink	10.1007/10965.1572-8935	SN:10965	1022-9760	1572-8935		Unique_Item_Requests	2	2	0
+Journal of Polymer Research	Springer Netherlands		SpringerLink	10.1007/10965.1572-8935	SN:10965	1022-9760	1572-8935		Total_Item_Requests	5	5	0
+Journal of Polymers and the Environment	Kluwer Academic Publishers-Plenum Publishers		SpringerLink		SN:10924	1566-2543	1572-8900		Unique_Item_Requests	1	1	0
+Journal of Polymers and the Environment	Kluwer Academic Publishers-Plenum Publishers		SpringerLink		SN:10924	1566-2543	1572-8900		Total_Item_Requests	1	1	0
+Journal of Population Ageing	Springer Netherlands		SpringerLink	10.1007/12062.1874-7876	SN:12062	1874-7884	1874-7876		Unique_Item_Requests	1	1	0
+Journal of Population Ageing	Springer Netherlands		SpringerLink	10.1007/12062.1874-7876	SN:12062	1874-7884	1874-7876		Total_Item_Requests	2	2	0
+Journal of Productivity Analysis	Springer US		SpringerLink	10.1007/11123.1573-0441	SN:11123	0895-562X	1573-0441		Unique_Item_Requests	1	1	0
+Journal of Productivity Analysis	Springer US		SpringerLink	10.1007/11123.1573-0441	SN:11123	0895-562X	1573-0441		Total_Item_Requests	2	2	0
+Journal of Psychopathology and Behavioral Assessment	Kluwer Academic Publishers-Plenum Publishers		SpringerLink		SN:10862	0882-2689	1573-3505		Unique_Item_Requests	1	1	0
+Journal of Psychopathology and Behavioral Assessment	Kluwer Academic Publishers-Plenum Publishers		SpringerLink		SN:10862	0882-2689	1573-3505		Total_Item_Requests	1	1	0
+Journal of Racial and Ethnic Health Disparities	Springer International Publishing		SpringerLink		SN:40615	2197-3792	2196-8837		Unique_Item_Requests	3	3	0
+Journal of Racial and Ethnic Health Disparities	Springer International Publishing		SpringerLink		SN:40615	2197-3792	2196-8837		Total_Item_Requests	4	4	0
+Journal of Rational-Emotive & Cognitive-Behavior Therapy	Springer US		SpringerLink	10.1007/10942.1573-6563	SN:10942	0894-9085	1573-6563		Unique_Item_Requests	2	2	0
+Journal of Rational-Emotive & Cognitive-Behavior Therapy	Springer US		SpringerLink	10.1007/10942.1573-6563	SN:10942	0894-9085	1573-6563		Total_Item_Requests	4	4	0
+Journal of Regulatory Economics	Kluwer Academic Publishers		SpringerLink		SN:11149	0922-680X	1573-0468		Unique_Item_Requests	3	3	0
+Journal of Regulatory Economics	Kluwer Academic Publishers		SpringerLink		SN:11149	0922-680X	1573-0468		Total_Item_Requests	4	4	0
+Journal of Social and Economic Development	Springer India		SpringerLink		SN:40847	0972-5792	2199-6873		Unique_Item_Requests	4	4	0
+Journal of Social and Economic Development	Springer India		SpringerLink		SN:40847	0972-5792	2199-6873		Total_Item_Requests	5	5	0
+Journal of Soil Science and Plant Nutrition	Springer International Publishing		SpringerLink		SN:42729	0718-9508	0718-9516		Unique_Item_Requests	1	1	0
+Journal of Soil Science and Plant Nutrition	Springer International Publishing		SpringerLink		SN:42729	0718-9508	0718-9516		Total_Item_Requests	1	1	0
+Journal of Solid State Electrochemistry	Springer Berlin Heidelberg		SpringerLink	10.1007/10008.1433-0768	SN:10008	1432-8488	1433-0768		Unique_Item_Requests	2	2	0
+Journal of Solid State Electrochemistry	Springer Berlin Heidelberg		SpringerLink	10.1007/10008.1433-0768	SN:10008	1432-8488	1433-0768		Total_Item_Requests	3	3	0
+Journal of the Brazilian Society of Mechanical Sciences and Engineering	Springer Berlin Heidelberg		SpringerLink	10.1007/40430.1806-3691	SN:40430	1678-5878	1806-3691		Unique_Item_Requests	1	1	0
+Journal of the Brazilian Society of Mechanical Sciences and Engineering	Springer Berlin Heidelberg		SpringerLink	10.1007/40430.1806-3691	SN:40430	1678-5878	1806-3691		Total_Item_Requests	1	1	0
+Journal of the Geological Society of India	Geological Society of India		SpringerLink	10.1007/12594.0974-6889	SN:12594	0016-7622	0974-6889		Unique_Item_Requests	1	1	0
+Journal of the Geological Society of India	Geological Society of India		SpringerLink	10.1007/12594.0974-6889	SN:12594	0016-7622	0974-6889		Total_Item_Requests	3	3	0
+Journal of the Iranian Chemical Society	Springer Berlin Heidelberg		SpringerLink	10.1007/13738.1735-2428	SN:13738	1735-207X	1735-2428		Unique_Item_Requests	1	1	0
+Journal of the Iranian Chemical Society	Springer Berlin Heidelberg		SpringerLink	10.1007/13738.1735-2428	SN:13738	1735-207X	1735-2428		Total_Item_Requests	2	2	0
+Journal of the Operational Research Society	Palgrave Macmillan UK		SpringerLink		SN:41274	0160-5682	1476-9360		Unique_Item_Requests	2	2	0
+Journal of the Operational Research Society	Palgrave Macmillan UK		SpringerLink		SN:41274	0160-5682	1476-9360		Total_Item_Requests	2	2	0
+Journal of Thermal Analysis and Calorimetry	Springer International Publishing		SpringerLink	10.1007/10973.1572-8943	SN:10973	1388-6150	1588-2926		Unique_Item_Requests	4	4	0
+Journal of Thermal Analysis and Calorimetry	Springer International Publishing		SpringerLink	10.1007/10973.1572-8943	SN:10973	1388-6150	1588-2926		Total_Item_Requests	5	5	0
+Journal of Thermal Science	Springer Berlin Heidelberg		SpringerLink	10.1007/11630.1993-033X	SN:11630	1003-2169	1993-033X		Unique_Item_Requests	2	2	0
+Journal of Thermal Science	Springer Berlin Heidelberg		SpringerLink	10.1007/11630.1993-033X	SN:11630	1003-2169	1993-033X		Total_Item_Requests	4	4	0
+Journal of Urban Health	Springer US		SpringerLink	10.1007/11524.1468-2869	SN:11524	1099-3460	1468-2869		Unique_Item_Requests	2	2	0
+Journal of Urban Health	Springer US		SpringerLink	10.1007/11524.1468-2869	SN:11524	1099-3460	1468-2869		Total_Item_Requests	4	4	0
+Journal of Youth and Adolescence	Springer US		SpringerLink	10.1007/10964.1573-6601	SN:10964	0047-2891	1573-6601		Unique_Item_Requests	9	9	0
+Journal of Youth and Adolescence	Springer US		SpringerLink	10.1007/10964.1573-6601	SN:10964	0047-2891	1573-6601		Total_Item_Requests	11	11	0
+Journal of Zhejiang University SCIENCE B	SP Zhejiang University Press		SpringerLink		SN:11585	1673-1581	1862-1783		Unique_Item_Requests	1	1	0
+Journal of Zhejiang University SCIENCE B	SP Zhejiang University Press		SpringerLink		SN:11585	1673-1581	1862-1783		Total_Item_Requests	1	1	0
+Kew Bulletin	Springer-Verlag		SpringerLink		SN:12225	0075-5974	1874-933X		Unique_Item_Requests	1	1	0
+Kew Bulletin	Springer-Verlag		SpringerLink		SN:12225	0075-5974	1874-933X		Total_Item_Requests	2	2	0
+Laboratory Investigation	Nature Publishing Group US		nature.com		SN:41374	0023-6837	1530-0307		Unique_Item_Requests	1	1	0
+Laboratory Investigation	Nature Publishing Group US		nature.com		SN:41374	0023-6837	1530-0307		Total_Item_Requests	1	1	0
+Landscape Ecology	Springer Netherlands		SpringerLink	10.1007/10980.1572-9761	SN:10980	0921-2973	1572-9761		Unique_Item_Requests	6	6	0
+Landscape Ecology	Springer Netherlands		SpringerLink	10.1007/10980.1572-9761	SN:10980	0921-2973	1572-9761		Total_Item_Requests	10	10	0
+Language Policy	Kluwer Academic Publishers		SpringerLink		SN:10993	1568-4555	1573-1863		Unique_Item_Requests	1	1	0
+Language Policy	Kluwer Academic Publishers		SpringerLink		SN:10993	1568-4555	1573-1863		Total_Item_Requests	1	1	0
+Lasers in Medical Science	Springer London		SpringerLink	10.1007/10103.1435-604X	SN:10103		1435-604X		Unique_Item_Requests	2	2	0
+Lasers in Medical Science	Springer London		SpringerLink	10.1007/10103.1435-604X	SN:10103		1435-604X		Total_Item_Requests	2	2	0
+Learning & Behavior	Springer US		SpringerLink		SN:13420	1543-4494	1543-4508		Unique_Item_Requests	5	5	0
+Learning & Behavior	Springer US		SpringerLink		SN:13420	1543-4494	1543-4508		Total_Item_Requests	6	6	0
+Letters in Spatial and Resource Sciences	Springer Berlin Heidelberg		SpringerLink	10.1007/12076.1864-404X	SN:12076	1864-4031	1864-404X		Unique_Item_Requests	1	1	0
+Letters in Spatial and Resource Sciences	Springer Berlin Heidelberg		SpringerLink	10.1007/12076.1864-404X	SN:12076	1864-4031	1864-404X		Total_Item_Requests	1	1	0
+Machine Learning	Springer US		SpringerLink	10.1007/10994.1573-0565	SN:10994	0885-6125	1573-0565		Unique_Item_Requests	1	1	0
+Machine Learning	Springer US		SpringerLink	10.1007/10994.1573-0565	SN:10994	0885-6125	1573-0565		Total_Item_Requests	1	1	0
+Macromolecular Research	The Polymer Society of Korea		SpringerLink	10.1007/13233.2092-7673	SN:13233	1598-5032	2092-7673		Unique_Item_Requests	1	1	0
+Macromolecular Research	The Polymer Society of Korea		SpringerLink	10.1007/13233.2092-7673	SN:13233	1598-5032	2092-7673		Total_Item_Requests	1	1	0
+Mammalian Biology	Springer International Publishing		SpringerLink		SN:42991	1616-5047	1618-1476		Unique_Item_Requests	2	2	0
+Mammalian Biology	Springer International Publishing		SpringerLink		SN:42991	1616-5047	1618-1476		Total_Item_Requests	2	2	0
+Mammalian Genome	Springer-Verlag		SpringerLink		SN:335	0938-8990	1432-1777		Unique_Item_Requests	1	1	0
+Mammalian Genome	Springer-Verlag		SpringerLink		SN:335	0938-8990	1432-1777		Total_Item_Requests	1	1	0
+Management Review Quarterly	Springer International Publishing		SpringerLink	10.1007/11301.1614-631X	SN:11301	2198-1620	2198-1639		Unique_Item_Requests	3	3	0
+Management Review Quarterly	Springer International Publishing		SpringerLink	10.1007/11301.1614-631X	SN:11301	2198-1620	2198-1639		Total_Item_Requests	7	7	0
+Marine Biology	Springer Berlin Heidelberg		SpringerLink	10.1007/227.1432-1793	SN:227	0025-3162	1432-1793		Unique_Item_Requests	13	13	0
+Marine Biology	Springer Berlin Heidelberg		SpringerLink	10.1007/227.1432-1793	SN:227	0025-3162	1432-1793		Total_Item_Requests	15	15	0
+Marine Biotechnology	Springer US		SpringerLink	10.1007/10126.1436-2236	SN:10126	1436-2228	1436-2236		Unique_Item_Requests	5	5	0
+Marine Biotechnology	Springer US		SpringerLink	10.1007/10126.1436-2236	SN:10126	1436-2228	1436-2236		Total_Item_Requests	8	8	0
+Maternal and Child Health Journal	Springer US		SpringerLink	10.1007/10995.1573-6628	SN:10995	1092-7875	1573-6628		Unique_Item_Requests	8	8	0
+Maternal and Child Health Journal	Springer US		SpringerLink	10.1007/10995.1573-6628	SN:10995	1092-7875	1573-6628		Total_Item_Requests	11	11	0
+Mechanics of Solids	Pleiades Publishing		SpringerLink		SN:11964	0025-6544	1934-7936		Unique_Item_Requests	1	1	0
+Mechanics of Solids	Pleiades Publishing		SpringerLink		SN:11964	0025-6544	1934-7936		Total_Item_Requests	2	2	0
+Medical Science Educator	Springer US		SpringerLink		SN:40670		2156-8650		Unique_Item_Requests	1	1	0
+Medical Science Educator	Springer US		SpringerLink		SN:40670		2156-8650		Total_Item_Requests	1	1	0
+Memory & Cognition	Springer US		SpringerLink		SN:13421	0090-502X	1532-5946		Unique_Item_Requests	2	2	0
+Memory & Cognition	Springer US		SpringerLink		SN:13421	0090-502X	1532-5946		Total_Item_Requests	2	2	0
+Meteorology and Atmospheric Physics	Springer Vienna		SpringerLink		SN:703	0177-7971	1436-5065		Unique_Item_Requests	2	2	0
+Meteorology and Atmospheric Physics	Springer Vienna		SpringerLink		SN:703	0177-7971	1436-5065		Total_Item_Requests	2	2	0
+Metrika	Springer Berlin Heidelberg		SpringerLink	10.1007/184.1435-926X	SN:184	0026-1335	1435-926X		Unique_Item_Requests	1	1	0
+Metrika	Springer Berlin Heidelberg		SpringerLink	10.1007/184.1435-926X	SN:184	0026-1335	1435-926X		Total_Item_Requests	1	1	0
+Microbial Ecology	Springer US		SpringerLink	10.1007/248.1432-184X	SN:248	0095-3628	1432-184X		Unique_Item_Requests	6	6	0
+Microbial Ecology	Springer US		SpringerLink	10.1007/248.1432-184X	SN:248	0095-3628	1432-184X		Total_Item_Requests	9	9	0
+Microbiology	SP MAIK Nauka/Interperiodica		SpringerLink		SN:11021	0026-2617	1608-3237		Unique_Item_Requests	3	3	0
+Microbiology	SP MAIK Nauka/Interperiodica		SpringerLink		SN:11021	0026-2617	1608-3237		Total_Item_Requests	4	4	0
+Mikrochemie vereinigt mit Mikrochimica acta	Springer-Verlag		SpringerLink		SN:604	0026-3672	1436-5073		Unique_Item_Requests	1	1	0
+Mikrochemie vereinigt mit Mikrochimica acta	Springer-Verlag		SpringerLink		SN:604	0026-3672	1436-5073		Total_Item_Requests	1	1	0
+Mindfulness	Springer US		SpringerLink	10.1007/12671.1868-8535	SN:12671	1868-8527	1868-8535		Unique_Item_Requests	4	4	0
+Mindfulness	Springer US		SpringerLink	10.1007/12671.1868-8535	SN:12671	1868-8527	1868-8535		Total_Item_Requests	4	4	0
+Mitigation and Adaptation Strategies for Global Change	Springer Netherlands		SN:ResearchGate	10.1007/11027.1573-1596	SN:11027	1381-2386	1573-1596		Unique_Item_Requests	1	1	0
+Mitigation and Adaptation Strategies for Global Change	Springer Netherlands		SN:ResearchGate	10.1007/11027.1573-1596	SN:11027	1381-2386	1573-1596		Total_Item_Requests	1	1	0
+Mitigation and Adaptation Strategies for Global Change	Springer Netherlands		SpringerLink	10.1007/11027.1573-1596	SN:11027	1381-2386	1573-1596		Unique_Item_Requests	3	3	0
+Mitigation and Adaptation Strategies for Global Change	Springer Netherlands		SpringerLink	10.1007/11027.1573-1596	SN:11027	1381-2386	1573-1596		Total_Item_Requests	7	7	0
+Modeling Earth Systems and Environment	Springer International Publishing		SN:ResearchGate		SN:40808	2363-6203	2363-6211		Unique_Item_Requests	3	3	0
+Modeling Earth Systems and Environment	Springer International Publishing		SN:ResearchGate		SN:40808	2363-6203	2363-6211		Total_Item_Requests	5	5	0
+Modeling Earth Systems and Environment	Springer International Publishing		SpringerLink		SN:40808	2363-6203	2363-6211		Unique_Item_Requests	4	4	0
+Modeling Earth Systems and Environment	Springer International Publishing		SpringerLink		SN:40808	2363-6203	2363-6211		Total_Item_Requests	7	7	0
+Modern Pathology	Nature Publishing Group US		nature.com		SN:41379	0893-3952	1530-0285		Unique_Item_Requests	5	5	0
+Modern Pathology	Nature Publishing Group US		nature.com		SN:41379	0893-3952	1530-0285		Total_Item_Requests	6	6	0
+Molecular and Cellular Biochemistry	Kluwer Academic Publishers		SpringerLink		SN:11010	0300-8177	1573-4919		Unique_Item_Requests	1	1	0
+Molecular and Cellular Biochemistry	Kluwer Academic Publishers		SpringerLink		SN:11010	0300-8177	1573-4919		Total_Item_Requests	1	1	0
+Molecular Biology	Pleiades Publishing		SpringerLink	10.1134/11008.1608-3245	SN:11008	0026-8933	1608-3245		Unique_Item_Requests	1	1	0
+Molecular Biology	Pleiades Publishing		SpringerLink	10.1134/11008.1608-3245	SN:11008	0026-8933	1608-3245		Total_Item_Requests	2	2	0
+Molecular Genetics and Genomics	Springer-Verlag		SpringerLink		SN:438	1617-4615	1617-4623		Unique_Item_Requests	3	3	0
+Molecular Genetics and Genomics	Springer-Verlag		SpringerLink		SN:438	1617-4615	1617-4623		Total_Item_Requests	3	3	0
+Molecular Neurobiology	Springer US		SpringerLink	10.1007/12035.1559-1182	SN:12035	0893-7648	1559-1182		Unique_Item_Requests	1	1	0
+Molecular Neurobiology	Springer US		SpringerLink	10.1007/12035.1559-1182	SN:12035	0893-7648	1559-1182		Total_Item_Requests	1	1	0
+Molecular Psychiatry	Nature Publishing Group UK		nature.com	10.1038/41380.1476-5578	SN:41380	1359-4184	1476-5578		Unique_Item_Requests	1	1	0
+Molecular Psychiatry	Nature Publishing Group UK		nature.com	10.1038/41380.1476-5578	SN:41380	1359-4184	1476-5578		Total_Item_Requests	2	2	0
+Multidimensional Systems and Signal Processing	Springer US		SpringerLink	10.1007/11045.1573-0824	SN:11045	0923-6082	1573-0824		Unique_Item_Requests	1	1	0
+Multidimensional Systems and Signal Processing	Springer US		SpringerLink	10.1007/11045.1573-0824	SN:11045	0923-6082	1573-0824		Total_Item_Requests	1	1	0
+Multimedia Tools and Applications	Springer US		SpringerLink	10.1007/11042.1573-7721	SN:11042		1573-7721		Unique_Item_Requests	2	2	0
+Multimedia Tools and Applications	Springer US		SpringerLink	10.1007/11042.1573-7721	SN:11042		1573-7721		Total_Item_Requests	4	4	0
+Multiscale and Multidisciplinary Modeling, Experiments and Design	Springer International Publishing		SpringerLink		SN:41939	2520-8160	2520-8179		Unique_Item_Requests	2	2	0
+Multiscale and Multidisciplinary Modeling, Experiments and Design	Springer International Publishing		SpringerLink		SN:41939	2520-8160	2520-8179		Total_Item_Requests	2	2	0
+Mycopathologia	Springer Netherlands		SN:ResearchGate	10.1007/11046.1573-0832	SN:11046	0301-486X	1573-0832		Unique_Item_Requests	1	1	0
+Mycopathologia	Springer Netherlands		SN:ResearchGate	10.1007/11046.1573-0832	SN:11046	0301-486X	1573-0832		Total_Item_Requests	1	1	0
+Mycopathologia	Springer Netherlands		SpringerLink	10.1007/11046.1573-0832	SN:11046	0301-486X	1573-0832		Unique_Item_Requests	2	2	0
+Mycopathologia	Springer Netherlands		SpringerLink	10.1007/11046.1573-0832	SN:11046	0301-486X	1573-0832		Total_Item_Requests	4	4	0
+Mycotoxin Research	Springer-Verlag		SpringerLink		SN:12550	0178-7888			Unique_Item_Requests	1	1	0
+Mycotoxin Research	Springer-Verlag		SpringerLink		SN:12550	0178-7888			Total_Item_Requests	2	2	0
+Nanotechnology for Environmental Engineering	Springer International Publishing		SpringerLink		SN:41204	2365-6379	2365-6387		Unique_Item_Requests	1	1	0
+Nanotechnology for Environmental Engineering	Springer International Publishing		SpringerLink		SN:41204	2365-6379	2365-6387		Total_Item_Requests	2	2	0
+Natural Computing	Kluwer Academic Publishers		SpringerLink		SN:11047	1567-7818	1572-9796		Unique_Item_Requests	1	1	0
+Natural Computing	Kluwer Academic Publishers		SpringerLink		SN:11047	1567-7818	1572-9796		Total_Item_Requests	1	1	0
+Natural Hazards	Springer Netherlands		SN:ResearchGate	10.1007/11069.1573-0840	SN:11069	0921-030X	1573-0840		Unique_Item_Requests	2	2	0
+Natural Hazards	Springer Netherlands		SN:ResearchGate	10.1007/11069.1573-0840	SN:11069	0921-030X	1573-0840		Total_Item_Requests	2	2	0
+Natural Hazards	Springer Netherlands		SpringerLink	10.1007/11069.1573-0840	SN:11069	0921-030X	1573-0840		Unique_Item_Requests	12	12	0
+Natural Hazards	Springer Netherlands		SpringerLink	10.1007/11069.1573-0840	SN:11069	0921-030X	1573-0840		Total_Item_Requests	17	17	0
+Nature	Nature Publishing Group UK		nature.com		SN:41586	0028-0836	1476-4687		Unique_Item_Requests	66	66	0
+Nature	Nature Publishing Group UK		nature.com		SN:41586	0028-0836	1476-4687		Total_Item_Requests	84	84	0
+Nature Biomedical Engineering	Nature Publishing Group UK		nature.com	10.1038/41551.2157-846X	SN:41551		2157-846X		Unique_Item_Requests	3	3	0
+Nature Biomedical Engineering	Nature Publishing Group UK		nature.com	10.1038/41551.2157-846X	SN:41551		2157-846X		Total_Item_Requests	3	3	0
+Nature Biotechnology	Nature Publishing Group US		nature.com	10.1038/41587.1546-1696	SN:41587	1087-0156	1546-1696		Unique_Item_Requests	4	4	0
+Nature Biotechnology	Nature Publishing Group US		nature.com	10.1038/41587.1546-1696	SN:41587	1087-0156	1546-1696		Total_Item_Requests	8	8	0
+Nature Communications	Nature Publishing Group UK		nature.com		SN:41467		2041-1723		Unique_Item_Requests	2	2	0
+Nature Communications	Nature Publishing Group UK		nature.com		SN:41467		2041-1723		Total_Item_Requests	2	2	0
+Nature Ecology & Evolution	Nature Publishing Group UK		nature.com	10.1038/41559.2397-334X	SN:41559		2397-334X		Unique_Item_Requests	3	3	0
+Nature Ecology & Evolution	Nature Publishing Group UK		nature.com	10.1038/41559.2397-334X	SN:41559		2397-334X		Total_Item_Requests	6	6	0
+Nature Food	Nature Publishing Group UK		nature.com		SN:43016		2662-1355		Unique_Item_Requests	3	3	0
+Nature Food	Nature Publishing Group UK		nature.com		SN:43016		2662-1355		Total_Item_Requests	6	6	0
+Nature Human Behaviour	Nature Publishing Group UK		nature.com	10.1038/41562.2397-3374	SN:41562		2397-3374		Unique_Item_Requests	1	1	0
+Nature Human Behaviour	Nature Publishing Group UK		nature.com	10.1038/41562.2397-3374	SN:41562		2397-3374		Total_Item_Requests	5	5	0
+Nature Immunology	Nature Publishing Group US		nature.com	10.1038/41590.1529-2916	SN:41590	1529-2908	1529-2916		Unique_Item_Requests	15	15	0
+Nature Immunology	Nature Publishing Group US		nature.com	10.1038/41590.1529-2916	SN:41590	1529-2908	1529-2916		Total_Item_Requests	19	19	0
+Nature Machine Intelligence	Nature Publishing Group UK		nature.com	10.1038/42256.2522-5839	SN:42256		2522-5839		Unique_Item_Requests	2	2	0
+Nature Machine Intelligence	Nature Publishing Group UK		nature.com	10.1038/42256.2522-5839	SN:42256		2522-5839		Total_Item_Requests	2	2	0
+Nature Medicine	Nature Publishing Group US		nature.com	10.1038/41591.1546-170X	SN:41591	1078-8956	1546-170X		Unique_Item_Requests	4	4	0
+Nature Medicine	Nature Publishing Group US		nature.com	10.1038/41591.1546-170X	SN:41591	1078-8956	1546-170X		Total_Item_Requests	6	6	0
+Nature Mental Health	Nature Publishing Group US		nature.com		SN:44220		2731-6076		Unique_Item_Requests	3	3	0
+Nature Mental Health	Nature Publishing Group US		nature.com		SN:44220		2731-6076		Total_Item_Requests	3	3	0
+Nature Metabolism	Nature Publishing Group UK		nature.com	10.1038/42255.2522-5812	SN:42255		2522-5812		Unique_Item_Requests	2	2	0
+Nature Metabolism	Nature Publishing Group UK		nature.com	10.1038/42255.2522-5812	SN:42255		2522-5812		Total_Item_Requests	2	2	0
+Nature Methods	Nature Publishing Group US		nature.com	10.1038/41592.1548-7105	SN:41592	1548-7091	1548-7105		Unique_Item_Requests	3	3	0
+Nature Methods	Nature Publishing Group US		nature.com	10.1038/41592.1548-7105	SN:41592	1548-7091	1548-7105		Total_Item_Requests	4	4	0
+Nature Nanotechnology	Nature Publishing Group UK		nature.com	10.1038/41565.1748-3395	SN:41565	1748-3387	1748-3395		Unique_Item_Requests	1	1	0
+Nature Nanotechnology	Nature Publishing Group UK		nature.com	10.1038/41565.1748-3395	SN:41565	1748-3387	1748-3395		Total_Item_Requests	1	1	0
+Nature Neuroscience	Nature Publishing Group US		nature.com	10.1038/41593.1546-1726	SN:41593	1097-6256	1546-1726		Unique_Item_Requests	4	4	0
+Nature Neuroscience	Nature Publishing Group US		nature.com	10.1038/41593.1546-1726	SN:41593	1097-6256	1546-1726		Total_Item_Requests	8	8	0
+Nature Protocols	Nature Publishing Group UK		nature.com	10.1038/41596.1750-2799	SN:41596	1754-2189	1750-2799		Unique_Item_Requests	2	2	0
+Nature Protocols	Nature Publishing Group UK		nature.com	10.1038/41596.1750-2799	SN:41596	1754-2189	1750-2799		Total_Item_Requests	2	2	0
+Nature Reviews Cardiology	Nature Publishing Group UK		nature.com	10.1038/41569.1759-5010	SN:41569	1759-5002	1759-5010		Unique_Item_Requests	3	3	0
+Nature Reviews Cardiology	Nature Publishing Group UK		nature.com	10.1038/41569.1759-5010	SN:41569	1759-5002	1759-5010		Total_Item_Requests	3	3	0
+Nature Reviews Chemistry	Nature Publishing Group UK		nature.com	10.1038/41570.2397-3358	SN:41570		2397-3358		Unique_Item_Requests	3	3	0
+Nature Reviews Chemistry	Nature Publishing Group UK		nature.com	10.1038/41570.2397-3358	SN:41570		2397-3358		Total_Item_Requests	4	4	0
+Nature Reviews Clinical Oncology	Nature Publishing Group UK		nature.com	10.1038/41571.1759-4782	SN:41571	1759-4774	1759-4782		Unique_Item_Requests	1	1	0
+Nature Reviews Clinical Oncology	Nature Publishing Group UK		nature.com	10.1038/41571.1759-4782	SN:41571	1759-4774	1759-4782		Total_Item_Requests	1	1	0
+Nature Reviews Disease Primers	Nature Publishing Group UK		nature.com	10.1038/41572.2056-676X	SN:41572		2056-676X		Unique_Item_Requests	3	3	0
+Nature Reviews Disease Primers	Nature Publishing Group UK		nature.com	10.1038/41572.2056-676X	SN:41572		2056-676X		Total_Item_Requests	4	4	0
+Nature Reviews Drug Discovery	Nature Publishing Group UK		nature.com	10.1038/41573.1474-1784	SN:41573	1474-1776	1474-1784		Unique_Item_Requests	7	7	0
+Nature Reviews Drug Discovery	Nature Publishing Group UK		nature.com	10.1038/41573.1474-1784	SN:41573	1474-1776	1474-1784		Total_Item_Requests	11	11	0
+Nature Reviews Endocrinology	Nature Publishing Group UK		nature.com	10.1038/41574.1759-5037	SN:41574	1759-5029	1759-5037		Unique_Item_Requests	4	4	0
+Nature Reviews Endocrinology	Nature Publishing Group UK		nature.com	10.1038/41574.1759-5037	SN:41574	1759-5029	1759-5037		Total_Item_Requests	8	8	0
+Nature Reviews Genetics	Nature Publishing Group UK		nature.com	10.1038/41576.1471-0064	SN:41576	1471-0056	1471-0064		Unique_Item_Requests	1	1	0
+Nature Reviews Genetics	Nature Publishing Group UK		nature.com	10.1038/41576.1471-0064	SN:41576	1471-0056	1471-0064		Total_Item_Requests	1	1	0
+Nature Reviews Immunology	Nature Publishing Group UK		nature.com	10.1038/41577.1474-1741	SN:41577	1474-1733	1474-1741		Unique_Item_Requests	14	14	0
+Nature Reviews Immunology	Nature Publishing Group UK		nature.com	10.1038/41577.1474-1741	SN:41577	1474-1733	1474-1741		Total_Item_Requests	26	26	0
+Nature Reviews Materials	Nature Publishing Group UK		nature.com	10.1038/41578.2058-8437	SN:41578		2058-8437		Unique_Item_Requests	1	1	0
+Nature Reviews Materials	Nature Publishing Group UK		nature.com	10.1038/41578.2058-8437	SN:41578		2058-8437		Total_Item_Requests	2	2	0
+Nature Reviews Methods Primers	Nature Publishing Group UK		nature.com		SN:43586		2662-8449		Unique_Item_Requests	3	3	0
+Nature Reviews Methods Primers	Nature Publishing Group UK		nature.com		SN:43586		2662-8449		Total_Item_Requests	6	6	0
+Nature Reviews Molecular Cell Biology	Nature Publishing Group UK		nature.com	10.1038/41580.1471-0080	SN:41580	1471-0072	1471-0080		Unique_Item_Requests	2	2	0
+Nature Reviews Molecular Cell Biology	Nature Publishing Group UK		nature.com	10.1038/41580.1471-0080	SN:41580	1471-0072	1471-0080		Total_Item_Requests	4	4	0
+Nature Reviews Neurology	Nature Publishing Group UK		nature.com		SN:41582	1759-4758	1759-4766		Unique_Item_Requests	2	2	0
+Nature Reviews Neurology	Nature Publishing Group UK		nature.com		SN:41582	1759-4758	1759-4766		Total_Item_Requests	5	5	0
+Nature Reviews Neuroscience	Nature Publishing Group UK		nature.com	10.1038/41583.1471-0048	SN:41583	1471-003X	1471-0048		Unique_Item_Requests	2	2	0
+Nature Reviews Neuroscience	Nature Publishing Group UK		nature.com	10.1038/41583.1471-0048	SN:41583	1471-003X	1471-0048		Total_Item_Requests	4	4	0
+Nature Reviews Rheumatology	Nature Publishing Group UK		nature.com	10.1038/41584.1759-4804	SN:41584	1759-4790	1759-4804		Unique_Item_Requests	2	2	0
+Nature Reviews Rheumatology	Nature Publishing Group UK		nature.com	10.1038/41584.1759-4804	SN:41584	1759-4790	1759-4804		Total_Item_Requests	4	4	0
+Nature Sustainability	Nature Publishing Group UK		nature.com	10.1038/41893.2398-9629	SN:41893		2398-9629		Unique_Item_Requests	1	1	0
+Nature Sustainability	Nature Publishing Group UK		nature.com	10.1038/41893.2398-9629	SN:41893		2398-9629		Total_Item_Requests	1	1	0
+Neural Computing and Applications	Springer London		SpringerLink	10.1007/521.1433-3058	SN:521	0941-0643	1433-3058		Unique_Item_Requests	1	1	0
+Neural Computing and Applications	Springer London		SpringerLink	10.1007/521.1433-3058	SN:521	0941-0643	1433-3058		Total_Item_Requests	2	2	0
+Neurological Sciences	Springer International Publishing		SpringerLink	10.1007/10072.1590-3478	SN:10072	1590-1874	1590-3478		Unique_Item_Requests	2	2	0
+Neurological Sciences	Springer International Publishing		SpringerLink	10.1007/10072.1590-3478	SN:10072	1590-1874	1590-3478		Total_Item_Requests	2	2	0
+Neuropsychopharmacology	Springer International Publishing		nature.com		SN:41386	0893-133X	1740-634X		Unique_Item_Requests	5	5	0
+Neuropsychopharmacology	Springer International Publishing		nature.com		SN:41386	0893-133X	1740-634X		Total_Item_Requests	8	8	0
+Neuroscience Bulletin	Springer Nature Singapore		SpringerLink	10.1007/12264.1995-8218	SN:12264	1673-7067	1995-8218		Unique_Item_Requests	1	1	0
+Neuroscience Bulletin	Springer Nature Singapore		SpringerLink	10.1007/12264.1995-8218	SN:12264	1673-7067	1995-8218		Total_Item_Requests	2	2	0
+Neurosurgical Review	Springer-Verlag		SpringerLink		SN:10143	0344-5607	1437-2320		Unique_Item_Requests	3	3	0
+Neurosurgical Review	Springer-Verlag		SpringerLink		SN:10143	0344-5607	1437-2320		Total_Item_Requests	3	3	0
+New Forests	Springer Netherlands		SpringerLink	10.1007/11056.1573-5095	SN:11056	0169-4286	1573-5095		Unique_Item_Requests	2	2	0
+New Forests	Springer Netherlands		SpringerLink	10.1007/11056.1573-5095	SN:11056	0169-4286	1573-5095		Total_Item_Requests	2	2	0
+New Zealand Journal of Educational Studies	Springer Singapore		SpringerLink		SN:40841	0028-8276	2199-4714		Unique_Item_Requests	1	1	0
+New Zealand Journal of Educational Studies	Springer Singapore		SpringerLink		SN:40841	0028-8276	2199-4714		Total_Item_Requests	1	1	0
+Nutrient Cycling in Agroecosystems	Kluwer Academic Publishers		SpringerLink		SN:10705	1385-1314	1573-0867		Unique_Item_Requests	1	1	0
+Nutrient Cycling in Agroecosystems	Kluwer Academic Publishers		SpringerLink		SN:10705	1385-1314	1573-0867		Total_Item_Requests	2	2	0
+Odontology	Springer Japan		SpringerLink	10.1007/10266.1618-1255	SN:10266	1618-1247	1618-1255		Unique_Item_Requests	1	1	0
+Odontology	Springer Japan		SpringerLink	10.1007/10266.1618-1255	SN:10266	1618-1247	1618-1255		Total_Item_Requests	1	1	0
+Oecologia	Springer Berlin Heidelberg		SpringerLink	10.1007/442.1432-1939	SN:442	0029-8549	1432-1939		Unique_Item_Requests	9	9	0
+Oecologia	Springer Berlin Heidelberg		SpringerLink	10.1007/442.1432-1939	SN:442	0029-8549	1432-1939		Total_Item_Requests	15	15	0
+Operations Management Research	Springer US		SpringerLink	10.1007/12063.1936-9743	SN:12063	1936-9735	1936-9743		Unique_Item_Requests	1	1	0
+Operations Management Research	Springer US		SpringerLink	10.1007/12063.1936-9743	SN:12063	1936-9735	1936-9743		Total_Item_Requests	1	1	0
+Osteoporosis International	Springer-Verlag		SpringerLink		SN:198	0937-941X	1433-2965		Unique_Item_Requests	2	2	0
+Osteoporosis International	Springer-Verlag		SpringerLink		SN:198	0937-941X	1433-2965		Total_Item_Requests	2	2	0
+Parasitology Research	Springer Berlin Heidelberg		SN:ResearchGate	10.1007/436.1432-1955	SN:436	0932-0113	1432-1955		Unique_Item_Requests	1	1	0
+Parasitology Research	Springer Berlin Heidelberg		SN:ResearchGate	10.1007/436.1432-1955	SN:436	0932-0113	1432-1955		Total_Item_Requests	1	1	0
+Parasitology Research	Springer Berlin Heidelberg		SpringerLink	10.1007/436.1432-1955	SN:436	0932-0113	1432-1955		Unique_Item_Requests	11	11	0
+Parasitology Research	Springer Berlin Heidelberg		SpringerLink	10.1007/436.1432-1955	SN:436	0932-0113	1432-1955		Total_Item_Requests	14	14	0
+Pastoral Psychology	Kluwer Academic Publishers		SpringerLink		SN:11089	0031-2789	1573-6679		Unique_Item_Requests	1	1	0
+Pastoral Psychology	Kluwer Academic Publishers		SpringerLink		SN:11089	0031-2789	1573-6679		Total_Item_Requests	2	2	0
+Pediatric Nephrology	Springer-Verlag		SpringerLink		SN:467	0931-041X	1432-198X		Unique_Item_Requests	2	2	0
+Pediatric Nephrology	Springer-Verlag		SpringerLink		SN:467	0931-041X	1432-198X		Total_Item_Requests	2	2	0
+Pediatric Radiology	Springer-Verlag		SpringerLink		SN:247	0301-0449	1432-1998		Unique_Item_Requests	2	2	0
+Pediatric Radiology	Springer-Verlag		SpringerLink		SN:247	0301-0449	1432-1998		Total_Item_Requests	2	2	0
+Pediatric Research	Nature Publishing Group US		nature.com	10.1038/41390.1530-0447	SN:41390	0031-3998	1530-0447		Unique_Item_Requests	7	7	0
+Pediatric Research	Nature Publishing Group US		nature.com	10.1038/41390.1530-0447	SN:41390	0031-3998	1530-0447		Total_Item_Requests	8	8	0
+Petroleum Chemistry	Pleiades Publishing		SpringerLink	10.1134/11494.1555-6239	SN:11494	0965-5441	1555-6239		Unique_Item_Requests	1	1	0
+Petroleum Chemistry	Pleiades Publishing		SpringerLink	10.1134/11494.1555-6239	SN:11494	0965-5441	1555-6239		Total_Item_Requests	2	2	0
+Pharmaceutical Chemistry Journal	Kluwer Academic Publishers-Plenum Publishers		SpringerLink		SN:11094	0091-150X	1573-9031		Unique_Item_Requests	1	1	0
+Pharmaceutical Chemistry Journal	Kluwer Academic Publishers-Plenum Publishers		SpringerLink		SN:11094	0091-150X	1573-9031		Total_Item_Requests	1	1	0
+Pharmaceutical Research	Kluwer Academic Publishers-Plenum Publishers		SpringerLink		SN:11095	0724-8741	1573-904X		Unique_Item_Requests	2	2	0
+Pharmaceutical Research	Kluwer Academic Publishers-Plenum Publishers		SpringerLink		SN:11095	0724-8741	1573-904X		Total_Item_Requests	2	2	0
+Phenomenology and the Cognitive Sciences	Springer Netherlands		SpringerLink	10.1007/11097.1572-8676	SN:11097	1568-7759	1572-8676		Unique_Item_Requests	2	2	0
+Phenomenology and the Cognitive Sciences	Springer Netherlands		SpringerLink	10.1007/11097.1572-8676	SN:11097	1568-7759	1572-8676		Total_Item_Requests	3	3	0
+Philosophical Studies	Kluwer Academic Publishers		SpringerLink		SN:11098	0031-8116	1573-0883		Unique_Item_Requests	1	1	0
+Philosophical Studies	Kluwer Academic Publishers		SpringerLink		SN:11098	0031-8116	1573-0883		Total_Item_Requests	1	1	0
+Philosophy of Management	Springer International Publishing		SpringerLink		SN:40926	1740-3812	2052-9597		Unique_Item_Requests	3	3	0
+Philosophy of Management	Springer International Publishing		SpringerLink		SN:40926	1740-3812	2052-9597		Total_Item_Requests	5	5	0
+Plant and Soil	Springer International Publishing		SpringerLink	10.1007/11104.1573-5036	SN:11104	0032-079X	1573-5036		Unique_Item_Requests	5	5	0
+Plant and Soil	Springer International Publishing		SpringerLink	10.1007/11104.1573-5036	SN:11104	0032-079X	1573-5036		Total_Item_Requests	8	8	0
+Plant Cell, Tissue and Organ Culture (PCTOC)	Springer Netherlands		SN:ResearchGate	10.1007/11240.1573-5044	SN:11240	0167-6857	1573-5044		Unique_Item_Requests	1	1	0
+Plant Cell, Tissue and Organ Culture (PCTOC)	Springer Netherlands		SN:ResearchGate	10.1007/11240.1573-5044	SN:11240	0167-6857	1573-5044		Total_Item_Requests	1	1	0
+Plant Ecology	Springer Netherlands		SpringerLink	10.1007/11258.1573-5052	SN:11258	1385-0237	1573-5052		Unique_Item_Requests	4	4	0
+Plant Ecology	Springer Netherlands		SpringerLink	10.1007/11258.1573-5052	SN:11258	1385-0237	1573-5052		Total_Item_Requests	4	4	0
+Plant Physiology Reports	Springer India		SpringerLink		SN:40502	2662-253X	2662-2548		Unique_Item_Requests	1	1	0
+Plant Physiology Reports	Springer India		SpringerLink		SN:40502	2662-253X	2662-2548		Total_Item_Requests	1	1	0
+Planta	Springer Berlin Heidelberg		SpringerLink	10.1007/425.1432-2048	SN:425	0032-0935	1432-2048		Unique_Item_Requests	2	2	0
+Planta	Springer Berlin Heidelberg		SpringerLink	10.1007/425.1432-2048	SN:425	0032-0935	1432-2048		Total_Item_Requests	2	2	0
+Polar Biology	Springer-Verlag		SpringerLink		SN:300	0722-4060	1432-2056		Unique_Item_Requests	1	1	0
+Polar Biology	Springer-Verlag		SpringerLink		SN:300	0722-4060	1432-2056		Total_Item_Requests	1	1	0
+Political Behavior	Springer US		SpringerLink	10.1007/11109.1573-6687	SN:11109	0190-9320	1573-6687		Unique_Item_Requests	1	1	0
+Political Behavior	Springer US		SpringerLink	10.1007/11109.1573-6687	SN:11109	0190-9320	1573-6687		Total_Item_Requests	1	1	0
+Polymer Bulletin	Springer Berlin Heidelberg		SpringerLink	10.1007/289.1436-2449	SN:289	0170-0839	1436-2449		Unique_Item_Requests	1	1	0
+Polymer Bulletin	Springer Berlin Heidelberg		SpringerLink	10.1007/289.1436-2449	SN:289	0170-0839	1436-2449		Total_Item_Requests	1	1	0
+Polymer Journal	Nature Publishing Group UK		nature.com		SN:41428	0032-3896	1349-0540		Unique_Item_Requests	1	1	0
+Polymer Journal	Nature Publishing Group UK		nature.com		SN:41428	0032-3896	1349-0540		Total_Item_Requests	1	1	0
+Polymer Science Series A	Springer Netherlands		SpringerLink		SN:11498	0965-545X	1555-6107		Unique_Item_Requests	1	1	0
+Polymer Science Series A	Springer Netherlands		SpringerLink		SN:11498	0965-545X	1555-6107		Total_Item_Requests	1	1	0
+Polymer Science, Series B	Pleiades Publishing		SpringerLink	10.1134/11499.1555-6123	SN:11499	1560-0904	1555-6123		Unique_Item_Requests	1	1	0
+Polymer Science, Series B	Pleiades Publishing		SpringerLink	10.1134/11499.1555-6123	SN:11499	1560-0904	1555-6123		Total_Item_Requests	3	3	0
+Population and Environment	Springer Netherlands		SpringerLink	10.1007/11111.1573-7810	SN:11111	0199-0039	1573-7810		Unique_Item_Requests	3	3	0
+Population and Environment	Springer Netherlands		SpringerLink	10.1007/11111.1573-7810	SN:11111	0199-0039	1573-7810		Total_Item_Requests	5	5	0
+Potato Research	Springer Netherlands		SpringerLink	10.1007/11540.1871-4528	SN:11540	0014-3065	1871-4528		Unique_Item_Requests	14	14	0
+Potato Research	Springer Netherlands		SpringerLink	10.1007/11540.1871-4528	SN:11540	0014-3065	1871-4528		Total_Item_Requests	18	18	0
+Precision Agriculture	Springer US		SpringerLink	10.1007/11119.1573-1618	SN:11119	1385-2256	1573-1618		Unique_Item_Requests	15	15	0
+Precision Agriculture	Springer US		SpringerLink	10.1007/11119.1573-1618	SN:11119	1385-2256	1573-1618		Total_Item_Requests	31	31	0
+Prevention Science	Springer US		SpringerLink	10.1007/11121.1573-6695	SN:11121	1389-4986	1573-6695		Unique_Item_Requests	3	3	0
+Prevention Science	Springer US		SpringerLink	10.1007/11121.1573-6695	SN:11121	1389-4986	1573-6695		Total_Item_Requests	4	4	0
+Primates	Springer Japan		SpringerLink	10.1007/10329.1610-7365	SN:10329	0032-8332	1610-7365		Unique_Item_Requests	2	2	0
+Primates	Springer Japan		SpringerLink	10.1007/10329.1610-7365	SN:10329	0032-8332	1610-7365		Total_Item_Requests	2	2	0
+Probiotics and Antimicrobial Proteins	Springer US		SpringerLink	10.1007/12602.1867-1314	SN:12602	1867-1306	1867-1314		Unique_Item_Requests	2	2	0
+Probiotics and Antimicrobial Proteins	Springer US		SpringerLink	10.1007/12602.1867-1314	SN:12602	1867-1306	1867-1314		Total_Item_Requests	2	2	0
+PROSPECTS	Springer Netherlands		SpringerLink	10.1007/11125.1573-9090	SN:11125	0033-1538	1573-9090		Unique_Item_Requests	1	1	0
+PROSPECTS	Springer Netherlands		SpringerLink	10.1007/11125.1573-9090	SN:11125	0033-1538	1573-9090		Total_Item_Requests	1	1	0
+Protoplasma	Springer Vienna		SpringerLink	10.1007/709.1615-6102	SN:709	0033-183X	1615-6102		Unique_Item_Requests	1	1	0
+Protoplasma	Springer Vienna		SpringerLink	10.1007/709.1615-6102	SN:709	0033-183X	1615-6102		Total_Item_Requests	1	1	0
+Psychological Research	Springer Berlin Heidelberg		SpringerLink	10.1007/426.1430-2772	SN:426	0340-0727	1430-2772		Unique_Item_Requests	1	1	0
+Psychological Research	Springer Berlin Heidelberg		SpringerLink	10.1007/426.1430-2772	SN:426	0340-0727	1430-2772		Total_Item_Requests	1	1	0
+Psychological Studies	Springer India		SpringerLink	10.1007/12646.0974-9861	SN:12646	0033-2968	0974-9861		Unique_Item_Requests	3	3	0
+Psychological Studies	Springer India		SpringerLink	10.1007/12646.0974-9861	SN:12646	0033-2968	0974-9861		Total_Item_Requests	6	6	0
+Psychonomic Bulletin & Review	Springer US		SpringerLink		SN:13423	1069-9384	1531-5320		Unique_Item_Requests	1	1	0
+Psychonomic Bulletin & Review	Springer US		SpringerLink		SN:13423	1069-9384	1531-5320		Total_Item_Requests	1	1	0
+Psychopharmacology	Springer Berlin Heidelberg		SpringerLink	10.1007/213.1432-2072	SN:213	0033-3158	1432-2072		Unique_Item_Requests	4	4	0
+Psychopharmacology	Springer Berlin Heidelberg		SpringerLink	10.1007/213.1432-2072	SN:213	0033-3158	1432-2072		Total_Item_Requests	4	4	0
+Pure and Applied Geophysics	Springer International Publishing		SN:ResearchGate	10.1007/24.1420-9136	SN:24	0033-4553	1420-9136		Unique_Item_Requests	1	1	0
+Pure and Applied Geophysics	Springer International Publishing		SN:ResearchGate	10.1007/24.1420-9136	SN:24	0033-4553	1420-9136		Total_Item_Requests	1	1	0
+Pure and Applied Geophysics	Springer International Publishing		SpringerLink	10.1007/24.1420-9136	SN:24	0033-4553	1420-9136		Unique_Item_Requests	1	1	0
+Pure and Applied Geophysics	Springer International Publishing		SpringerLink	10.1007/24.1420-9136	SN:24	0033-4553	1420-9136		Total_Item_Requests	1	1	0
+Quality & Quantity	Springer Netherlands		SpringerLink	10.1007/11135.1573-7845	SN:11135	0033-5177	1573-7845		Unique_Item_Requests	2	2	0
+Quality & Quantity	Springer Netherlands		SpringerLink	10.1007/11135.1573-7845	SN:11135	0033-5177	1573-7845		Total_Item_Requests	3	3	0
+Quality of Life Research	Springer International Publishing		SpringerLink	10.1007/11136.1573-2649	SN:11136	0962-9343	1573-2649		Unique_Item_Requests	4	4	0
+Quality of Life Research	Springer International Publishing		SpringerLink	10.1007/11136.1573-2649	SN:11136	0962-9343	1573-2649		Total_Item_Requests	7	7	0
+Rare Metals	Nonferrous Metals Society of China		SpringerLink	10.1007/12598.1867-7185	SN:12598	1001-0521	1867-7185		Unique_Item_Requests	1	1	0
+Rare Metals	Nonferrous Metals Society of China		SpringerLink	10.1007/12598.1867-7185	SN:12598	1001-0521	1867-7185		Total_Item_Requests	2	2	0
+Reading and Writing	Kluwer Academic Publishers		SpringerLink		SN:11145	0922-4777	1573-0905		Unique_Item_Requests	1	1	0
+Reading and Writing	Kluwer Academic Publishers		SpringerLink		SN:11145	0922-4777	1573-0905		Total_Item_Requests	1	1	0
+Regional Environmental Change	Springer Berlin Heidelberg		SN:ResearchGate	10.1007/10113.1436-378X	SN:10113	1436-3798	1436-378X		Unique_Item_Requests	1	1	0
+Regional Environmental Change	Springer Berlin Heidelberg		SN:ResearchGate	10.1007/10113.1436-378X	SN:10113	1436-3798	1436-378X		Total_Item_Requests	1	1	0
+Regional Environmental Change	Springer Berlin Heidelberg		SpringerLink	10.1007/10113.1436-378X	SN:10113	1436-3798	1436-378X		Unique_Item_Requests	3	3	0
+Regional Environmental Change	Springer Berlin Heidelberg		SpringerLink	10.1007/10113.1436-378X	SN:10113	1436-3798	1436-378X		Total_Item_Requests	5	5	0
+Research in Engineering Design	Springer London		SpringerLink	10.1007/163.1435-6066	SN:163	0934-9839	1435-6066		Unique_Item_Requests	3	3	0
+Research in Engineering Design	Springer London		SpringerLink	10.1007/163.1435-6066	SN:163	0934-9839	1435-6066		Total_Item_Requests	4	4	0
+Research in Higher Education	Kluwer Academic Publishers-Plenum Publishers		SpringerLink		SN:11162	0361-0365	1573-188X		Unique_Item_Requests	2	2	0
+Research in Higher Education	Kluwer Academic Publishers-Plenum Publishers		SpringerLink		SN:11162	0361-0365	1573-188X		Total_Item_Requests	2	2	0
+Research in Science Education	Springer Netherlands		SpringerLink		SN:11165	0157-244X	1573-1898		Unique_Item_Requests	1	1	0
+Research in Science Education	Springer Netherlands		SpringerLink		SN:11165	0157-244X	1573-1898		Total_Item_Requests	1	1	0
+Review of Accounting Studies	Kluwer Academic Publishers		SpringerLink		SN:11142	1380-6653	1573-7136		Unique_Item_Requests	1	1	0
+Review of Accounting Studies	Kluwer Academic Publishers		SpringerLink		SN:11142	1380-6653	1573-7136		Total_Item_Requests	1	1	0
+Reviews in Fish Biology and Fisheries	Springer International Publishing		SpringerLink	10.1007/11160.1573-5184	SN:11160	0960-3166	1573-5184		Unique_Item_Requests	6	6	0
+Reviews in Fish Biology and Fisheries	Springer International Publishing		SpringerLink	10.1007/11160.1573-5184	SN:11160	0960-3166	1573-5184		Total_Item_Requests	8	8	0
+Rheologica Acta	Springer Berlin Heidelberg		SpringerLink	10.1007/397.1435-1528	SN:397	0035-4511	1435-1528		Unique_Item_Requests	1	1	0
+Rheologica Acta	Springer Berlin Heidelberg		SpringerLink	10.1007/397.1435-1528	SN:397	0035-4511	1435-1528		Total_Item_Requests	3	3	0
+Russian Agricultural Sciences	Pleiades Publishing		SpringerLink		SN:11978	1068-3674	1934-8037		Unique_Item_Requests	1	1	0
+Russian Agricultural Sciences	Pleiades Publishing		SpringerLink		SN:11978	1068-3674	1934-8037		Total_Item_Requests	1	1	0
+Russian Journal of Applied Chemistry	Pleiades Publishing		SpringerLink	10.1134/11167.1608-3296	SN:11167	1070-4272	1608-3296		Unique_Item_Requests	1	1	0
+Russian Journal of Applied Chemistry	Pleiades Publishing		SpringerLink	10.1134/11167.1608-3296	SN:11167	1070-4272	1608-3296		Total_Item_Requests	1	1	0
+Russian Journal of Bioorganic Chemistry	Nauka/Interperiodica		SpringerLink		SN:11171	1068-1620	1573-9163		Unique_Item_Requests	1	1	0
+Russian Journal of Bioorganic Chemistry	Nauka/Interperiodica		SpringerLink		SN:11171	1068-1620	1573-9163		Total_Item_Requests	1	1	0
+School Mental Health	Springer US		SpringerLink	10.1007/12310.1866-2633	SN:12310	1866-2625	1866-2633		Unique_Item_Requests	4	4	0
+School Mental Health	Springer US		SpringerLink	10.1007/12310.1866-2633	SN:12310	1866-2625	1866-2633		Total_Item_Requests	6	6	0
+Science China Materials	Science China Press		SpringerLink		SN:40843	2095-8226	2199-4501		Unique_Item_Requests	1	1	0
+Science China Materials	Science China Press		SpringerLink		SN:40843	2095-8226	2199-4501		Total_Item_Requests	1	1	0
+Science China Mathematics	SP Science China Press		SpringerLink		SN:11425	1674-7283	1869-1862		Unique_Item_Requests	1	1	0
+Science China Mathematics	SP Science China Press		SpringerLink		SN:11425	1674-7283	1869-1862		Total_Item_Requests	1	1	0
+Science China Technological Sciences	Science China Press		SpringerLink	10.1007/11431.1869-1900	SN:11431	1674-7321	1869-1900		Unique_Item_Requests	1	1	0
+Science China Technological Sciences	Science China Press		SpringerLink	10.1007/11431.1869-1900	SN:11431	1674-7321	1869-1900		Total_Item_Requests	1	1	0
+Scientometrics	Springer Netherlands		SpringerLink		SN:11192	0138-9130	1588-2861		Unique_Item_Requests	1	1	0
+Scientometrics	Springer Netherlands		SpringerLink		SN:11192	0138-9130	1588-2861		Total_Item_Requests	2	2	0
+Seminars in Immunopathology	Springer Berlin Heidelberg		SpringerLink	10.1007/281.1863-2300	SN:281	1863-2297	1863-2300		Unique_Item_Requests	1	1	0
+Seminars in Immunopathology	Springer Berlin Heidelberg		SpringerLink	10.1007/281.1863-2300	SN:281	1863-2297	1863-2300		Total_Item_Requests	2	2	0
+Sex Roles	Springer US		SpringerLink	10.1007/11199.1573-2762	SN:11199	0360-0025	1573-2762		Unique_Item_Requests	4	4	0
+Sex Roles	Springer US		SpringerLink	10.1007/11199.1573-2762	SN:11199	0360-0025	1573-2762		Total_Item_Requests	4	4	0
+Sexuality Research and Social Policy	Springer US		SpringerLink	10.1007/13178.1553-6610	SN:13178	1868-9884	1553-6610		Unique_Item_Requests	7	7	0
+Sexuality Research and Social Policy	Springer US		SpringerLink	10.1007/13178.1553-6610	SN:13178	1868-9884	1553-6610		Total_Item_Requests	7	7	0
+SN Applied Sciences	Springer International Publishing		SpringerLink		SN:42452	2523-3963	2523-3971		Unique_Item_Requests	6	6	0
+SN Applied Sciences	Springer International Publishing		SpringerLink		SN:42452	2523-3963	2523-3971		Total_Item_Requests	10	10	0
+SN Computer Science	Springer Nature Singapore		SpringerLink		SN:42979	2662-995X	2661-8907		Unique_Item_Requests	2	2	0
+SN Computer Science	Springer Nature Singapore		SpringerLink		SN:42979	2662-995X	2661-8907		Total_Item_Requests	2	2	0
+Social Indicators Research	Springer Netherlands		SpringerLink	10.1007/11205.1573-0921	SN:11205	0303-8300	1573-0921		Unique_Item_Requests	3	3	0
+Social Indicators Research	Springer Netherlands		SpringerLink	10.1007/11205.1573-0921	SN:11205	0303-8300	1573-0921		Total_Item_Requests	6	6	0
+Social Psychiatry and Psychiatric Epidemiology	Springer Berlin Heidelberg		SpringerLink	10.1007/127.1433-9285	SN:127	0933-7954	1433-9285		Unique_Item_Requests	10	10	0
+Social Psychiatry and Psychiatric Epidemiology	Springer Berlin Heidelberg		SpringerLink	10.1007/127.1433-9285	SN:127	0933-7954	1433-9285		Total_Item_Requests	10	10	0
+Society	Springer US		SpringerLink	10.1007/12115.1936-4725	SN:12115	0147-2011	1936-4725		Unique_Item_Requests	4	4	0
+Society	Springer US		SpringerLink	10.1007/12115.1936-4725	SN:12115	0147-2011	1936-4725		Total_Item_Requests	9	9	0
+Soft Computing	Springer Berlin Heidelberg		SN:ResearchGate	10.1007/500.1433-7479	SN:500	1432-7643	1433-7479		Unique_Item_Requests	1	1	0
+Soft Computing	Springer Berlin Heidelberg		SN:ResearchGate	10.1007/500.1433-7479	SN:500	1432-7643	1433-7479		Total_Item_Requests	1	1	0
+Soft Computing	Springer Berlin Heidelberg		SpringerLink	10.1007/500.1433-7479	SN:500	1432-7643	1433-7479		Unique_Item_Requests	1	1	0
+Soft Computing	Springer Berlin Heidelberg		SpringerLink	10.1007/500.1433-7479	SN:500	1432-7643	1433-7479		Total_Item_Requests	1	1	0
+Sports Medicine	Springer International Publishing		SpringerLink		SN:40279	0112-1642	1179-2035		Unique_Item_Requests	1	1	0
+Sports Medicine	Springer International Publishing		SpringerLink		SN:40279	0112-1642	1179-2035		Total_Item_Requests	1	1	0
+Statistical Inference for Stochastic Processes	Springer Netherlands		SpringerLink	10.1007/11203.1572-9311	SN:11203	1387-0874	1572-9311		Unique_Item_Requests	1	1	0
+Statistical Inference for Stochastic Processes	Springer Netherlands		SpringerLink	10.1007/11203.1572-9311	SN:11203	1387-0874	1572-9311		Total_Item_Requests	2	2	0
+Statistical Methods & Applications	Springer Berlin Heidelberg		SpringerLink	10.1007/10260.1613-981X	SN:10260	1618-2510	1613-981X		Unique_Item_Requests	1	1	0
+Statistical Methods & Applications	Springer Berlin Heidelberg		SpringerLink	10.1007/10260.1613-981X	SN:10260	1618-2510	1613-981X		Total_Item_Requests	1	1	0
+Stochastic Environmental Research and Risk Assessment	Springer Berlin Heidelberg		SN:ResearchGate	10.1007/477.1436-3259	SN:477	1436-3240	1436-3259		Unique_Item_Requests	1	1	0
+Stochastic Environmental Research and Risk Assessment	Springer Berlin Heidelberg		SN:ResearchGate	10.1007/477.1436-3259	SN:477	1436-3240	1436-3259		Total_Item_Requests	1	1	0
+Stochastic Environmental Research and Risk Assessment	Springer Berlin Heidelberg		SpringerLink	10.1007/477.1436-3259	SN:477	1436-3240	1436-3259		Unique_Item_Requests	8	8	0
+Stochastic Environmental Research and Risk Assessment	Springer Berlin Heidelberg		SpringerLink	10.1007/477.1436-3259	SN:477	1436-3240	1436-3259		Total_Item_Requests	16	16	0
+Surgical Endoscopy	Springer US		SpringerLink	10.1007/464.1432-2218	SN:464	0930-2794	1432-2218		Unique_Item_Requests	2	2	0
+Surgical Endoscopy	Springer US		SpringerLink	10.1007/464.1432-2218	SN:464	0930-2794	1432-2218		Total_Item_Requests	2	2	0
+Surveys in Geophysics	Springer Netherlands		SpringerLink	10.1007/10712.1573-0956	SN:10712	0169-3298	1573-0956		Unique_Item_Requests	1	1	0
+Surveys in Geophysics	Springer Netherlands		SpringerLink	10.1007/10712.1573-0956	SN:10712	0169-3298	1573-0956		Total_Item_Requests	1	1	0
+Sustainability Science	Springer Japan		SpringerLink	10.1007/11625.1862-4057	SN:11625	1862-4065	1862-4057		Unique_Item_Requests	5	5	0
+Sustainability Science	Springer Japan		SpringerLink	10.1007/11625.1862-4057	SN:11625	1862-4065	1862-4057		Total_Item_Requests	6	6	0
+Systematic Parasitology	Springer Netherlands		SpringerLink	10.1007/11230.1573-5192	SN:11230	0165-5752	1573-5192		Unique_Item_Requests	34	34	0
+Systematic Parasitology	Springer Netherlands		SpringerLink	10.1007/11230.1573-5192	SN:11230	0165-5752	1573-5192		Total_Item_Requests	41	41	0
+Systemic Practice and Action Research	Springer US		SpringerLink	10.1007/11213.1573-9295	SN:11213	1094-429X	1573-9295		Unique_Item_Requests	2	2	0
+Systemic Practice and Action Research	Springer US		SpringerLink	10.1007/11213.1573-9295	SN:11213	1094-429X	1573-9295		Total_Item_Requests	2	2	0
+Systems Microbiology and Biomanufacturing	Springer Nature Singapore		SpringerLink		SN:43393	2662-7655	2662-7663		Unique_Item_Requests	3	3	0
+Systems Microbiology and Biomanufacturing	Springer Nature Singapore		SpringerLink		SN:43393	2662-7655	2662-7663		Total_Item_Requests	6	6	0
+The American Journal of Psychoanalysis	Kluwer Academic Publishers-Plenum Publishers		SpringerLink		SN:11231	0002-9548	1573-6741		Unique_Item_Requests	1	1	0
+The American Journal of Psychoanalysis	Kluwer Academic Publishers-Plenum Publishers		SpringerLink		SN:11231	0002-9548	1573-6741		Total_Item_Requests	1	1	0
+The Asia-Pacific Education Researcher	Springer Nature Singapore		SpringerLink		SN:40299	0119-5646	2243-7908		Unique_Item_Requests	6	6	0
+The Asia-Pacific Education Researcher	Springer Nature Singapore		SpringerLink		SN:40299	0119-5646	2243-7908		Total_Item_Requests	9	9	0
+The Australian Educational Researcher	Springer Netherlands		SpringerLink	10.1007/13384.2210-5328	SN:13384	0311-6999	2210-5328		Unique_Item_Requests	1	1	0
+The Australian Educational Researcher	Springer Netherlands		SpringerLink	10.1007/13384.2210-5328	SN:13384	0311-6999	2210-5328		Total_Item_Requests	2	2	0
+The European Physical Journal Plus	Springer Berlin Heidelberg		SpringerLink	10.1007/13360.2190-5444	SN:13360		2190-5444		Unique_Item_Requests	2	2	0
+The European Physical Journal Plus	Springer Berlin Heidelberg		SpringerLink	10.1007/13360.2190-5444	SN:13360		2190-5444		Total_Item_Requests	2	2	0
+The ISME Journal	Nature Publishing Group UK		nature.com	10.1038/41396.1751-7370	SN:41396	1751-7362	1751-7370		Unique_Item_Requests	2	2	0
+The ISME Journal	Nature Publishing Group UK		nature.com	10.1038/41396.1751-7370	SN:41396	1751-7362	1751-7370		Total_Item_Requests	2	2	0
+The Journal of Obstetrics and Gynecology of India	Springer India		SpringerLink	10.1007/13224.0975-6434	SN:13224	0971-9202	0975-6434		Unique_Item_Requests	1	1	0
+The Journal of Obstetrics and Gynecology of India	Springer India		SpringerLink	10.1007/13224.0975-6434	SN:13224	0971-9202	0975-6434		Total_Item_Requests	1	1	0
+The Journal of Real Estate Finance and Economics	Springer US		SpringerLink	10.1007/11146.1573-045X	SN:11146	0895-5638	1573-045X		Unique_Item_Requests	3	3	0
+The Journal of Real Estate Finance and Economics	Springer US		SpringerLink	10.1007/11146.1573-045X	SN:11146	0895-5638	1573-045X		Total_Item_Requests	4	4	0
+Theoretical and Applied Climatology	Springer Vienna		SN:ResearchGate	10.1007/704.1434-4483	SN:704	0177-798X	1434-4483		Unique_Item_Requests	1	1	0
+Theoretical and Applied Climatology	Springer Vienna		SN:ResearchGate	10.1007/704.1434-4483	SN:704	0177-798X	1434-4483		Total_Item_Requests	1	1	0
+Theoretical and Applied Climatology	Springer Vienna		SpringerLink	10.1007/704.1434-4483	SN:704	0177-798X	1434-4483		Unique_Item_Requests	8	8	0
+Theoretical and Applied Climatology	Springer Vienna		SpringerLink	10.1007/704.1434-4483	SN:704	0177-798X	1434-4483		Total_Item_Requests	8	8	0
+Theory of Computing Systems	Springer US		SpringerLink	10.1007/224.1433-0490	SN:224	1432-4350	1433-0490		Unique_Item_Requests	1	1	0
+Theory of Computing Systems	Springer US		SpringerLink	10.1007/224.1433-0490	SN:224	1432-4350	1433-0490		Total_Item_Requests	1	1	0
+Transactions of the Indian Institute of Metals	Springer India		SpringerLink	10.1007/12666.0975-1645	SN:12666	0972-2815	0975-1645		Unique_Item_Requests	1	1	0
+Transactions of the Indian Institute of Metals	Springer India		SpringerLink	10.1007/12666.0975-1645	SN:12666	0972-2815	0975-1645		Total_Item_Requests	2	2	0
+Tribology Letters	Springer US		SpringerLink	10.1007/11249.1573-2711	SN:11249	1023-8883	1573-2711		Unique_Item_Requests	11	11	0
+Tribology Letters	Springer US		SpringerLink	10.1007/11249.1573-2711	SN:11249	1023-8883	1573-2711		Total_Item_Requests	26	26	0
+Tropical Animal Health and Production	Springer Netherlands		SpringerLink	10.1007/11250.1573-7438	SN:11250	0049-4747	1573-7438		Unique_Item_Requests	3	3	0
+Tropical Animal Health and Production	Springer Netherlands		SpringerLink	10.1007/11250.1573-7438	SN:11250	0049-4747	1573-7438		Total_Item_Requests	7	7	0
+Tropical Plant Pathology	Springer International Publishing		SpringerLink		SN:40858		1983-2052		Unique_Item_Requests	2	2	0
+Tropical Plant Pathology	Springer International Publishing		SpringerLink		SN:40858		1983-2052		Total_Item_Requests	4	4	0
+Tumor Biology	Springer Netherlands		SpringerLink	10.1007/13277.1423-0380	SN:13277	1010-4283	1423-0380		Unique_Item_Requests	2	2	0
+Tumor Biology	Springer Netherlands		SpringerLink	10.1007/13277.1423-0380	SN:13277	1010-4283	1423-0380		Total_Item_Requests	2	2	0
+Vegetation History and Archaeobotany	Springer-Verlag		SpringerLink		SN:334	0939-6314	1617-6278		Unique_Item_Requests	1	1	0
+Vegetation History and Archaeobotany	Springer-Verlag		SpringerLink		SN:334	0939-6314	1617-6278		Total_Item_Requests	1	1	0
+Veterinary Research Communications	Springer Netherlands		SpringerLink	10.1007/11259.1573-7446	SN:11259	0165-7380	1573-7446		Unique_Item_Requests	3	3	0
+Veterinary Research Communications	Springer Netherlands		SpringerLink	10.1007/11259.1573-7446	SN:11259	0165-7380	1573-7446		Total_Item_Requests	5	5	0
+Virus Genes	Springer US		SpringerLink		SN:11262	0920-8569	1572-994X		Unique_Item_Requests	1	1	0
+Virus Genes	Springer US		SpringerLink		SN:11262	0920-8569	1572-994X		Total_Item_Requests	1	1	0
+VirusDisease	Springer India		SpringerLink	10.1007/13337.0974-0120	SN:13337	2347-3584	2347-3517		Unique_Item_Requests	1	1	0
+VirusDisease	Springer India		SpringerLink	10.1007/13337.0974-0120	SN:13337	2347-3584	2347-3517		Total_Item_Requests	2	2	0
+Waste and Biomass Valorization	Springer Netherlands		SpringerLink	10.1007/12649.1877-265X	SN:12649	1877-2641	1877-265X		Unique_Item_Requests	2	2	0
+Waste and Biomass Valorization	Springer Netherlands		SpringerLink	10.1007/12649.1877-265X	SN:12649	1877-2641	1877-265X		Total_Item_Requests	4	4	0
+Water History	Springer Netherlands		SpringerLink	10.1007/12685.1877-7244	SN:12685	1877-7236	1877-7244		Unique_Item_Requests	12	12	0
+Water History	Springer Netherlands		SpringerLink	10.1007/12685.1877-7244	SN:12685	1877-7236	1877-7244		Total_Item_Requests	15	15	0
+Water Resources Management	Springer Netherlands		SN:ResearchGate	10.1007/11269.1573-1650	SN:11269	0920-4741	1573-1650		Unique_Item_Requests	5	5	0
+Water Resources Management	Springer Netherlands		SN:ResearchGate	10.1007/11269.1573-1650	SN:11269	0920-4741	1573-1650		Total_Item_Requests	5	5	0
+Water Resources Management	Springer Netherlands		SpringerLink	10.1007/11269.1573-1650	SN:11269	0920-4741	1573-1650		Unique_Item_Requests	2	2	0
+Water Resources Management	Springer Netherlands		SpringerLink	10.1007/11269.1573-1650	SN:11269	0920-4741	1573-1650		Total_Item_Requests	2	2	0
+Water, Air, and Soil Pollution	Kluwer Academic Publishers		SpringerLink		SN:11270	0049-6979	1573-2932		Unique_Item_Requests	1	1	0
+Water, Air, and Soil Pollution	Kluwer Academic Publishers		SpringerLink		SN:11270	0049-6979	1573-2932		Total_Item_Requests	1	1	0
+Wetlands	Springer Netherlands		SpringerLink	10.1007/13157.1943-6246	SN:13157	0277-5212	1943-6246		Unique_Item_Requests	1	1	0
+Wetlands	Springer Netherlands		SpringerLink	10.1007/13157.1943-6246	SN:13157	0277-5212	1943-6246		Total_Item_Requests	1	1	0
+Wireless Networks	Springer US		SpringerLink	10.1007/11276.1572-8196	SN:11276	1022-0038	1572-8196		Unique_Item_Requests	5	5	0
+Wireless Networks	Springer US		SpringerLink	10.1007/11276.1572-8196	SN:11276	1022-0038	1572-8196		Total_Item_Requests	7	7	0
+World Journal of Microbiology and Biotechnology	Springer Netherlands		SpringerLink	10.1007/11274.1573-0972	SN:11274	0959-3993	1573-0972		Unique_Item_Requests	2	2	0
+World Journal of Microbiology and Biotechnology	Springer Netherlands		SpringerLink	10.1007/11274.1573-0972	SN:11274	0959-3993	1573-0972		Total_Item_Requests	4	4	0
+World Journal of Surgery	Springer-Verlag		SpringerLink		SN:268	0364-2313	1432-2323		Unique_Item_Requests	1	1	0
+World Journal of Surgery	Springer-Verlag		SpringerLink		SN:268	0364-2313	1432-2323		Total_Item_Requests	2	2	0
+ZDM	Springer-Verlag		SpringerLink		SN:11858	1863-9690	1863-9704		Unique_Item_Requests	1	1	0
+ZDM	Springer-Verlag		SpringerLink		SN:11858	1863-9690	1863-9704		Total_Item_Requests	1	1	0

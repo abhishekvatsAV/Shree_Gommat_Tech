@@ -15,44 +15,40 @@ class Ui_addVendor51Dialog(object):
     def setupUi(self, addVendor51Dialog):
         addVendor51Dialog.setObjectName("addVendor51Dialog")
         addVendor51Dialog.resize(957, 641)
-        addVendor51Dialog.setStyleSheet(
-            "*{\n"
-            "    \n"
-            "border:none;\n"
-            "background-color:transparent;\n"
-            "background:none;\n"
-            "padding:0;\n"
-            "margin:0;\n"
-            "color:#fff;\n"
-            "}\n"
-            "\n"
-            "\n"
-            "\n"
-            "#centralwidget{\n"
-            "background-color:#1f232a;\n"
-            "}\n"
-            "\n"
-            "QPushButton{\n"
-            "text-align:left;\n"
-            "padding: 5px 10px;\n"
-            "\n"
-            "border-top-left-radius:5px;\n"
-            "border-botton-left-radius:5px;\n"
-            "}\n"
-            "QPushButton:pressed{\n"
-            "background-color:grey;\n"
-            "text-align:left;\n"
-            "padding:2px 10px;\n"
-            "color:white;}"
-        )
+        addVendor51Dialog.setStyleSheet("*{\n"
+"    \n"
+"border:none;\n"
+"background-color:transparent;\n"
+"background:none;\n"
+"padding:0;\n"
+"margin:0;\n"
+"color:#fff;\n"
+"}\n"
+"\n"
+"\n"
+"\n"
+"#centralwidget{\n"
+"background-color:#1f232a;\n"
+"}\n"
+"\n"
+"QPushButton{\n"
+"text-align:left;\n"
+"padding: 5px 10px;\n"
+"\n"
+"border-top-left-radius:5px;\n"
+"border-botton-left-radius:5px;\n"
+"}\n"
+"QPushButton:pressed{\n"
+"background-color:grey;\n"
+"text-align:left;\n"
+"padding:2px 10px;\n"
+"color:white;}")
         self.centralwidget = QtWidgets.QWidget(addVendor51Dialog)
         self.centralwidget.setObjectName("centralwidget")
         self.gridLayout = QtWidgets.QGridLayout(self.centralwidget)
         self.gridLayout.setObjectName("gridLayout")
         self.frame = QtWidgets.QFrame(self.centralwidget)
-        sizePolicy = QtWidgets.QSizePolicy(
-            QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Preferred
-        )
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Preferred)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
         sizePolicy.setHeightForWidth(self.frame.sizePolicy().hasHeightForWidth())
@@ -64,16 +60,14 @@ class Ui_addVendor51Dialog(object):
         self.verticalLayout = QtWidgets.QVBoxLayout(self.frame)
         self.verticalLayout.setObjectName("verticalLayout")
         self.frame_3 = QtWidgets.QFrame(self.frame)
-        self.frame_3.setStyleSheet(
-            "border-color: rgb(255, 255, 255);\n"
-            "\n"
-            "QLineEdit {\n"
-            "    background-color: #cccccc;\n"
-            "    border-radius: 20px; \n"
-            "\n"
-            "}\n"
-            ""
-        )
+        self.frame_3.setStyleSheet("border-color: rgb(255, 255, 255);\n"
+"\n"
+"QLineEdit {\n"
+"    background-color: #cccccc;\n"
+"    border-radius: 20px; \n"
+"\n"
+"}\n"
+"")
         self.frame_3.setFrameShape(QtWidgets.QFrame.StyledPanel)
         self.frame_3.setFrameShadow(QtWidgets.QFrame.Plain)
         self.frame_3.setObjectName("frame_3")
@@ -81,9 +75,7 @@ class Ui_addVendor51Dialog(object):
         self.gridLayout_2.setObjectName("gridLayout_2")
         self.label_7 = QtWidgets.QLabel(self.frame_3)
         self.label_7.setEnabled(True)
-        sizePolicy = QtWidgets.QSizePolicy(
-            QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Preferred
-        )
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Preferred)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
         sizePolicy.setHeightForWidth(self.label_7.sizePolicy().hasHeightForWidth())
@@ -97,42 +89,6 @@ class Ui_addVendor51Dialog(object):
         self.label_7.setFrameShape(QtWidgets.QFrame.NoFrame)
         self.label_7.setObjectName("label_7")
         self.gridLayout_2.addWidget(self.label_7, 0, 1, 1, 2)
-        self.pushButton = QtWidgets.QPushButton(self.frame_3)
-        font = QtGui.QFont()
-        font.setFamily("Georgia")
-        font.setPointSize(12)
-        self.pushButton.setFont(font)
-        self.pushButton.setStyleSheet(
-            "border: 2px solid grey;\n" "border-radius:15px;\n" "text-align:center;"
-        )
-        self.pushButton.setObjectName("pushButton")
-        self.gridLayout_2.addWidget(self.pushButton, 3, 1, 1, 1)
-        self.buttonBox = QtWidgets.QDialogButtonBox(self.frame_3)
-        sizePolicy = QtWidgets.QSizePolicy(
-            QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Preferred
-        )
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.buttonBox.sizePolicy().hasHeightForWidth())
-        self.buttonBox.setSizePolicy(sizePolicy)
-        self.buttonBox.setMinimumSize(QtCore.QSize(0, 20))
-        font = QtGui.QFont()
-        font.setFamily("Georgia")
-        font.setPointSize(12)
-        font.setBold(False)
-        font.setItalic(False)
-        self.buttonBox.setFont(font)
-        self.buttonBox.setStyleSheet(
-            'font: 12pt "Georgia";\n'
-            "border: 2px solid grey;\n"
-            "border-radius: 15px;\n"
-            ""
-        )
-        self.buttonBox.setStandardButtons(
-            QtWidgets.QDialogButtonBox.Cancel | QtWidgets.QDialogButtonBox.Ok
-        )
-        self.buttonBox.setObjectName("buttonBox")
-        self.gridLayout_2.addWidget(self.buttonBox, 2, 2, 2, 1)
         self.AddNewVendor = QtWidgets.QFrame(self.frame_3)
         self.AddNewVendor.setMinimumSize(QtCore.QSize(0, 30))
         font = QtGui.QFont()
@@ -184,9 +140,9 @@ class Ui_addVendor51Dialog(object):
         self.label_4.setFont(font)
         self.label_4.setObjectName("label_4")
         self.gridLayout_5.addWidget(self.label_4, 7, 0, 1, 1)
-        self.label_16 = QtWidgets.QLabel(self.AddNewVendor)
-        self.label_16.setObjectName("label_16")
-        self.gridLayout_5.addWidget(self.label_16, 0, 2, 1, 1)
+        self.versionEdit = QtWidgets.QLabel(self.AddNewVendor)
+        self.versionEdit.setObjectName("versionEdit")
+        self.gridLayout_5.addWidget(self.versionEdit, 0, 2, 1, 1)
         self.label_12 = QtWidgets.QLabel(self.AddNewVendor)
         self.label_12.setObjectName("label_12")
         self.gridLayout_5.addWidget(self.label_12, 1, 1, 1, 1)
@@ -247,14 +203,15 @@ class Ui_addVendor51Dialog(object):
         self.gridLayout_5.addWidget(self.label_11, 12, 0, 1, 1)
         self.nameEdit = QtWidgets.QLineEdit(self.AddNewVendor)
         self.nameEdit.setMinimumSize(QtCore.QSize(0, 30))
-        self.nameEdit.setStyleSheet(
-            "QLineEdit {\n"
-            "    background-color: #cccccc;\n"
-            "    border-radius: 20px; \n"
-            "color:black;\n"
-            "}\n"
-            ""
-        )
+        self.nameEdit.setStyleSheet("QLineEdit {\n"
+"    border: 2px solid #808080;\n"
+"    border-radius: 4px;\n"
+"    padding: 5px;\n"
+"    color: white;\n"
+"    background-color: #2E2F30;\n"
+"}\n"
+"\n"
+"")
         self.nameEdit.setObjectName("nameEdit")
         self.gridLayout_5.addWidget(self.nameEdit, 1, 2, 1, 1)
         self.name_validation_label = QtWidgets.QLabel(self.AddNewVendor)
@@ -263,14 +220,15 @@ class Ui_addVendor51Dialog(object):
         self.gridLayout_5.addWidget(self.name_validation_label, 2, 2, 1, 1)
         self.baseUrlEdit = QtWidgets.QLineEdit(self.AddNewVendor)
         self.baseUrlEdit.setMinimumSize(QtCore.QSize(0, 30))
-        self.baseUrlEdit.setStyleSheet(
-            "QLineEdit {\n"
-            "    background-color: #cccccc;\n"
-            "    border-radius: 20px; \n"
-            "color:black;\n"
-            "}\n"
-            ""
-        )
+        self.baseUrlEdit.setStyleSheet("QLineEdit {\n"
+"    border: 2px solid #808080;\n"
+"    border-radius: 4px;\n"
+"    padding: 5px;\n"
+"    color: white;\n"
+"background-color: #2E2F30;\n"
+"}\n"
+"\n"
+"")
         self.baseUrlEdit.setObjectName("baseUrlEdit")
         self.gridLayout_5.addWidget(self.baseUrlEdit, 3, 2, 1, 1)
         self.url_validation_label = QtWidgets.QLabel(self.AddNewVendor)
@@ -281,64 +239,94 @@ class Ui_addVendor51Dialog(object):
         self.All_reports_edit_fetch.setEnabled(True)
         self.All_reports_edit_fetch.setMinimumSize(QtCore.QSize(0, 30))
         self.All_reports_edit_fetch.setMaximumSize(QtCore.QSize(60, 16777215))
-        self.All_reports_edit_fetch.setStyleSheet(
-            "QDateEdit {\n"
-            "    background-color: #cccccc;\n"
-            "    border-radius: 20px; \n"
-            " color:black;\n"
-            "}\n"
-            ""
-        )
-        self.All_reports_edit_fetch.setDateTime(
-            QtCore.QDateTime(QtCore.QDate(2019, 12, 29), QtCore.QTime(0, 0, 0))
-        )
+        self.All_reports_edit_fetch.setStyleSheet("QDateEdit {\n"
+"    border: 2px solid #808080;\n"
+"background-color: #2E2F30;\n"
+"    border-radius: 4px;\n"
+"    padding-left: 5px;\n"
+"}\n"
+"\n"
+"QDateEdit::up-button, QDateEdit::down-button {\n"
+"    border: none;\n"
+"    padding-right: 5px;\n"
+"}\n"
+"\n"
+"QDateEdit::up-button {\n"
+"    subcontrol-position: top right;\n"
+"}\n"
+"\n"
+"QDateEdit::down-button {\n"
+"    subcontrol-position: bottom right;\n"
+"}\n"
+"\n"
+"QDateEdit::up-arrow, QDateEdit::down-arrow {\n"
+"    border: 5px solid rgba(255, 255, 255, 0);\n"
+"    width: 0;\n"
+"    height: 0;\n"
+"}\n"
+"\n"
+"QDateEdit::up-arrow {\n"
+"    border-top: none;\n"
+"    border-bottom-color: white;\n"
+"}\n"
+"\n"
+"QDateEdit::down-arrow {\n"
+"    border-bottom: none;\n"
+"    border-top-color: white;\n"
+"}")
+        self.All_reports_edit_fetch.setDateTime(QtCore.QDateTime(QtCore.QDate(2019, 12, 28), QtCore.QTime(0, 0, 0)))
         self.All_reports_edit_fetch.setObjectName("All_reports_edit_fetch")
         self.gridLayout_5.addWidget(self.All_reports_edit_fetch, 5, 2, 1, 1)
         self.customerIdEdit = QtWidgets.QLineEdit(self.AddNewVendor)
         self.customerIdEdit.setMinimumSize(QtCore.QSize(0, 30))
-        self.customerIdEdit.setStyleSheet(
-            "QLineEdit {\n"
-            "    background-color: #cccccc;\n"
-            "    border-radius: 20px; \n"
-            "color:black;\n"
-            "}\n"
-            ""
-        )
+        self.customerIdEdit.setStyleSheet("QLineEdit {\n"
+"    border: 2px solid #808080;\n"
+"    border-radius: 4px;\n"
+"    padding: 5px;\n"
+"    color: white;\n"
+"background-color: #2E2F30;\n"
+"}\n"
+"\n"
+"")
         self.customerIdEdit.setObjectName("customerIdEdit")
         self.gridLayout_5.addWidget(self.customerIdEdit, 6, 2, 1, 1)
         self.requestorIdEdit = QtWidgets.QLineEdit(self.AddNewVendor)
         self.requestorIdEdit.setMinimumSize(QtCore.QSize(0, 30))
-        self.requestorIdEdit.setStyleSheet(
-            "QLineEdit {\n"
-            "    background-color: #cccccc;\n"
-            "    border-radius: 20px; \n"
-            "color:black;\n"
-            "}\n"
-            ""
-        )
+        self.requestorIdEdit.setStyleSheet("QLineEdit {\n"
+"    border: 2px solid #808080;\n"
+"    border-radius: 4px;\n"
+"    padding: 5px;\n"
+"background-color: #2E2F30;\n"
+"    color: white;\n"
+"}\n"
+"\n"
+"")
         self.requestorIdEdit.setObjectName("requestorIdEdit")
         self.gridLayout_5.addWidget(self.requestorIdEdit, 7, 2, 1, 1)
         self.platformEdit = QtWidgets.QLineEdit(self.AddNewVendor)
         self.platformEdit.setMinimumSize(QtCore.QSize(0, 30))
-        self.platformEdit.setStyleSheet(
-            "QLineEdit {\n"
-            "    background-color: #cccccc;\n"
-            "    border-radius: 20px; \n"
-            "color:black;\n"
-            "}\n"
-            ""
-        )
+        self.platformEdit.setStyleSheet("QLineEdit {\n"
+"background-color: #2E2F30;\n"
+"    border: 2px solid #808080;\n"
+"    border-radius: 4px;\n"
+"    padding: 5px;\n"
+"    color: white;\n"
+"}\n"
+"\n"
+"")
         self.platformEdit.setObjectName("platformEdit")
         self.gridLayout_5.addWidget(self.platformEdit, 8, 2, 1, 1)
         self.apiKeyEdit = QtWidgets.QLineEdit(self.AddNewVendor)
         self.apiKeyEdit.setMinimumSize(QtCore.QSize(0, 30))
-        self.apiKeyEdit.setStyleSheet(
-            "QLineEdit {\n"
-            "    background-color: #cccccc;\n"
-            "    border-radius: 20px; \n"
-            "color:black;}\n"
-            ""
-        )
+        self.apiKeyEdit.setStyleSheet("QLineEdit {\n"
+"background-color: #2E2F30;\n"
+"    border: 2px solid #808080;\n"
+"    border-radius: 4px;\n"
+"    padding: 5px;\n"
+"    color: white;\n"
+"}\n"
+"\n"
+"")
         self.apiKeyEdit.setObjectName("apiKeyEdit")
         self.gridLayout_5.addWidget(self.apiKeyEdit, 9, 2, 1, 1)
         self.two_attempts_check_box = QtWidgets.QCheckBox(self.AddNewVendor)
@@ -354,43 +342,83 @@ class Ui_addVendor51Dialog(object):
         self.requests_throttled_check_box.setObjectName("requests_throttled_check_box")
         self.gridLayout_5.addWidget(self.requests_throttled_check_box, 12, 2, 1, 1)
         self.providerEdit = QtWidgets.QLineEdit(self.AddNewVendor)
-        sizePolicy = QtWidgets.QSizePolicy(
-            QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Preferred
-        )
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Preferred)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
         sizePolicy.setHeightForWidth(self.providerEdit.sizePolicy().hasHeightForWidth())
         self.providerEdit.setSizePolicy(sizePolicy)
-        self.providerEdit.setStyleSheet(
-            "QLineEdit {\n"
-            "    background-color: #cccccc;\n"
-            "    border-radius: 20px; \n"
-            "color:black;\n"
-            "}\n"
-            ""
-        )
+        self.providerEdit.setStyleSheet("QLineEdit {\n"
+"    border: 2px solid #808080;\n"
+"    border-radius: 4px;\n"
+"background-color: #2E2F30;\n"
+"    padding: 5px;\n"
+"    color: white;\n"
+"}\n"
+"\n"
+"")
         self.providerEdit.setObjectName("providerEdit")
         self.gridLayout_5.addWidget(self.providerEdit, 13, 2, 1, 1)
         self.notesEdit = QtWidgets.QLineEdit(self.AddNewVendor)
-        sizePolicy = QtWidgets.QSizePolicy(
-            QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding
-        )
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
         sizePolicy.setHeightForWidth(self.notesEdit.sizePolicy().hasHeightForWidth())
         self.notesEdit.setSizePolicy(sizePolicy)
         self.notesEdit.setMinimumSize(QtCore.QSize(339, 0))
-        self.notesEdit.setStyleSheet(
-            "QLineEdit {\n"
-            "    background-color: #cccccc;\n"
-            "    border-radius: 20px; \n"
-            "color:black;\n"
-            "}\n"
-            ""
-        )
+        self.notesEdit.setStyleSheet("QLineEdit {\n"
+"    border: 2px solid #808080;\n"
+"    border-radius: 4px;\n"
+"    padding: 5px;\n"
+"    color: white;\n"
+"background-color: #2E2F30;\n"
+"}\n"
+"\n"
+"")
         self.notesEdit.setObjectName("notesEdit")
         self.gridLayout_5.addWidget(self.notesEdit, 14, 2, 1, 1)
         self.gridLayout_2.addWidget(self.AddNewVendor, 1, 0, 1, 3)
+        self.pushButton = QtWidgets.QPushButton(self.frame_3)
+        font = QtGui.QFont()
+        font.setFamily("Georgia")
+        font.setPointSize(12)
+        font.setBold(True)
+        font.setItalic(False)
+        self.pushButton.setFont(font)
+        self.pushButton.setStyleSheet("QPushButton {\n"
+"    background-color: #1768E3; \n"
+"    color: #FFFFFF;\n"
+"    font: bold;\n"
+"   border-radius: 4px;\n"
+"text-align: center;\n"
+"}\n"
+"\n"
+"QPushButton:hover{\n"
+" background-color: #2095E6;\n"
+"}\n"
+"\n"
+"")
+        self.pushButton.setObjectName("pushButton")
+        self.gridLayout_2.addWidget(self.pushButton, 3, 1, 1, 1)
+        self.buttonBox = QtWidgets.QDialogButtonBox(self.frame_3)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Preferred)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.buttonBox.sizePolicy().hasHeightForWidth())
+        self.buttonBox.setSizePolicy(sizePolicy)
+        self.buttonBox.setMinimumSize(QtCore.QSize(0, 20))
+        font = QtGui.QFont()
+        font.setFamily("Georgia")
+        font.setPointSize(12)
+        font.setBold(False)
+        font.setItalic(False)
+        self.buttonBox.setFont(font)
+        self.buttonBox.setStyleSheet("border: 2px solid grey;\n"
+"border-radius: 8px;\n"
+"background-color: #000000;\n"
+"")
+        self.buttonBox.setStandardButtons(QtWidgets.QDialogButtonBox.Cancel|QtWidgets.QDialogButtonBox.Ok)
+        self.buttonBox.setObjectName("buttonBox")
+        self.gridLayout_2.addWidget(self.buttonBox, 2, 2, 2, 1)
         self.verticalLayout.addWidget(self.frame_3)
         self.gridLayout.addWidget(self.frame, 0, 0, 1, 2)
         addVendor51Dialog.setCentralWidget(self.centralwidget)
@@ -401,13 +429,7 @@ class Ui_addVendor51Dialog(object):
     def retranslateUi(self, addVendor51Dialog):
         _translate = QtCore.QCoreApplication.translate
         addVendor51Dialog.setWindowTitle(_translate("addVendor51Dialog", "MainWindow"))
-        self.label_7.setText(
-            _translate(
-                "addVendor51Dialog",
-                '<html><head/><body><p align="center">Add New Vendor</p></body></html>',
-            )
-        )
-        self.pushButton.setText(_translate("addVendor51Dialog", "Validate"))
+        self.label_7.setText(_translate("addVendor51Dialog", "<html><head/><body><p align=\"center\">Add New Vendor</p></body></html>"))
         self.label_28.setText(_translate("addVendor51Dialog", "Notes"))
         self.label_5.setText(_translate("addVendor51Dialog", "API Key"))
         self.label_13.setText(_translate("addVendor51Dialog", "*"))
@@ -415,7 +437,7 @@ class Ui_addVendor51Dialog(object):
         self.label_2.setText(_translate("addVendor51Dialog", "Base URL"))
         self.label_14.setText(_translate("addVendor51Dialog", "*"))
         self.label_4.setText(_translate("addVendor51Dialog", "Requester ID"))
-        self.label_16.setText(_translate("addVendor51Dialog", "5.1"))
+        self.versionEdit.setText(_translate("addVendor51Dialog", "5.1"))
         self.label_12.setText(_translate("addVendor51Dialog", "*"))
         self.label_18.setText(_translate("addVendor51Dialog", "*"))
         self.label_9.setText(_translate("addVendor51Dialog", "IP Checking required"))
@@ -426,14 +448,12 @@ class Ui_addVendor51Dialog(object):
         self.label.setText(_translate("addVendor51Dialog", "Name"))
         self.label_8.setText(_translate("addVendor51Dialog", "2 Attempts needed"))
         self.label_11.setText(_translate("addVendor51Dialog", "Request throttled"))
-        self.All_reports_edit_fetch.setDisplayFormat(
-            _translate("addVendor51Dialog", "yyyy")
-        )
+        self.All_reports_edit_fetch.setDisplayFormat(_translate("addVendor51Dialog", "yyyy"))
+        self.pushButton.setText(_translate("addVendor51Dialog", "Validate"))
 
 
 if __name__ == "__main__":
     import sys
-
     app = QtWidgets.QApplication(sys.argv)
     addVendor51Dialog = QtWidgets.QMainWindow()
     ui = Ui_addVendor51Dialog()

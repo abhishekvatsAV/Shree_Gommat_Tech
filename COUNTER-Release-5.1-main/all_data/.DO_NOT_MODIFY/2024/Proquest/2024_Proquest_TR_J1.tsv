@@ -1,0 +1,124 @@
+Report_Name	Journal Requests (Excluding OA_Gold)
+Report_ID	TR_J1
+Release	5
+Institution_Name	UNIVERSITY OF PRINCE EDWARD ISLAND
+Institution_ID	ProQuest:14670
+Metric_Types	Total_Item_Requests; Unique_Item_Requests
+Report_Filters	Platform=ProQuest; Data_Type=Journal; Access_Type=Controlled; Access_Method=Regular
+Report_Attributes	
+Exceptions	3040: Partial Data Returned. (Usage data has not been processed for all requested months.)
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-01T13:54:38Z
+Created_By	ProQuest
+
+Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	Print_ISSN	Online_ISSN	URI	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+Anthropologica	Canadian Anthropology Society		ProQuest		ProQuest:46875	0003-5459	2292-3586		Total_Item_Requests	1	1	0
+Anthropologica	Canadian Anthropology Society		ProQuest		ProQuest:46875	0003-5459	2292-3586		Unique_Item_Requests	1	1	0
+Anthropological Quarterly	Institute for Ethnographic Research		ProQuest		ProQuest:1818101	0003-5491			Total_Item_Requests	2	2	0
+Anthropological Quarterly	Institute for Ethnographic Research		ProQuest		ProQuest:1818101	0003-5491			Unique_Item_Requests	2	2	0
+Canadian Geographer	Blackwell Publishing Ltd		ProQuest		ProQuest:37554	0008-3658	1541-0064		Total_Item_Requests	1	1	0
+Canadian Geographer	Blackwell Publishing Ltd		ProQuest		ProQuest:37554	0008-3658	1541-0064		Unique_Item_Requests	1	1	0
+Canadian Issues	Association of Canadian Studies		ProQuest		ProQuest:43874	0318-8442			Total_Item_Requests	1	1	0
+Canadian Issues	Association of Canadian Studies		ProQuest		ProQuest:43874	0318-8442			Unique_Item_Requests	1	1	0
+Canadian Journal of Behavioural Science	Canadian Psychological Association		ProQuest		ProQuest:48737	0008-400X	1879-2669		Total_Item_Requests	2	2	0
+Canadian Journal of Behavioural Science	Canadian Psychological Association		ProQuest		ProQuest:48737	0008-400X	1879-2669		Unique_Item_Requests	1	1	0
+Canadian Journal of Communication	Canadian Journal of Communications Corp		ProQuest		ProQuest:47035	0705-3657	1499-6642		Total_Item_Requests	2	2	0
+Canadian Journal of Communication	Canadian Journal of Communications Corp		ProQuest		ProQuest:47035	0705-3657	1499-6642		Unique_Item_Requests	1	1	0
+Canadian Journal of Dental Hygiene	Canadian Dental Hygienists Association		ProQuest		ProQuest:39590	1712-171X	1712-1728		Total_Item_Requests	4	4	0
+Canadian Journal of Dental Hygiene	Canadian Dental Hygienists Association		ProQuest		ProQuest:39590	1712-171X	1712-1728		Unique_Item_Requests	4	4	0
+Canadian Literature	The University of British Columbia		ProQuest		ProQuest:47638	0008-4360			Total_Item_Requests	1	1	0
+Canadian Literature	The University of British Columbia		ProQuest		ProQuest:47638	0008-4360			Unique_Item_Requests	1	1	0
+Canadian Winds  The Journal of the Canadian Band Association	Canadian Band Association		ProQuest		ProQuest:54570	1703-5295			Total_Item_Requests	2	2	0
+Canadian Winds  The Journal of the Canadian Band Association	Canadian Band Association		ProQuest		ProQuest:54570	1703-5295			Unique_Item_Requests	1	1	0
+Catalyst  Feminism  Theory  Technoscience	Catalyst Feminism Theory Technoscience		ProQuest		ProQuest:2069169		2380-3312		Total_Item_Requests	1	1	0
+Catalyst  Feminism  Theory  Technoscience	Catalyst Feminism Theory Technoscience		ProQuest		ProQuest:2069169		2380-3312		Unique_Item_Requests	1	1	0
+Climatic Change	Springer Nature BV		ProQuest		ProQuest:36297	0165-0009	1573-1480		Total_Item_Requests	1	1	0
+Climatic Change	Springer Nature BV		ProQuest		ProQuest:36297	0165-0009	1573-1480		Unique_Item_Requests	1	1	0
+Environmental Conservation	Cambridge University Press		ProQuest		ProQuest:33256	0376-8929	1469-4387		Total_Item_Requests	1	1	0
+Environmental Conservation	Cambridge University Press		ProQuest		ProQuest:33256	0376-8929	1469-4387		Unique_Item_Requests	1	1	0
+FAO Aquaculture Newsletter	Food and Agriculture Organization		ProQuest		ProQuest:237326	1020-3443	1564-3468		Total_Item_Requests	1	1	0
+FAO Aquaculture Newsletter	Food and Agriculture Organization		ProQuest		ProQuest:237326	1020-3443	1564-3468		Unique_Item_Requests	1	1	0
+Global Economic Observer	Nicolae Titulescu University Editorial House		ProQuest		ProQuest:2036057	2343-9742	2343-9750		Total_Item_Requests	1	1	0
+Global Economic Observer	Nicolae Titulescu University Editorial House		ProQuest		ProQuest:2036057	2343-9742	2343-9750		Unique_Item_Requests	1	1	0
+Great Plains Quarterly	Center for Great Plains Studies		ProQuest		ProQuest:105990	0275-7664	2333-5092		Total_Item_Requests	1	1	0
+Great Plains Quarterly	Center for Great Plains Studies		ProQuest		ProQuest:105990	0275-7664	2333-5092		Unique_Item_Requests	1	1	0
+Herpetological Review	Society for the Study of Amphibians and		ProQuest		ProQuest:33457	0018-084X			Total_Item_Requests	1	1	0
+Herpetological Review	Society for the Study of Amphibians and		ProQuest		ProQuest:33457	0018-084X			Unique_Item_Requests	1	1	0
+Hydrogeology Journal	Springer Nature BV		ProQuest		ProQuest:55405	1431-2174	1435-0157		Total_Item_Requests	2	2	0
+Hydrogeology Journal	Springer Nature BV		ProQuest		ProQuest:55405	1431-2174	1435-0157		Unique_Item_Requests	1	1	0
+Information  Technology Law	HAB Press Limited		ProQuest		ProQuest:29018	1205-4577			Total_Item_Requests	1	1	0
+Information  Technology Law	HAB Press Limited		ProQuest		ProQuest:29018	1205-4577			Unique_Item_Requests	1	1	0
+International Journal	Sage Publications Ltd		ProQuest		ProQuest:40991	0020-7020	2052-465X		Total_Item_Requests	1	1	0
+International Journal	Sage Publications Ltd		ProQuest		ProQuest:40991	0020-7020	2052-465X		Unique_Item_Requests	1	1	0
+Journal of Asian Studies	Duke University Press		ProQuest		ProQuest:1817327	0021-9118			Total_Item_Requests	1	1	0
+Journal of Asian Studies	Duke University Press		ProQuest		ProQuest:1817327	0021-9118			Unique_Item_Requests	1	1	0
+Journal of Contemporary Ethnography	Sage Publications Inc		ProQuest		ProQuest:1821467	0891-2416			Total_Item_Requests	3	3	0
+Journal of Contemporary Ethnography	Sage Publications Inc		ProQuest		ProQuest:1821467	0891-2416			Unique_Item_Requests	2	2	0
+Journal of Environmental Law and Practice	HAB Press Limited		ProQuest		ProQuest:28151	1181-7534			Total_Item_Requests	2	2	0
+Journal of Environmental Law and Practice	HAB Press Limited		ProQuest		ProQuest:28151	1181-7534			Unique_Item_Requests	1	1	0
+Journal of Individual Psychology	University of Texas at Austin		ProQuest		ProQuest:1816607	0022-1805			Total_Item_Requests	1	1	0
+Journal of Individual Psychology	University of Texas at Austin		ProQuest		ProQuest:1816607	0022-1805			Unique_Item_Requests	1	1	0
+Journal of Religion and Popular Culture	University of Toronto Press		ProQuest		ProQuest:28461		1703-289X		Total_Item_Requests	2	2	0
+Journal of Religion and Popular Culture	University of Toronto Press		ProQuest		ProQuest:28461		1703-289X		Unique_Item_Requests	2	2	0
+Marketing	Brunico Communications Inc		ProQuest		ProQuest:42609	1196-4650			Total_Item_Requests	1	1	0
+Marketing	Brunico Communications Inc		ProQuest		ProQuest:42609	1196-4650			Unique_Item_Requests	1	1	0
+Marketwired	Intrado Digital Media Canada Inc		ProQuest		ProQuest:40293				Total_Item_Requests	2	2	0
+Marketwired	Intrado Digital Media Canada Inc		ProQuest		ProQuest:40293				Unique_Item_Requests	2	2	0
+MUSICultures	Canadian Society for Traditional Music		ProQuest		ProQuest:46831	1920-4213	1920-4221		Total_Item_Requests	1	1	0
+MUSICultures	Canadian Society for Traditional Music		ProQuest		ProQuest:46831	1920-4213	1920-4221		Unique_Item_Requests	1	1	0
+Natural Hazards	Springer Nature BV		ProQuest		ProQuest:54179	0921-030X	1573-0840		Total_Item_Requests	3	3	0
+Natural Hazards	Springer Nature BV		ProQuest		ProQuest:54179	0921-030X	1573-0840		Unique_Item_Requests	1	1	0
+Nature	Nature Publishing Group		ProQuest		ProQuest:40569	0028-0836	1476-4687		Total_Item_Requests	10	10	0
+Nature	Nature Publishing Group		ProQuest		ProQuest:40569	0028-0836	1476-4687		Unique_Item_Requests	5	5	0
+New Literary History	Johns Hopkins University Press		ProQuest		ProQuest:1820997	0028-6087			Total_Item_Requests	2	2	0
+New Literary History	Johns Hopkins University Press		ProQuest		ProQuest:1820997	0028-6087			Unique_Item_Requests	1	1	0
+Parameters	US Army War College Lib		ProQuest		ProQuest:1819217	0031-1723	2158-2106		Total_Item_Requests	2	2	0
+Parameters	US Army War College Lib		ProQuest		ProQuest:1819217	0031-1723	2158-2106		Unique_Item_Requests	1	1	0
+Performing Arts  Entertainment in Canada	Performing Arts  Entertainment		ProQuest		ProQuest:6031	1185-3433			Total_Item_Requests	3	3	0
+Performing Arts  Entertainment in Canada	Performing Arts  Entertainment		ProQuest		ProQuest:6031	1185-3433			Unique_Item_Requests	1	1	0
+Perspective	Kirkpatrick Jordon Foundation		ProQuest		ProQuest:1816721	0048-3494			Total_Item_Requests	1	1	0
+Perspective	Kirkpatrick Jordon Foundation		ProQuest		ProQuest:1816721	0048-3494			Unique_Item_Requests	1	1	0
+Philosophy Today	Philosophy Documentation Center		ProQuest		ProQuest:1820983	0031-8256			Total_Item_Requests	2	2	0
+Philosophy Today	Philosophy Documentation Center		ProQuest		ProQuest:1820983	0031-8256			Unique_Item_Requests	1	1	0
+Phycologia	Taylor  Francis Ltd		ProQuest		ProQuest:37953	0031-8884	2330-2968		Total_Item_Requests	1	1	0
+Phycologia	Taylor  Francis Ltd		ProQuest		ProQuest:37953	0031-8884	2330-2968		Unique_Item_Requests	1	1	0
+Physical  Health Education Journal	Canadian Assn for Health Physical		ProQuest		ProQuest:42913	1498-0940			Total_Item_Requests	1	1	0
+Physical  Health Education Journal	Canadian Assn for Health Physical		ProQuest		ProQuest:42913	1498-0940			Unique_Item_Requests	1	1	0
+Quarterly Review of the Rural Economy	Blackwell Publishing Ltd		ProQuest		ProQuest:1818559	0156-7446			Total_Item_Requests	1	1	0
+Quarterly Review of the Rural Economy	Blackwell Publishing Ltd		ProQuest		ProQuest:1818559	0156-7446			Unique_Item_Requests	1	1	0
+Reference and Research Book News	Copyright Clearance Center		ProQuest		ProQuest:29579	0887-3763			Total_Item_Requests	5	5	0
+Reference and Research Book News	Copyright Clearance Center		ProQuest		ProQuest:29579	0887-3763			Unique_Item_Requests	4	4	0
+Review of Contemporary Fiction	Deep Vellum Publishing Co		ProQuest		ProQuest:1819105	0276-0045			Total_Item_Requests	2	2	0
+Review of Contemporary Fiction	Deep Vellum Publishing Co		ProQuest		ProQuest:1819105	0276-0045			Unique_Item_Requests	1	1	0
+Science	The American Association for the Advancement of Science		ProQuest		ProQuest:1256	0036-8075	1095-9203		Total_Item_Requests	1	1	0
+Science	The American Association for the Advancement of Science		ProQuest		ProQuest:1256	0036-8075	1095-9203		Unique_Item_Requests	1	1	0
+Sciences	New York Academy of Sciences		ProQuest		ProQuest:47554	0036-861X	2326-1951		Total_Item_Requests	1	1	0
+Sciences	New York Academy of Sciences		ProQuest		ProQuest:47554	0036-861X	2326-1951		Unique_Item_Requests	1	1	0
+Scitech Book News	Copyright Clearance Center		ProQuest		ProQuest:29698	0196-6006			Total_Item_Requests	3	3	0
+Scitech Book News	Copyright Clearance Center		ProQuest		ProQuest:29698	0196-6006			Unique_Item_Requests	2	2	0
+Southern Folklore	University Press of Kentucky		ProQuest		ProQuest:1819820	0899-594X			Total_Item_Requests	1	1	0
+Southern Folklore	University Press of Kentucky		ProQuest		ProQuest:1819820	0899-594X			Unique_Item_Requests	1	1	0
+The American Review of Canadian Studies	Taylor  Francis Inc		ProQuest		ProQuest:48438	0272-2011	1943-9954		Total_Item_Requests	1	1	0
+The American Review of Canadian Studies	Taylor  Francis Inc		ProQuest		ProQuest:48438	0272-2011	1943-9954		Unique_Item_Requests	1	1	0
+The Canadian Journal of Native Studies	The Canadian Journal of Native Studies		ProQuest		ProQuest:44018	0715-3244			Total_Item_Requests	4	4	0
+The Canadian Journal of Native Studies	The Canadian Journal of Native Studies		ProQuest		ProQuest:44018	0715-3244			Unique_Item_Requests	1	1	0
+The Canadian Music Educator	Canadian Music Educators Association		ProQuest		ProQuest:45770	0008-4549			Total_Item_Requests	2	2	0
+The Canadian Music Educator	Canadian Music Educators Association		ProQuest		ProQuest:45770	0008-4549			Unique_Item_Requests	2	2	0
+The Canadian Review of Sociology	Canadian Sociology and Anthropology Assn		ProQuest		ProQuest:39159	1755-6171	1755-618X		Total_Item_Requests	1	1	0
+The Canadian Review of Sociology	Canadian Sociology and Anthropology Assn		ProQuest		ProQuest:39159	1755-6171	1755-618X		Unique_Item_Requests	1	1	0
+The Economist	The Economist Intelligence Unit		ProQuest		ProQuest:41716	0013-0613	1476-8860		Total_Item_Requests	11	11	0
+The Economist	The Economist Intelligence Unit		ProQuest		ProQuest:41716	0013-0613	1476-8860		Unique_Item_Requests	10	10	0
+The International Journal of PsychoAnalysis	Taylor  Francis Ltd		ProQuest		ProQuest:1818729	0020-7578			Total_Item_Requests	1	1	0
+The International Journal of PsychoAnalysis	Taylor  Francis Ltd		ProQuest		ProQuest:1818729	0020-7578			Unique_Item_Requests	1	1	0
+The Journal of Business Strategy	Emerald Group Publishing Limited		ProQuest		ProQuest:1821485	0275-6668	2052-1197		Total_Item_Requests	1	1	0
+The Journal of Business Strategy	Emerald Group Publishing Limited		ProQuest		ProQuest:1821485	0275-6668	2052-1197		Unique_Item_Requests	1	1	0
+The Journal of Military History	Society for Military History		ProQuest		ProQuest:1819215	0899-3718	1543-7795		Total_Item_Requests	2	2	0
+The Journal of Military History	Society for Military History		ProQuest		ProQuest:1819215	0899-3718	1543-7795		Unique_Item_Requests	1	1	0
+United States Naval Institute Proceedings	United States Naval Institute		ProQuest		ProQuest:41313	0041-798X			Total_Item_Requests	2	2	0
+United States Naval Institute Proceedings	United States Naval Institute		ProQuest		ProQuest:41313	0041-798X			Unique_Item_Requests	2	2	0
+Urban History Review  Revue dHistoire Urbaine	University of Toronto Press		ProQuest		ProQuest:1817857	0703-0428	1918-5138		Total_Item_Requests	1	1	0
+Urban History Review  Revue dHistoire Urbaine	University of Toronto Press		ProQuest		ProQuest:1817857	0703-0428	1918-5138		Unique_Item_Requests	1	1	0
+Water Science  Technology	IWA Publishing		ProQuest		ProQuest:2044521	1606-9749	1607-0798		Total_Item_Requests	2	2	0
+Water Science  Technology	IWA Publishing		ProQuest		ProQuest:2044521	1606-9749	1607-0798		Unique_Item_Requests	1	1	0
+Youth and Society	Sage Publications Inc		ProQuest		ProQuest:1820876	0044-118X	1552-8499		Total_Item_Requests	1	1	0
+Youth and Society	Sage Publications Inc		ProQuest		ProQuest:1820876	0044-118X	1552-8499		Unique_Item_Requests	1	1	0

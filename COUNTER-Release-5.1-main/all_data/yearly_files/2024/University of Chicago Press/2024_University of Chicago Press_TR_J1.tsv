@@ -1,0 +1,28 @@
+Report_Name	Journal Requests (Excluding OA_Gold)
+Report_ID	TR_J1
+Release	5
+Institution_Name	University of Prince Edward Island
+Institution_ID	uchicago:117870
+Metric_Types	Total_Item_Requests; Unique_Item_Requests
+Report_Filters	Data_Type=Journal; Access_Method=Regular; Access_Type=Controlled
+Report_Attributes	
+Exceptions	3031: Usage Not Ready for Requested Dates (Requested data between 2024-02-01 and 2024-02-29. However only data between 2018-11-01 and 2024-01-31 exists.)
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-01T06:06:06Z
+Created_By	Atypon Systems LLC.
+
+Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	Print_ISSN	Online_ISSN	URI	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+Comparative Education Review	The University of Chicago Press		University of Chicago Press Journals	10.1086/cer	uchicago:cer	0010-4086	1545-701X		Total_Item_Requests	3	3	0
+Comparative Education Review	The University of Chicago Press		University of Chicago Press Journals	10.1086/cer	uchicago:cer	0010-4086	1545-701X		Unique_Item_Requests	2	2	0
+Current Anthropology	The University of Chicago Press		University of Chicago Press Journals	10.1086/ca	uchicago:ca	0011-3204	1537-5382		Total_Item_Requests	1	1	0
+Current Anthropology	The University of Chicago Press		University of Chicago Press Journals	10.1086/ca	uchicago:ca	0011-3204	1537-5382		Unique_Item_Requests	1	1	0
+Environmental History	The University of Chicago Press		University of Chicago Press Journals	10.1086/eh	uchicago:eh	1084-5453	1930-8892		Total_Item_Requests	1	1	0
+Environmental History	The University of Chicago Press		University of Chicago Press Journals	10.1086/eh	uchicago:eh	1084-5453	1930-8892		Unique_Item_Requests	1	1	0
+Journal of the Society for Social Work and Research	The University of Chicago Press		University of Chicago Press Journals	10.1086/jsswr	uchicago:jsswr	2334-2315	1948-822X		Total_Item_Requests	2	2	0
+Journal of the Society for Social Work and Research	The University of Chicago Press		University of Chicago Press Journals	10.1086/jsswr	uchicago:jsswr	2334-2315	1948-822X		Unique_Item_Requests	2	2	0
+The American Naturalist	The University of Chicago Press		University of Chicago Press Journals	10.1086/an	uchicago:an	0003-0147	1537-5323		Total_Item_Requests	2	2	0
+The American Naturalist	The University of Chicago Press		University of Chicago Press Journals	10.1086/an	uchicago:an	0003-0147	1537-5323		Unique_Item_Requests	2	2	0
+The British Journal for the Philosophy of Science	The University of Chicago Press		University of Chicago Press Journals	10.1086/bjps	uchicago:bjps	0007-0882	1464-3537		Total_Item_Requests	1	1	0
+The British Journal for the Philosophy of Science	The University of Chicago Press		University of Chicago Press Journals	10.1086/bjps	uchicago:bjps	0007-0882	1464-3537		Unique_Item_Requests	1	1	0
+The Elementary School Journal	The University of Chicago Press		University of Chicago Press Journals	10.1086/esj	uchicago:esj	0013-5984	1554-8279		Total_Item_Requests	2	2	0
+The Elementary School Journal	The University of Chicago Press		University of Chicago Press Journals	10.1086/esj	uchicago:esj	0013-5984	1554-8279		Unique_Item_Requests	2	2	0

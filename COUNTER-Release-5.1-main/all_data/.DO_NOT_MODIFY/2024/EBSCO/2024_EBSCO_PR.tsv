@@ -1,0 +1,41 @@
+Report_Name	Platform Master Report
+Report_ID	PR
+Release	5
+Institution_Name	UNIVERSITY OF PRINCE EDWARD ISLAND
+Institution_ID	EBSCOhost:uprince
+Metric_Types	
+Report_Filters	
+Report_Attributes	Attributes_To_Show=Data_Type|Access_Method
+Exceptions	3040: Partial Data Returned (The request could not be fulfilled in its entirety, since some of the requested data is missing. Usage has been returned for months where usage data exists.); 3031: Usage Not Ready for Requested Dates (Service has not yet processed the usage for one or more of the requested months)
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-01T13:41:49Z
+Created_By	EBSCO Information Services
+
+Platform	Data_Type	Access_Method	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+EBSCOhost	Book	Regular	Total_Item_Investigations	4720	4720	0
+EBSCOhost	Book	Regular	Total_Item_Requests	1689	1689	0
+EBSCOhost	Book	Regular	Unique_Item_Investigations	3237	3237	0
+EBSCOhost	Book	Regular	Unique_Item_Requests	1186	1186	0
+EBSCOhost	Book	Regular	Unique_Title_Investigations	3206	3206	0
+EBSCOhost	Book	Regular	Unique_Title_Requests	1186	1186	0
+EBSCOhost	Database	Regular	Total_Item_Investigations	510	510	0
+EBSCOhost	Database	Regular	Total_Item_Requests	1	1	0
+EBSCOhost	Database	Regular	Unique_Item_Investigations	441	441	0
+EBSCOhost	Database	Regular	Unique_Item_Requests	1	1	0
+EBSCOhost	Journal	Regular	Total_Item_Investigations	15834	15834	0
+EBSCOhost	Journal	Regular	Total_Item_Requests	3993	3993	0
+EBSCOhost	Journal	Regular	Unique_Item_Investigations	12387	12387	0
+EBSCOhost	Journal	Regular	Unique_Item_Requests	2995	2995	0
+EBSCOhost	Multimedia	Regular	Total_Item_Investigations	1	1	0
+EBSCOhost	Multimedia	Regular	Unique_Item_Investigations	1	1	0
+EBSCOhost	Newspaper_or_Newsletter	Regular	Total_Item_Investigations	248	248	0
+EBSCOhost	Newspaper_or_Newsletter	Regular	Total_Item_Requests	41	41	0
+EBSCOhost	Newspaper_or_Newsletter	Regular	Unique_Item_Investigations	206	206	0
+EBSCOhost	Newspaper_or_Newsletter	Regular	Unique_Item_Requests	36	36	0
+EBSCOhost	Other	Regular	Total_Item_Investigations	2700	2700	0
+EBSCOhost	Other	Regular	Total_Item_Requests	77	77	0
+EBSCOhost	Other	Regular	Unique_Item_Investigations	2315	2315	0
+EBSCOhost	Other	Regular	Unique_Item_Requests	68	68	0
+EBSCOhost	Platform	Regular	Searches_Platform	28197	28197	0
+EBSCOhost	Report	Regular	Total_Item_Investigations	1	1	0
+EBSCOhost	Report	Regular	Unique_Item_Investigations	1	1	0

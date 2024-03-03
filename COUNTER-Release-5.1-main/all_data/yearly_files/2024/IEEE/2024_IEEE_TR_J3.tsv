@@ -1,0 +1,214 @@
+Report_Name	Journal Usage by Access Type
+Report_ID	TR_J3
+Release	5
+Institution_Name	University of Prince Edward Island
+Institution_ID	ieee:4172671
+Metric_Types	Total_Item_Investigations; Total_Item_Requests; Unique_Item_Investigations; Unique_Item_Requests
+Report_Filters	Data_Type=Journal; Access_Method=Regular
+Report_Attributes	
+Exceptions	
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-01T13:46:04Z
+Created_By	MPS Limited
+
+Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	Print_ISSN	Online_ISSN	URI	Access_Type	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+Annals of the History of Computing	IEEE		IEEE Xplore	10.1109/AHC.5488650		0164-1239	0000-0000	http://www.ieee.org/	Controlled	Unique_Item_Investigations	1	1	0
+Annals of the History of Computing	IEEE		IEEE Xplore	10.1109/AHC.5488650		0164-1239	0000-0000	http://www.ieee.org/	Controlled	Total_Item_Investigations	1	1	0
+Chinese Journal of Electrical Engineering	CMP		IEEE Xplore	10.1111/ieee111		2096-1529	0000-0000	http://www.ieee.org/	OA_Gold	Unique_Item_Requests	1	1	0
+Chinese Journal of Electrical Engineering	CMP		IEEE Xplore	10.1111/ieee111		2096-1529	0000-0000	http://www.ieee.org/	OA_Gold	Total_Item_Requests	2	2	0
+Chinese Journal of Electrical Engineering	CMP		IEEE Xplore	10.1111/ieee111		2096-1529	0000-0000	http://www.ieee.org/	OA_Gold	Unique_Item_Investigations	1	1	0
+Chinese Journal of Electrical Engineering	CMP		IEEE Xplore	10.1111/ieee111		2096-1529	0000-0000	http://www.ieee.org/	OA_Gold	Total_Item_Investigations	2	2	0
+IEEE Access	IEEE		IEEE Xplore	10.1109/Access.6287639		0000-0000	2169-3536	http://www.ieee.org/	OA_Gold	Unique_Item_Requests	39	39	0
+IEEE Access	IEEE		IEEE Xplore	10.1109/Access.6287639		0000-0000	2169-3536	http://www.ieee.org/	OA_Gold	Total_Item_Requests	43	43	0
+IEEE Access	IEEE		IEEE Xplore	10.1109/Access.6287639		0000-0000	2169-3536	http://www.ieee.org/	OA_Gold	Unique_Item_Investigations	62	62	0
+IEEE Access	IEEE		IEEE Xplore	10.1109/Access.6287639		0000-0000	2169-3536	http://www.ieee.org/	OA_Gold	Total_Item_Investigations	66	66	0
+IEEE Computer Graphics and Applications	IEEE		IEEE Xplore	10.1109/MCG.38		0272-1716	1558-1756	http://www.ieee.org/	Controlled	Unique_Item_Requests	5	5	0
+IEEE Computer Graphics and Applications	IEEE		IEEE Xplore	10.1109/MCG.38		0272-1716	1558-1756	http://www.ieee.org/	Controlled	Total_Item_Requests	7	7	0
+IEEE Computer Graphics and Applications	IEEE		IEEE Xplore	10.1109/MCG.38		0272-1716	1558-1756	http://www.ieee.org/	Controlled	Unique_Item_Investigations	8	8	0
+IEEE Computer Graphics and Applications	IEEE		IEEE Xplore	10.1109/MCG.38		0272-1716	1558-1756	http://www.ieee.org/	Controlled	Total_Item_Investigations	9	9	0
+IEEE Engineering in Medicine and Biology Magazine	IEEE		IEEE Xplore	10.1109/MEMB.51		0739-5175	1937-4186	http://www.ieee.org/	Controlled	Unique_Item_Requests	1	1	0
+IEEE Engineering in Medicine and Biology Magazine	IEEE		IEEE Xplore	10.1109/MEMB.51		0739-5175	1937-4186	http://www.ieee.org/	Controlled	Total_Item_Requests	2	2	0
+IEEE Engineering in Medicine and Biology Magazine	IEEE		IEEE Xplore	10.1109/MEMB.51		0739-5175	1937-4186	http://www.ieee.org/	Controlled	Unique_Item_Investigations	1	1	0
+IEEE Engineering in Medicine and Biology Magazine	IEEE		IEEE Xplore	10.1109/MEMB.51		0739-5175	1937-4186	http://www.ieee.org/	Controlled	Total_Item_Investigations	2	2	0
+IEEE Geoscience and Remote Sensing Letters	IEEE		IEEE Xplore	10.1109/LGRS.8859		1545-598X	1558-0571	http://www.ieee.org/	Controlled	Unique_Item_Requests	1	1	0
+IEEE Geoscience and Remote Sensing Letters	IEEE		IEEE Xplore	10.1109/LGRS.8859		1545-598X	1558-0571	http://www.ieee.org/	Controlled	Total_Item_Requests	1	1	0
+IEEE Geoscience and Remote Sensing Letters	IEEE		IEEE Xplore	10.1109/LGRS.8859		1545-598X	1558-0571	http://www.ieee.org/	Controlled	Unique_Item_Investigations	1	1	0
+IEEE Geoscience and Remote Sensing Letters	IEEE		IEEE Xplore	10.1109/LGRS.8859		1545-598X	1558-0571	http://www.ieee.org/	Controlled	Total_Item_Investigations	1	1	0
+IEEE Intelligent Systems	IEEE		IEEE Xplore	10.1109/MIS.9670		1541-1672	1941-1294	http://www.ieee.org/	Controlled	Unique_Item_Requests	1	1	0
+IEEE Intelligent Systems	IEEE		IEEE Xplore	10.1109/MIS.9670		1541-1672	1941-1294	http://www.ieee.org/	Controlled	Total_Item_Requests	1	1	0
+IEEE Intelligent Systems	IEEE		IEEE Xplore	10.1109/MIS.9670		1541-1672	1941-1294	http://www.ieee.org/	Controlled	Unique_Item_Investigations	2	2	0
+IEEE Intelligent Systems	IEEE		IEEE Xplore	10.1109/MIS.9670		1541-1672	1941-1294	http://www.ieee.org/	Controlled	Total_Item_Investigations	2	2	0
+IEEE Internet of Things Journal	IEEE		IEEE Xplore	10.1109/JIoT.6488907		0000-0000	2327-4662	http://www.ieee.org/	Controlled	Unique_Item_Requests	1	1	0
+IEEE Internet of Things Journal	IEEE		IEEE Xplore	10.1109/JIoT.6488907		0000-0000	2327-4662	http://www.ieee.org/	Controlled	Total_Item_Requests	1	1	0
+IEEE Internet of Things Journal	IEEE		IEEE Xplore	10.1109/JIoT.6488907		0000-0000	2327-4662	http://www.ieee.org/	Controlled	Unique_Item_Investigations	1	1	0
+IEEE Internet of Things Journal	IEEE		IEEE Xplore	10.1109/JIoT.6488907		0000-0000	2327-4662	http://www.ieee.org/	Controlled	Total_Item_Investigations	1	1	0
+IEEE Internet of Things Journal	IEEE		IEEE Xplore	10.1109/JIoT.6488907		0000-0000	2327-4662	http://www.ieee.org/	OA_Gold	Unique_Item_Requests	1	1	0
+IEEE Internet of Things Journal	IEEE		IEEE Xplore	10.1109/JIoT.6488907		0000-0000	2327-4662	http://www.ieee.org/	OA_Gold	Total_Item_Requests	1	1	0
+IEEE Internet of Things Journal	IEEE		IEEE Xplore	10.1109/JIoT.6488907		0000-0000	2327-4662	http://www.ieee.org/	OA_Gold	Unique_Item_Investigations	1	1	0
+IEEE Internet of Things Journal	IEEE		IEEE Xplore	10.1109/JIoT.6488907		0000-0000	2327-4662	http://www.ieee.org/	OA_Gold	Total_Item_Investigations	1	1	0
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing	IEEE		IEEE Xplore	10.1109/JSTARS.4609443		1939-1404	2151-1535	http://www.ieee.org/	Controlled	Unique_Item_Requests	1	1	0
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing	IEEE		IEEE Xplore	10.1109/JSTARS.4609443		1939-1404	2151-1535	http://www.ieee.org/	Controlled	Total_Item_Requests	2	2	0
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing	IEEE		IEEE Xplore	10.1109/JSTARS.4609443		1939-1404	2151-1535	http://www.ieee.org/	Controlled	Unique_Item_Investigations	2	2	0
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing	IEEE		IEEE Xplore	10.1109/JSTARS.4609443		1939-1404	2151-1535	http://www.ieee.org/	Controlled	Total_Item_Investigations	4	4	0
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing	IEEE		IEEE Xplore	10.1109/JSTARS.4609443		1939-1404	2151-1535	http://www.ieee.org/	OA_Gold	Unique_Item_Investigations	1	1	0
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing	IEEE		IEEE Xplore	10.1109/JSTARS.4609443		1939-1404	2151-1535	http://www.ieee.org/	OA_Gold	Total_Item_Investigations	1	1	0
+IEEE Magnetics Letters	IEEE		IEEE Xplore	10.1109/LMAG.5165412		1949-307X	1949-3088	http://www.ieee.org/	Controlled	Unique_Item_Requests	1	1	0
+IEEE Magnetics Letters	IEEE		IEEE Xplore	10.1109/LMAG.5165412		1949-307X	1949-3088	http://www.ieee.org/	Controlled	Total_Item_Requests	1	1	0
+IEEE Magnetics Letters	IEEE		IEEE Xplore	10.1109/LMAG.5165412		1949-307X	1949-3088	http://www.ieee.org/	Controlled	Unique_Item_Investigations	2	2	0
+IEEE Magnetics Letters	IEEE		IEEE Xplore	10.1109/LMAG.5165412		1949-307X	1949-3088	http://www.ieee.org/	Controlled	Total_Item_Investigations	2	2	0
+IEEE Power and Energy Magazine	IEEE		IEEE Xplore	10.1109/MPAE.8014		1540-7977	1558-4216	http://www.ieee.org/	Controlled	Unique_Item_Requests	1	1	0
+IEEE Power and Energy Magazine	IEEE		IEEE Xplore	10.1109/MPAE.8014		1540-7977	1558-4216	http://www.ieee.org/	Controlled	Total_Item_Requests	4	4	0
+IEEE Power and Energy Magazine	IEEE		IEEE Xplore	10.1109/MPAE.8014		1540-7977	1558-4216	http://www.ieee.org/	Controlled	Unique_Item_Investigations	2	2	0
+IEEE Power and Energy Magazine	IEEE		IEEE Xplore	10.1109/MPAE.8014		1540-7977	1558-4216	http://www.ieee.org/	Controlled	Total_Item_Investigations	6	6	0
+IEEE Reviews in Biomedical Engineering	IEEE		IEEE Xplore	10.1109/RBME.4664312		1937-3333	1941-1189	http://www.ieee.org/	Controlled	Unique_Item_Requests	1	1	0
+IEEE Reviews in Biomedical Engineering	IEEE		IEEE Xplore	10.1109/RBME.4664312		1937-3333	1941-1189	http://www.ieee.org/	Controlled	Total_Item_Requests	1	1	0
+IEEE Reviews in Biomedical Engineering	IEEE		IEEE Xplore	10.1109/RBME.4664312		1937-3333	1941-1189	http://www.ieee.org/	Controlled	Unique_Item_Investigations	1	1	0
+IEEE Reviews in Biomedical Engineering	IEEE		IEEE Xplore	10.1109/RBME.4664312		1937-3333	1941-1189	http://www.ieee.org/	Controlled	Total_Item_Investigations	1	1	0
+IEEE Robotics and Automation Letters	IEEE		IEEE Xplore	10.1109/LRA.7083369		0000-0000	2377-3766	http://www.ieee.org/	Controlled	Unique_Item_Requests	1	1	0
+IEEE Robotics and Automation Letters	IEEE		IEEE Xplore	10.1109/LRA.7083369		0000-0000	2377-3766	http://www.ieee.org/	Controlled	Total_Item_Requests	2	2	0
+IEEE Robotics and Automation Letters	IEEE		IEEE Xplore	10.1109/LRA.7083369		0000-0000	2377-3766	http://www.ieee.org/	Controlled	Unique_Item_Investigations	2	2	0
+IEEE Robotics and Automation Letters	IEEE		IEEE Xplore	10.1109/LRA.7083369		0000-0000	2377-3766	http://www.ieee.org/	Controlled	Total_Item_Investigations	3	3	0
+IEEE Sensors Journal	IEEE		IEEE Xplore	10.1109/JSEN.7361		1530-437X	1558-1748	http://www.ieee.org/	Controlled	Unique_Item_Requests	3	3	0
+IEEE Sensors Journal	IEEE		IEEE Xplore	10.1109/JSEN.7361		1530-437X	1558-1748	http://www.ieee.org/	Controlled	Total_Item_Requests	6	6	0
+IEEE Sensors Journal	IEEE		IEEE Xplore	10.1109/JSEN.7361		1530-437X	1558-1748	http://www.ieee.org/	Controlled	Unique_Item_Investigations	8	8	0
+IEEE Sensors Journal	IEEE		IEEE Xplore	10.1109/JSEN.7361		1530-437X	1558-1748	http://www.ieee.org/	Controlled	Total_Item_Investigations	10	10	0
+IEEE Signal Processing Letters	IEEE		IEEE Xplore	10.1109/LSP.97		1070-9908	1558-2361	http://www.ieee.org/	Controlled	Unique_Item_Requests	2	2	0
+IEEE Signal Processing Letters	IEEE		IEEE Xplore	10.1109/LSP.97		1070-9908	1558-2361	http://www.ieee.org/	Controlled	Total_Item_Requests	2	2	0
+IEEE Signal Processing Letters	IEEE		IEEE Xplore	10.1109/LSP.97		1070-9908	1558-2361	http://www.ieee.org/	Controlled	Unique_Item_Investigations	2	2	0
+IEEE Signal Processing Letters	IEEE		IEEE Xplore	10.1109/LSP.97		1070-9908	1558-2361	http://www.ieee.org/	Controlled	Total_Item_Investigations	2	2	0
+IEEE Spectrum	IEEE		IEEE Xplore	10.1109/MSPEC.6		0018-9235	1939-9340	http://www.ieee.org/	Controlled	Unique_Item_Requests	1	1	0
+IEEE Spectrum	IEEE		IEEE Xplore	10.1109/MSPEC.6		0018-9235	1939-9340	http://www.ieee.org/	Controlled	Total_Item_Requests	1	1	0
+IEEE Spectrum	IEEE		IEEE Xplore	10.1109/MSPEC.6		0018-9235	1939-9340	http://www.ieee.org/	Controlled	Unique_Item_Investigations	1	1	0
+IEEE Spectrum	IEEE		IEEE Xplore	10.1109/MSPEC.6		0018-9235	1939-9340	http://www.ieee.org/	Controlled	Total_Item_Investigations	1	1	0
+IEEE Systems Journal	IEEE		IEEE Xplore	10.1109/JSYST.4267003		1932-8184	1937-9234	http://www.ieee.org/	Controlled	Unique_Item_Requests	1	1	0
+IEEE Systems Journal	IEEE		IEEE Xplore	10.1109/JSYST.4267003		1932-8184	1937-9234	http://www.ieee.org/	Controlled	Total_Item_Requests	6	6	0
+IEEE Systems Journal	IEEE		IEEE Xplore	10.1109/JSYST.4267003		1932-8184	1937-9234	http://www.ieee.org/	Controlled	Unique_Item_Investigations	6	6	0
+IEEE Systems Journal	IEEE		IEEE Xplore	10.1109/JSYST.4267003		1932-8184	1937-9234	http://www.ieee.org/	Controlled	Total_Item_Investigations	9	9	0
+IEEE Technology and Society Magazine	IEEE		IEEE Xplore	10.1109/MTAS.44		0278-0097	1937-416X	http://www.ieee.org/	Controlled	Unique_Item_Requests	3	3	0
+IEEE Technology and Society Magazine	IEEE		IEEE Xplore	10.1109/MTAS.44		0278-0097	1937-416X	http://www.ieee.org/	Controlled	Total_Item_Requests	3	3	0
+IEEE Technology and Society Magazine	IEEE		IEEE Xplore	10.1109/MTAS.44		0278-0097	1937-416X	http://www.ieee.org/	Controlled	Unique_Item_Investigations	4	4	0
+IEEE Technology and Society Magazine	IEEE		IEEE Xplore	10.1109/MTAS.44		0278-0097	1937-416X	http://www.ieee.org/	Controlled	Total_Item_Investigations	4	4	0
+IEEE Transactions on Autonomous Mental Development	IEEE		IEEE Xplore	10.1109/TAMD.4563672		1943-0604	1943-0612	http://www.ieee.org/	Controlled	Unique_Item_Requests	1	1	0
+IEEE Transactions on Autonomous Mental Development	IEEE		IEEE Xplore	10.1109/TAMD.4563672		1943-0604	1943-0612	http://www.ieee.org/	Controlled	Total_Item_Requests	1	1	0
+IEEE Transactions on Autonomous Mental Development	IEEE		IEEE Xplore	10.1109/TAMD.4563672		1943-0604	1943-0612	http://www.ieee.org/	Controlled	Unique_Item_Investigations	1	1	0
+IEEE Transactions on Autonomous Mental Development	IEEE		IEEE Xplore	10.1109/TAMD.4563672		1943-0604	1943-0612	http://www.ieee.org/	Controlled	Total_Item_Investigations	1	1	0
+IEEE Transactions on Biomedical Engineering	IEEE		IEEE Xplore	10.1109/TBME.10		0018-9294	1558-2531	http://www.ieee.org/	Controlled	Unique_Item_Requests	3	3	0
+IEEE Transactions on Biomedical Engineering	IEEE		IEEE Xplore	10.1109/TBME.10		0018-9294	1558-2531	http://www.ieee.org/	Controlled	Total_Item_Requests	5	5	0
+IEEE Transactions on Biomedical Engineering	IEEE		IEEE Xplore	10.1109/TBME.10		0018-9294	1558-2531	http://www.ieee.org/	Controlled	Unique_Item_Investigations	7	7	0
+IEEE Transactions on Biomedical Engineering	IEEE		IEEE Xplore	10.1109/TBME.10		0018-9294	1558-2531	http://www.ieee.org/	Controlled	Total_Item_Investigations	9	9	0
+IEEE Transactions on Biomedical Engineering	IEEE		IEEE Xplore	10.1109/TBME.10		0018-9294	1558-2531	http://www.ieee.org/	OA_Gold	Unique_Item_Requests	1	1	0
+IEEE Transactions on Biomedical Engineering	IEEE		IEEE Xplore	10.1109/TBME.10		0018-9294	1558-2531	http://www.ieee.org/	OA_Gold	Total_Item_Requests	1	1	0
+IEEE Transactions on Biomedical Engineering	IEEE		IEEE Xplore	10.1109/TBME.10		0018-9294	1558-2531	http://www.ieee.org/	OA_Gold	Unique_Item_Investigations	1	1	0
+IEEE Transactions on Biomedical Engineering	IEEE		IEEE Xplore	10.1109/TBME.10		0018-9294	1558-2531	http://www.ieee.org/	OA_Gold	Total_Item_Investigations	1	1	0
+IEEE Transactions on Computational Intelligence and AI in Games	IEEE		IEEE Xplore	10.1109/TCIAIG.4804728		1943-068X	1943-0698	http://www.ieee.org/	Controlled	Unique_Item_Requests	1	1	0
+IEEE Transactions on Computational Intelligence and AI in Games	IEEE		IEEE Xplore	10.1109/TCIAIG.4804728		1943-068X	1943-0698	http://www.ieee.org/	Controlled	Total_Item_Requests	1	1	0
+IEEE Transactions on Computational Intelligence and AI in Games	IEEE		IEEE Xplore	10.1109/TCIAIG.4804728		1943-068X	1943-0698	http://www.ieee.org/	Controlled	Unique_Item_Investigations	2	2	0
+IEEE Transactions on Computational Intelligence and AI in Games	IEEE		IEEE Xplore	10.1109/TCIAIG.4804728		1943-068X	1943-0698	http://www.ieee.org/	Controlled	Total_Item_Investigations	2	2	0
+IEEE Transactions on Education	IEEE		IEEE Xplore	10.1109/TE.13		0018-9359	1557-9638	http://www.ieee.org/	OA_Gold	Unique_Item_Requests	1	1	0
+IEEE Transactions on Education	IEEE		IEEE Xplore	10.1109/TE.13		0018-9359	1557-9638	http://www.ieee.org/	OA_Gold	Total_Item_Requests	2	2	0
+IEEE Transactions on Education	IEEE		IEEE Xplore	10.1109/TE.13		0018-9359	1557-9638	http://www.ieee.org/	OA_Gold	Unique_Item_Investigations	1	1	0
+IEEE Transactions on Education	IEEE		IEEE Xplore	10.1109/TE.13		0018-9359	1557-9638	http://www.ieee.org/	OA_Gold	Total_Item_Investigations	2	2	0
+IEEE Transactions on Electromagnetic Compatibility	IEEE		IEEE Xplore	10.1109/TEMC.15		0018-9375	1558-187X	http://www.ieee.org/	Controlled	Unique_Item_Requests	1	1	0
+IEEE Transactions on Electromagnetic Compatibility	IEEE		IEEE Xplore	10.1109/TEMC.15		0018-9375	1558-187X	http://www.ieee.org/	Controlled	Total_Item_Requests	1	1	0
+IEEE Transactions on Electromagnetic Compatibility	IEEE		IEEE Xplore	10.1109/TEMC.15		0018-9375	1558-187X	http://www.ieee.org/	Controlled	Unique_Item_Investigations	2	2	0
+IEEE Transactions on Electromagnetic Compatibility	IEEE		IEEE Xplore	10.1109/TEMC.15		0018-9375	1558-187X	http://www.ieee.org/	Controlled	Total_Item_Investigations	2	2	0
+IEEE Transactions on Engineering Management	IEEE		IEEE Xplore	10.1109/TEM.17		0018-9391	1558-0040	http://www.ieee.org/	Controlled	Unique_Item_Requests	3	3	0
+IEEE Transactions on Engineering Management	IEEE		IEEE Xplore	10.1109/TEM.17		0018-9391	1558-0040	http://www.ieee.org/	Controlled	Total_Item_Requests	3	3	0
+IEEE Transactions on Engineering Management	IEEE		IEEE Xplore	10.1109/TEM.17		0018-9391	1558-0040	http://www.ieee.org/	Controlled	Unique_Item_Investigations	6	6	0
+IEEE Transactions on Engineering Management	IEEE		IEEE Xplore	10.1109/TEM.17		0018-9391	1558-0040	http://www.ieee.org/	Controlled	Total_Item_Investigations	6	6	0
+IEEE Transactions on Evolutionary Computation	IEEE		IEEE Xplore	10.1109/TEVC.4235		1089-778X	1941-0026	http://www.ieee.org/	Controlled	Unique_Item_Requests	1	1	0
+IEEE Transactions on Evolutionary Computation	IEEE		IEEE Xplore	10.1109/TEVC.4235		1089-778X	1941-0026	http://www.ieee.org/	Controlled	Total_Item_Requests	1	1	0
+IEEE Transactions on Evolutionary Computation	IEEE		IEEE Xplore	10.1109/TEVC.4235		1089-778X	1941-0026	http://www.ieee.org/	Controlled	Unique_Item_Investigations	1	1	0
+IEEE Transactions on Evolutionary Computation	IEEE		IEEE Xplore	10.1109/TEVC.4235		1089-778X	1941-0026	http://www.ieee.org/	Controlled	Total_Item_Investigations	1	1	0
+IEEE Transactions on Fuzzy Systems	IEEE		IEEE Xplore	10.1109/TFUZZ.91		1063-6706	1941-0034	http://www.ieee.org/	Controlled	Unique_Item_Requests	1	1	0
+IEEE Transactions on Fuzzy Systems	IEEE		IEEE Xplore	10.1109/TFUZZ.91		1063-6706	1941-0034	http://www.ieee.org/	Controlled	Total_Item_Requests	1	1	0
+IEEE Transactions on Fuzzy Systems	IEEE		IEEE Xplore	10.1109/TFUZZ.91		1063-6706	1941-0034	http://www.ieee.org/	Controlled	Unique_Item_Investigations	1	1	0
+IEEE Transactions on Fuzzy Systems	IEEE		IEEE Xplore	10.1109/TFUZZ.91		1063-6706	1941-0034	http://www.ieee.org/	Controlled	Total_Item_Investigations	1	1	0
+IEEE Transactions on Geoscience and Remote Sensing	IEEE		IEEE Xplore	10.1109/TGRS.36		0196-2892	1558-0644	http://www.ieee.org/	Controlled	Unique_Item_Requests	2	2	0
+IEEE Transactions on Geoscience and Remote Sensing	IEEE		IEEE Xplore	10.1109/TGRS.36		0196-2892	1558-0644	http://www.ieee.org/	Controlled	Total_Item_Requests	9	9	0
+IEEE Transactions on Geoscience and Remote Sensing	IEEE		IEEE Xplore	10.1109/TGRS.36		0196-2892	1558-0644	http://www.ieee.org/	Controlled	Unique_Item_Investigations	6	6	0
+IEEE Transactions on Geoscience and Remote Sensing	IEEE		IEEE Xplore	10.1109/TGRS.36		0196-2892	1558-0644	http://www.ieee.org/	Controlled	Total_Item_Investigations	13	13	0
+IEEE Transactions on Geoscience and Remote Sensing	IEEE		IEEE Xplore	10.1109/TGRS.36		0196-2892	1558-0644	http://www.ieee.org/	OA_Gold	Unique_Item_Requests	5	5	0
+IEEE Transactions on Geoscience and Remote Sensing	IEEE		IEEE Xplore	10.1109/TGRS.36		0196-2892	1558-0644	http://www.ieee.org/	OA_Gold	Total_Item_Requests	8	8	0
+IEEE Transactions on Geoscience and Remote Sensing	IEEE		IEEE Xplore	10.1109/TGRS.36		0196-2892	1558-0644	http://www.ieee.org/	OA_Gold	Unique_Item_Investigations	12	12	0
+IEEE Transactions on Geoscience and Remote Sensing	IEEE		IEEE Xplore	10.1109/TGRS.36		0196-2892	1558-0644	http://www.ieee.org/	OA_Gold	Total_Item_Investigations	12	12	0
+IEEE Transactions on Industrial Electronics	IEEE		IEEE Xplore	10.1109/TIE.41		0278-0046	1557-9948	http://www.ieee.org/	Controlled	Unique_Item_Requests	3	3	0
+IEEE Transactions on Industrial Electronics	IEEE		IEEE Xplore	10.1109/TIE.41		0278-0046	1557-9948	http://www.ieee.org/	Controlled	Total_Item_Requests	4	4	0
+IEEE Transactions on Industrial Electronics	IEEE		IEEE Xplore	10.1109/TIE.41		0278-0046	1557-9948	http://www.ieee.org/	Controlled	Unique_Item_Investigations	5	5	0
+IEEE Transactions on Industrial Electronics	IEEE		IEEE Xplore	10.1109/TIE.41		0278-0046	1557-9948	http://www.ieee.org/	Controlled	Total_Item_Investigations	6	6	0
+IEEE Transactions on Industry Applications	IEEE		IEEE Xplore	10.1109/TIA.28		0093-9994	1939-9367	http://www.ieee.org/	Controlled	Unique_Item_Requests	1	1	0
+IEEE Transactions on Industry Applications	IEEE		IEEE Xplore	10.1109/TIA.28		0093-9994	1939-9367	http://www.ieee.org/	Controlled	Total_Item_Requests	2	2	0
+IEEE Transactions on Industry Applications	IEEE		IEEE Xplore	10.1109/TIA.28		0093-9994	1939-9367	http://www.ieee.org/	Controlled	Unique_Item_Investigations	2	2	0
+IEEE Transactions on Industry Applications	IEEE		IEEE Xplore	10.1109/TIA.28		0093-9994	1939-9367	http://www.ieee.org/	Controlled	Total_Item_Investigations	3	3	0
+IEEE Transactions on Information Forensics and Security	IEEE		IEEE Xplore	10.1109/TIFS.10206		1556-6013	1556-6021	http://www.ieee.org/	Controlled	Unique_Item_Requests	1	1	0
+IEEE Transactions on Information Forensics and Security	IEEE		IEEE Xplore	10.1109/TIFS.10206		1556-6013	1556-6021	http://www.ieee.org/	Controlled	Total_Item_Requests	1	1	0
+IEEE Transactions on Information Forensics and Security	IEEE		IEEE Xplore	10.1109/TIFS.10206		1556-6013	1556-6021	http://www.ieee.org/	Controlled	Unique_Item_Investigations	2	2	0
+IEEE Transactions on Information Forensics and Security	IEEE		IEEE Xplore	10.1109/TIFS.10206		1556-6013	1556-6021	http://www.ieee.org/	Controlled	Total_Item_Investigations	2	2	0
+IEEE Transactions on Information Theory	IEEE		IEEE Xplore	10.1109/TIT.18		0018-9448	1557-9654	http://www.ieee.org/	Controlled	Unique_Item_Requests	2	2	0
+IEEE Transactions on Information Theory	IEEE		IEEE Xplore	10.1109/TIT.18		0018-9448	1557-9654	http://www.ieee.org/	Controlled	Total_Item_Requests	3	3	0
+IEEE Transactions on Information Theory	IEEE		IEEE Xplore	10.1109/TIT.18		0018-9448	1557-9654	http://www.ieee.org/	Controlled	Unique_Item_Investigations	2	2	0
+IEEE Transactions on Information Theory	IEEE		IEEE Xplore	10.1109/TIT.18		0018-9448	1557-9654	http://www.ieee.org/	Controlled	Total_Item_Investigations	3	3	0
+IEEE Transactions on Intelligent Transportation Systems	IEEE		IEEE Xplore	10.1109/TITS.6979		1524-9050	1558-0016	http://www.ieee.org/	Controlled	Unique_Item_Requests	2	2	0
+IEEE Transactions on Intelligent Transportation Systems	IEEE		IEEE Xplore	10.1109/TITS.6979		1524-9050	1558-0016	http://www.ieee.org/	Controlled	Total_Item_Requests	3	3	0
+IEEE Transactions on Intelligent Transportation Systems	IEEE		IEEE Xplore	10.1109/TITS.6979		1524-9050	1558-0016	http://www.ieee.org/	Controlled	Unique_Item_Investigations	2	2	0
+IEEE Transactions on Intelligent Transportation Systems	IEEE		IEEE Xplore	10.1109/TITS.6979		1524-9050	1558-0016	http://www.ieee.org/	Controlled	Total_Item_Investigations	3	3	0
+IEEE Transactions on Learning Technologies	IEEE		IEEE Xplore	10.1109/TLT.4620076		0000-0000	1939-1382	http://www.ieee.org/	Controlled	Unique_Item_Requests	2	2	0
+IEEE Transactions on Learning Technologies	IEEE		IEEE Xplore	10.1109/TLT.4620076		0000-0000	1939-1382	http://www.ieee.org/	Controlled	Total_Item_Requests	3	3	0
+IEEE Transactions on Learning Technologies	IEEE		IEEE Xplore	10.1109/TLT.4620076		0000-0000	1939-1382	http://www.ieee.org/	Controlled	Unique_Item_Investigations	3	3	0
+IEEE Transactions on Learning Technologies	IEEE		IEEE Xplore	10.1109/TLT.4620076		0000-0000	1939-1382	http://www.ieee.org/	Controlled	Total_Item_Investigations	4	4	0
+IEEE Transactions on Mobile Computing	IEEE		IEEE Xplore	10.1109/TMC.7755		1536-1233	1558-0660	http://www.ieee.org/	Controlled	Unique_Item_Requests	1	1	0
+IEEE Transactions on Mobile Computing	IEEE		IEEE Xplore	10.1109/TMC.7755		1536-1233	1558-0660	http://www.ieee.org/	Controlled	Total_Item_Requests	1	1	0
+IEEE Transactions on Mobile Computing	IEEE		IEEE Xplore	10.1109/TMC.7755		1536-1233	1558-0660	http://www.ieee.org/	Controlled	Unique_Item_Investigations	3	3	0
+IEEE Transactions on Mobile Computing	IEEE		IEEE Xplore	10.1109/TMC.7755		1536-1233	1558-0660	http://www.ieee.org/	Controlled	Total_Item_Investigations	3	3	0
+IEEE Transactions on Neural Networks and Learning Systems	IEEE		IEEE Xplore	10.1109/TNNLS.5962385		2162-237X	2162-2388	http://www.ieee.org/	Controlled	Unique_Item_Requests	2	2	0
+IEEE Transactions on Neural Networks and Learning Systems	IEEE		IEEE Xplore	10.1109/TNNLS.5962385		2162-237X	2162-2388	http://www.ieee.org/	Controlled	Total_Item_Requests	2	2	0
+IEEE Transactions on Neural Networks and Learning Systems	IEEE		IEEE Xplore	10.1109/TNNLS.5962385		2162-237X	2162-2388	http://www.ieee.org/	Controlled	Unique_Item_Investigations	2	2	0
+IEEE Transactions on Neural Networks and Learning Systems	IEEE		IEEE Xplore	10.1109/TNNLS.5962385		2162-237X	2162-2388	http://www.ieee.org/	Controlled	Total_Item_Investigations	2	2	0
+IEEE Transactions on Pattern Analysis and Machine Intelligence	IEEE		IEEE Xplore	10.1109/TPAMI.34		0162-8828	1939-3539	http://www.ieee.org/	Controlled	Unique_Item_Requests	1	1	0
+IEEE Transactions on Pattern Analysis and Machine Intelligence	IEEE		IEEE Xplore	10.1109/TPAMI.34		0162-8828	1939-3539	http://www.ieee.org/	Controlled	Total_Item_Requests	1	1	0
+IEEE Transactions on Pattern Analysis and Machine Intelligence	IEEE		IEEE Xplore	10.1109/TPAMI.34		0162-8828	1939-3539	http://www.ieee.org/	Controlled	Unique_Item_Investigations	2	2	0
+IEEE Transactions on Pattern Analysis and Machine Intelligence	IEEE		IEEE Xplore	10.1109/TPAMI.34		0162-8828	1939-3539	http://www.ieee.org/	Controlled	Total_Item_Investigations	2	2	0
+IEEE Transactions on Power Delivery	IEEE		IEEE Xplore	10.1109/TPWRD.61		0885-8977	1937-4208	http://www.ieee.org/	Controlled	Unique_Item_Requests	1	1	0
+IEEE Transactions on Power Delivery	IEEE		IEEE Xplore	10.1109/TPWRD.61		0885-8977	1937-4208	http://www.ieee.org/	Controlled	Total_Item_Requests	2	2	0
+IEEE Transactions on Power Delivery	IEEE		IEEE Xplore	10.1109/TPWRD.61		0885-8977	1937-4208	http://www.ieee.org/	Controlled	Unique_Item_Investigations	2	2	0
+IEEE Transactions on Power Delivery	IEEE		IEEE Xplore	10.1109/TPWRD.61		0885-8977	1937-4208	http://www.ieee.org/	Controlled	Total_Item_Investigations	3	3	0
+IEEE Transactions on Power Systems	IEEE		IEEE Xplore	10.1109/TPWRS.59		0885-8950	1558-0679	http://www.ieee.org/	Controlled	Unique_Item_Requests	1	1	0
+IEEE Transactions on Power Systems	IEEE		IEEE Xplore	10.1109/TPWRS.59		0885-8950	1558-0679	http://www.ieee.org/	Controlled	Total_Item_Requests	1	1	0
+IEEE Transactions on Power Systems	IEEE		IEEE Xplore	10.1109/TPWRS.59		0885-8950	1558-0679	http://www.ieee.org/	Controlled	Unique_Item_Investigations	1	1	0
+IEEE Transactions on Power Systems	IEEE		IEEE Xplore	10.1109/TPWRS.59		0885-8950	1558-0679	http://www.ieee.org/	Controlled	Total_Item_Investigations	1	1	0
+IEEE Transactions on Reliability	IEEE		IEEE Xplore	10.1109/TR.24		0018-9529	1558-1721	http://www.ieee.org/	Controlled	Unique_Item_Requests	1	1	0
+IEEE Transactions on Reliability	IEEE		IEEE Xplore	10.1109/TR.24		0018-9529	1558-1721	http://www.ieee.org/	Controlled	Total_Item_Requests	1	1	0
+IEEE Transactions on Reliability	IEEE		IEEE Xplore	10.1109/TR.24		0018-9529	1558-1721	http://www.ieee.org/	Controlled	Unique_Item_Investigations	2	2	0
+IEEE Transactions on Reliability	IEEE		IEEE Xplore	10.1109/TR.24		0018-9529	1558-1721	http://www.ieee.org/	Controlled	Total_Item_Investigations	2	2	0
+IEEE Transactions on Smart Grid	IEEE		IEEE Xplore	10.1109/TSG.5165411		1949-3053	1949-3061	http://www.ieee.org/	Controlled	Unique_Item_Requests	2	2	0
+IEEE Transactions on Smart Grid	IEEE		IEEE Xplore	10.1109/TSG.5165411		1949-3053	1949-3061	http://www.ieee.org/	Controlled	Total_Item_Requests	4	4	0
+IEEE Transactions on Smart Grid	IEEE		IEEE Xplore	10.1109/TSG.5165411		1949-3053	1949-3061	http://www.ieee.org/	Controlled	Unique_Item_Investigations	4	4	0
+IEEE Transactions on Smart Grid	IEEE		IEEE Xplore	10.1109/TSG.5165411		1949-3053	1949-3061	http://www.ieee.org/	Controlled	Total_Item_Investigations	6	6	0
+IEEE Transactions on Systems, Man, and Cybernetics	IEEE		IEEE Xplore	10.1109/TSMC.21		0018-9472	2168-2909	http://www.ieee.org/	Controlled	Unique_Item_Requests	1	1	0
+IEEE Transactions on Systems, Man, and Cybernetics	IEEE		IEEE Xplore	10.1109/TSMC.21		0018-9472	2168-2909	http://www.ieee.org/	Controlled	Total_Item_Requests	1	1	0
+IEEE Transactions on Systems, Man, and Cybernetics	IEEE		IEEE Xplore	10.1109/TSMC.21		0018-9472	2168-2909	http://www.ieee.org/	Controlled	Unique_Item_Investigations	2	2	0
+IEEE Transactions on Systems, Man, and Cybernetics	IEEE		IEEE Xplore	10.1109/TSMC.21		0018-9472	2168-2909	http://www.ieee.org/	Controlled	Total_Item_Investigations	2	2	0
+IEEE/ASME Transactions on Mechatronics	IEEE		IEEE Xplore	10.1109/TMECH.3516		1083-4435	1941-014X	http://www.ieee.org/	OA_Gold	Unique_Item_Requests	2	2	0
+IEEE/ASME Transactions on Mechatronics	IEEE		IEEE Xplore	10.1109/TMECH.3516		1083-4435	1941-014X	http://www.ieee.org/	OA_Gold	Total_Item_Requests	4	4	0
+IEEE/ASME Transactions on Mechatronics	IEEE		IEEE Xplore	10.1109/TMECH.3516		1083-4435	1941-014X	http://www.ieee.org/	OA_Gold	Unique_Item_Investigations	3	3	0
+IEEE/ASME Transactions on Mechatronics	IEEE		IEEE Xplore	10.1109/TMECH.3516		1083-4435	1941-014X	http://www.ieee.org/	OA_Gold	Total_Item_Investigations	5	5	0
+IEEE/CAA Journal of Automatica Sinica	IEEE		IEEE Xplore	10.1109/JAS.6570654		2329-9266	2329-9274	http://www.ieee.org/	Controlled	Unique_Item_Requests	2	2	0
+IEEE/CAA Journal of Automatica Sinica	IEEE		IEEE Xplore	10.1109/JAS.6570654		2329-9266	2329-9274	http://www.ieee.org/	Controlled	Total_Item_Requests	2	2	0
+IEEE/CAA Journal of Automatica Sinica	IEEE		IEEE Xplore	10.1109/JAS.6570654		2329-9266	2329-9274	http://www.ieee.org/	Controlled	Unique_Item_Investigations	3	3	0
+IEEE/CAA Journal of Automatica Sinica	IEEE		IEEE Xplore	10.1109/JAS.6570654		2329-9266	2329-9274	http://www.ieee.org/	Controlled	Total_Item_Investigations	3	3	0
+IT Professional	IEEE		IEEE Xplore	10.1109/MITP.6294		1520-9202	1941-045X	http://www.ieee.org/	Controlled	Unique_Item_Requests	3	3	0
+IT Professional	IEEE		IEEE Xplore	10.1109/MITP.6294		1520-9202	1941-045X	http://www.ieee.org/	Controlled	Total_Item_Requests	4	4	0
+IT Professional	IEEE		IEEE Xplore	10.1109/MITP.6294		1520-9202	1941-045X	http://www.ieee.org/	Controlled	Unique_Item_Investigations	4	4	0
+IT Professional	IEEE		IEEE Xplore	10.1109/MITP.6294		1520-9202	1941-045X	http://www.ieee.org/	Controlled	Total_Item_Investigations	5	5	0
+Journal of Lightwave Technology	IEEE		IEEE Xplore	10.1109/JLT.50		0733-8724	1558-2213	http://www.ieee.org/	Controlled	Unique_Item_Requests	1	1	0
+Journal of Lightwave Technology	IEEE		IEEE Xplore	10.1109/JLT.50		0733-8724	1558-2213	http://www.ieee.org/	Controlled	Total_Item_Requests	2	2	0
+Journal of Lightwave Technology	IEEE		IEEE Xplore	10.1109/JLT.50		0733-8724	1558-2213	http://www.ieee.org/	Controlled	Unique_Item_Investigations	2	2	0
+Journal of Lightwave Technology	IEEE		IEEE Xplore	10.1109/JLT.50		0733-8724	1558-2213	http://www.ieee.org/	Controlled	Total_Item_Investigations	3	3	0
+Proceedings of the IEEE	IEEE		IEEE Xplore	10.1109/PROC.5		0018-9219	1558-2256	http://www.ieee.org/	Controlled	Unique_Item_Requests	6	6	0
+Proceedings of the IEEE	IEEE		IEEE Xplore	10.1109/PROC.5		0018-9219	1558-2256	http://www.ieee.org/	Controlled	Total_Item_Requests	8	8	0
+Proceedings of the IEEE	IEEE		IEEE Xplore	10.1109/PROC.5		0018-9219	1558-2256	http://www.ieee.org/	Controlled	Unique_Item_Investigations	10	10	0
+Proceedings of the IEEE	IEEE		IEEE Xplore	10.1109/PROC.5		0018-9219	1558-2256	http://www.ieee.org/	Controlled	Total_Item_Investigations	11	11	0
+The Bell System Technical Journal	Nokia Bell Labs		IEEE Xplore	10.1111/ieee111		0005-8580	0000-0000	http://www.ieee.org/	Controlled	Unique_Item_Requests	1	1	0
+The Bell System Technical Journal	Nokia Bell Labs		IEEE Xplore	10.1111/ieee111		0005-8580	0000-0000	http://www.ieee.org/	Controlled	Total_Item_Requests	1	1	0
+The Bell System Technical Journal	Nokia Bell Labs		IEEE Xplore	10.1111/ieee111		0005-8580	0000-0000	http://www.ieee.org/	Controlled	Unique_Item_Investigations	2	2	0
+The Bell System Technical Journal	Nokia Bell Labs		IEEE Xplore	10.1111/ieee111		0005-8580	0000-0000	http://www.ieee.org/	Controlled	Total_Item_Investigations	2	2	0

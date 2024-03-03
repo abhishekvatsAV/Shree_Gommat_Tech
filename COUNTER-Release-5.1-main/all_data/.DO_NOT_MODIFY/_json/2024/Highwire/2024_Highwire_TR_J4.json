@@ -1,0 +1,595 @@
+{
+    "Report_Header": {
+        "Created": "2024-03-01T05:45:13-08:00", 
+        "Created_By": "HighWire Press Inc.", 
+        "Customer_ID": "COLLECTIONS@UPEI.CA", 
+        "Exceptions": [
+            {
+                "Code": "3040", 
+                "Data": "Usage data has not been processed for all requested months.  Data is not yet available after 202401", 
+                "Message": "Request could not be fulfilled in its entirety. Data that was available was returned.", 
+                "Severity": "Warning"
+            }
+        ], 
+        "Institution_ID": [
+            {
+                "Type": "Proprietary", 
+                "Value": "HighWire:COLLECTIONS@UPEI.CA"
+            }
+        ], 
+        "Institution_Name": "COLLECTIONS@UPEI.CA", 
+        "Release": "5", 
+        "Report_Filters": [
+            {
+                "Name": "Begin_Date", 
+                "Value": "2024-01-01"
+            }, 
+            {
+                "Name": "End_Date", 
+                "Value": "2024-02-29"
+            }, 
+            {
+                "Name": "Metric_Type", 
+                "Value": "Total_Item_Requests|Unique_Item_Requests"
+            }, 
+            {
+                "Name": "Access_Type", 
+                "Value": "Controlled"
+            }, 
+            {
+                "Name": "Data_Type", 
+                "Value": "Journal"
+            }, 
+            {
+                "Name": "Access_Method", 
+                "Value": "Regular"
+            }
+        ], 
+        "Report_ID": "TR_J4", 
+        "Report_Name": "Journal Requests by YOP (Excluding OA_Gold)"
+    }, 
+    "Report_Items": [
+        {
+            "Item_ID": [
+                {
+                    "Type": "DOI", 
+                    "Value": "10.1136/bmj"
+                }, 
+                {
+                    "Type": "Online_ISSN", 
+                    "Value": "1756-1833"
+                }, 
+                {
+                    "Type": "Print_ISSN", 
+                    "Value": "1468-5833"
+                }, 
+                {
+                    "Type": "URI", 
+                    "Value": "http://www.bmj.com"
+                }
+            ], 
+            "Performance": [
+                {
+                    "Instance": [
+                        {
+                            "Count": 2, 
+                            "Metric_Type": "Total_Item_Requests"
+                        }, 
+                        {
+                            "Count": 2, 
+                            "Metric_Type": "Unique_Item_Requests"
+                        }
+                    ], 
+                    "Period": {
+                        "Begin_Date": "2024-01-01", 
+                        "End_Date": "2024-01-31"
+                    }
+                }
+            ], 
+            "Platform": "HighWire Press", 
+            "Publisher": "BMJ Publishing Group Ltd", 
+            "Title": "BMJ", 
+            "YOP": "1984"
+        }, 
+        {
+            "Item_ID": [
+                {
+                    "Type": "DOI", 
+                    "Value": "10.1136/bmj"
+                }, 
+                {
+                    "Type": "Online_ISSN", 
+                    "Value": "1756-1833"
+                }, 
+                {
+                    "Type": "Print_ISSN", 
+                    "Value": "1468-5833"
+                }, 
+                {
+                    "Type": "URI", 
+                    "Value": "http://www.bmj.com"
+                }
+            ], 
+            "Performance": [
+                {
+                    "Instance": [
+                        {
+                            "Count": 2, 
+                            "Metric_Type": "Total_Item_Requests"
+                        }, 
+                        {
+                            "Count": 2, 
+                            "Metric_Type": "Unique_Item_Requests"
+                        }
+                    ], 
+                    "Period": {
+                        "Begin_Date": "2024-01-01", 
+                        "End_Date": "2024-01-31"
+                    }
+                }
+            ], 
+            "Platform": "HighWire Press", 
+            "Publisher": "BMJ Publishing Group Ltd", 
+            "Title": "BMJ", 
+            "YOP": "1995"
+        }, 
+        {
+            "Item_ID": [
+                {
+                    "Type": "DOI", 
+                    "Value": "10.1136/bmj"
+                }, 
+                {
+                    "Type": "Online_ISSN", 
+                    "Value": "1756-1833"
+                }, 
+                {
+                    "Type": "Print_ISSN", 
+                    "Value": "1468-5833"
+                }, 
+                {
+                    "Type": "URI", 
+                    "Value": "http://www.bmj.com"
+                }
+            ], 
+            "Performance": [
+                {
+                    "Instance": [
+                        {
+                            "Count": 4, 
+                            "Metric_Type": "Total_Item_Requests"
+                        }, 
+                        {
+                            "Count": 2, 
+                            "Metric_Type": "Unique_Item_Requests"
+                        }
+                    ], 
+                    "Period": {
+                        "Begin_Date": "2024-01-01", 
+                        "End_Date": "2024-01-31"
+                    }
+                }
+            ], 
+            "Platform": "HighWire Press", 
+            "Publisher": "BMJ Publishing Group Ltd", 
+            "Title": "BMJ", 
+            "YOP": "2003"
+        }, 
+        {
+            "Item_ID": [
+                {
+                    "Type": "DOI", 
+                    "Value": "10.1136/bmj"
+                }, 
+                {
+                    "Type": "Online_ISSN", 
+                    "Value": "1756-1833"
+                }, 
+                {
+                    "Type": "Print_ISSN", 
+                    "Value": "1468-5833"
+                }, 
+                {
+                    "Type": "URI", 
+                    "Value": "http://www.bmj.com"
+                }
+            ], 
+            "Performance": [
+                {
+                    "Instance": [
+                        {
+                            "Count": 6, 
+                            "Metric_Type": "Total_Item_Requests"
+                        }, 
+                        {
+                            "Count": 4, 
+                            "Metric_Type": "Unique_Item_Requests"
+                        }
+                    ], 
+                    "Period": {
+                        "Begin_Date": "2024-01-01", 
+                        "End_Date": "2024-01-31"
+                    }
+                }
+            ], 
+            "Platform": "HighWire Press", 
+            "Publisher": "BMJ Publishing Group Ltd", 
+            "Title": "BMJ", 
+            "YOP": "2004"
+        }, 
+        {
+            "Item_ID": [
+                {
+                    "Type": "DOI", 
+                    "Value": "10.1136/bmj"
+                }, 
+                {
+                    "Type": "Online_ISSN", 
+                    "Value": "1756-1833"
+                }, 
+                {
+                    "Type": "Print_ISSN", 
+                    "Value": "1468-5833"
+                }, 
+                {
+                    "Type": "URI", 
+                    "Value": "http://www.bmj.com"
+                }
+            ], 
+            "Performance": [
+                {
+                    "Instance": [
+                        {
+                            "Count": 2, 
+                            "Metric_Type": "Total_Item_Requests"
+                        }, 
+                        {
+                            "Count": 2, 
+                            "Metric_Type": "Unique_Item_Requests"
+                        }
+                    ], 
+                    "Period": {
+                        "Begin_Date": "2024-01-01", 
+                        "End_Date": "2024-01-31"
+                    }
+                }
+            ], 
+            "Platform": "HighWire Press", 
+            "Publisher": "BMJ Publishing Group Ltd", 
+            "Title": "BMJ", 
+            "YOP": "2010"
+        }, 
+        {
+            "Item_ID": [
+                {
+                    "Type": "DOI", 
+                    "Value": "10.1136/bmj"
+                }, 
+                {
+                    "Type": "Online_ISSN", 
+                    "Value": "1756-1833"
+                }, 
+                {
+                    "Type": "Print_ISSN", 
+                    "Value": "1468-5833"
+                }, 
+                {
+                    "Type": "URI", 
+                    "Value": "http://www.bmj.com"
+                }
+            ], 
+            "Performance": [
+                {
+                    "Instance": [
+                        {
+                            "Count": 6, 
+                            "Metric_Type": "Total_Item_Requests"
+                        }, 
+                        {
+                            "Count": 4, 
+                            "Metric_Type": "Unique_Item_Requests"
+                        }
+                    ], 
+                    "Period": {
+                        "Begin_Date": "2024-01-01", 
+                        "End_Date": "2024-01-31"
+                    }
+                }
+            ], 
+            "Platform": "HighWire Press", 
+            "Publisher": "BMJ Publishing Group Ltd", 
+            "Title": "BMJ", 
+            "YOP": "2011"
+        }, 
+        {
+            "Item_ID": [
+                {
+                    "Type": "DOI", 
+                    "Value": "10.1136/bmj"
+                }, 
+                {
+                    "Type": "Online_ISSN", 
+                    "Value": "1756-1833"
+                }, 
+                {
+                    "Type": "Print_ISSN", 
+                    "Value": "1468-5833"
+                }, 
+                {
+                    "Type": "URI", 
+                    "Value": "http://www.bmj.com"
+                }
+            ], 
+            "Performance": [
+                {
+                    "Instance": [
+                        {
+                            "Count": 4, 
+                            "Metric_Type": "Total_Item_Requests"
+                        }, 
+                        {
+                            "Count": 4, 
+                            "Metric_Type": "Unique_Item_Requests"
+                        }
+                    ], 
+                    "Period": {
+                        "Begin_Date": "2024-01-01", 
+                        "End_Date": "2024-01-31"
+                    }
+                }
+            ], 
+            "Platform": "HighWire Press", 
+            "Publisher": "BMJ Publishing Group Ltd", 
+            "Title": "BMJ", 
+            "YOP": "2017"
+        }, 
+        {
+            "Item_ID": [
+                {
+                    "Type": "DOI", 
+                    "Value": "10.1136/bmj"
+                }, 
+                {
+                    "Type": "Online_ISSN", 
+                    "Value": "1756-1833"
+                }, 
+                {
+                    "Type": "Print_ISSN", 
+                    "Value": "1468-5833"
+                }, 
+                {
+                    "Type": "URI", 
+                    "Value": "http://www.bmj.com"
+                }
+            ], 
+            "Performance": [
+                {
+                    "Instance": [
+                        {
+                            "Count": 4, 
+                            "Metric_Type": "Total_Item_Requests"
+                        }, 
+                        {
+                            "Count": 4, 
+                            "Metric_Type": "Unique_Item_Requests"
+                        }
+                    ], 
+                    "Period": {
+                        "Begin_Date": "2024-01-01", 
+                        "End_Date": "2024-01-31"
+                    }
+                }
+            ], 
+            "Platform": "HighWire Press", 
+            "Publisher": "BMJ Publishing Group Ltd", 
+            "Title": "BMJ", 
+            "YOP": "2018"
+        }, 
+        {
+            "Item_ID": [
+                {
+                    "Type": "DOI", 
+                    "Value": "10.1136/bmj"
+                }, 
+                {
+                    "Type": "Online_ISSN", 
+                    "Value": "1756-1833"
+                }, 
+                {
+                    "Type": "Print_ISSN", 
+                    "Value": "1468-5833"
+                }, 
+                {
+                    "Type": "URI", 
+                    "Value": "http://www.bmj.com"
+                }
+            ], 
+            "Performance": [
+                {
+                    "Instance": [
+                        {
+                            "Count": 4, 
+                            "Metric_Type": "Total_Item_Requests"
+                        }, 
+                        {
+                            "Count": 2, 
+                            "Metric_Type": "Unique_Item_Requests"
+                        }
+                    ], 
+                    "Period": {
+                        "Begin_Date": "2024-01-01", 
+                        "End_Date": "2024-01-31"
+                    }
+                }
+            ], 
+            "Platform": "HighWire Press", 
+            "Publisher": "BMJ Publishing Group Ltd", 
+            "Title": "BMJ", 
+            "YOP": "2021"
+        }, 
+        {
+            "Item_ID": [
+                {
+                    "Type": "DOI", 
+                    "Value": "10.1136/bmj"
+                }, 
+                {
+                    "Type": "Online_ISSN", 
+                    "Value": "1756-1833"
+                }, 
+                {
+                    "Type": "Print_ISSN", 
+                    "Value": "1468-5833"
+                }, 
+                {
+                    "Type": "URI", 
+                    "Value": "http://www.bmj.com"
+                }
+            ], 
+            "Performance": [
+                {
+                    "Instance": [
+                        {
+                            "Count": 2, 
+                            "Metric_Type": "Total_Item_Requests"
+                        }, 
+                        {
+                            "Count": 2, 
+                            "Metric_Type": "Unique_Item_Requests"
+                        }
+                    ], 
+                    "Period": {
+                        "Begin_Date": "2024-01-01", 
+                        "End_Date": "2024-01-31"
+                    }
+                }
+            ], 
+            "Platform": "HighWire Press", 
+            "Publisher": "BMJ Publishing Group Ltd", 
+            "Title": "BMJ", 
+            "YOP": "2022"
+        }, 
+        {
+            "Item_ID": [
+                {
+                    "Type": "DOI", 
+                    "Value": "10.1136/bmjopen"
+                }, 
+                {
+                    "Type": "Online_ISSN", 
+                    "Value": "2044-6055"
+                }, 
+                {
+                    "Type": "URI", 
+                    "Value": "http://bmjopen.bmj.com"
+                }
+            ], 
+            "Performance": [
+                {
+                    "Instance": [
+                        {
+                            "Count": 6, 
+                            "Metric_Type": "Total_Item_Requests"
+                        }, 
+                        {
+                            "Count": 2, 
+                            "Metric_Type": "Unique_Item_Requests"
+                        }
+                    ], 
+                    "Period": {
+                        "Begin_Date": "2024-01-01", 
+                        "End_Date": "2024-01-31"
+                    }
+                }
+            ], 
+            "Platform": "HighWire Press", 
+            "Publisher": "BMJ Publishing Group Ltd", 
+            "Title": "BMJ Open", 
+            "YOP": "2023"
+        }, 
+        {
+            "Item_ID": [
+                {
+                    "Type": "DOI", 
+                    "Value": "10.1136/ebnurs"
+                }, 
+                {
+                    "Type": "Online_ISSN", 
+                    "Value": "1468-9618"
+                }, 
+                {
+                    "Type": "Print_ISSN", 
+                    "Value": "1367-6539"
+                }, 
+                {
+                    "Type": "URI", 
+                    "Value": "http://ebn.bmj.com"
+                }
+            ], 
+            "Performance": [
+                {
+                    "Instance": [
+                        {
+                            "Count": 3, 
+                            "Metric_Type": "Total_Item_Requests"
+                        }, 
+                        {
+                            "Count": 1, 
+                            "Metric_Type": "Unique_Item_Requests"
+                        }
+                    ], 
+                    "Period": {
+                        "Begin_Date": "2024-01-01", 
+                        "End_Date": "2024-01-31"
+                    }
+                }
+            ], 
+            "Platform": "HighWire Press", 
+            "Publisher": "BMJ Publishing Group Ltd, Royal College of Nursing", 
+            "Title": "Evidence-Based Nursing", 
+            "YOP": "2006"
+        }, 
+        {
+            "Item_ID": [
+                {
+                    "Type": "DOI", 
+                    "Value": "10.1124/pr"
+                }, 
+                {
+                    "Type": "Online_ISSN", 
+                    "Value": "1521-0081"
+                }, 
+                {
+                    "Type": "Print_ISSN", 
+                    "Value": "0031-6997"
+                }, 
+                {
+                    "Type": "URI", 
+                    "Value": "http://pharmrev.aspetjournals.org"
+                }
+            ], 
+            "Performance": [
+                {
+                    "Instance": [
+                        {
+                            "Count": 1, 
+                            "Metric_Type": "Total_Item_Requests"
+                        }, 
+                        {
+                            "Count": 1, 
+                            "Metric_Type": "Unique_Item_Requests"
+                        }
+                    ], 
+                    "Period": {
+                        "Begin_Date": "2024-01-01", 
+                        "End_Date": "2024-01-31"
+                    }
+                }
+            ], 
+            "Platform": "HighWire Press", 
+            "Publisher": "American Society for Pharmacology and Experimental Therapeutics", 
+            "Title": "Pharmacological Reviews", 
+            "YOP": "2018"
+        }
+    ]
+}

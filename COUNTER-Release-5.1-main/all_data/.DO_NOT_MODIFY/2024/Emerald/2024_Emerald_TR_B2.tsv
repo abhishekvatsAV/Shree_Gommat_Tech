@@ -1,0 +1,20 @@
+Report_Name	Book Access Denied
+Report_ID	TR_B2
+Release	5
+Institution_Name	University of Prince Edward Island
+Institution_ID	emeraldinsight:2e386820_7216_4455_9342_68bb65d29df0
+Metric_Types	No_License; Limit_Exceeded
+Report_Filters	Data_Type=Book; Access_Method=Regular
+Report_Attributes	
+Exceptions	3031: Usage not ready for requested dates (No usage data after Jan 2024 is available)
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-01T13:42:15+00:00
+Created_By	LibLynx LLC for Emerald Insight
+
+Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	ISBN	Print_ISSN	Online_ISSN	URI	YOP	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+Adapting to Environmental Challenges: New Research in Strategy and International Business	Emerald Insight		Emerald Insight	10.1108/9781839824760		978-1-83982-476-0				2020	No_License	1	1	0
+Indigenous Research Ethics: Claiming Research Sovereignty Beyond Deficit and the Colonial Legacy	Emerald Insight		Emerald Insight	10.1108/S2398-6018202006		978-1-78769-389-0	2398-6018			2020	No_License	1	1	0
+Measuring Inclusive Education	Emerald Insight		Emerald Insight	10.1108/S1479-363620143		978-1-78441-145-9	1479-3636			2014	No_License	1	1	0
+Strategies for Fostering Inclusive Classrooms in Higher Education: International Perspectives on Equity and Inclusion	Emerald Insight		Emerald Insight	10.1108/S2055-3641201916		978-1-78756-060-4	2055-3641			2019	No_License	1	1	0
+Studies on Economic Well-Being: Essays in the Honor of John P. Formby	Emerald Insight		Emerald Insight	10.1016/S1049-2585(2004)12		978-1-84950-292-4	1049-2585			2004	No_License	2	2	0
+The Emerald Handbook of Destination Recovery in Tourism and Hospitality	Emerald Insight		Emerald Insight	10.1108/9781802620733		978-1-80262-073-3				2022	No_License	2	2	0

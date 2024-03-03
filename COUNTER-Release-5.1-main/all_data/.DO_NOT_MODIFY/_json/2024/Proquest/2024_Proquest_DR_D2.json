@@ -1,0 +1,408 @@
+{
+  "Report_Header": {
+    "Created": "2024-03-01T13:53:55Z",
+    "Created_By": "ProQuest",
+    "Customer_ID": "14670",
+    "Report_ID": "DR_D2",
+    "Release": "5",
+    "Report_Name": "Database Access Denied",
+    "Institution_Name": "UNIVERSITY OF PRINCE EDWARD ISLAND",
+    "Institution_ID": [
+      {
+        "Type": "Proprietary",
+        "Value": "ProQuest:14670"
+      }
+    ],
+    "Report_Filters": [
+      {
+        "Name": "Platform",
+        "Value": "ProQuest"
+      },
+      {
+        "Name": "Begin_Date",
+        "Value": "2024-01-01"
+      },
+      {
+        "Name": "End_Date",
+        "Value": "2024-02-29"
+      },
+      {
+        "Name": "Metric_Type",
+        "Value": "Limit_Exceeded|No_License"
+      },
+      {
+        "Name": "Access_Method",
+        "Value": "Regular"
+      }
+    ],
+    "Exceptions": [
+      {
+        "Code": 3040,
+        "Severity": "Warning",
+        "Message": "Partial Data Returned.",
+        "Help_URL": "http://proquest.com/go/usage",
+        "Data": "Usage data has not been processed for all requested months."
+      }
+    ]
+  },
+  "Report_Items": [
+    {
+      "Database": "Agriculture Science Database",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:agriculturejournals"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Alt-PressWatch",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:altpresswatch"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Biological Science Database",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:biologicalscijournals"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": []
+    },
+    {
+      "Database": "Education Database",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:education"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": []
+    },
+    {
+      "Database": "Health & Medical Collection",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:healthcomplete"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Literature Online - Full Text Journals",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:lionjournals"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": []
+    },
+    {
+      "Database": "Materials Science Database",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:materialsscijournals"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Medical Database",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:medical"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "PRISMA Database",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:prismanohapi"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": []
+    },
+    {
+      "Database": "ProQuest Dissertations & Theses Global",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:pqdtglobal1"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 117
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "ProQuest One Business General Content",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:pq1busgeneral"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "ProQuest One Literature Journals",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:pq1litjournals"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": []
+    },
+    {
+      "Database": "ProQuest Professional Education",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:educationperiodicals"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Psychology Database",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:psychology"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": []
+    },
+    {
+      "Database": "Research Library: Business",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:pqrlbusinessalumni"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": []
+    },
+    {
+      "Database": "Research Library: History",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:pqrlhistoryalumni"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": []
+    },
+    {
+      "Database": "Science Database",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:sciencejournals"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Social Science Database",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:socscijournals"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "UK & Ireland Database",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:ukireland"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": []
+    }
+  ]
+}

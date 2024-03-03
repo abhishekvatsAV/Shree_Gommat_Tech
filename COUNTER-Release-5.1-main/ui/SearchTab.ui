@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>801</width>
+    <width>819</width>
     <height>591</height>
    </rect>
   </property>
@@ -374,6 +374,7 @@ padding-left: 5px;</string>
                  </property>
                  <property name="styleSheet">
                   <string notr="true">QDateEdit {
+background-color: #2E2F30;
     border: 2px solid #808080;
     border-radius: 4px;
     padding-left: 5px;
@@ -450,6 +451,7 @@ QDateEdit::down-arrow {
                  </property>
                  <property name="styleSheet">
                   <string notr="true">QDateEdit {
+background-color: #2E2F30;
     border: 2px solid #808080;
     border-radius: 4px;
     padding-left: 5px;
@@ -535,7 +537,7 @@ QDateEdit::down-arrow {
                  <property name="maximumSize">
                   <size>
                    <width>16777215</width>
-                   <height>70</height>
+                   <height>80</height>
                   </size>
                  </property>
                  <property name="styleSheet">
@@ -561,6 +563,8 @@ QDateEdit::down-arrow {
     color: white;
 border-radius: 0px;
 background: #2E2F30;
+padding-left: 10px;
+padding-right: 6px;
 }
 
 QComboBox QAbstractItemView {
@@ -602,16 +606,22 @@ QComboBox QAbstractItemView {
                       <verstretch>0</verstretch>
                      </sizepolicy>
                     </property>
+                    <property name="minimumSize">
+                     <size>
+                      <width>0</width>
+                      <height>20</height>
+                     </size>
+                    </property>
                     <property name="maximumSize">
                      <size>
                       <width>16777215</width>
-                      <height>40</height>
+                      <height>60</height>
                      </size>
                     </property>
                     <property name="font">
                      <font>
                       <family>Georgia</family>
-                      <pointsize>12</pointsize>
+                      <pointsize>-1</pointsize>
                      </font>
                     </property>
                     <property name="styleSheet">
@@ -619,6 +629,9 @@ QComboBox QAbstractItemView {
     color: white;
 	background-color: #2E2F30;
  border-radius:4px;
+padding: 5px;
+font-size: 14px;
+padding-left: 14px;
 }
 </string>
                     </property>
@@ -658,7 +671,7 @@ QComboBox QAbstractItemView {
                  </property>
                 </widget>
                </item>
-               <item row="3" column="0">
+               <item row="3" column="0" alignment="Qt::AlignHCenter">
                 <widget class="QLabel" name="result_summary_edit">
                  <property name="styleSheet">
                   <string notr="true">border: none;
@@ -693,6 +706,7 @@ font-size: 18px;</string>
                <font>
                 <family>Georgia</family>
                 <pointsize>18</pointsize>
+                <italic>false</italic>
                 <bold>true</bold>
                </font>
               </property>
@@ -700,18 +714,19 @@ font-size: 18px;</string>
                <bool>false</bool>
               </property>
               <property name="styleSheet">
-               <string notr="true">
-  QPushButton {
-    border: 2px solid #000000;
-border-color:grey;
-border-radius:15px;
-text-align:center;
+               <string notr="true">QPushButton {
+    background-color: #1768E3; 
+    color: #FFFFFF;
+	font: bold;
+   border-radius: 6px;
+text-align: center;
+padding: 14px;
 }
 
-QPushButton:hover {
-    background-color: lightblue;
+QPushButton:hover{
+ background-color: #2095E6;
+cursor: pointer;
 }
-
 
 </string>
               </property>
@@ -739,6 +754,7 @@ QPushButton:hover {
                <font>
                 <family>Georgia</family>
                 <pointsize>18</pointsize>
+                <italic>false</italic>
                 <bold>true</bold>
                </font>
               </property>
@@ -746,18 +762,19 @@ QPushButton:hover {
                <bool>false</bool>
               </property>
               <property name="styleSheet">
-               <string notr="true">
-  QPushButton {
-    border: 2px solid #000000;
-border-color:grey;
-border-radius:15px;
-text-align:center;
+               <string notr="true">QPushButton {
+    background-color: #1768E3; 
+    color: #FFFFFF;
+	font: bold;
+   border-radius: 6px;
+text-align: center;
+padding: 14px;
 }
 
-QPushButton:hover {
-    background-color: lightblue;
+QPushButton:hover{
+ background-color: #2095E6;
+cursor: pointer;
 }
-
 
 </string>
               </property>
@@ -790,6 +807,16 @@ QPushButton:hover {
    </item>
   </layout>
  </widget>
+ <tabstops>
+  <tabstop>start_year_edit</tabstop>
+  <tabstop>start_month_comboBox</tabstop>
+  <tabstop>end_year_edit</tabstop>
+  <tabstop>end_month_comboBox</tabstop>
+  <tabstop>search_type</tabstop>
+  <tabstop>input_search_edit</tabstop>
+  <tabstop>search_button</tabstop>
+  <tabstop>save_folder_button</tabstop>
+ </tabstops>
  <resources>
   <include location="resources.qrc"/>
  </resources>

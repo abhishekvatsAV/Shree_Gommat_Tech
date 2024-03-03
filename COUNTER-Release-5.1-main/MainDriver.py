@@ -140,11 +140,16 @@ if __name__ == "__main__":
     main_window_ui = MainWindow.Ui_mainWindow()
     main_window_ui.setupUi(main_window)
 
+    settings_tab = QWidget(main_window)
+    settings_ui = Settingtab.Ui_SettingTab()
+    settings_ui.setupUi(settings_tab)
+    settings_controller = SettingsController(settings_tab, settings_ui)
+
     manage_vendors_tab = QWidget(main_window)
     manage_vendors_ui = ManageVendorsTab.Ui_manage_vendor_tab()
     manage_vendors_ui.setupUi(manage_vendors_tab)
     manage_vendors_controller = ManageVendorsController(
-        manage_vendors_tab, manage_vendors_ui
+        manage_vendors_tab, manage_vendors_ui, settings_controller.settings
     )
 
     main_window_ui.tab_widget.addTab(
@@ -177,11 +182,6 @@ if __name__ == "__main__":
         main_window_ui.tab_widget.setCurrentIndex(index)
 
     main_window_ui.tab_widget.tabBarClicked.connect(handle_tab_change)
-
-    settings_tab = QWidget(main_window)
-    settings_ui = Settingtab.Ui_SettingTab()
-    settings_ui.setupUi(settings_tab)
-    settings_controller = SettingsController(settings_tab, settings_ui)
 
     fetch_reports_tab = QWidget(main_window)
     fetch_reports_ui = FetchReportsTab.Ui_FetchReports()

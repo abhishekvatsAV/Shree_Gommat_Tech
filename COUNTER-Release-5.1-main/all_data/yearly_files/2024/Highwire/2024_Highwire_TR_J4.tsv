@@ -1,0 +1,40 @@
+Report_Name	Journal Requests by YOP (Excluding OA_Gold)
+Report_ID	TR_J4
+Release	5
+Institution_Name	COLLECTIONS@UPEI.CA
+Institution_ID	HighWire:COLLECTIONS@UPEI.CA
+Metric_Types	Total_Item_Requests; Unique_Item_Requests
+Report_Filters	Access_Type=Controlled; Data_Type=Journal; Access_Method=Regular
+Report_Attributes	
+Exceptions	3040: Request could not be fulfilled in its entirety. Data that was available was returned. (Usage data has not been processed for all requested months.  Data is not yet available after 202401)
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-01T05:45:13-08:00
+Created_By	HighWire Press Inc.
+
+Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	Print_ISSN	Online_ISSN	URI	YOP	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+BMJ	BMJ Publishing Group Ltd		HighWire Press	10.1136/bmj		1468-5833	1756-1833	http://www.bmj.com	1984	Total_Item_Requests	2	2	0
+BMJ	BMJ Publishing Group Ltd		HighWire Press	10.1136/bmj		1468-5833	1756-1833	http://www.bmj.com	1984	Unique_Item_Requests	2	2	0
+BMJ	BMJ Publishing Group Ltd		HighWire Press	10.1136/bmj		1468-5833	1756-1833	http://www.bmj.com	1995	Total_Item_Requests	2	2	0
+BMJ	BMJ Publishing Group Ltd		HighWire Press	10.1136/bmj		1468-5833	1756-1833	http://www.bmj.com	1995	Unique_Item_Requests	2	2	0
+BMJ	BMJ Publishing Group Ltd		HighWire Press	10.1136/bmj		1468-5833	1756-1833	http://www.bmj.com	2003	Total_Item_Requests	4	4	0
+BMJ	BMJ Publishing Group Ltd		HighWire Press	10.1136/bmj		1468-5833	1756-1833	http://www.bmj.com	2003	Unique_Item_Requests	2	2	0
+BMJ	BMJ Publishing Group Ltd		HighWire Press	10.1136/bmj		1468-5833	1756-1833	http://www.bmj.com	2004	Total_Item_Requests	6	6	0
+BMJ	BMJ Publishing Group Ltd		HighWire Press	10.1136/bmj		1468-5833	1756-1833	http://www.bmj.com	2004	Unique_Item_Requests	4	4	0
+BMJ	BMJ Publishing Group Ltd		HighWire Press	10.1136/bmj		1468-5833	1756-1833	http://www.bmj.com	2010	Total_Item_Requests	2	2	0
+BMJ	BMJ Publishing Group Ltd		HighWire Press	10.1136/bmj		1468-5833	1756-1833	http://www.bmj.com	2010	Unique_Item_Requests	2	2	0
+BMJ	BMJ Publishing Group Ltd		HighWire Press	10.1136/bmj		1468-5833	1756-1833	http://www.bmj.com	2011	Total_Item_Requests	6	6	0
+BMJ	BMJ Publishing Group Ltd		HighWire Press	10.1136/bmj		1468-5833	1756-1833	http://www.bmj.com	2011	Unique_Item_Requests	4	4	0
+BMJ	BMJ Publishing Group Ltd		HighWire Press	10.1136/bmj		1468-5833	1756-1833	http://www.bmj.com	2017	Total_Item_Requests	4	4	0
+BMJ	BMJ Publishing Group Ltd		HighWire Press	10.1136/bmj		1468-5833	1756-1833	http://www.bmj.com	2017	Unique_Item_Requests	4	4	0
+BMJ	BMJ Publishing Group Ltd		HighWire Press	10.1136/bmj		1468-5833	1756-1833	http://www.bmj.com	2018	Total_Item_Requests	4	4	0
+BMJ	BMJ Publishing Group Ltd		HighWire Press	10.1136/bmj		1468-5833	1756-1833	http://www.bmj.com	2018	Unique_Item_Requests	4	4	0
+BMJ	BMJ Publishing Group Ltd		HighWire Press	10.1136/bmj		1468-5833	1756-1833	http://www.bmj.com	2021	Total_Item_Requests	4	4	0
+BMJ	BMJ Publishing Group Ltd		HighWire Press	10.1136/bmj		1468-5833	1756-1833	http://www.bmj.com	2021	Unique_Item_Requests	2	2	0
+BMJ	BMJ Publishing Group Ltd		HighWire Press	10.1136/bmj		1468-5833	1756-1833	http://www.bmj.com	2022	Total_Item_Requests	2	2	0
+BMJ	BMJ Publishing Group Ltd		HighWire Press	10.1136/bmj		1468-5833	1756-1833	http://www.bmj.com	2022	Unique_Item_Requests	2	2	0
+BMJ Open	BMJ Publishing Group Ltd		HighWire Press	10.1136/bmjopen			2044-6055	http://bmjopen.bmj.com	2023	Total_Item_Requests	6	6	0
+BMJ Open	BMJ Publishing Group Ltd		HighWire Press	10.1136/bmjopen			2044-6055	http://bmjopen.bmj.com	2023	Unique_Item_Requests	2	2	0
+Evidence-Based Nursing	BMJ Publishing Group Ltd, Royal College of Nursing		HighWire Press	10.1136/ebnurs		1367-6539	1468-9618	http://ebn.bmj.com	2006	Total_Item_Requests	3	3	0
+Evidence-Based Nursing	BMJ Publishing Group Ltd, Royal College of Nursing		HighWire Press	10.1136/ebnurs		1367-6539	1468-9618	http://ebn.bmj.com	2006	Unique_Item_Requests	1	1	0
+Pharmacological Reviews	American Society for Pharmacology and Experimental Therapeutics		HighWire Press	10.1124/pr		0031-6997	1521-0081	http://pharmrev.aspetjournals.org	2018	Total_Item_Requests	1	1	0
+Pharmacological Reviews	American Society for Pharmacology and Experimental Therapeutics		HighWire Press	10.1124/pr		0031-6997	1521-0081	http://pharmrev.aspetjournals.org	2018	Unique_Item_Requests	1	1	0

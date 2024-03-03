@@ -1,0 +1,52 @@
+{
+  "Report_Header": {
+    "Created": "2024-03-01T13:59:40Z",
+    "Created_By": "ProQuest",
+    "Customer_ID": "14670",
+    "Report_ID": "IR_M1",
+    "Release": "5",
+    "Report_Name": "Multimedia Item Requests",
+    "Institution_Name": "UNIVERSITY OF PRINCE EDWARD ISLAND",
+    "Institution_ID": [
+      {
+        "Type": "Proprietary",
+        "Value": "ProQuest:14670"
+      }
+    ],
+    "Report_Filters": [
+      {
+        "Name": "Platform",
+        "Value": "ProQuest"
+      },
+      {
+        "Name": "Begin_Date",
+        "Value": "2024-01-01"
+      },
+      {
+        "Name": "End_Date",
+        "Value": "2024-02-29"
+      },
+      {
+        "Name": "Metric_Type",
+        "Value": "Total_Item_Requests"
+      },
+      {
+        "Name": "Data_Type",
+        "Value": "Multimedia"
+      },
+      {
+        "Name": "Access_Method",
+        "Value": "Regular"
+      }
+    ],
+    "Exceptions": [
+      {
+        "Code": 3030,
+        "Severity": "Error",
+        "Message": "No Usage Available for Requested Dates.",
+        "Help_URL": "http://proquest.com/go/usage",
+        "Data": "Usage data has not been processed for all requested months."
+      }
+    ]
+  }
+}

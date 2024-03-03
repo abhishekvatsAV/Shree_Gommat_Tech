@@ -1,0 +1,60 @@
+Report_Name	Journal Access Denied
+Report_ID	TR_J2
+Release	5
+Institution_Name	University of Prince Edward Island
+Institution_ID	tandf:1453391
+Metric_Types	Limit_Exceeded; No_License
+Report_Filters	Data_Type=Journal; Access_Method=Regular
+Report_Attributes	
+Exceptions	3031: Usage Not Ready for Requested Dates (Requested data between 2024-02-01 and 2024-02-29. However only data between 2018-11-01 and 2024-01-31 exists.)
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-01T06:04:26Z
+Created_By	Taylor & Francis
+
+Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	Print_ISSN	Online_ISSN	URI	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+Adelphi Series	Routledge		Taylor & Francis Online	10.1080/tadl20	tandf:tadl20	1944-5571	1944-558X		No_License	1	1	0
+AIDS Care	Taylor & Francis		Taylor & Francis Online	10.1080/caic20	tandf:caic20	0954-0121	1360-0451		No_License	1	1	0
+Archives of Agronomy and Soil Science	Taylor & Francis		Taylor & Francis Online	10.1080/gags20	tandf:gags20	0365-0340	1476-3567		No_License	3	3	0
+Behaviour & Information Technology	Taylor & Francis		Taylor & Francis Online	10.1080/tbit20	tandf:tbit20	0144-929X	1362-3001		No_License	3	3	0
+Biocontrol Science and Technology	Taylor & Francis		Taylor & Francis Online	10.1080/cbst20	tandf:cbst20	0958-3157	1360-0478		No_License	1	1	0
+Biological Agriculture & Horticulture	Taylor & Francis		Taylor & Francis Online	10.1080/tbah20	tandf:tbah20	0144-8765	2165-0616		No_License	2	2	0
+Biotechnology and Genetic Engineering Reviews	Taylor & Francis		Taylor & Francis Online	10.1080/tbgr20	tandf:tbgr20	0264-8725	2046-5556		No_License	1	1	0
+Canadian Water Resources Journal / Revue canadienne des ressources hydriques	Taylor & Francis		Taylor & Francis Online	10.1080/tcwr20	tandf:tcwr20	0701-1784	1918-1817		No_License	4	4	0
+Catalysis Reviews	Taylor & Francis		Taylor & Francis Online	10.1080/lctr20	tandf:lctr20	0161-4940	1520-5703		No_License	1	1	0
+CoDesign	Taylor & Francis		Taylor & Francis Online	10.1080/ncdn20	tandf:ncdn20	1571-0882	1745-3755		No_License	2	2	0
+Communications in Soil Science and Plant Analysis	Taylor & Francis		Taylor & Francis Online	10.1080/lcss20	tandf:lcss20	0010-3624	1532-2416		No_License	1	1	0
+Comprehensive Child and Adolescent Nursing	Taylor & Francis		Taylor & Francis Online	10.1080/icpn21	tandf:icpn21	2469-4193	2469-4207		No_License	3	3	0
+Contemporary Physics	Taylor & Francis		Taylor & Francis Online	10.1080/tcph20	tandf:tcph20	0010-7514	1366-5812		No_License	1	1	0
+Current Medical Research and Opinion	Taylor & Francis		Taylor & Francis Online	10.1080/icmo20	tandf:icmo20	0300-7995	1473-4877		No_License	4	4	0
+Disability and Rehabilitation: Assistive Technology	Taylor & Francis		Taylor & Francis Online	10.1080/iidt20	tandf:iidt20	1748-3107	1748-3115		No_License	1	1	0
+Emu - Austral Ornithology	Taylor & Francis		Taylor & Francis Online	10.1080/temu20	tandf:temu20	0158-4197	1448-5540		No_License	2	2	0
+Energy Sources, Part A: Recovery, Utilization, and Environmental Effects	Taylor & Francis		Taylor & Francis Online	10.1080/ueso20	tandf:ueso20	1556-7036	1556-7230		No_License	1	1	0
+Engineering Studies	Routledge		Taylor & Francis Online	10.1080/test20	tandf:test20	1937-8629	1940-8374		No_License	3	3	0
+Ethnos	Routledge		Taylor & Francis Online	10.1080/retn20	tandf:retn20	0014-1844	1469-588X		No_License	2	2	0
+European Journal of Engineering Education	Taylor & Francis		Taylor & Francis Online	10.1080/ceee20	tandf:ceee20	0304-3797	1469-5898		No_License	2	2	0
+Expert Opinion on Drug Metabolism & Toxicology	Taylor & Francis		Taylor & Francis Online	10.1080/iemt20	tandf:iemt20	1742-5255	1744-7607		No_License	1	1	0
+Human Dimensions of Wildlife	Routledge		Taylor & Francis Online	10.1080/uhdw20	tandf:uhdw20	1087-1209	1533-158X		No_License	1	1	0
+Identities	Routledge		Taylor & Francis Online	10.1080/gide20	tandf:gide20	1070-289X	1547-3384		No_License	4	4	0
+International Journal of Computer Integrated Manufacturing	Taylor & Francis		Taylor & Francis Online	10.1080/tcim20	tandf:tcim20	0951-192X	1362-3052		No_License	1	1	0
+International Journal of Environmental Health Research	Taylor & Francis		Taylor & Francis Online	10.1080/cije20	tandf:cije20	0960-3123	1369-1619		No_License	1	1	0
+International Journal of Production Research	Taylor & Francis		Taylor & Francis Online	10.1080/tprs20	tandf:tprs20	0020-7543	1366-588X		No_License	1	1	0
+International Journal of Qualitative Studies in Education	Routledge		Taylor & Francis Online	10.1080/tqse20	tandf:tqse20	0951-8398	1366-5898		No_License	1	1	0
+International Journal of Vegetable Science	Taylor & Francis		Taylor & Francis Online	10.1080/wijv20	tandf:wijv20	1931-5260	1931-5279		No_License	1	1	0
+Issues in Mental Health Nursing	Taylor & Francis		Taylor & Francis Online	10.1080/imhn20	tandf:imhn20	0161-2840	1096-4673		No_License	4	4	0
+Journal of Applied Aquaculture	Taylor & Francis		Taylor & Francis Online	10.1080/wjaa20	tandf:wjaa20	1045-4438	1545-0805		No_License	1	1	0
+Journal of Aquatic Animal Health	Taylor & Francis		Taylor & Francis Online	10.1080/uahh20	tandf:uahh20	0899-7659	1548-8667		No_License	5	5	0
+Journal of Business & Economic Statistics	Taylor & Francis		Taylor & Francis Online	10.1080/ubes20	tandf:ubes20	0735-0015	1537-2707		No_License	1	1	0
+Journal of Drug Targeting	Taylor & Francis		Taylor & Francis Online	10.1080/idrt20	tandf:idrt20	1061-186X	1029-2330		No_License	2	2	0
+Journal of Histotechnology	Taylor & Francis		Taylor & Francis Online	10.1080/yhis20	tandf:yhis20	0147-8885	2046-0236		No_License	2	2	0
+Journal of Homosexuality	Routledge		Taylor & Francis Online	10.1080/wjhm20	tandf:wjhm20	0091-8369	1540-3602		No_License	1	1	0
+Journal of Management Analytics	Taylor & Francis		Taylor & Francis Online	10.1080/tjma20	tandf:tjma20	2327-0012	2327-0039		No_License	2	2	0
+Journal of Occupational and Environmental Hygiene	Taylor & Francis		Taylor & Francis Online	10.1080/uoeh20	tandf:uoeh20	1545-9624	1545-9632		No_License	1	1	0
+Journal of Personality Assessment	Routledge		Taylor & Francis Online	10.1080/hjpa20	tandf:hjpa20	0022-3891	1532-7752		No_License	1	1	0
+Journal of Physical Education, Recreation & Dance	Routledge		Taylor & Francis Online	10.1080/ujrd20	tandf:ujrd20	0730-3084	2168-3816		No_License	2	2	0
+Journal of Plant Nutrition	Taylor & Francis		Taylor & Francis Online	10.1080/lpla20	tandf:lpla20	0190-4167	1532-4087		No_License	1	1	0
+Journal of the Operational Research Society	Taylor & Francis		Taylor & Francis Online	10.1080/tjor20	tandf:tjor20	0160-5682	1476-9360		No_License	4	4	0
+Metal Science	Taylor & Francis		Taylor & Francis Online	10.1080/ymst18	tandf:ymst18	0306-3453			No_License	1	1	0
+Postgraduate Medicine	Taylor & Francis		Taylor & Francis Online	10.1080/ipgm20	tandf:ipgm20	0032-5481	1941-9260		No_License	3	3	0
+Somatosensory & Motor Research	Taylor & Francis		Taylor & Francis Online	10.1080/ismr20	tandf:ismr20	0899-0220	1369-1651		No_License	1	1	0
+The Journal of Environmental Education	Routledge		Taylor & Francis Online	10.1080/vjee20	tandf:vjee20	0095-8964	1940-1892		No_License	2	2	0
+Veterinary Nursing Journal	Taylor & Francis		Taylor & Francis Online	10.1080/tvnj20	tandf:tvnj20	1741-5349	2045-0648		No_License	1	1	0

@@ -1,0 +1,1062 @@
+{
+"Report_Header": {
+"Created":"2024-03-01T13:50:59Z",
+"Created_By":"Microbiology Society",
+"Customer_ID":"o006646",
+"Report_ID":"IR_A1",
+"Release":"5",
+"Report_Name":"Journal Article Requests",
+"Institution_Name":"UNIVERSITY OF PRINCE EDWARD ISLAND",
+"Institution_ID": [
+{
+"Type":"Proprietary",
+"Value":"mbs:sgid023870"
+}
+],
+"Report_Filters":[
+{
+"Name":"Begin_Date",
+"Value":"2024-01-01"
+},{
+"Name":"End_Date",
+"Value":"2024-02-29"
+},{
+"Name":"Access_Method",
+"Value":"Regular"
+}
+,{
+"Name":"Metric_Type",
+"Value":"Total_Item_Requests|Unique_Item_Requests"
+}
+,{
+"Name":"Parent_Data_Type",
+"Value":"Journal"
+},{
+"Name":"Data_Type",
+"Value":"Article"
+}],
+"Exceptions":[
+{
+"Code":"3031",
+"Severity":"Warning",
+"Message":"Usage Not Ready for Requested Dates(Request Usage is available up to 2024-01-31.)",
+"Help_URL":"/help/sushi"
+}]
+},
+"Report_Items": [
+{
+"Item":"Actinobacillus minor sp. nov., Actinobacillus porcinus sp. nov., and Actinobacillus indolicus sp. nov., Three New V Factor-Dependent Species from the Respiratory Tract of Pigs",
+"Item_ID": [
+{
+"Type": "DOI",
+"Value": "10.1099/00207713-46-4-951"
+},
+{
+"Type": "Print_ISSN",
+"Value": "1466-5026"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1466-5034"
+},
+{
+"Type": "URI",
+"Value": "https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/00207713-46-4-951"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "K. MØLLER"
+},
+{
+"Type": "Author",
+"Name": "V. FUSSING"
+},
+{
+"Type": "Author",
+"Name": "P. A. D. GRIMONT"
+},
+{
+"Type": "Author",
+"Name": "B. J. PASTER"
+},
+{
+"Type": "Author",
+"Name": "F. E. DEWHIRST"
+},
+{
+"Type": "Author",
+"Name": "M. KILIAN"
+}
+],
+"Item_Dates": [
+{
+"Type": "Publication_Date",
+"Value": "1996-10-01"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"mbs",
+"Publisher":"Microbiology Society",
+"Item_Parent": {
+"Item_Name": "International Journal of Systematic and Evolutionary Microbiology",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "K. MØLLER"
+},
+{
+"Type": "Author",
+"Name": "V. FUSSING"
+},
+{
+"Type": "Author",
+"Name": "P. A. D. GRIMONT"
+},
+{
+"Type": "Author",
+"Name": "B. J. PASTER"
+},
+{
+"Type": "Author",
+"Name": "F. E. DEWHIRST"
+},
+{
+"Type": "Author",
+"Name": "M. KILIAN"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "1466-5026"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1466-5034"
+},
+{
+"Type": "URI",
+"Value": "https://www.microbiologyresearch.org/content/journal/ijsem"
+}
+]},
+"Access_Type":"Controlled",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Requests",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Requests",
+"Count":1
+}]
+}
+]
+},
+{
+"Item":"Enterobacter aerogenes Hormaeche and Edwards 1960 (Approved Lists 1980) and Klebsiella mobilis Bascomb et al. 1971 (Approved Lists 1980) share the same nomenclatural type (ATCC 13048) on the Approved Lists and are homotypic synonyms, with consequences for the name Klebsiella mobilis Bascomb et al. 1971 (Approved Lists 1980)",
+"Item_ID": [
+{
+"Type": "DOI",
+"Value": "10.1099/ijsem.0.001572"
+},
+{
+"Type": "Print_ISSN",
+"Value": "1466-5026"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1466-5034"
+},
+{
+"Type": "URI",
+"Value": "https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.001572"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "B. J. Tindall"
+},
+{
+"Type": "Author",
+"Name": "G. Sutton"
+},
+{
+"Type": "Author",
+"Name": "G. M. Garrity"
+}
+],
+"Item_Dates": [
+{
+"Type": "Publication_Date",
+"Value": "2017-02-01"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"mbs",
+"Publisher":"Microbiology Society",
+"Item_Parent": {
+"Item_Name": "International Journal of Systematic and Evolutionary Microbiology",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "B. J. Tindall"
+},
+{
+"Type": "Author",
+"Name": "G. Sutton"
+},
+{
+"Type": "Author",
+"Name": "G. M. Garrity"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "1466-5026"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1466-5034"
+},
+{
+"Type": "URI",
+"Value": "https://www.microbiologyresearch.org/content/journal/ijsem"
+}
+]},
+"Access_Type":"Controlled",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Requests",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Requests",
+"Count":1
+}]
+}
+]
+},
+{
+"Item":"In vivo correlates of infectious salmon anemia virus pathogenesis in fish",
+"Item_ID": [
+{
+"Type": "DOI",
+"Value": "10.1099/vir.0.81719-0"
+},
+{
+"Type": "Print_ISSN",
+"Value": "0022-1317"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1465-2099"
+},
+{
+"Type": "URI",
+"Value": "https://www.microbiologyresearch.org/content/journal/jgv/10.1099/vir.0.81719-0"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Frederick S. B. Kibenge"
+},
+{
+"Type": "Author",
+"Name": "Molly J. T. Kibenge"
+},
+{
+"Type": "Author",
+"Name": "Dave Groman"
+},
+{
+"Type": "Author",
+"Name": "Sandi McGeachy"
+}
+],
+"Item_Dates": [
+{
+"Type": "Publication_Date",
+"Value": "2006-09-01"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"mbs",
+"Publisher":"Microbiology Society",
+"Item_Parent": {
+"Item_Name": "Journal of General Virology",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Frederick S. B. Kibenge"
+},
+{
+"Type": "Author",
+"Name": "Molly J. T. Kibenge"
+},
+{
+"Type": "Author",
+"Name": "Dave Groman"
+},
+{
+"Type": "Author",
+"Name": "Sandi McGeachy"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "0022-1317"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1465-2099"
+},
+{
+"Type": "URI",
+"Value": "https://www.microbiologyresearch.org/content/journal/jgv"
+}
+]},
+"Access_Type":"Controlled",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Requests",
+"Count":2
+},{
+"Metric_Type":"Unique_Item_Requests",
+"Count":1
+}]
+}
+]
+},
+{
+"Item":"Paraliobacillus quinghaiensis sp. nov., isolated from salt-lake sediment in China",
+"Item_ID": [
+{
+"Type": "DOI",
+"Value": "10.1099/ijs.0.65735-0"
+},
+{
+"Type": "Print_ISSN",
+"Value": "1466-5026"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1466-5034"
+},
+{
+"Type": "URI",
+"Value": "https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.65735-0"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Yi-Guang Chen"
+},
+{
+"Type": "Author",
+"Name": "Xiao-Long Cui"
+},
+{
+"Type": "Author",
+"Name": "Yu-Qin Zhang"
+},
+{
+"Type": "Author",
+"Name": "Wen-Jun Li"
+},
+{
+"Type": "Author",
+"Name": "Yong-Xia Wang"
+},
+{
+"Type": "Author",
+"Name": "Li-Hua Xu"
+},
+{
+"Type": "Author",
+"Name": "Meng-Liang Wen"
+},
+{
+"Type": "Author",
+"Name": "Qian Peng"
+},
+{
+"Type": "Author",
+"Name": "Cheng-Lin Jiang"
+}
+],
+"Item_Dates": [
+{
+"Type": "Publication_Date",
+"Value": "2009-01-01"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"mbs",
+"Publisher":"Microbiology Society",
+"Item_Parent": {
+"Item_Name": "International Journal of Systematic and Evolutionary Microbiology",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Yi-Guang Chen"
+},
+{
+"Type": "Author",
+"Name": "Xiao-Long Cui"
+},
+{
+"Type": "Author",
+"Name": "Yu-Qin Zhang"
+},
+{
+"Type": "Author",
+"Name": "Wen-Jun Li"
+},
+{
+"Type": "Author",
+"Name": "Yong-Xia Wang"
+},
+{
+"Type": "Author",
+"Name": "Li-Hua Xu"
+},
+{
+"Type": "Author",
+"Name": "Meng-Liang Wen"
+},
+{
+"Type": "Author",
+"Name": "Qian Peng"
+},
+{
+"Type": "Author",
+"Name": "Cheng-Lin Jiang"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "1466-5026"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1466-5034"
+},
+{
+"Type": "URI",
+"Value": "https://www.microbiologyresearch.org/content/journal/ijsem"
+}
+]},
+"Access_Type":"Controlled",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Requests",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Requests",
+"Count":1
+}]
+}
+]
+},
+{
+"Item":"Strains of Bradyrhizobium barranii sp. nov. associated with legumes native to Canada are symbionts of soybeans and belong to different subspecies (subsp. barranii subsp. nov. and subsp. apii subsp. nov.) and symbiovars (sv. glycinearum and sv. septentrionale)",
+"Item_ID": [
+{
+"Type": "DOI",
+"Value": "10.1099/ijsem.0.005549"
+},
+{
+"Type": "Print_ISSN",
+"Value": "1466-5026"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1466-5034"
+},
+{
+"Type": "URI",
+"Value": "https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.005549"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Eden S. P. Bromfield"
+},
+{
+"Type": "Author",
+"Name": "Sylvie Cloutier"
+},
+{
+"Type": "Author",
+"Name": "Sawa Wasai-Hara"
+},
+{
+"Type": "Author",
+"Name": "Kiwamu Minamisawa"
+}
+],
+"Item_Dates": [
+{
+"Type": "Publication_Date",
+"Value": "2022-10-19"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"mbs",
+"Publisher":"Microbiology Society",
+"Item_Parent": {
+"Item_Name": "International Journal of Systematic and Evolutionary Microbiology",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Eden S. P. Bromfield"
+},
+{
+"Type": "Author",
+"Name": "Sylvie Cloutier"
+},
+{
+"Type": "Author",
+"Name": "Sawa Wasai-Hara"
+},
+{
+"Type": "Author",
+"Name": "Kiwamu Minamisawa"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "1466-5026"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1466-5034"
+},
+{
+"Type": "URI",
+"Value": "https://www.microbiologyresearch.org/content/journal/ijsem"
+}
+]},
+"Access_Type":"OA_Gold",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Requests",
+"Count":2
+},{
+"Metric_Type":"Unique_Item_Requests",
+"Count":1
+}]
+}
+]
+},
+{
+"Item":"The appearance of H3 influenza viruses in seals",
+"Item_ID": [
+{
+"Type": "DOI",
+"Value": "10.1099/0022-1317-76-1-199"
+},
+{
+"Type": "Print_ISSN",
+"Value": "0022-1317"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1465-2099"
+},
+{
+"Type": "URI",
+"Value": "https://www.microbiologyresearch.org/content/journal/jgv/10.1099/0022-1317-76-1-199"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "R. J. Callan"
+},
+{
+"Type": "Author",
+"Name": "G. Early"
+},
+{
+"Type": "Author",
+"Name": "H. Kida"
+},
+{
+"Type": "Author",
+"Name": "V. S. Hinshaw"
+}
+],
+"Item_Dates": [
+{
+"Type": "Publication_Date",
+"Value": "1995-01-01"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"mbs",
+"Publisher":"Microbiology Society",
+"Item_Parent": {
+"Item_Name": "Journal of General Virology",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "R. J. Callan"
+},
+{
+"Type": "Author",
+"Name": "G. Early"
+},
+{
+"Type": "Author",
+"Name": "H. Kida"
+},
+{
+"Type": "Author",
+"Name": "V. S. Hinshaw"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "0022-1317"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1465-2099"
+},
+{
+"Type": "URI",
+"Value": "https://www.microbiologyresearch.org/content/journal/jgv"
+}
+]},
+"Access_Type":"Controlled",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Requests",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Requests",
+"Count":1
+}]
+}
+]
+},
+{
+"Item":"Two-component systems regulate ABC transporters in antimicrobial peptide production, immunity and resistance",
+"Item_ID": [
+{
+"Type": "DOI",
+"Value": "10.1099/mic.0.000823"
+},
+{
+"Type": "Print_ISSN",
+"Value": "1350-0872"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1465-2080"
+},
+{
+"Type": "URI",
+"Value": "https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.000823"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Ashfaq Ahmad"
+},
+{
+"Type": "Author",
+"Name": "Sidra Majaz"
+},
+{
+"Type": "Author",
+"Name": "Faisal Nouroz"
+}
+],
+"Item_Dates": [
+{
+"Type": "Publication_Date",
+"Value": "2020-01-01"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"mbs",
+"Publisher":"Microbiology Society",
+"Item_Parent": {
+"Item_Name": "Microbiology",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Ashfaq Ahmad"
+},
+{
+"Type": "Author",
+"Name": "Sidra Majaz"
+},
+{
+"Type": "Author",
+"Name": "Faisal Nouroz"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "1350-0872"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1465-2080"
+},
+{
+"Type": "URI",
+"Value": "https://www.microbiologyresearch.org/content/journal/micro"
+}
+]},
+"Access_Type":"Controlled",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Requests",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Requests",
+"Count":1
+}]
+}
+]
+},
+{
+"Item":"Understanding the microbial components of periodontal diseases and periodontal treatment-induced microbiological shifts",
+"Item_ID": [
+{
+"Type": "DOI",
+"Value": "10.1099/jmm.0.001247"
+},
+{
+"Type": "Print_ISSN",
+"Value": "0022-2615"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1473-5644"
+},
+{
+"Type": "URI",
+"Value": "https://www.microbiologyresearch.org/content/journal/jmm/10.1099/jmm.0.001247"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Ioannis Fragkioudakis"
+},
+{
+"Type": "Author",
+"Name": "Marcello P. Riggio"
+},
+{
+"Type": "Author",
+"Name": "Danae Anastasia Apatzidou"
+}
+],
+"Item_Dates": [
+{
+"Type": "Publication_Date",
+"Value": "2021-01-01"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"mbs",
+"Publisher":"Microbiology Society",
+"Item_Parent": {
+"Item_Name": "Journal of Medical Microbiology",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Ioannis Fragkioudakis"
+},
+{
+"Type": "Author",
+"Name": "Marcello P. Riggio"
+},
+{
+"Type": "Author",
+"Name": "Danae Anastasia Apatzidou"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "0022-2615"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1473-5644"
+},
+{
+"Type": "URI",
+"Value": "https://www.microbiologyresearch.org/content/journal/jmm"
+}
+]},
+"Access_Type":"Controlled",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Requests",
+"Count":2
+},{
+"Metric_Type":"Unique_Item_Requests",
+"Count":1
+}]
+}
+]
+},
+{
+"Item":"Vibrio ichthyoenteri sp. nov., a Pathogen of Japanese Flounder (Paralichthys olivaceus) Larvae",
+"Item_ID": [
+{
+"Type": "DOI",
+"Value": "10.1099/00207713-46-1-155"
+},
+{
+"Type": "Print_ISSN",
+"Value": "1466-5026"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1466-5034"
+},
+{
+"Type": "URI",
+"Value": "https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/00207713-46-1-155"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "KATSUYA ISHIMARU"
+},
+{
+"Type": "Author",
+"Name": "MASAYO AKAGAWA-MATSUSHITA"
+},
+{
+"Type": "Author",
+"Name": "KIYOKUNI MUROGA"
+}
+],
+"Item_Dates": [
+{
+"Type": "Publication_Date",
+"Value": "1996-01-01"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"mbs",
+"Publisher":"Microbiology Society",
+"Item_Parent": {
+"Item_Name": "International Journal of Systematic and Evolutionary Microbiology",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "KATSUYA ISHIMARU"
+},
+{
+"Type": "Author",
+"Name": "MASAYO AKAGAWA-MATSUSHITA"
+},
+{
+"Type": "Author",
+"Name": "KIYOKUNI MUROGA"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "1466-5026"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1466-5034"
+},
+{
+"Type": "URI",
+"Value": "https://www.microbiologyresearch.org/content/journal/ijsem"
+}
+]},
+"Access_Type":"Controlled",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Requests",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Requests",
+"Count":1
+}]
+}
+]
+}
+]
+}

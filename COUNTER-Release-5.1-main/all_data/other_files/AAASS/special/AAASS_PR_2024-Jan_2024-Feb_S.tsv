@@ -1,0 +1,18 @@
+Report_Name	Platform Master Report
+Report_ID	PR
+Release	5
+Institution_Name	University Of Prince Edward Island
+Institution_ID	aaas:20351555
+Metric_Types	
+Report_Filters	Data_Type=Book|Database|Journal
+Report_Attributes	Attributes_To_Show=Data_Type
+Exceptions	3031: Usage Not Ready for Requested Dates (Requested data between 2024-02-01 and 2024-02-29. However only data between 2021-05-01 and 2024-01-31 exists.); 3060: Invalid ReportFilter Value (Filter parameter: DATA_TYPE has invalid value(s): [Article, Book_Segment, Dataset]. )
+Reporting_Period	End_Date=2024-02-29; Begin_Date=2024-01-01
+Created	2024-03-02T06:26:24Z
+Created_By	Atypon Systems LLC.
+
+Platform	Data_Type	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+aaas	Journal	Unique_Item_Investigations	71	71	0
+aaas	Journal	Unique_Item_Requests	61	61	0
+aaas	Journal	Total_Item_Requests	82	82	0
+aaas	Journal	Total_Item_Investigations	94	94	0

@@ -1,0 +1,32 @@
+Report_Name	Journal Usage by Access Type
+Report_ID	TR_J3
+Release	5
+Institution_Name	UNIV OF P E I
+Institution_ID	slack:UNIV OF P E I
+Metric_Types	Total_Item_Investigations; Total_Item_Requests; Unique_Item_Investigations; Unique_Item_Requests
+Report_Filters	Data_Type=Journal; Access_Method=Regular
+Report_Attributes	
+Exceptions	3031: Usage Not Ready for Requested Dates (Requested data between 2024-02-01 and 2024-02-29. However only data between 2021-03-01 and 2024-01-31 exists.)
+Reporting_Period	End_Date=2024-02-29; Begin_Date=2024-01-01
+Created	2024-03-01T05:45:00Z
+Created_By	Atypon Systems LLC.
+
+Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	Print_ISSN	Online_ISSN	URI	Access_Type	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+Journal of Gerontological Nursing	SLACK Incorporated		slack	10.3928/JGN	slack:jgn	0098-9134	1938-243X		Controlled	Unique_Item_Investigations	2	2	0
+Journal of Gerontological Nursing	SLACK Incorporated		slack	10.3928/JGN	slack:jgn	0098-9134	1938-243X		Controlled	Unique_Item_Requests	2	2	0
+Journal of Gerontological Nursing	SLACK Incorporated		slack	10.3928/JGN	slack:jgn	0098-9134	1938-243X		Controlled	Total_Item_Requests	3	3	0
+Journal of Gerontological Nursing	SLACK Incorporated		slack	10.3928/JGN	slack:jgn	0098-9134	1938-243X		Controlled	Total_Item_Investigations	3	3	0
+Journal of Nursing Education	SLACK Incorporated		slack	10.3928/JNE	slack:jne	0148-4834	1938-2421		Controlled	Unique_Item_Investigations	3	3	0
+Journal of Nursing Education	SLACK Incorporated		slack	10.3928/JNE	slack:jne	0148-4834	1938-2421		Controlled	Unique_Item_Requests	3	3	0
+Journal of Nursing Education	SLACK Incorporated		slack	10.3928/JNE	slack:jne	0148-4834	1938-2421		Controlled	Total_Item_Requests	4	4	0
+Journal of Nursing Education	SLACK Incorporated		slack	10.3928/JNE	slack:jne	0148-4834	1938-2421		Controlled	Total_Item_Investigations	4	4	0
+Journal of Psychosocial Nursing and Mental Health Services	SLACK Incorporated		slack	10.3928/JPN	slack:jpn	0279-3695	1938-2413		Controlled	Unique_Item_Investigations	3	3	0
+Journal of Psychosocial Nursing and Mental Health Services	SLACK Incorporated		slack	10.3928/JPN	slack:jpn	0279-3695	1938-2413		Controlled	Unique_Item_Requests	1	1	0
+Journal of Psychosocial Nursing and Mental Health Services	SLACK Incorporated		slack	10.3928/JPN	slack:jpn	0279-3695	1938-2413		Controlled	Total_Item_Requests	2	2	0
+Journal of Psychosocial Nursing and Mental Health Services	SLACK Incorporated		slack	10.3928/JPN	slack:jpn	0279-3695	1938-2413		Controlled	Total_Item_Investigations	5	5	0
+Psychiatric Annals	SLACK Incorporated		slack	10.3928/PSYCH	slack:psych	0048-5713	1938-2456		Controlled	Unique_Item_Investigations	4	4	0
+Psychiatric Annals	SLACK Incorporated		slack	10.3928/PSYCH	slack:psych	0048-5713	1938-2456		Controlled	Total_Item_Investigations	7	7	0
+The Journal of Continuing Education in Nursing	SLACK Incorporated		slack	10.3928/JCEN	slack:jcen	0022-0124			Controlled	Unique_Item_Investigations	4	4	0
+The Journal of Continuing Education in Nursing	SLACK Incorporated		slack	10.3928/JCEN	slack:jcen	0022-0124			Controlled	Unique_Item_Requests	3	3	0
+The Journal of Continuing Education in Nursing	SLACK Incorporated		slack	10.3928/JCEN	slack:jcen	0022-0124			Controlled	Total_Item_Requests	4	4	0
+The Journal of Continuing Education in Nursing	SLACK Incorporated		slack	10.3928/JCEN	slack:jcen	0022-0124			Controlled	Total_Item_Investigations	9	9	0

@@ -1,0 +1,424 @@
+Report_Name	Book Requests (Excluding OA_Gold)
+Report_ID	TR_B1
+Release	5
+Institution_Name	UNIVERSITY OF PRINCE EDWARD ISLAND
+Institution_ID	EBC:upei
+Metric_Types	Total_Item_Requests; Unique_Title_Requests
+Report_Filters	Platform=ProQuest Ebook Central; Access_Method=Regular; Data_Type=Book; Access_Type=Controlled
+Report_Attributes	
+Exceptions	
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-01T13:53:52Z
+Created_By	ProQuest Ebook Central
+
+Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	ISBN	Print_ISSN	Online_ISSN	URI	YOP	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+A Concise Manual of Pathogenic Microbiology	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:918261	978-1-118-30119-7				2012	Total_Item_Requests	2	0	2
+A Concise Manual of Pathogenic Microbiology	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:918261	978-1-118-30119-7				2012	Unique_Title_Requests	1	0	1
+A Dictionary of Nursing	Oxford University Press USA - OSO		ProQuest Ebook Central		EBC:5825872	978-0-19-878845-4				2017	Total_Item_Requests	3	3	0
+A Dictionary of Nursing	Oxford University Press USA - OSO		ProQuest Ebook Central		EBC:5825872	978-0-19-878845-4				2017	Unique_Title_Requests	3	3	0
+A Pedagogy of Faith	Bloomsbury Publishing Plc		ProQuest Ebook Central		EBC:4865700	978-1-4725-7925-6				2017	Total_Item_Requests	2	0	2
+A Pedagogy of Faith	Bloomsbury Publishing Plc		ProQuest Ebook Central		EBC:4865700	978-1-4725-7925-6				2017	Unique_Title_Requests	1	0	1
+A Practical Approach to Dynamical Systems for Engineers	Elsevier Science & Technology		ProQuest Ebook Central		EBC:4178584	978-0-08-100202-5				2015	Total_Item_Requests	4	4	0
+A Practical Approach to Dynamical Systems for Engineers	Elsevier Science & Technology		ProQuest Ebook Central		EBC:4178584	978-0-08-100202-5				2015	Unique_Title_Requests	2	2	0
+A Practical Guide to the Histology of the Mouse	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:1584994	978-1-119-94120-0				2014	Total_Item_Requests	8	8	0
+A Practical Guide to the Histology of the Mouse	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:1584994	978-1-119-94120-0				2014	Unique_Title_Requests	3	3	0
+Adapting Curriculum to Bridge Equity Gaps	Organization for Economic Cooperation & Development		ProQuest Ebook Central		EBC:6688776	978-92-64-83321-0				2021	Total_Item_Requests	1	1	0
+Adapting Curriculum to Bridge Equity Gaps	Organization for Economic Cooperation & Development		ProQuest Ebook Central		EBC:6688776	978-92-64-83321-0				2021	Unique_Title_Requests	1	1	0
+Advances in Veterinary Dermatology, Volume 7	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:1170127	978-1-118-64487-4				2013	Total_Item_Requests	1	1	0
+Advances in Veterinary Dermatology, Volume 7	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:1170127	978-1-118-64487-4				2013	Unique_Title_Requests	1	1	0
+Agriculture and Rural Society after the Black Death	University Of Hertfordshire Press		ProQuest Ebook Central		EBC:716171	978-1-902806-79-2				2009	Total_Item_Requests	1	0	1
+Agriculture and Rural Society after the Black Death	University Of Hertfordshire Press		ProQuest Ebook Central		EBC:716171	978-1-902806-79-2				2009	Unique_Title_Requests	1	0	1
+American Anthropology, 1971-1995	University of Nebraska Press		ProQuest Ebook Central		EBC:565757	978-0-8032-6635-3				2002	Total_Item_Requests	5	5	0
+American Anthropology, 1971-1995	University of Nebraska Press		ProQuest Ebook Central		EBC:565757	978-0-8032-6635-3				2002	Unique_Title_Requests	2	2	0
+An Introduction to MATLAB® Programming and Numerical Methods for Engineers	Elsevier Science & Technology		ProQuest Ebook Central		EBC:5754503	978-0-12-420228-3				2014	Total_Item_Requests	15	15	0
+An Introduction to MATLAB® Programming and Numerical Methods for Engineers	Elsevier Science & Technology		ProQuest Ebook Central		EBC:5754503	978-0-12-420228-3				2014	Unique_Title_Requests	5	5	0
+An Organ of Murder	Rutgers University Press		ProQuest Ebook Central		EBC:6389617	978-1-9788-1307-6				2021	Total_Item_Requests	1	1	0
+An Organ of Murder	Rutgers University Press		ProQuest Ebook Central		EBC:6389617	978-1-9788-1307-6				2021	Unique_Title_Requests	1	1	0
+An Unusual Inquisition	BRILL		ProQuest Ebook Central		EBC:6827598	978-90-04-42378-7				2020	Total_Item_Requests	6	6	0
+An Unusual Inquisition	BRILL		ProQuest Ebook Central		EBC:6827598	978-90-04-42378-7				2020	Unique_Title_Requests	1	1	0
+An Unusual Inquisition	BRILL		ProQuest Ebook Central		EBC:6827598	978-90-04-42378-7				2020	Total_Item_Requests	17	0	17
+An Unusual Inquisition	BRILL		ProQuest Ebook Central		EBC:6827598	978-90-04-42378-7				2020	Unique_Title_Requests	4	0	4
+Ashes of My Dreams	Nimbus Publishing, Limited		ProQuest Ebook Central		EBC:5344805	978-1-927502-69-3				2016	Total_Item_Requests	1795	1795	0
+Ashes of My Dreams	Nimbus Publishing, Limited		ProQuest Ebook Central		EBC:5344805	978-1-927502-69-3				2016	Unique_Title_Requests	185	185	0
+Ashes of My Dreams	Nimbus Publishing, Limited		ProQuest Ebook Central		EBC:5344805	978-1-927502-69-3				2016	Total_Item_Requests	1469	0	1469
+Ashes of My Dreams	Nimbus Publishing, Limited		ProQuest Ebook Central		EBC:5344805	978-1-927502-69-3				2016	Unique_Title_Requests	113	0	113
+Atlas of Small Animal Ultrasonography	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:4180219	978-1-118-35998-3				1991	Total_Item_Requests	1	1	0
+Atlas of Small Animal Ultrasonography	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:4180219	978-1-118-35998-3				1991	Unique_Title_Requests	1	1	0
+Avian Virology	Caister Academic Press		ProQuest Ebook Central		EBC:5897871	978-1-912530-10-6				2019	Total_Item_Requests	1	1	0
+Avian Virology	Caister Academic Press		ProQuest Ebook Central		EBC:5897871	978-1-912530-10-6				2019	Unique_Title_Requests	1	1	0
+Bacterial Diseases	Bentham Science Publishers		ProQuest Ebook Central		EBC:6371159	978-981-14-7374-6				2020	Total_Item_Requests	2	0	2
+Bacterial Diseases	Bentham Science Publishers		ProQuest Ebook Central		EBC:6371159	978-981-14-7374-6				2020	Unique_Title_Requests	1	0	1
+Becoming the Gospel	William B. Eerdmans Publishing Company		ProQuest Ebook Central		EBC:4859272	978-0-8028-6884-8				2015	Total_Item_Requests	2	0	2
+Becoming the Gospel	William B. Eerdmans Publishing Company		ProQuest Ebook Central		EBC:4859272	978-0-8028-6884-8				2015	Unique_Title_Requests	1	0	1
+Behavioral Business Ethics	Taylor & Francis Group		ProQuest Ebook Central		EBC:956988	978-0-415-87324-6				2011	Total_Item_Requests	6	6	0
+Behavioral Business Ethics	Taylor & Francis Group		ProQuest Ebook Central		EBC:956988	978-0-415-87324-6				2011	Unique_Title_Requests	1	1	0
+Bergey's Manual® of Systematic Bacteriology	Springer		ProQuest Ebook Central		EBC:302700	978-0-387-24145-6				2005	Total_Item_Requests	1	0	1
+Bergey's Manual® of Systematic Bacteriology	Springer		ProQuest Ebook Central		EBC:302700	978-0-387-24145-6				2005	Unique_Title_Requests	1	0	1
+Biodiversity of the Gulf of Guinea Oceanic Islands	Springer International Publishing AG		ProQuest Ebook Central		EBC:7118638	978-3-031-06152-3				2022	Total_Item_Requests	1	0	1
+Biodiversity of the Gulf of Guinea Oceanic Islands	Springer International Publishing AG		ProQuest Ebook Central		EBC:7118638	978-3-031-06152-3				2022	Unique_Title_Requests	1	0	1
+Blackwell's Five-Minute Veterinary Consult	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:6516139	978-1-119-51317-9				2021	Total_Item_Requests	16	16	0
+Blackwell's Five-Minute Veterinary Consult	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:6516139	978-1-119-51317-9				2021	Unique_Title_Requests	6	6	0
+Blackwell's Five-Minute Veterinary Consult	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:6516139	978-1-119-51317-9				2021	Total_Item_Requests	2	0	2
+Blackwell's Five-Minute Veterinary Consult	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:6516139	978-1-119-51317-9				2021	Unique_Title_Requests	1	0	1
+Blackwell's Five-Minute Veterinary Consult Clinical Companion	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:818659	978-0-8138-2012-5				2011	Total_Item_Requests	1	1	0
+Blackwell's Five-Minute Veterinary Consult Clinical Companion	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:818659	978-0-8138-2012-5				2011	Unique_Title_Requests	1	1	0
+Blackwell's Five-Minute Veterinary Consult Clinical Companion	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:818659	978-0-8138-2012-5				2011	Total_Item_Requests	1	0	1
+Blackwell's Five-Minute Veterinary Consult Clinical Companion	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:818659	978-0-8138-2012-5				2011	Unique_Title_Requests	1	0	1
+Blackwell's Five-Minute Veterinary Consult Clinical Companion	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:4432247	978-1-119-03654-8				2016	Total_Item_Requests	2	2	0
+Blackwell's Five-Minute Veterinary Consult Clinical Companion	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:4432247	978-1-119-03654-8				2016	Unique_Title_Requests	1	1	0
+Blackwell's Five-Minute Veterinary Consult: Ruminant	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:4983279	978-1-119-06468-8				2017	Total_Item_Requests	5	0	5
+Blackwell's Five-Minute Veterinary Consult: Ruminant	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:4983279	978-1-119-06468-8				2017	Unique_Title_Requests	1	0	1
+Bond Men Made Free	Taylor & Francis Group		ProQuest Ebook Central		EBC:182604	978-0-415-31614-9				2003	Total_Item_Requests	7	0	7
+Bond Men Made Free	Taylor & Francis Group		ProQuest Ebook Central		EBC:182604	978-0-415-31614-9				2003	Unique_Title_Requests	1	0	1
+Bone Marrow Diagnosis	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:1843633	978-1-118-25365-6				2014	Total_Item_Requests	15	15	0
+Bone Marrow Diagnosis	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:1843633	978-1-118-25365-6				2014	Unique_Title_Requests	5	5	0
+Born This Way	University of Chicago Press		ProQuest Ebook Central		EBC:7264544	978-0-226-82751-3				2023	Total_Item_Requests	3	3	0
+Born This Way	University of Chicago Press		ProQuest Ebook Central		EBC:7264544	978-0-226-82751-3				2023	Unique_Title_Requests	2	2	0
+Boys Love Manga and Beyond	University Press of Mississippi		ProQuest Ebook Central		EBC:3039949	978-1-62846-119-0				2015	Total_Item_Requests	2	0	2
+Boys Love Manga and Beyond	University Press of Mississippi		ProQuest Ebook Central		EBC:3039949	978-1-62846-119-0				2015	Unique_Title_Requests	1	0	1
+BSAVA Manual of Canine and Feline Dermatology	British Small Animal Veterinary Association (B S A V A)		ProQuest Ebook Central		EBC:6736497	978-1-910443-80-4				2021	Total_Item_Requests	1	0	1
+BSAVA Manual of Canine and Feline Dermatology	British Small Animal Veterinary Association (B S A V A)		ProQuest Ebook Central		EBC:6736497	978-1-910443-80-4				2021	Unique_Title_Requests	1	0	1
+Can Gun Control Work?	Oxford University Press		ProQuest Ebook Central		EBC:241372	978-0-19-514562-5				2002	Total_Item_Requests	4	4	0
+Can Gun Control Work?	Oxford University Press		ProQuest Ebook Central		EBC:241372	978-0-19-514562-5				2002	Unique_Title_Requests	2	2	0
+Canadian Who's Who 1961-1963	University of Toronto Press		ProQuest Ebook Central		EBC:3257892	978-0-8020-4087-9				2000	Total_Item_Requests	1	1	0
+Canadian Who's Who 1961-1963	University of Toronto Press		ProQuest Ebook Central		EBC:3257892	978-0-8020-4087-9				2000	Unique_Title_Requests	1	1	0
+Canadian Who's Who 2000	University of Toronto Press		ProQuest Ebook Central		EBC:3258444	978-0-8020-4939-1				2000	Total_Item_Requests	1	1	0
+Canadian Who's Who 2000	University of Toronto Press		ProQuest Ebook Central		EBC:3258444	978-0-8020-4939-1				2000	Unique_Title_Requests	1	1	0
+Churchill by Himself	RosettaBooks		ProQuest Ebook Central		EBC:5503195	978-1-58648-957-1				2011	Total_Item_Requests	1	1	0
+Churchill by Himself	RosettaBooks		ProQuest Ebook Central		EBC:5503195	978-1-58648-957-1				2011	Unique_Title_Requests	1	1	0
+Climate Adaptation Modelling	Springer International Publishing AG		ProQuest Ebook Central		EBC:6877773	978-3-030-86210-7				2022	Total_Item_Requests	3	3	0
+Climate Adaptation Modelling	Springer International Publishing AG		ProQuest Ebook Central		EBC:6877773	978-3-030-86210-7				2022	Unique_Title_Requests	1	1	0
+Clinical Infectious Disease	Cambridge University Press		ProQuest Ebook Central		EBC:1025018	978-0-521-87112-9				2008	Total_Item_Requests	2	0	2
+Clinical Infectious Disease	Cambridge University Press		ProQuest Ebook Central		EBC:1025018	978-0-521-87112-9				2008	Unique_Title_Requests	1	0	1
+Clinical Radiology of the Horse	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:4747120	978-1-118-91228-7				2017	Total_Item_Requests	1	0	1
+Clinical Radiology of the Horse	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:4747120	978-1-118-91228-7				2017	Unique_Title_Requests	1	0	1
+Color Atlas of Farm Animal Dermatology	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:5219469	978-1-119-25057-9				2018	Total_Item_Requests	2	0	2
+Color Atlas of Farm Animal Dermatology	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:5219469	978-1-119-25057-9				2018	Unique_Title_Requests	1	0	1
+Communicable Disease Control and Health Protection Handbook	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:5612953	978-1-119-32804-9				2019	Total_Item_Requests	2	0	2
+Communicable Disease Control and Health Protection Handbook	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:5612953	978-1-119-32804-9				2019	Unique_Title_Requests	1	0	1
+Comparative Veterinary Histology with Clinical Correlates	Taylor & Francis Group		ProQuest Ebook Central		EBC:1407692	978-1-84076-148-1				2001	Total_Item_Requests	4	4	0
+Comparative Veterinary Histology with Clinical Correlates	Taylor & Francis Group		ProQuest Ebook Central		EBC:1407692	978-1-84076-148-1				2001	Unique_Title_Requests	2	2	0
+Comprehensive Healthcare Simulation: Operations, Technology, and Innovative Practice	Springer International Publishing AG		ProQuest Ebook Central		EBC:5831090	978-3-030-15377-9				2019	Total_Item_Requests	1	1	0
+Comprehensive Healthcare Simulation: Operations, Technology, and Innovative Practice	Springer International Publishing AG		ProQuest Ebook Central		EBC:5831090	978-3-030-15377-9				2019	Unique_Title_Requests	1	1	0
+Comprehensive Healthcare Simulation: Operations, Technology, and Innovative Practice	Springer International Publishing AG		ProQuest Ebook Central		EBC:5831090	978-3-030-15377-9				2019	Total_Item_Requests	3	0	3
+Comprehensive Healthcare Simulation: Operations, Technology, and Innovative Practice	Springer International Publishing AG		ProQuest Ebook Central		EBC:5831090	978-3-030-15377-9				2019	Unique_Title_Requests	2	0	2
+Concise Review of Veterinary Microbiology	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:4038801	978-1-118-80270-0				2015	Total_Item_Requests	2	2	0
+Concise Review of Veterinary Microbiology	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:4038801	978-1-118-80270-0				2015	Unique_Title_Requests	2	2	0
+Concise Review of Veterinary Microbiology	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:4038801	978-1-118-80270-0				2015	Total_Item_Requests	4	0	4
+Concise Review of Veterinary Microbiology	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:4038801	978-1-118-80270-0				2015	Unique_Title_Requests	3	0	3
+Concise Review of Veterinary Microbiology	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:7104092	978-1-118-80270-0				2015	Total_Item_Requests	1	0	1
+Concise Review of Veterinary Microbiology	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:7104092	978-1-118-80270-0				2015	Unique_Title_Requests	1	0	1
+Cranford	ElecBook		ProQuest Ebook Central		EBC:3008563					2000	Total_Item_Requests	138	0	138
+Cranford	ElecBook		ProQuest Ebook Central		EBC:3008563					2000	Unique_Title_Requests	4	0	4
+Crimes of outrage Sex, violence and Victorian working women	Taylor & Francis Group		ProQuest Ebook Central		EBC:3060258	978-1-85728-190-3				1997	Total_Item_Requests	8	8	0
+Crimes of outrage Sex, violence and Victorian working women	Taylor & Francis Group		ProQuest Ebook Central		EBC:3060258	978-1-85728-190-3				1997	Unique_Title_Requests	3	3	0
+Crimes of outrage Sex, violence and Victorian working women	Taylor & Francis Group		ProQuest Ebook Central		EBC:3060258	978-1-85728-190-3				1997	Total_Item_Requests	16	0	16
+Crimes of outrage Sex, violence and Victorian working women	Taylor & Francis Group		ProQuest Ebook Central		EBC:3060258	978-1-85728-190-3				1997	Unique_Title_Requests	6	0	6
+Critical Pedagogies of Consumption	Taylor & Francis Group		ProQuest Ebook Central		EBC:460276	978-0-415-99789-8				2009	Total_Item_Requests	7	7	0
+Critical Pedagogies of Consumption	Taylor & Francis Group		ProQuest Ebook Central		EBC:460276	978-0-415-99789-8				2009	Unique_Title_Requests	1	1	0
+Curriculum Overload	Organization for Economic Cooperation & Development		ProQuest Ebook Central		EBC:6638921	978-92-64-32326-1				2021	Total_Item_Requests	2	2	0
+Curriculum Overload	Organization for Economic Cooperation & Development		ProQuest Ebook Central		EBC:6638921	978-92-64-32326-1				2021	Unique_Title_Requests	1	1	0
+Design of Experiments for Engineers and Scientists	Elsevier		ProQuest Ebook Central		EBC:286669	978-0-7506-4709-0				2003	Total_Item_Requests	37	37	0
+Design of Experiments for Engineers and Scientists	Elsevier		ProQuest Ebook Central		EBC:286669	978-0-7506-4709-0				2003	Unique_Title_Requests	11	11	0
+Design of Experiments for Engineers and Scientists	Elsevier		ProQuest Ebook Central		EBC:286669	978-0-7506-4709-0				2003	Total_Item_Requests	4	0	4
+Design of Experiments for Engineers and Scientists	Elsevier		ProQuest Ebook Central		EBC:286669	978-0-7506-4709-0				2003	Unique_Title_Requests	3	0	3
+Dietetic and Nutrition	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:7104200	978-1-119-16341-1				2016	Total_Item_Requests	13	13	0
+Dietetic and Nutrition	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:7104200	978-1-119-16341-1				2016	Unique_Title_Requests	2	2	0
+Differential Diagnosis in Small Animal Medicine	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:7103618	978-1-118-40968-8				2015	Total_Item_Requests	1	1	0
+Differential Diagnosis in Small Animal Medicine	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:7103618	978-1-118-40968-8				2015	Unique_Title_Requests	1	1	0
+Disability Incarcerated	Palgrave Macmillan		ProQuest Ebook Central		EBC:1765699	978-1-137-39323-4				2014	Total_Item_Requests	2	0	2
+Disability Incarcerated	Palgrave Macmillan		ProQuest Ebook Central		EBC:1765699	978-1-137-39323-4				2014	Unique_Title_Requests	1	0	1
+Disarm, Defund, Dismantle	Between the Lines		ProQuest Ebook Central		EBC:6944583	978-1-77113-592-4				2022	Total_Item_Requests	17	17	0
+Disarm, Defund, Dismantle	Between the Lines		ProQuest Ebook Central		EBC:6944583	978-1-77113-592-4				2022	Unique_Title_Requests	7	7	0
+Drummin' Men	Oxford University Press, Incorporated		ProQuest Ebook Central		EBC:422640					2002	Total_Item_Requests	1	0	1
+Drummin' Men	Oxford University Press, Incorporated		ProQuest Ebook Central		EBC:422640					2002	Unique_Title_Requests	1	0	1
+Dunes	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:1161532					2013	Total_Item_Requests	2	2	0
+Dunes	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:1161532					2013	Unique_Title_Requests	1	1	0
+Emerging Perspectives on Disability Studies	Palgrave Macmillan		ProQuest Ebook Central		EBC:1588832	978-1-137-37202-4				2013	Total_Item_Requests	6	0	6
+Emerging Perspectives on Disability Studies	Palgrave Macmillan		ProQuest Ebook Central		EBC:1588832	978-1-137-37202-4				2013	Unique_Title_Requests	1	0	1
+Engineering Economics	Global Media		ProQuest Ebook Central		EBC:3011354	978-93-5024-344-2				2009	Total_Item_Requests	1	0	1
+Engineering Economics	Global Media		ProQuest Ebook Central		EBC:3011354	978-93-5024-344-2				2009	Unique_Title_Requests	1	0	1
+Essentials of Clinical Infectious Diseases	Springer Publishing Company, Incorporated		ProQuest Ebook Central		EBC:1127904	978-1-936287-91-8				2013	Total_Item_Requests	2	0	2
+Essentials of Clinical Infectious Diseases	Springer Publishing Company, Incorporated		ProQuest Ebook Central		EBC:1127904	978-1-936287-91-8				2013	Unique_Title_Requests	1	0	1
+Essentials of Cross-Battery Assessment	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:832573	978-0-470-62195-0				2013	Total_Item_Requests	1	0	1
+Essentials of Cross-Battery Assessment	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:832573	978-0-470-62195-0				2013	Unique_Title_Requests	1	0	1
+Essentials of WAIS-IV Assessment	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:947578	978-1-118-27188-9				2012	Total_Item_Requests	17	0	17
+Essentials of WAIS-IV Assessment	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:947578	978-1-118-27188-9				2012	Unique_Title_Requests	2	0	2
+Essentials of WISC-V Integrated Assessment	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:5057719	978-1-119-37042-0				2017	Total_Item_Requests	2	2	0
+Essentials of WISC-V Integrated Assessment	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:5057719	978-1-119-37042-0				2017	Unique_Title_Requests	1	1	0
+Europe Un-Imagined	University of Toronto Press		ProQuest Ebook Central		EBC:5042383	978-1-4426-2879-3				2017	Total_Item_Requests	1	0	1
+Europe Un-Imagined	University of Toronto Press		ProQuest Ebook Central		EBC:5042383	978-1-4426-2879-3				2017	Unique_Title_Requests	1	0	1
+European Transformations	University of Notre Dame Press		ProQuest Ebook Central		EBC:3571177	978-0-268-03610-2				2012	Total_Item_Requests	1	0	1
+European Transformations	University of Notre Dame Press		ProQuest Ebook Central		EBC:3571177	978-0-268-03610-2				2012	Unique_Title_Requests	1	0	1
+Exemplary Instruction in the Middle Grades	Guilford Publications		ProQuest Ebook Central		EBC:836858	978-1-4625-0293-6				2011	Total_Item_Requests	9	9	0
+Exemplary Instruction in the Middle Grades	Guilford Publications		ProQuest Ebook Central		EBC:836858	978-1-4625-0293-6				2011	Unique_Title_Requests	1	1	0
+Explanation in Causal Inference	Oxford University Press, Incorporated		ProQuest Ebook Central		EBC:1920742	978-0-19-932587-0				2015	Total_Item_Requests	35	35	0
+Explanation in Causal Inference	Oxford University Press, Incorporated		ProQuest Ebook Central		EBC:1920742	978-0-19-932587-0				2015	Unique_Title_Requests	13	13	0
+Explanation in Causal Inference	Oxford University Press, Incorporated		ProQuest Ebook Central		EBC:1920742	978-0-19-932587-0				2015	Total_Item_Requests	12	0	12
+Explanation in Causal Inference	Oxford University Press, Incorporated		ProQuest Ebook Central		EBC:1920742	978-0-19-932587-0				2015	Unique_Title_Requests	11	0	11
+Extractive Economies and Conflicts in the Global South	Taylor & Francis Group		ProQuest Ebook Central		EBC:438859	978-0-7546-7075-9				2008	Total_Item_Requests	1	0	1
+Extractive Economies and Conflicts in the Global South	Taylor & Francis Group		ProQuest Ebook Central		EBC:438859	978-0-7546-7075-9				2008	Unique_Title_Requests	1	0	1
+Faculty Diversity	Taylor & Francis Group		ProQuest Ebook Central		EBC:958414	978-0-415-87845-6				2011	Total_Item_Requests	84	84	0
+Faculty Diversity	Taylor & Francis Group		ProQuest Ebook Central		EBC:958414	978-0-415-87845-6				2011	Unique_Title_Requests	13	13	0
+Faculty Diversity	Taylor & Francis Group		ProQuest Ebook Central		EBC:958414	978-0-415-87845-6				2011	Total_Item_Requests	41	0	41
+Faculty Diversity	Taylor & Francis Group		ProQuest Ebook Central		EBC:958414	978-0-415-87845-6				2011	Unique_Title_Requests	8	0	8
+Farm Animal Anesthesia	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:1666535	978-1-118-47435-8				2014	Total_Item_Requests	2	2	0
+Farm Animal Anesthesia	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:1666535	978-1-118-47435-8				2014	Unique_Title_Requests	1	1	0
+Feminist Anthropology	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:7104553	978-1-4051-0195-0				2006	Total_Item_Requests	4	4	0
+Feminist Anthropology	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:7104553	978-1-4051-0195-0				2006	Unique_Title_Requests	1	1	0
+Fish Respiration and Environment	Taylor & Francis Group		ProQuest Ebook Central		EBC:3404259	978-1-57808-357-2				2007	Total_Item_Requests	2	2	0
+Fish Respiration and Environment	Taylor & Francis Group		ProQuest Ebook Central		EBC:3404259	978-1-57808-357-2				2007	Unique_Title_Requests	1	1	0
+Fisher, Neyman, and the Creation of Classical Statistics	Springer		ProQuest Ebook Central		EBC:770143	978-1-4419-9499-8				2011	Total_Item_Requests	1	1	0
+Fisher, Neyman, and the Creation of Classical Statistics	Springer		ProQuest Ebook Central		EBC:770143	978-1-4419-9499-8				2011	Unique_Title_Requests	1	1	0
+Food Borne Pathogens and Antibiotic Resistance	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:4770953	978-1-119-13915-7				2017	Total_Item_Requests	2	0	2
+Food Borne Pathogens and Antibiotic Resistance	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:4770953	978-1-119-13915-7				2017	Unique_Title_Requests	1	0	1
+Generation Us	Orca Book Publishers		ProQuest Ebook Central		EBC:766156	978-1-55469-804-2				2011	Total_Item_Requests	5	5	0
+Generation Us	Orca Book Publishers		ProQuest Ebook Central		EBC:766156	978-1-55469-804-2				2011	Unique_Title_Requests	1	1	0
+Generation Us	Orca Book Publishers		ProQuest Ebook Central		EBC:766156	978-1-55469-804-2				2011	Total_Item_Requests	1	0	1
+Generation Us	Orca Book Publishers		ProQuest Ebook Central		EBC:766156	978-1-55469-804-2				2011	Unique_Title_Requests	1	0	1
+GMO Food	Bloomsbury Publishing USA		ProQuest Ebook Central		EBC:1811985	978-1-61069-685-2				2014	Total_Item_Requests	1	0	1
+GMO Food	Bloomsbury Publishing USA		ProQuest Ebook Central		EBC:1811985	978-1-61069-685-2				2014	Unique_Title_Requests	1	0	1
+Goat Science and Production	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:479917					2010	Total_Item_Requests	2	0	2
+Goat Science and Production	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:479917					2010	Unique_Title_Requests	1	0	1
+Graffiti in Antiquity	Taylor & Francis Group		ProQuest Ebook Central		EBC:1813140	978-1-84465-607-3				2015	Total_Item_Requests	1	0	1
+Graffiti in Antiquity	Taylor & Francis Group		ProQuest Ebook Central		EBC:1813140	978-1-84465-607-3				2015	Unique_Title_Requests	1	0	1
+Group Dynamics	University Press of America, Incorporated		ProQuest Ebook Central		EBC:817139	978-0-7618-5697-9				2011	Total_Item_Requests	47	47	0
+Group Dynamics	University Press of America, Incorporated		ProQuest Ebook Central		EBC:817139	978-0-7618-5697-9				2011	Unique_Title_Requests	21	21	0
+Group Dynamics	University Press of America, Incorporated		ProQuest Ebook Central		EBC:817139	978-0-7618-5697-9				2011	Total_Item_Requests	443	0	443
+Group Dynamics	University Press of America, Incorporated		ProQuest Ebook Central		EBC:817139	978-0-7618-5697-9				2011	Unique_Title_Requests	97	0	97
+Guidelines for the Treatment of Malaria	World Health Organization		ProQuest Ebook Central		EBC:579094	978-92-4-154792-5				2010	Total_Item_Requests	9	0	9
+Guidelines for the Treatment of Malaria	World Health Organization		ProQuest Ebook Central		EBC:579094	978-92-4-154792-5				2010	Unique_Title_Requests	1	0	1
+Handbook of Nursing Diagnosis	Jones & Bartlett Learning, LLC		ProQuest Ebook Central		EBC:6735747	978-1-284-19797-6				2021	Total_Item_Requests	4	4	0
+Handbook of Nursing Diagnosis	Jones & Bartlett Learning, LLC		ProQuest Ebook Central		EBC:6735747	978-1-284-19797-6				2021	Unique_Title_Requests	1	1	0
+Handbook of Sustainable Travel	Springer Netherlands		ProQuest Ebook Central		EBC:1538874	978-94-007-7033-1				2013	Total_Item_Requests	3	0	3
+Handbook of Sustainable Travel	Springer Netherlands		ProQuest Ebook Central		EBC:1538874	978-94-007-7033-1				2013	Unique_Title_Requests	2	0	2
+Handbook of the New Sexuality Studies	Taylor & Francis Group		ProQuest Ebook Central		EBC:292869	978-0-415-38648-7				2006	Total_Item_Requests	14	14	0
+Handbook of the New Sexuality Studies	Taylor & Francis Group		ProQuest Ebook Central		EBC:292869	978-0-415-38648-7				2006	Unique_Title_Requests	4	4	0
+Handbook of the Social Psychology of Inequality	Springer Netherlands		ProQuest Ebook Central		EBC:1802749	978-94-017-9001-7				2014	Total_Item_Requests	2	0	2
+Handbook of the Social Psychology of Inequality	Springer Netherlands		ProQuest Ebook Central		EBC:1802749	978-94-017-9001-7				2014	Unique_Title_Requests	1	0	1
+HESI Comprehensive Review for the NCLEX-RN® Examination	Elsevier		ProQuest Ebook Central		EBC:1746298	978-1-4557-2752-0				2013	Total_Item_Requests	11	11	0
+HESI Comprehensive Review for the NCLEX-RN® Examination	Elsevier		ProQuest Ebook Central		EBC:1746298	978-1-4557-2752-0				2013	Unique_Title_Requests	2	2	0
+Histology for Pathologists	Wolters Kluwer		ProQuest Ebook Central		EBC:6269421	978-1-4963-9894-9				2019	Total_Item_Requests	1	1	0
+Histology for Pathologists	Wolters Kluwer		ProQuest Ebook Central		EBC:6269421	978-1-4963-9894-9				2019	Unique_Title_Requests	1	1	0
+History and Social Anthropology	Taylor & Francis Group		ProQuest Ebook Central		EBC:1461019	978-0-415-33033-6				2005	Total_Item_Requests	19	19	0
+History and Social Anthropology	Taylor & Francis Group		ProQuest Ebook Central		EBC:1461019	978-0-415-33033-6				2005	Unique_Title_Requests	2	2	0
+Homeschooling in America	Corwin Press		ProQuest Ebook Central		EBC:1993873	978-1-4522-0523-6				2012	Total_Item_Requests	1	0	1
+Homeschooling in America	Corwin Press		ProQuest Ebook Central		EBC:1993873	978-1-4522-0523-6				2012	Unique_Title_Requests	1	0	1
+Human Rights, Refugee Protest and Immigration Detention	Palgrave Macmillan UK		ProQuest Ebook Central		EBC:4719837	978-1-137-58095-5				2016	Total_Item_Requests	3	3	0
+Human Rights, Refugee Protest and Immigration Detention	Palgrave Macmillan UK		ProQuest Ebook Central		EBC:4719837	978-1-137-58095-5				2016	Unique_Title_Requests	1	1	0
+Indianthusiasm	Wilfrid Laurier University Press		ProQuest Ebook Central		EBC:6034276	978-1-77112-399-0				2020	Total_Item_Requests	2	0	2
+Indianthusiasm	Wilfrid Laurier University Press		ProQuest Ebook Central		EBC:6034276	978-1-77112-399-0				2020	Unique_Title_Requests	1	0	1
+Infection	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:477849	978-1-4051-2665-6				2006	Total_Item_Requests	2	0	2
+Infection	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:477849	978-1-4051-2665-6				2006	Unique_Title_Requests	1	0	1
+Infectious Disease	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:428120	978-1-4051-3543-6				2009	Total_Item_Requests	2	0	2
+Infectious Disease	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:428120	978-1-4051-3543-6				2009	Unique_Title_Requests	1	0	1
+Introduction to Advanced Manufacturing	SAE International		ProQuest Ebook Central		EBC:28994469	978-0-7680-9327-8				2019	Total_Item_Requests	23	0	23
+Introduction to Advanced Manufacturing	SAE International		ProQuest Ebook Central		EBC:28994469	978-0-7680-9327-8				2019	Unique_Title_Requests	1	0	1
+Introduction to Determinants of First Nations, Inuit, and Métis Peoples' Health in Canada	Canadian Scholars		ProQuest Ebook Central		EBC:7077116	978-1-77338-319-4				2022	Total_Item_Requests	29	29	0
+Introduction to Determinants of First Nations, Inuit, and Métis Peoples' Health in Canada	Canadian Scholars		ProQuest Ebook Central		EBC:7077116	978-1-77338-319-4				2022	Unique_Title_Requests	7	7	0
+Introduction to Determinants of First Nations, Inuit, and Métis Peoples' Health in Canada	Canadian Scholars		ProQuest Ebook Central		EBC:7077116	978-1-77338-319-4				2022	Total_Item_Requests	139	0	139
+Introduction to Determinants of First Nations, Inuit, and Métis Peoples' Health in Canada	Canadian Scholars		ProQuest Ebook Central		EBC:7077116	978-1-77338-319-4				2022	Unique_Title_Requests	32	0	32
+Introduction to Fluorescence	Taylor & Francis Group		ProQuest Ebook Central		EBC:1443835	978-1-4398-0604-3				2014	Total_Item_Requests	6	6	0
+Introduction to Fluorescence	Taylor & Francis Group		ProQuest Ebook Central		EBC:1443835	978-1-4398-0604-3				2014	Unique_Title_Requests	1	1	0
+Ireland's Exiled Children	Oxford University Press, Incorporated		ProQuest Ebook Central		EBC:4413905	978-0-19-022428-8				2016	Total_Item_Requests	7	0	7
+Ireland's Exiled Children	Oxford University Press, Incorporated		ProQuest Ebook Central		EBC:4413905	978-0-19-022428-8				2016	Unique_Title_Requests	1	0	1
+Issues in Curating Contemporary Art and Performance	Intellect, Limited		ProQuest Ebook Central		EBC:329916	978-1-84150-162-8				2008	Total_Item_Requests	2	2	0
+Issues in Curating Contemporary Art and Performance	Intellect, Limited		ProQuest Ebook Central		EBC:329916	978-1-84150-162-8				2008	Unique_Title_Requests	1	1	0
+Key Papers on Korea: Essays Celebrating 25 Years of the Centre of Korean Studies, SOAS, University of London	BRILL		ProQuest Ebook Central		EBC:1582255	978-90-04-25458-9				2013	Total_Item_Requests	1	0	1
+Key Papers on Korea: Essays Celebrating 25 Years of the Centre of Korean Studies, SOAS, University of London	BRILL		ProQuest Ebook Central		EBC:1582255	978-90-04-25458-9				2013	Unique_Title_Requests	1	0	1
+Knowledge and Critical Pedagogy	Springer Netherlands		ProQuest Ebook Central		EBC:367413	978-1-4020-8223-8				2008	Total_Item_Requests	3	3	0
+Knowledge and Critical Pedagogy	Springer Netherlands		ProQuest Ebook Central		EBC:367413	978-1-4020-8223-8				2008	Unique_Title_Requests	1	1	0
+Knowledge and Critical Pedagogy	Springer Netherlands		ProQuest Ebook Central		EBC:367413	978-1-4020-8223-8				2008	Total_Item_Requests	4	0	4
+Knowledge and Critical Pedagogy	Springer Netherlands		ProQuest Ebook Central		EBC:367413	978-1-4020-8223-8				2008	Unique_Title_Requests	3	0	3
+La Francophonie Canadienne	University of Ottawa Press/Les Presses de l'Universite d'Ottawa		ProQuest Ebook Central		EBC:3245237	978-2-7603-0600-4				2005	Total_Item_Requests	4	4	0
+La Francophonie Canadienne	University of Ottawa Press/Les Presses de l'Universite d'Ottawa		ProQuest Ebook Central		EBC:3245237	978-2-7603-0600-4				2005	Unique_Title_Requests	1	1	0
+Living Treaties	Cape Breton University Press		ProQuest Ebook Central		EBC:4814051	978-1-77206-053-9				2018	Total_Item_Requests	2	2	0
+Living Treaties	Cape Breton University Press		ProQuest Ebook Central		EBC:4814051	978-1-77206-053-9				2018	Unique_Title_Requests	1	1	0
+LSAT for Dummies	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:1635363	978-1-118-67805-3				2014	Total_Item_Requests	3	3	0
+LSAT for Dummies	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:1635363	978-1-118-67805-3				2014	Unique_Title_Requests	1	1	0
+Make It All about Them	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:1104476	978-1-118-42837-5				2012	Total_Item_Requests	5	0	5
+Make It All about Them	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:1104476	978-1-118-42837-5				2012	Unique_Title_Requests	4	0	4
+Mansfield Park	Cambridge University Press		ProQuest Ebook Central		EBC:4949527					2005	Total_Item_Requests	1	1	0
+Mansfield Park	Cambridge University Press		ProQuest Ebook Central		EBC:4949527					2005	Unique_Title_Requests	1	1	0
+Mansfield Park	Cambridge University Press		ProQuest Ebook Central		EBC:4949527					2005	Total_Item_Requests	3	0	3
+Mansfield Park	Cambridge University Press		ProQuest Ebook Central		EBC:4949527					2005	Unique_Title_Requests	2	0	2
+Mansfield Park	Open Road Integrated Media, Inc.		ProQuest Ebook Central		EBC:4353537					2012	Total_Item_Requests	4	0	4
+Mansfield Park	Open Road Integrated Media, Inc.		ProQuest Ebook Central		EBC:4353537					2012	Unique_Title_Requests	1	0	1
+Many-Headed Hydra	Beacon Press		ProQuest Ebook Central		EBC:3117968	978-0-8070-5006-4				2000	Total_Item_Requests	64	0	64
+Many-Headed Hydra	Beacon Press		ProQuest Ebook Central		EBC:3117968	978-0-8070-5006-4				2000	Unique_Title_Requests	7	0	7
+MATLAB for Dummies	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:6633221	978-1-119-79688-6				2021	Total_Item_Requests	1	0	1
+MATLAB for Dummies	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:6633221	978-1-119-79688-6				2021	Unique_Title_Requests	1	0	1
+Mexican American Mojo	Duke University Press		ProQuest Ebook Central		EBC:1169892	978-0-8223-4339-4				2008	Total_Item_Requests	2	0	2
+Mexican American Mojo	Duke University Press		ProQuest Ebook Central		EBC:1169892	978-0-8223-4339-4				2008	Unique_Title_Requests	2	0	2
+Microbiology and Infectious Diseases on the Move	Taylor & Francis Group		ProQuest Ebook Central		EBC:967166	978-1-4441-2012-7				2012	Total_Item_Requests	2	0	2
+Microbiology and Infectious Diseases on the Move	Taylor & Francis Group		ProQuest Ebook Central		EBC:967166	978-1-4441-2012-7				2012	Unique_Title_Requests	1	0	1
+Modeling and Simulation Support for System of Systems Engineering Applications	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:1895472	978-1-118-46031-3				2015	Total_Item_Requests	1	1	0
+Modeling and Simulation Support for System of Systems Engineering Applications	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:1895472	978-1-118-46031-3				2015	Unique_Title_Requests	1	1	0
+Molecular Fluorescence	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:1161964	978-3-527-32846-8				2013	Total_Item_Requests	11	11	0
+Molecular Fluorescence	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:1161964	978-3-527-32846-8				2013	Unique_Title_Requests	1	1	0
+Mosby's 2021 Nursing Drug Reference E-Book	Mosby		ProQuest Ebook Central		EBC:6128701	978-0-323-75733-1				2020	Total_Item_Requests	4	4	0
+Mosby's 2021 Nursing Drug Reference E-Book	Mosby		ProQuest Ebook Central		EBC:6128701	978-0-323-75733-1				2020	Unique_Title_Requests	2	2	0
+Mosby's 2021 Nursing Drug Reference E-Book	Mosby		ProQuest Ebook Central		EBC:6128701	978-0-323-75733-1				2020	Total_Item_Requests	3	0	3
+Mosby's 2021 Nursing Drug Reference E-Book	Mosby		ProQuest Ebook Central		EBC:6128701	978-0-323-75733-1				2020	Unique_Title_Requests	1	0	1
+Near Abroad	Oxford University Press, Incorporated		ProQuest Ebook Central		EBC:4766833	978-0-19-025330-1				2017	Total_Item_Requests	2	0	2
+Near Abroad	Oxford University Press, Incorporated		ProQuest Ebook Central		EBC:4766833	978-0-19-025330-1				2017	Unique_Title_Requests	1	0	1
+Noordsy's Food Animal Surgery	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:1520754	978-1-118-35260-1				2014	Total_Item_Requests	2	2	0
+Noordsy's Food Animal Surgery	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:1520754	978-1-118-35260-1				2014	Unique_Title_Requests	1	1	0
+Notes on Feline Internal Medicine	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:1246397	978-0-470-67117-7				2013	Total_Item_Requests	2	0	2
+Notes on Feline Internal Medicine	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:1246397	978-0-470-67117-7				2013	Unique_Title_Requests	1	0	1
+On-Farm Strategies to Control Foodborne Pathogens	Nova Science Publishers, Incorporated		ProQuest Ebook Central		EBC:3021455	978-1-62100-411-0				2012	Total_Item_Requests	1	0	1
+On-Farm Strategies to Control Foodborne Pathogens	Nova Science Publishers, Incorporated		ProQuest Ebook Central		EBC:3021455	978-1-62100-411-0				2012	Unique_Title_Requests	1	0	1
+Pathogenesis of Bacterial Infections in Animals	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:468756	978-0-8138-2939-5				2004	Total_Item_Requests	4	0	4
+Pathogenesis of Bacterial Infections in Animals	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:468756	978-0-8138-2939-5				2004	Unique_Title_Requests	1	0	1
+Pathologic Basis of Veterinary Disease E-BOOK	Mosby		ProQuest Ebook Central		EBC:6837937	978-0-323-71313-9				2021	Total_Item_Requests	10	10	0
+Pathologic Basis of Veterinary Disease E-BOOK	Mosby		ProQuest Ebook Central		EBC:6837937	978-0-323-71313-9				2021	Unique_Title_Requests	3	3	0
+Pathologic Basis of Veterinary Disease E-BOOK	Mosby		ProQuest Ebook Central		EBC:6837937	978-0-323-71313-9				2021	Total_Item_Requests	38	0	38
+Pathologic Basis of Veterinary Disease E-BOOK	Mosby		ProQuest Ebook Central		EBC:6837937	978-0-323-71313-9				2021	Unique_Title_Requests	9	0	9
+Pocket Guide to Bacterial Infections	Taylor & Francis Group		ProQuest Ebook Central		EBC:5683723	978-1-138-05491-2				2019	Total_Item_Requests	2	0	2
+Pocket Guide to Bacterial Infections	Taylor & Francis Group		ProQuest Ebook Central		EBC:5683723	978-1-138-05491-2				2019	Unique_Title_Requests	1	0	1
+Prison Food in America	Rowman & Littlefield Publishers, Incorporated		ProQuest Ebook Central		EBC:4733917	978-1-4422-5347-6				2016	Total_Item_Requests	1	0	1
+Prison Food in America	Rowman & Littlefield Publishers, Incorporated		ProQuest Ebook Central		EBC:4733917	978-1-4422-5347-6				2016	Unique_Title_Requests	1	0	1
+Probabilistic Theory of Mean Field Games with Applications II	Springer International Publishing AG		ProQuest Ebook Central		EBC:5319949	978-3-319-56435-7				2018	Total_Item_Requests	11	0	11
+Probabilistic Theory of Mean Field Games with Applications II	Springer International Publishing AG		ProQuest Ebook Central		EBC:5319949	978-3-319-56435-7				2018	Unique_Title_Requests	3	0	3
+Production diseases in farm animals	Wageningen Academic Publishers		ProQuest Ebook Central		EBC:3572049	978-90-76998-57-2				2006	Total_Item_Requests	1	0	1
+Production diseases in farm animals	Wageningen Academic Publishers		ProQuest Ebook Central		EBC:3572049	978-90-76998-57-2				2006	Unique_Title_Requests	1	0	1
+Program Management Office Advantage	AMACOM		ProQuest Ebook Central		EBC:472562	978-0-8144-1426-2				2009	Total_Item_Requests	1	0	1
+Program Management Office Advantage	AMACOM		ProQuest Ebook Central		EBC:472562	978-0-8144-1426-2				2009	Unique_Title_Requests	1	0	1
+Pursuit of Power in Modern Japan, 1825-1995, The	Oxford University Press		ProQuest Ebook Central		EBC:4964657	978-0-19-820589-0				2000	Total_Item_Requests	1	1	0
+Pursuit of Power in Modern Japan, 1825-1995, The	Oxford University Press		ProQuest Ebook Central		EBC:4964657	978-0-19-820589-0				2000	Unique_Title_Requests	1	1	0
+Putting a Name to It	Johns Hopkins University Press		ProQuest Ebook Central		EBC:3318855	978-1-4214-1574-1				2011	Total_Item_Requests	13	0	13
+Putting a Name to It	Johns Hopkins University Press		ProQuest Ebook Central		EBC:3318855	978-1-4214-1574-1				2011	Unique_Title_Requests	2	0	2
+Qualitative Research	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:2089475	978-1-119-00361-8				2015	Total_Item_Requests	3	3	0
+Qualitative Research	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:2089475	978-1-119-00361-8				2015	Unique_Title_Requests	2	2	0
+Qualitative Research	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:2089475	978-1-119-00361-8				2015	Total_Item_Requests	64	0	64
+Qualitative Research	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:2089475	978-1-119-00361-8				2015	Unique_Title_Requests	8	0	8
+Race and Ethnicity in America [4 Volumes]	Bloomsbury Publishing USA		ProQuest Ebook Central		EBC:5940282	978-1-4408-5096-7				2019	Total_Item_Requests	9	0	9
+Race and Ethnicity in America [4 Volumes]	Bloomsbury Publishing USA		ProQuest Ebook Central		EBC:5940282	978-1-4408-5096-7				2019	Unique_Title_Requests	2	0	2
+Raising Henry	Yale University Press		ProQuest Ebook Central		EBC:3421280	978-0-300-18000-8				2013	Total_Item_Requests	1	0	1
+Raising Henry	Yale University Press		ProQuest Ebook Central		EBC:3421280	978-0-300-18000-8				2013	Unique_Title_Requests	1	0	1
+Reading Popular Culture in Victorian Print	Palgrave Macmillan		ProQuest Ebook Central		EBC:555482	978-0-230-61521-2				2009	Total_Item_Requests	2	0	2
+Reading Popular Culture in Victorian Print	Palgrave Macmillan		ProQuest Ebook Central		EBC:555482	978-0-230-61521-2				2009	Unique_Title_Requests	1	0	1
+Reformation World	Taylor & Francis Group		ProQuest Ebook Central		EBC:3060336	978-0-415-16357-6				2000	Total_Item_Requests	1	1	0
+Reformation World	Taylor & Francis Group		ProQuest Ebook Central		EBC:3060336	978-0-415-16357-6				2000	Unique_Title_Requests	1	1	0
+Reigniting Curiosity and Inquiry in Higher Education	Stylus Publishing, LLC		ProQuest Ebook Central		EBC:30225482	978-1-64267-445-3				2022	Total_Item_Requests	17	17	0
+Reigniting Curiosity and Inquiry in Higher Education	Stylus Publishing, LLC		ProQuest Ebook Central		EBC:30225482	978-1-64267-445-3				2022	Unique_Title_Requests	7	7	0
+Reigniting Curiosity and Inquiry in Higher Education	Stylus Publishing, LLC		ProQuest Ebook Central		EBC:30225482	978-1-64267-445-3				2022	Total_Item_Requests	2	0	2
+Reigniting Curiosity and Inquiry in Higher Education	Stylus Publishing, LLC		ProQuest Ebook Central		EBC:30225482	978-1-64267-445-3				2022	Unique_Title_Requests	1	0	1
+Representations of Gender from Prehistory to the Present	Palgrave Macmillan UK		ProQuest Ebook Central		EBC:5642283	978-0-312-22397-7				2000	Total_Item_Requests	4	0	4
+Representations of Gender from Prehistory to the Present	Palgrave Macmillan UK		ProQuest Ebook Central		EBC:5642283	978-0-312-22397-7				2000	Unique_Title_Requests	1	0	1
+Research Methods, Second Edition	Canadian Scholars		ProQuest Ebook Central		EBC:6282085	978-1-77338-154-1				2020	Total_Item_Requests	422	422	0
+Research Methods, Second Edition	Canadian Scholars		ProQuest Ebook Central		EBC:6282085	978-1-77338-154-1				2020	Unique_Title_Requests	127	127	0
+Research Methods, Second Edition	Canadian Scholars		ProQuest Ebook Central		EBC:6282085	978-1-77338-154-1				2020	Total_Item_Requests	208	0	208
+Research Methods, Second Edition	Canadian Scholars		ProQuest Ebook Central		EBC:6282085	978-1-77338-154-1				2020	Unique_Title_Requests	48	0	48
+Response Surface Methodology	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:7104227	978-1-118-91601-8				2016	Total_Item_Requests	14	14	0
+Response Surface Methodology	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:7104227	978-1-118-91601-8				2016	Unique_Title_Requests	1	1	0
+Responsible Tourism	Goodfellow Publishers, Limited		ProQuest Ebook Central		EBC:4721517	978-1-910158-85-2				2016	Total_Item_Requests	239	239	0
+Responsible Tourism	Goodfellow Publishers, Limited		ProQuest Ebook Central		EBC:4721517	978-1-910158-85-2				2016	Unique_Title_Requests	48	48	0
+Responsible Tourism	Goodfellow Publishers, Limited		ProQuest Ebook Central		EBC:4721517	978-1-910158-85-2				2016	Total_Item_Requests	233	0	233
+Responsible Tourism	Goodfellow Publishers, Limited		ProQuest Ebook Central		EBC:4721517	978-1-910158-85-2				2016	Unique_Title_Requests	25	0	25
+Rip Van Winkle	Open Road Integrated Media, Inc.		ProQuest Ebook Central		EBC:5013734					1967	Total_Item_Requests	21	21	0
+Rip Van Winkle	Open Road Integrated Media, Inc.		ProQuest Ebook Central		EBC:5013734					1967	Unique_Title_Requests	3	3	0
+Rip Van Winkle	Open Road Integrated Media, Inc.		ProQuest Ebook Central		EBC:5013734					1967	Total_Item_Requests	8	0	8
+Rip Van Winkle	Open Road Integrated Media, Inc.		ProQuest Ebook Central		EBC:5013734					1967	Unique_Title_Requests	2	0	2
+Roman Pompeii	Taylor & Francis Group		ProQuest Ebook Central		EBC:178314	978-0-415-14103-1				1996	Total_Item_Requests	8	8	0
+Roman Pompeii	Taylor & Francis Group		ProQuest Ebook Central		EBC:178314	978-0-415-14103-1				1996	Unique_Title_Requests	1	1	0
+Roman Pompeii	Taylor & Francis Group		ProQuest Ebook Central		EBC:178314	978-0-415-14103-1				1996	Total_Item_Requests	2	0	2
+Roman Pompeii	Taylor & Francis Group		ProQuest Ebook Central		EBC:178314	978-0-415-14103-1				1996	Unique_Title_Requests	1	0	1
+Sea Lice Biology and Control	5m Publishing		ProQuest Ebook Central		EBC:7186670	978-1-78918-191-3				2023	Total_Item_Requests	51	51	0
+Sea Lice Biology and Control	5m Publishing		ProQuest Ebook Central		EBC:7186670	978-1-78918-191-3				2023	Unique_Title_Requests	8	8	0
+Sea Lice Biology and Control	5m Publishing		ProQuest Ebook Central		EBC:7186670	978-1-78918-191-3				2023	Total_Item_Requests	18	0	18
+Sea Lice Biology and Control	5m Publishing		ProQuest Ebook Central		EBC:7186670	978-1-78918-191-3				2023	Unique_Title_Requests	3	0	3
+Signals and Systems	Orchard Publications		ProQuest Ebook Central		EBC:3384197	978-1-934404-23-2				2012	Total_Item_Requests	3	3	0
+Signals and Systems	Orchard Publications		ProQuest Ebook Central		EBC:3384197	978-1-934404-23-2				2012	Unique_Title_Requests	2	2	0
+Small Island Developing States	Springer International Publishing AG		ProQuest Ebook Central		EBC:6787308	978-3-030-82773-1				2021	Total_Item_Requests	1	0	1
+Small Island Developing States	Springer International Publishing AG		ProQuest Ebook Central		EBC:6787308	978-3-030-82773-1				2021	Unique_Title_Requests	1	0	1
+Social and Cultural Anthropology	Taylor & Francis Group		ProQuest Ebook Central		EBC:170138	978-0-415-18155-6				2000	Total_Item_Requests	3	3	0
+Social and Cultural Anthropology	Taylor & Francis Group		ProQuest Ebook Central		EBC:170138	978-0-415-18155-6				2000	Unique_Title_Requests	1	1	0
+Social Anthropology	Taylor & Francis Group		ProQuest Ebook Central		EBC:1460971	978-0-415-33030-5				2004	Total_Item_Requests	2	2	0
+Social Anthropology	Taylor & Francis Group		ProQuest Ebook Central		EBC:1460971	978-0-415-33030-5				2004	Unique_Title_Requests	2	2	0
+Soil Erosion and Carbon Dynamics	Taylor & Francis Group		ProQuest Ebook Central		EBC:7244862	978-0-367-57794-0				2005	Total_Item_Requests	2	2	0
+Soil Erosion and Carbon Dynamics	Taylor & Francis Group		ProQuest Ebook Central		EBC:7244862	978-0-367-57794-0				2005	Unique_Title_Requests	1	1	0
+Stories of Culture and Place	University of Toronto Press		ProQuest Ebook Central		EBC:5150681	978-1-4875-9370-4				2017	Total_Item_Requests	1	1	0
+Stories of Culture and Place	University of Toronto Press		ProQuest Ebook Central		EBC:5150681	978-1-4875-9370-4				2017	Unique_Title_Requests	1	1	0
+Stories of Culture and Place	University of Toronto Press		ProQuest Ebook Central		EBC:5150681	978-1-4875-9370-4				2017	Total_Item_Requests	1	0	1
+Stories of Culture and Place	University of Toronto Press		ProQuest Ebook Central		EBC:5150681	978-1-4875-9370-4				2017	Unique_Title_Requests	1	0	1
+Street Sex Workers' Discourse	Taylor & Francis Group		ProQuest Ebook Central		EBC:1172895	978-0-415-88707-6				2013	Total_Item_Requests	6	6	0
+Street Sex Workers' Discourse	Taylor & Francis Group		ProQuest Ebook Central		EBC:1172895	978-0-415-88707-6				2013	Unique_Title_Requests	1	1	0
+Successful Aging	Springer Netherlands		ProQuest Ebook Central		EBC:1973792	978-94-017-9330-8				2015	Total_Item_Requests	8	0	8
+Successful Aging	Springer Netherlands		ProQuest Ebook Central		EBC:1973792	978-94-017-9330-8				2015	Unique_Title_Requests	1	0	1
+Sustainable Tourism in Island Destinations	Taylor & Francis Group		ProQuest Ebook Central		EBC:605289	978-1-84407-779-3				2010	Total_Item_Requests	1	1	0
+Sustainable Tourism in Island Destinations	Taylor & Francis Group		ProQuest Ebook Central		EBC:605289	978-1-84407-779-3				2010	Unique_Title_Requests	1	1	0
+Sustainable Tourism in Island Destinations	Taylor & Francis Group		ProQuest Ebook Central		EBC:605289	978-1-84407-779-3				2010	Total_Item_Requests	13	0	13
+Sustainable Tourism in Island Destinations	Taylor & Francis Group		ProQuest Ebook Central		EBC:605289	978-1-84407-779-3				2010	Unique_Title_Requests	2	0	2
+System Dynamics	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:817383	978-0-470-88908-4				2012	Total_Item_Requests	36	36	0
+System Dynamics	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:817383	978-0-470-88908-4				2012	Unique_Title_Requests	11	11	0
+System Dynamics	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:817383	978-0-470-88908-4				2012	Total_Item_Requests	9	0	9
+System Dynamics	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:817383	978-0-470-88908-4				2012	Unique_Title_Requests	7	0	7
+Text Book on Systemic Pathology of Domestic Animals	Global Media		ProQuest Ebook Central		EBC:3011457	978-81-8189-507-3				2009	Total_Item_Requests	1	0	1
+Text Book on Systemic Pathology of Domestic Animals	Global Media		ProQuest Ebook Central		EBC:3011457	978-81-8189-507-3				2009	Unique_Title_Requests	1	0	1
+The AMA Handbook of Project Management	AMACOM		ProQuest Ebook Central		EBC:1596414	978-0-8144-3339-3				2014	Total_Item_Requests	1	0	1
+The AMA Handbook of Project Management	AMACOM		ProQuest Ebook Central		EBC:1596414	978-0-8144-3339-3				2014	Unique_Title_Requests	1	0	1
+The Anthropology of Cultural Performance	Palgrave Macmillan		ProQuest Ebook Central		EBC:1366352	978-1-137-34398-7				2013	Total_Item_Requests	5	5	0
+The Anthropology of Cultural Performance	Palgrave Macmillan		ProQuest Ebook Central		EBC:1366352	978-1-137-34398-7				2013	Unique_Title_Requests	1	1	0
+The Development of Play	Taylor & Francis Group		ProQuest Ebook Central		EBC:356213	978-0-415-34701-3				2006	Total_Item_Requests	3	0	3
+The Development of Play	Taylor & Francis Group		ProQuest Ebook Central		EBC:356213	978-0-415-34701-3				2006	Unique_Title_Requests	3	0	3
+The Education of Augie Merasty	University of Regina		ProQuest Ebook Central		EBC:5200986	978-0-88977-368-4				2015	Total_Item_Requests	115	115	0
+The Education of Augie Merasty	University of Regina		ProQuest Ebook Central		EBC:5200986	978-0-88977-368-4				2015	Unique_Title_Requests	13	13	0
+The Education of Augie Merasty	University of Regina		ProQuest Ebook Central		EBC:5200986	978-0-88977-368-4				2015	Total_Item_Requests	18	0	18
+The Education of Augie Merasty	University of Regina		ProQuest Ebook Central		EBC:5200986	978-0-88977-368-4				2015	Unique_Title_Requests	6	0	6
+The Evolution of Morality	MIT Press		ProQuest Ebook Central		EBC:3338603	978-0-262-10112-7				2005	Total_Item_Requests	1	1	0
+The Evolution of Morality	MIT Press		ProQuest Ebook Central		EBC:3338603	978-0-262-10112-7				2005	Unique_Title_Requests	1	1	0
+The Feminist and The Sex Offender	Verso		ProQuest Ebook Central		EBC:6176374	978-1-78873-340-3				2020	Total_Item_Requests	1	1	0
+The Feminist and The Sex Offender	Verso		ProQuest Ebook Central		EBC:6176374	978-1-78873-340-3				2020	Unique_Title_Requests	1	1	0
+The Great Famine and Genocide in Iran	University Press of America, Incorporated		ProQuest Ebook Central		EBC:1315696	978-0-7618-6167-6				2013	Total_Item_Requests	35	35	0
+The Great Famine and Genocide in Iran	University Press of America, Incorporated		ProQuest Ebook Central		EBC:1315696	978-0-7618-6167-6				2013	Unique_Title_Requests	6	6	0
+The Oxford Handbook of Music Therapy	Oxford University Press, Incorporated		ProQuest Ebook Central		EBC:6380354	978-0-19-881714-7				2017	Total_Item_Requests	3	0	3
+The Oxford Handbook of Music Therapy	Oxford University Press, Incorporated		ProQuest Ebook Central		EBC:6380354	978-0-19-881714-7				2017	Unique_Title_Requests	1	0	1
+The Resilience Imperative	New Society Publishers, Limited		ProQuest Ebook Central		EBC:5180720	978-0-86571-707-7				2012	Total_Item_Requests	1	1	0
+The Resilience Imperative	New Society Publishers, Limited		ProQuest Ebook Central		EBC:5180720	978-0-86571-707-7				2012	Unique_Title_Requests	1	1	0
+The Unseen Realm	Faithlife Corporation		ProQuest Ebook Central		EBC:5153222	978-1-57799-556-2				2015	Total_Item_Requests	17	0	17
+The Unseen Realm	Faithlife Corporation		ProQuest Ebook Central		EBC:5153222	978-1-57799-556-2				2015	Unique_Title_Requests	2	0	2
+The Use of Drugs in Food Animals	National Academies Press		ProQuest Ebook Central		EBC:3375853	978-0-309-05434-8				1999	Total_Item_Requests	3	0	3
+The Use of Drugs in Food Animals	National Academies Press		ProQuest Ebook Central		EBC:3375853	978-0-309-05434-8				1999	Unique_Title_Requests	2	0	2
+The Wiley Handbook of Paulo Freire	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:5820423	978-1-119-23671-9				2019	Total_Item_Requests	15	15	0
+The Wiley Handbook of Paulo Freire	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:5820423	978-1-119-23671-9				2019	Unique_Title_Requests	2	2	0
+Thomas Becket	Paulist Press		ProQuest Ebook Central		EBC:6385032	978-0-8091-5472-2				2020	Total_Item_Requests	1	1	0
+Thomas Becket	Paulist Press		ProQuest Ebook Central		EBC:6385032	978-0-8091-5472-2				2020	Unique_Title_Requests	1	1	0
+Tomorrow We're All Going to the Harvest	University of Texas Press		ProQuest Ebook Central		EBC:3443628	978-0-292-74380-9				2013	Total_Item_Requests	1	0	1
+Tomorrow We're All Going to the Harvest	University of Texas Press		ProQuest Ebook Central		EBC:3443628	978-0-292-74380-9				2013	Unique_Title_Requests	1	0	1
+Transgender History	Seal Press		ProQuest Ebook Central		EBC:680024	978-1-58005-224-5				2009	Total_Item_Requests	1	0	1
+Transgender History	Seal Press		ProQuest Ebook Central		EBC:680024	978-1-58005-224-5				2009	Unique_Title_Requests	1	0	1
+Turner and Mcilwraith's Techniques in Large Animal Surgery	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:1209654	978-1-118-27323-4				2013	Total_Item_Requests	8	8	0
+Turner and Mcilwraith's Techniques in Large Animal Surgery	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:1209654	978-1-118-27323-4				2013	Unique_Title_Requests	3	3	0
+Turner and Mcilwraith's Techniques in Large Animal Surgery	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:1209654	978-1-118-27323-4				2013	Total_Item_Requests	42	0	42
+Turner and Mcilwraith's Techniques in Large Animal Surgery	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:1209654	978-1-118-27323-4				2013	Unique_Title_Requests	11	0	11
+US Foreign Policy Decision-Making from Truman to Kennedy	Palgrave Macmillan		ProQuest Ebook Central		EBC:1661511	978-1-137-29485-2				2014	Total_Item_Requests	27	0	27
+US Foreign Policy Decision-Making from Truman to Kennedy	Palgrave Macmillan		ProQuest Ebook Central		EBC:1661511	978-1-137-29485-2				2014	Unique_Title_Requests	1	0	1
+Vertebrate Endocrinology	Elsevier Science & Technology		ProQuest Ebook Central		EBC:282124	978-0-12-088768-2				2006	Total_Item_Requests	58	58	0
+Vertebrate Endocrinology	Elsevier Science & Technology		ProQuest Ebook Central		EBC:282124	978-0-12-088768-2				2006	Unique_Title_Requests	29	29	0
+Vertebrate Endocrinology	Elsevier Science & Technology		ProQuest Ebook Central		EBC:282124	978-0-12-088768-2				2006	Total_Item_Requests	7	0	7
+Vertebrate Endocrinology	Elsevier Science & Technology		ProQuest Ebook Central		EBC:282124	978-0-12-088768-2				2006	Unique_Title_Requests	3	0	3
+Veterinary Anatomy of Domestic Animals	Thieme Medical Publishers, Incorporated		ProQuest Ebook Central		EBC:6368853	978-3-13-242933-8				2020	Total_Item_Requests	50	50	0
+Veterinary Anatomy of Domestic Animals	Thieme Medical Publishers, Incorporated		ProQuest Ebook Central		EBC:6368853	978-3-13-242933-8				2020	Unique_Title_Requests	9	9	0
+Veterinary Anatomy of Domestic Animals	Thieme Medical Publishers, Incorporated		ProQuest Ebook Central		EBC:6368853	978-3-13-242933-8				2020	Total_Item_Requests	6	0	6
+Veterinary Anatomy of Domestic Animals	Thieme Medical Publishers, Incorporated		ProQuest Ebook Central		EBC:6368853	978-3-13-242933-8				2020	Unique_Title_Requests	3	0	3
+Veterinary Guide to Goat Health and Welfare	The Crowood Press		ProQuest Ebook Central		EBC:5836672	978-1-78500-621-0				2019	Total_Item_Requests	2	0	2
+Veterinary Guide to Goat Health and Welfare	The Crowood Press		ProQuest Ebook Central		EBC:5836672	978-1-78500-621-0				2019	Unique_Title_Requests	1	0	1
+Veterinary Infection Prevention and Control	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:818660	978-0-8138-1534-3				2011	Total_Item_Requests	3	0	3
+Veterinary Infection Prevention and Control	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:818660	978-0-8138-1534-3				2011	Unique_Title_Requests	1	0	1
+Veterinary Microbiology	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:7103915	978-0-470-95949-7				2013	Total_Item_Requests	2	0	2
+Veterinary Microbiology	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:7103915	978-0-470-95949-7				2013	Unique_Title_Requests	1	0	1
+Veterinary Microbiology and Microbial Disease	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:819153	978-1-4051-5823-7				2011	Total_Item_Requests	11	0	11
+Veterinary Microbiology and Microbial Disease	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:819153	978-1-4051-5823-7				2011	Unique_Title_Requests	3	0	3
+Veterinary Pharmacology and Therapeutics	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:5167239	978-1-118-85582-9				2018	Total_Item_Requests	1	1	0
+Veterinary Pharmacology and Therapeutics	John Wiley & Sons, Incorporated		ProQuest Ebook Central		EBC:5167239	978-1-118-85582-9				2018	Unique_Title_Requests	1	1	0
+Vibrations of Rotating Machinery	Springer Japan		ProQuest Ebook Central		EBC:4864683	978-4-431-55455-4				2017	Total_Item_Requests	1	0	1
+Vibrations of Rotating Machinery	Springer Japan		ProQuest Ebook Central		EBC:4864683	978-4-431-55455-4				2017	Unique_Title_Requests	1	0	1
+We Were Not the Savages	Fernwood Publishing		ProQuest Ebook Central		EBC:3249781	978-1-55266-039-3				2000	Total_Item_Requests	68	68	0
+We Were Not the Savages	Fernwood Publishing		ProQuest Ebook Central		EBC:3249781	978-1-55266-039-3				2000	Unique_Title_Requests	14	14	0
+Wives and Daughters	Open Road Integrated Media, Inc.		ProQuest Ebook Central		EBC:4861053					2003	Total_Item_Requests	3	3	0
+Wives and Daughters	Open Road Integrated Media, Inc.		ProQuest Ebook Central		EBC:4861053					2003	Unique_Title_Requests	1	1	0
+Women on the River of Life	University of California Press		ProQuest Ebook Central		EBC:6350302	978-0-520-29915-3				2020	Total_Item_Requests	7	0	7
+Women on the River of Life	University of California Press		ProQuest Ebook Central		EBC:6350302	978-0-520-29915-3				2020	Unique_Title_Requests	2	0	2
+Zoonotic Pathogens in the Food Chain	CABI		ProQuest Ebook Central		EBC:617536	978-1-84593-681-5				2010	Total_Item_Requests	1	0	1
+Zoonotic Pathogens in the Food Chain	CABI		ProQuest Ebook Central		EBC:617536	978-1-84593-681-5				2010	Unique_Title_Requests	1	0	1

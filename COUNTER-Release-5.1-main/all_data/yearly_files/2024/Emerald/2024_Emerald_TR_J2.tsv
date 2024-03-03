@@ -1,0 +1,50 @@
+Report_Name	Journal Access Denied
+Report_ID	TR_J2
+Release	5
+Institution_Name	University of Prince Edward Island
+Institution_ID	emeraldinsight:2e386820_7216_4455_9342_68bb65d29df0
+Metric_Types	No_License; Limit_Exceeded
+Report_Filters	Data_Type=Journal; Access_Method=Regular
+Report_Attributes	
+Exceptions	3031: Usage not ready for requested dates (No usage data after Jan 2024 is available)
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-01T13:42:24+00:00
+Created_By	LibLynx LLC for Emerald Insight
+
+Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	Print_ISSN	Online_ISSN	URI	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+Aircraft Engineering and Aerospace Technology	Emerald Insight		Emerald Insight	10.1108/AEAT		1748-8842	1748-8842		No_License	2	2	0
+Benchmarking for Quality Management & Technology	Emerald Insight		Emerald Insight	10.1108/bqmt		1351-3036			No_License	1	1	0
+Benchmarking: An International Journal	Emerald Insight		Emerald Insight	10.1108/BIJ		1463-5771			No_License	4	4	0
+Career Development International	Emerald Insight		Emerald Insight	10.1108/CDI		1362-0436			No_License	4	4	0
+Chinese Management Studies	Emerald Insight		Emerald Insight	10.1108/CMS		1750-614X	1750-614X		No_License	3	3	0
+Cross Cultural Management: An International Journal	Emerald Insight		Emerald Insight	10.1108/ccm		1352-7606			No_License	4	4	0
+Development and Learning in Organizations: An International Journal	Emerald Insight		Emerald Insight	10.1108/DLO		1477-7282	1477-7282		No_License	1	1	0
+Engineering, Construction and Architectural Management	Emerald Insight		Emerald Insight	10.1108/ECAM		0969-9988			No_License	1	1	0
+Industrial and Commercial Training	Emerald Insight		Emerald Insight	10.1108/ICT		0019-7858	0019-7858		No_License	2	2	0
+Industrial Lubrication and Tribology	Emerald Insight		Emerald Insight	10.1108/ilt		0036-8792	0036-8792		No_License	3	3	0
+International Journal of Contemporary Hospitality Management	Emerald Insight		Emerald Insight	10.1108/IJCHM		0959-6119	0959-6119		No_License	1	1	0
+International Journal of Educational Management	Emerald Insight		Emerald Insight	10.1108/ijem		0951-354X	0951-354X		No_License	1	1	0
+International Journal of Housing Markets and Analysis	Emerald Insight		Emerald Insight	10.1108/IJHMA		1753-8270	1753-8270		No_License	5	5	0
+International Journal of Managing Projects in Business	Emerald Insight		Emerald Insight	10.1108/ijmpb		1753-8378	1753-8378		No_License	5	5	0
+International Journal of Organizational Analysis	Emerald Insight		Emerald Insight	10.1108/IJOA		1934-8835	1934-8835		No_License	1	1	0
+International Journal of Productivity and Performance Management	Emerald Insight		Emerald Insight	10.1108/IJPPM		1741-0401			No_License	2	2	0
+International Journal of Retail & Distribution Management	Emerald Insight		Emerald Insight	10.1108/IJRDM		0959-0552	0959-0552		No_License	4	4	0
+International Journal of Sustainability in Higher Education	Emerald Insight		Emerald Insight	10.1108/IJSHE		1467-6370	1467-6370		No_License	4	4	0
+Journal of Applied Research in Higher Education	Emerald Insight		Emerald Insight	10.1108/JARHE		2050-7003			No_License	2	2	0
+Journal of Consumer Marketing	Emerald Insight		Emerald Insight	10.1108/jcm		0736-3761	0736-3761		No_License	2	2	0
+Journal of Educational Administration	Emerald Insight		Emerald Insight	10.1108/JEA		0957-8234	0957-8234		No_License	1	1	0
+Journal of Enterprise Information Management	Emerald Insight		Emerald Insight	10.1108/JEIM		1741-0398			No_License	1	1	0
+Journal of Financial Reporting and Accounting	Emerald Insight		Emerald Insight	10.1108/jfra		1985-2517	1985-2517		No_License	1	1	0
+Journal of Managerial Psychology	Emerald Insight		Emerald Insight	10.1108/jmp		0268-3946			No_License	3	3	0
+Journal of Organizational Change Management	Emerald Insight		Emerald Insight	10.1108/jocm		0953-4814			No_License	1	1	0
+Journal of Product & Brand Management	Emerald Insight		Emerald Insight	10.1108/JPBM		1061-0421	1061-0421		No_License	1	1	0
+Leadership & Organization Development Journal	Emerald Insight		Emerald Insight	10.1108/LODJ		0143-7739			No_License	1	1	0
+Leadership in Health Services	Emerald Insight		Emerald Insight	10.1108/LHS		1751-1879	1751-1879		No_License	2	2	0
+Personnel Review	Emerald Insight		Emerald Insight	10.1108/PR		0048-3486			No_License	3	3	0
+Qualitative Research in Accounting & Management	Emerald Insight		Emerald Insight	10.1108/QRAM		1176-6093	1176-6093		No_License	1	1	0
+Qualitative Research Journal	Emerald Insight		Emerald Insight	10.1108/QRJ		1443-9883	1443-9883		No_License	1	1	0
+The Bottom Line	Emerald Insight		Emerald Insight	10.1108/BL		0888-045X	0888-045X		No_License	1	1	0
+The International Journal of Information and Learning Technology	Emerald Insight		Emerald Insight	10.1108/IJILT		2056-4880			No_License	1	1	0
+The International Journal of Logistics Management	Emerald Insight		Emerald Insight	10.1108/IJLM		0957-4093			No_License	1	1	0
+The Learning Organization	Emerald Insight		Emerald Insight	10.1108/TLO		0969-6474	0969-6474		No_License	4	4	0
+Worldwide Hospitality and Tourism Themes	Emerald Insight		Emerald Insight	10.1108/WHATT		1755-4217	1755-4217		No_License	1	1	0

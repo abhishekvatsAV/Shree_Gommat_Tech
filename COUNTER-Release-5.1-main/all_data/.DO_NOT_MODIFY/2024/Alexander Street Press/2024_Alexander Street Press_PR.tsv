@@ -7,38 +7,50 @@ Metric_Types
 Report_Filters	Data_Type=Platform|Multimedia; Access_Type=Controlled; Access_Method=Regular
 Report_Attributes	Attributes_To_Show=Data_Type|Access_Method
 Exceptions	
-Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-01-31
-Created	2024-02-29T10:45:08Z
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-02T09:50:24Z
 Created_By	collections@upei.ca
 
-Platform	Data_Type	Access_Method	Metric_Type	Reporting_Period_Total	Jan-2024
-video.alexanderstreet.com	Platform	Regular	Searches_Platform	337	337
-video.alexanderstreet.com	Platform	Regular	Total_Item_Investigations	0	0
-video.alexanderstreet.com	Platform	Regular	Total_Item_Requests	0	0
-video.alexanderstreet.com	Platform	Regular	Unique_Item_Investigations	0	0
-video.alexanderstreet.com	Platform	Regular	Unique_Item_Requests	0	0
-video.alexanderstreet.com	Platform	Regular	Unique_Title_Requests	0	0
-video.alexanderstreet.com	Multimedia	Regular	Searches_Platform	0	0
-video.alexanderstreet.com	Multimedia	Regular	Total_Item_Investigations	615	615
-video.alexanderstreet.com	Multimedia	Regular	Total_Item_Requests	0	0
-video.alexanderstreet.com	Multimedia	Regular	Unique_Item_Investigations	0	0
-video.alexanderstreet.com	Multimedia	Regular	Unique_Item_Requests	0	0
-video.alexanderstreet.com	Multimedia	Regular	Unique_Title_Requests	0	0
-video.alexanderstreet.com	Multimedia	Regular	Searches_Platform	0	0
-video.alexanderstreet.com	Multimedia	Regular	Total_Item_Investigations	0	0
-video.alexanderstreet.com	Multimedia	Regular	Total_Item_Requests	249	249
-video.alexanderstreet.com	Multimedia	Regular	Unique_Item_Investigations	0	0
-video.alexanderstreet.com	Multimedia	Regular	Unique_Item_Requests	0	0
-video.alexanderstreet.com	Multimedia	Regular	Unique_Title_Requests	0	0
-video.alexanderstreet.com	Multimedia	Regular	Searches_Platform	0	0
-video.alexanderstreet.com	Multimedia	Regular	Total_Item_Investigations	0	0
-video.alexanderstreet.com	Multimedia	Regular	Total_Item_Requests	0	0
-video.alexanderstreet.com	Multimedia	Regular	Unique_Item_Investigations	298	298
-video.alexanderstreet.com	Multimedia	Regular	Unique_Item_Requests	0	0
-video.alexanderstreet.com	Multimedia	Regular	Unique_Title_Requests	0	0
-video.alexanderstreet.com	Multimedia	Regular	Searches_Platform	0	0
-video.alexanderstreet.com	Multimedia	Regular	Total_Item_Investigations	0	0
-video.alexanderstreet.com	Multimedia	Regular	Total_Item_Requests	0	0
-video.alexanderstreet.com	Multimedia	Regular	Unique_Item_Investigations	0	0
-video.alexanderstreet.com	Multimedia	Regular	Unique_Item_Requests	219	219
-video.alexanderstreet.com	Multimedia	Regular	Unique_Title_Requests	0	0
+Platform	Data_Type	Access_Method	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+search.alexanderstreet.com	Multimedia	Regular	Searches_Platform	0	0	0
+search.alexanderstreet.com	Multimedia	Regular	Total_Item_Investigations	2	0	2
+search.alexanderstreet.com	Multimedia	Regular	Total_Item_Requests	0	0	0
+search.alexanderstreet.com	Multimedia	Regular	Unique_Item_Investigations	0	0	0
+search.alexanderstreet.com	Multimedia	Regular	Unique_Item_Requests	0	0	0
+search.alexanderstreet.com	Multimedia	Regular	Unique_Title_Requests	0	0	0
+search.alexanderstreet.com	Multimedia	Regular	Searches_Platform	0	0	0
+search.alexanderstreet.com	Multimedia	Regular	Total_Item_Investigations	0	0	0
+search.alexanderstreet.com	Multimedia	Regular	Total_Item_Requests	0	0	0
+search.alexanderstreet.com	Multimedia	Regular	Unique_Item_Investigations	2	0	2
+search.alexanderstreet.com	Multimedia	Regular	Unique_Item_Requests	0	0	0
+search.alexanderstreet.com	Multimedia	Regular	Unique_Title_Requests	0	0	0
+video.alexanderstreet.com	Platform	Regular	Searches_Platform	542	337	205
+video.alexanderstreet.com	Platform	Regular	Total_Item_Investigations	0	0	0
+video.alexanderstreet.com	Platform	Regular	Total_Item_Requests	0	0	0
+video.alexanderstreet.com	Platform	Regular	Unique_Item_Investigations	0	0	0
+video.alexanderstreet.com	Platform	Regular	Unique_Item_Requests	0	0	0
+video.alexanderstreet.com	Platform	Regular	Unique_Title_Requests	0	0	0
+video.alexanderstreet.com	Multimedia	Regular	Searches_Platform	0	0	0
+video.alexanderstreet.com	Multimedia	Regular	Total_Item_Investigations	939	615	324
+video.alexanderstreet.com	Multimedia	Regular	Total_Item_Requests	0	0	0
+video.alexanderstreet.com	Multimedia	Regular	Unique_Item_Investigations	0	0	0
+video.alexanderstreet.com	Multimedia	Regular	Unique_Item_Requests	0	0	0
+video.alexanderstreet.com	Multimedia	Regular	Unique_Title_Requests	0	0	0
+video.alexanderstreet.com	Multimedia	Regular	Searches_Platform	0	0	0
+video.alexanderstreet.com	Multimedia	Regular	Total_Item_Investigations	0	0	0
+video.alexanderstreet.com	Multimedia	Regular	Total_Item_Requests	356	249	107
+video.alexanderstreet.com	Multimedia	Regular	Unique_Item_Investigations	0	0	0
+video.alexanderstreet.com	Multimedia	Regular	Unique_Item_Requests	0	0	0
+video.alexanderstreet.com	Multimedia	Regular	Unique_Title_Requests	0	0	0
+video.alexanderstreet.com	Multimedia	Regular	Searches_Platform	0	0	0
+video.alexanderstreet.com	Multimedia	Regular	Total_Item_Investigations	0	0	0
+video.alexanderstreet.com	Multimedia	Regular	Total_Item_Requests	0	0	0
+video.alexanderstreet.com	Multimedia	Regular	Unique_Item_Investigations	469	298	171
+video.alexanderstreet.com	Multimedia	Regular	Unique_Item_Requests	0	0	0
+video.alexanderstreet.com	Multimedia	Regular	Unique_Title_Requests	0	0	0
+video.alexanderstreet.com	Multimedia	Regular	Searches_Platform	0	0	0
+video.alexanderstreet.com	Multimedia	Regular	Total_Item_Investigations	0	0	0
+video.alexanderstreet.com	Multimedia	Regular	Total_Item_Requests	0	0	0
+video.alexanderstreet.com	Multimedia	Regular	Unique_Item_Investigations	0	0	0
+video.alexanderstreet.com	Multimedia	Regular	Unique_Item_Requests	313	219	94
+video.alexanderstreet.com	Multimedia	Regular	Unique_Title_Requests	0	0	0

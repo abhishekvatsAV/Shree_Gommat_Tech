@@ -1,0 +1,51 @@
+{
+   "Report_Header" : {
+      "Created" : "2024-03-01T08:53:09Z",
+      "Created_By" : "Project MUSE",
+      "Customer_ID" : "i16692",
+      "Exceptions" : [
+         {
+            "Code" : "3031",
+            "Data" : "Invalid date range -- too recent",
+            "Message" : "Usage Not Ready for Requested Dates",
+            "Severity" : "Error"
+         }
+      ],
+      "Institution_ID" : [
+         {
+            "Type" : "Proprietary",
+            "Value" : "MUSE:institution16692"
+         }
+      ],
+      "Institution_Name" : "Prince Edward Island , Univ. of",
+      "Release" : "5",
+      "Report_Filters" : [
+         {
+            "Name" : "Begin_Date",
+            "Value" : "2024-01-01"
+         },
+         {
+            "Name" : "End_Date",
+            "Value" : "2024-02-29"
+         },
+         {
+            "Name" : "Data_Type",
+            "Value" : "Journal"
+         },
+         {
+            "Name" : "Access_Type",
+            "Value" : "Controlled"
+         },
+         {
+            "Name" : "Access_Method",
+            "Value" : "Regular"
+         },
+         {
+            "Name" : "Metric_Type",
+            "Value" : "Total_Item_Requests|Unique_Item_Requests"
+         }
+      ],
+      "Report_ID" : "TR_J4",
+      "Report_Name" : "Journal Requests by YOP (Excluding OA_Gold)"
+   }
+}

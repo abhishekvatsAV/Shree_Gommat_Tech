@@ -1,0 +1,46 @@
+{
+"Report_Header": {
+"Created":"2024-03-01T13:47:57Z",
+"Created_By":"ingentaconnect",
+"Customer_ID":"peican",
+"Report_ID":"TR_B3",
+"Release":"5",
+"Report_Name":"Book Usage by Access Type",
+"Institution_Name":"University of PEI (Prince Edward Island)",
+"Institution_ID": [
+{
+"Type":"Proprietary",
+"Value":"connect:peican"
+}
+],
+"Report_Filters":[
+{
+"Name":"Begin_Date",
+"Value":"2024-01-01"
+},{
+"Name":"End_Date",
+"Value":"2024-02-29"
+},{
+"Name":"Access_Method",
+"Value":"Regular"
+}
+,{
+"Name":"Metric_Type",
+"Value":"Total_Item_Requests|Unique_Item_Requests|Total_Item_Investigations|Unique_Item_Investigations|Unique_Title_Requests|Unique_Title_Investigations"
+}
+,{
+"Name":"Data_Type",
+"Value":"Book"
+}],
+"Exceptions":[
+{
+"Code":3031,
+"Severity":"Warning",
+"Message":"Usage Not Ready for Requested Dates(Request Usage is available up to 2024-01-31.Investigation Usage is available up to 2024-01-31.)",
+"Help_URL":"/help/sushi"
+}]
+},
+"Report_Items": [
+
+]
+}

@@ -1,0 +1,22 @@
+Report_Name	Journal Requests (Excluding OA_Gold)
+Report_ID	TR_J1
+Release	5
+Institution_Name	University of Prince Edward Island
+Institution_ID	mal:8252134
+Metric_Types	Total_Item_Requests; Unique_Item_Requests
+Report_Filters	Data_Type=Journal; Access_Type=Controlled; Access_Method=Regular
+Report_Attributes	
+Exceptions	3031: Usage Not Ready for Requested Dates (Requested data between 2024-02-01 and 2024-02-29. However only data between 2018-11-01 and 2024-01-31 exists.)
+Reporting_Period	End_Date=2024-02-29; Begin_Date=2024-01-01
+Created	2024-03-01T05:50:41Z
+Created_By	Atypon Systems LLC.
+
+Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	Print_ISSN	Online_ISSN	URI	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+Advances in Wound Care	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/wound	mal:wound	2162-1918	2162-1934		Unique_Item_Requests	1	1	0
+Advances in Wound Care	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/wound	mal:wound	2162-1918	2162-1934		Total_Item_Requests	1	1	0
+Applied Biosafety	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/apb	mal:apb	1535-6760	2470-1246		Unique_Item_Requests	1	1	0
+Applied Biosafety	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/apb	mal:apb	1535-6760	2470-1246		Total_Item_Requests	1	1	0
+Cannabis and Cannabinoid Research	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/can	mal:can	2578-5125	2378-8763		Unique_Item_Requests	1	1	0
+Cannabis and Cannabinoid Research	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/can	mal:can	2578-5125	2378-8763		Total_Item_Requests	1	1	0
+Transgender Health	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/trgh	mal:trgh	2688-4887	2380-193X		Unique_Item_Requests	2	2	0
+Transgender Health	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/trgh	mal:trgh	2688-4887	2380-193X		Total_Item_Requests	2	2	0

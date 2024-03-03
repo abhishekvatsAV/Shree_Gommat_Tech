@@ -1,0 +1,26 @@
+Report_Name	Item Master Report
+Report_ID	IR
+Release	5
+Institution_Name	University of Prince Edward Island - Students
+Institution_ID	Silverchair:134573
+Metric_Types	
+Report_Filters	
+Report_Attributes	Attributes_To_Show=Data_Type|Access_Type|Access_Method|YOP|Authors|Publication_Date|Article_Version; Include_Parent_Details=True; Include_Component_Details=True
+Exceptions	3031: Usage Not Ready for Requested Dates ()
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-01T00:00:00Z
+Created_By	Silverchair
+
+Item	Publisher	Publisher_ID	Platform	Authors	Publication_Date	Article_version	DOI	Proprietary_ID	ISBN	Print_ISSN	Online_ISSN	URI	Parent_Title	Parent_Authors	Parent_Publication_Date	Parent_Article_Version	Parent_Data_Type	Parent_DOI	Parent_Proprietary_ID	Parent_ISBN	Parent_Print_ISSN	Parent_Online_ISSN	Parent_URI	Component_Title	Component_Authors	Component_Publication_Date	Component_Data_Type	Component_DOI	Component_Proprietary_ID	Component_ISBN	Component_Print_ISSN	Component_Online_ISSN	Component_URI	Data_Type	YOP	Access_Type	Access_Method	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+1.1. Introduction	Wolters Kluwer		Wolters Kluwer		2013-09-06			Silverchair:6091076					1.1. Introduction				Multimedia		Silverchair:6091076															Multimedia	2013	Controlled	Regular	Unique_Item_Investigations	1	1	0
+1.1. Introduction	Wolters Kluwer		Wolters Kluwer		2013-09-06			Silverchair:6091076					1.1. Introduction				Multimedia		Silverchair:6091076															Multimedia	2013	Controlled	Regular	Unique_Item_Requests	1	1	0
+2.13. Musculoskeletal System	Wolters Kluwer		Wolters Kluwer		2013-09-06			Silverchair:6091138					2.13. Musculoskeletal System				Multimedia		Silverchair:6091138															Multimedia	2013	Controlled	Regular	Unique_Item_Requests	1	1	0
+2.13. Musculoskeletal System	Wolters Kluwer		Wolters Kluwer		2013-09-06			Silverchair:6091138					2.13. Musculoskeletal System				Multimedia		Silverchair:6091138															Multimedia	2013	Controlled	Regular	Unique_Item_Investigations	1	1	0
+Entire Volume - Nervous System: Cranial Nerves and Motor System	Wolters Kluwer		Wolters Kluwer		2013-09-06			Silverchair:6091072					Entire Volume - Nervous System: Cranial Nerves and Motor System				Multimedia		Silverchair:6091072															Multimedia	2013	Controlled	Regular	Unique_Item_Investigations	1	1	0
+Entire Volume - Nervous System: Cranial Nerves and Motor System	Wolters Kluwer		Wolters Kluwer		2013-09-06			Silverchair:6091072					Entire Volume - Nervous System: Cranial Nerves and Motor System				Multimedia		Silverchair:6091072															Multimedia	2013	Controlled	Regular	Unique_Item_Requests	1	1	0
+Entire Volume - Skin	Wolters Kluwer		Wolters Kluwer		2013-09-06			Silverchair:6091054					Entire Volume - Skin				Multimedia		Silverchair:6091054															Multimedia	2013	Controlled	Regular	Unique_Item_Investigations	1	1	0
+Entire Volume - Skin	Wolters Kluwer		Wolters Kluwer		2013-09-06			Silverchair:6091054					Entire Volume - Skin				Multimedia		Silverchair:6091054															Multimedia	2013	Controlled	Regular	Unique_Item_Requests	1	1	0
+OSCE 11: Shoulder Pain	Wolters Kluwer		Wolters Kluwer		2017-09-14			Silverchair:14727418					OSCE 11: Shoulder Pain				Multimedia		Silverchair:14727418															Multimedia	2017	Controlled	Regular	Unique_Item_Investigations	1	1	0
+OSCE 1: Chest Pain	Wolters Kluwer		Wolters Kluwer		2013-09-06			Silverchair:6017060					OSCE 1: Chest Pain				Multimedia		Silverchair:6017060															Multimedia	2013	Controlled	Regular	Unique_Item_Investigations	8	8	0
+OSCE 2: Abdominal Pain	Wolters Kluwer		Wolters Kluwer		2013-09-06			Silverchair:6130472					OSCE 2: Abdominal Pain				Multimedia		Silverchair:6130472															Multimedia	2013	Controlled	Regular	Unique_Item_Investigations	3	3	0
+OSCE 3: Sore Throat	Wolters Kluwer		Wolters Kluwer		2013-09-06			Silverchair:6130474					OSCE 3: Sore Throat				Multimedia		Silverchair:6130474															Multimedia	2013	Controlled	Regular	Unique_Item_Investigations	2	2	0

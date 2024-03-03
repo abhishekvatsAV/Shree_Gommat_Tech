@@ -1,0 +1,304 @@
+Report_Name	Title Master Report
+Report_ID	TR
+Release	5
+Institution_Name	University of Prince Edward Island
+Institution_ID	rsc:3140
+Metric_Types	
+Report_Filters	
+Report_Attributes	
+Exceptions	
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-01T13:55:51Z
+Created_By	MPS Limited
+
+Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	ISBN	Print_ISSN	Online_ISSN	URI	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+Analytical Methods	Royal Society of Chemistry		pubs.rsc.org	10.1039/17599679/2009			1759-9660	1759-9679	https://www.rsc.org/Publishing/Journals/AY/Index.asp	Unique_Item_Requests	1	1	0
+Analytical Methods	Royal Society of Chemistry		pubs.rsc.org	10.1039/17599679/2009			1759-9660	1759-9679	https://www.rsc.org/Publishing/Journals/AY/Index.asp	Total_Item_Requests	1	1	0
+Analytical Methods	Royal Society of Chemistry		pubs.rsc.org	10.1039/17599679/2009			1759-9660	1759-9679	https://www.rsc.org/Publishing/Journals/AY/Index.asp	Unique_Item_Investigations	1	1	0
+Analytical Methods	Royal Society of Chemistry		pubs.rsc.org	10.1039/17599679/2009			1759-9660	1759-9679	https://www.rsc.org/Publishing/Journals/AY/Index.asp	Total_Item_Investigations	1	1	0
+Biomaterials Science	Royal Society of Chemistry		pubs.rsc.org	10.1039/20474849/2013			2047-4830	2047-4849	https://www.rsc.org/Publishing/Journals/BM/Index.asp	Unique_Item_Requests	1	1	0
+Biomaterials Science	Royal Society of Chemistry		pubs.rsc.org	10.1039/20474849/2013			2047-4830	2047-4849	https://www.rsc.org/Publishing/Journals/BM/Index.asp	Total_Item_Requests	2	2	0
+Biomaterials Science	Royal Society of Chemistry		pubs.rsc.org	10.1039/20474849/2013			2047-4830	2047-4849	https://www.rsc.org/Publishing/Journals/BM/Index.asp	Unique_Item_Investigations	2	2	0
+Biomaterials Science	Royal Society of Chemistry		pubs.rsc.org	10.1039/20474849/2013			2047-4830	2047-4849	https://www.rsc.org/Publishing/Journals/BM/Index.asp	Total_Item_Investigations	3	3	0
+Chemical Communications	Royal Society of Chemistry		pubs.rsc.org	10.1039/1364548X/1996			1359-7345	1364-548X	https://www.rsc.org/Publishing/Journals/CC/Index.asp	Total_Item_Investigations	1	1	0
+Chemical Communications	Royal Society of Chemistry		pubs.rsc.org	10.1039/1364548X/1996			1359-7345	1364-548X	https://www.rsc.org/Publishing/Journals/CC/Index.asp	Total_Item_Requests	1	1	0
+Chemical Communications	Royal Society of Chemistry		pubs.rsc.org	10.1039/1364548X/1996			1359-7345	1364-548X	https://www.rsc.org/Publishing/Journals/CC/Index.asp	Unique_Item_Investigations	1	1	0
+Chemical Communications	Royal Society of Chemistry		pubs.rsc.org	10.1039/1364548X/1996			1359-7345	1364-548X	https://www.rsc.org/Publishing/Journals/CC/Index.asp	Unique_Item_Requests	1	1	0
+Chemical Communications	Royal Society of Chemistry		pubs.rsc.org	10.1039/1364548X/1996			1359-7345	1364-548X	https://www.rsc.org/Publishing/Journals/CC/Index.asp	Total_Item_Investigations	1	1	0
+Chemical Communications	Royal Society of Chemistry		pubs.rsc.org	10.1039/1364548X/1996			1359-7345	1364-548X	https://www.rsc.org/Publishing/Journals/CC/Index.asp	Unique_Item_Investigations	1	1	0
+Chemical Communications	Royal Society of Chemistry		pubs.rsc.org	10.1039/1364548X/1996			1359-7345	1364-548X	https://www.rsc.org/Publishing/Journals/CC/Index.asp	Total_Item_Investigations	13	13	0
+Chemical Communications	Royal Society of Chemistry		pubs.rsc.org	10.1039/1364548X/1996			1359-7345	1364-548X	https://www.rsc.org/Publishing/Journals/CC/Index.asp	Total_Item_Requests	8	8	0
+Chemical Communications	Royal Society of Chemistry		pubs.rsc.org	10.1039/1364548X/1996			1359-7345	1364-548X	https://www.rsc.org/Publishing/Journals/CC/Index.asp	Unique_Item_Investigations	8	8	0
+Chemical Communications	Royal Society of Chemistry		pubs.rsc.org	10.1039/1364548X/1996			1359-7345	1364-548X	https://www.rsc.org/Publishing/Journals/CC/Index.asp	Unique_Item_Requests	3	3	0
+Chemical Communications	Royal Society of Chemistry		pubs.rsc.org	10.1039/1364548X/1996			1359-7345	1364-548X	https://www.rsc.org/Publishing/Journals/CC/Index.asp	Total_Item_Investigations	2	2	0
+Chemical Communications	Royal Society of Chemistry		pubs.rsc.org	10.1039/1364548X/1996			1359-7345	1364-548X	https://www.rsc.org/Publishing/Journals/CC/Index.asp	Total_Item_Requests	1	1	0
+Chemical Communications	Royal Society of Chemistry		pubs.rsc.org	10.1039/1364548X/1996			1359-7345	1364-548X	https://www.rsc.org/Publishing/Journals/CC/Index.asp	Unique_Item_Investigations	2	2	0
+Chemical Communications	Royal Society of Chemistry		pubs.rsc.org	10.1039/1364548X/1996			1359-7345	1364-548X	https://www.rsc.org/Publishing/Journals/CC/Index.asp	Unique_Item_Requests	1	1	0
+Chemical Communications	Royal Society of Chemistry		pubs.rsc.org	10.1039/1364548X/1996			1359-7345	1364-548X	https://www.rsc.org/Publishing/Journals/CC/Index.asp	Total_Item_Investigations	2	2	0
+Chemical Communications	Royal Society of Chemistry		pubs.rsc.org	10.1039/1364548X/1996			1359-7345	1364-548X	https://www.rsc.org/Publishing/Journals/CC/Index.asp	Total_Item_Requests	1	1	0
+Chemical Communications	Royal Society of Chemistry		pubs.rsc.org	10.1039/1364548X/1996			1359-7345	1364-548X	https://www.rsc.org/Publishing/Journals/CC/Index.asp	Unique_Item_Investigations	2	2	0
+Chemical Communications	Royal Society of Chemistry		pubs.rsc.org	10.1039/1364548X/1996			1359-7345	1364-548X	https://www.rsc.org/Publishing/Journals/CC/Index.asp	Unique_Item_Requests	1	1	0
+Chemical Society Reviews	Royal Society of Chemistry		pubs.rsc.org	10.1039/14604744/1972			0306-0012	1460-4744	https://www.rsc.org/Publishing/Journals/CS/Index.asp	Total_Item_Investigations	1	1	0
+Chemical Society Reviews	Royal Society of Chemistry		pubs.rsc.org	10.1039/14604744/1972			0306-0012	1460-4744	https://www.rsc.org/Publishing/Journals/CS/Index.asp	Unique_Item_Investigations	1	1	0
+Chemical Society Reviews	Royal Society of Chemistry		pubs.rsc.org	10.1039/14604744/1972			0306-0012	1460-4744	https://www.rsc.org/Publishing/Journals/CS/Index.asp	Total_Item_Investigations	2	2	0
+Chemical Society Reviews	Royal Society of Chemistry		pubs.rsc.org	10.1039/14604744/1972			0306-0012	1460-4744	https://www.rsc.org/Publishing/Journals/CS/Index.asp	Total_Item_Requests	2	2	0
+Chemical Society Reviews	Royal Society of Chemistry		pubs.rsc.org	10.1039/14604744/1972			0306-0012	1460-4744	https://www.rsc.org/Publishing/Journals/CS/Index.asp	Unique_Item_Investigations	2	2	0
+Chemical Society Reviews	Royal Society of Chemistry		pubs.rsc.org	10.1039/14604744/1972			0306-0012	1460-4744	https://www.rsc.org/Publishing/Journals/CS/Index.asp	Unique_Item_Requests	2	2	0
+Chemical Society Reviews	Royal Society of Chemistry		pubs.rsc.org	10.1039/14604744/1972			0306-0012	1460-4744	https://www.rsc.org/Publishing/Journals/CS/Index.asp	Total_Item_Investigations	1	1	0
+Chemical Society Reviews	Royal Society of Chemistry		pubs.rsc.org	10.1039/14604744/1972			0306-0012	1460-4744	https://www.rsc.org/Publishing/Journals/CS/Index.asp	Total_Item_Requests	1	1	0
+Chemical Society Reviews	Royal Society of Chemistry		pubs.rsc.org	10.1039/14604744/1972			0306-0012	1460-4744	https://www.rsc.org/Publishing/Journals/CS/Index.asp	Unique_Item_Investigations	1	1	0
+Chemical Society Reviews	Royal Society of Chemistry		pubs.rsc.org	10.1039/14604744/1972			0306-0012	1460-4744	https://www.rsc.org/Publishing/Journals/CS/Index.asp	Unique_Item_Requests	1	1	0
+Chemical Society Reviews	Royal Society of Chemistry		pubs.rsc.org	10.1039/14604744/1972			0306-0012	1460-4744	https://www.rsc.org/Publishing/Journals/CS/Index.asp	Total_Item_Investigations	4	4	0
+Chemical Society Reviews	Royal Society of Chemistry		pubs.rsc.org	10.1039/14604744/1972			0306-0012	1460-4744	https://www.rsc.org/Publishing/Journals/CS/Index.asp	Total_Item_Requests	3	3	0
+Chemical Society Reviews	Royal Society of Chemistry		pubs.rsc.org	10.1039/14604744/1972			0306-0012	1460-4744	https://www.rsc.org/Publishing/Journals/CS/Index.asp	Unique_Item_Investigations	2	2	0
+Chemical Society Reviews	Royal Society of Chemistry		pubs.rsc.org	10.1039/14604744/1972			0306-0012	1460-4744	https://www.rsc.org/Publishing/Journals/CS/Index.asp	Unique_Item_Requests	1	1	0
+Chemical Society Reviews	Royal Society of Chemistry		pubs.rsc.org	10.1039/14604744/1972			0306-0012	1460-4744	https://www.rsc.org/Publishing/Journals/CS/Index.asp	Total_Item_Investigations	6	6	0
+Chemical Society Reviews	Royal Society of Chemistry		pubs.rsc.org	10.1039/14604744/1972			0306-0012	1460-4744	https://www.rsc.org/Publishing/Journals/CS/Index.asp	Total_Item_Requests	4	4	0
+Chemical Society Reviews	Royal Society of Chemistry		pubs.rsc.org	10.1039/14604744/1972			0306-0012	1460-4744	https://www.rsc.org/Publishing/Journals/CS/Index.asp	Unique_Item_Investigations	4	4	0
+Chemical Society Reviews	Royal Society of Chemistry		pubs.rsc.org	10.1039/14604744/1972			0306-0012	1460-4744	https://www.rsc.org/Publishing/Journals/CS/Index.asp	Unique_Item_Requests	2	2	0
+Dalton Transactions	Royal Society of Chemistry		pubs.rsc.org	10.1039/14779234/2003			1477-9226	1477-9234	https://www.rsc.org/Publishing/Journals/dt/index.asp	Total_Item_Investigations	2	2	0
+Dalton Transactions	Royal Society of Chemistry		pubs.rsc.org	10.1039/14779234/2003			1477-9226	1477-9234	https://www.rsc.org/Publishing/Journals/dt/index.asp	Total_Item_Requests	2	2	0
+Dalton Transactions	Royal Society of Chemistry		pubs.rsc.org	10.1039/14779234/2003			1477-9226	1477-9234	https://www.rsc.org/Publishing/Journals/dt/index.asp	Unique_Item_Investigations	2	2	0
+Dalton Transactions	Royal Society of Chemistry		pubs.rsc.org	10.1039/14779234/2003			1477-9226	1477-9234	https://www.rsc.org/Publishing/Journals/dt/index.asp	Unique_Item_Requests	2	2	0
+Dalton Transactions	Royal Society of Chemistry		pubs.rsc.org	10.1039/14779234/2003			1477-9226	1477-9234	https://www.rsc.org/Publishing/Journals/dt/index.asp	Total_Item_Investigations	2	2	0
+Dalton Transactions	Royal Society of Chemistry		pubs.rsc.org	10.1039/14779234/2003			1477-9226	1477-9234	https://www.rsc.org/Publishing/Journals/dt/index.asp	Total_Item_Requests	1	1	0
+Dalton Transactions	Royal Society of Chemistry		pubs.rsc.org	10.1039/14779234/2003			1477-9226	1477-9234	https://www.rsc.org/Publishing/Journals/dt/index.asp	Unique_Item_Investigations	2	2	0
+Dalton Transactions	Royal Society of Chemistry		pubs.rsc.org	10.1039/14779234/2003			1477-9226	1477-9234	https://www.rsc.org/Publishing/Journals/dt/index.asp	Unique_Item_Requests	1	1	0
+Dalton Transactions	Royal Society of Chemistry		pubs.rsc.org	10.1039/14779234/2003			1477-9226	1477-9234	https://www.rsc.org/Publishing/Journals/dt/index.asp	Total_Item_Investigations	2	2	0
+Dalton Transactions	Royal Society of Chemistry		pubs.rsc.org	10.1039/14779234/2003			1477-9226	1477-9234	https://www.rsc.org/Publishing/Journals/dt/index.asp	Total_Item_Investigations	1	1	0
+Dalton Transactions	Royal Society of Chemistry		pubs.rsc.org	10.1039/14779234/2003			1477-9226	1477-9234	https://www.rsc.org/Publishing/Journals/dt/index.asp	Total_Item_Requests	1	1	0
+Dalton Transactions	Royal Society of Chemistry		pubs.rsc.org	10.1039/14779234/2003			1477-9226	1477-9234	https://www.rsc.org/Publishing/Journals/dt/index.asp	Total_Item_Requests	1	1	0
+Dalton Transactions	Royal Society of Chemistry		pubs.rsc.org	10.1039/14779234/2003			1477-9226	1477-9234	https://www.rsc.org/Publishing/Journals/dt/index.asp	Unique_Item_Investigations	2	2	0
+Dalton Transactions	Royal Society of Chemistry		pubs.rsc.org	10.1039/14779234/2003			1477-9226	1477-9234	https://www.rsc.org/Publishing/Journals/dt/index.asp	Unique_Item_Investigations	1	1	0
+Dalton Transactions	Royal Society of Chemistry		pubs.rsc.org	10.1039/14779234/2003			1477-9226	1477-9234	https://www.rsc.org/Publishing/Journals/dt/index.asp	Unique_Item_Requests	1	1	0
+Dalton Transactions	Royal Society of Chemistry		pubs.rsc.org	10.1039/14779234/2003			1477-9226	1477-9234	https://www.rsc.org/Publishing/Journals/dt/index.asp	Unique_Item_Requests	1	1	0
+Dalton Transactions	Royal Society of Chemistry		pubs.rsc.org	10.1039/14779234/2003			1477-9226	1477-9234	https://www.rsc.org/Publishing/Journals/dt/index.asp	Total_Item_Investigations	1	1	0
+Dalton Transactions	Royal Society of Chemistry		pubs.rsc.org	10.1039/14779234/2003			1477-9226	1477-9234	https://www.rsc.org/Publishing/Journals/dt/index.asp	Unique_Item_Investigations	1	1	0
+Dalton Transactions	Royal Society of Chemistry		pubs.rsc.org	10.1039/14779234/2003			1477-9226	1477-9234	https://www.rsc.org/Publishing/Journals/dt/index.asp	Total_Item_Investigations	1	1	0
+Dalton Transactions	Royal Society of Chemistry		pubs.rsc.org	10.1039/14779234/2003			1477-9226	1477-9234	https://www.rsc.org/Publishing/Journals/dt/index.asp	Total_Item_Requests	1	1	0
+Dalton Transactions	Royal Society of Chemistry		pubs.rsc.org	10.1039/14779234/2003			1477-9226	1477-9234	https://www.rsc.org/Publishing/Journals/dt/index.asp	Unique_Item_Investigations	1	1	0
+Dalton Transactions	Royal Society of Chemistry		pubs.rsc.org	10.1039/14779234/2003			1477-9226	1477-9234	https://www.rsc.org/Publishing/Journals/dt/index.asp	Unique_Item_Requests	1	1	0
+Dalton Transactions	Royal Society of Chemistry		pubs.rsc.org	10.1039/14779234/2003			1477-9226	1477-9234	https://www.rsc.org/Publishing/Journals/dt/index.asp	Total_Item_Investigations	6	6	0
+Dalton Transactions	Royal Society of Chemistry		pubs.rsc.org	10.1039/14779234/2003			1477-9226	1477-9234	https://www.rsc.org/Publishing/Journals/dt/index.asp	Total_Item_Requests	4	4	0
+Dalton Transactions	Royal Society of Chemistry		pubs.rsc.org	10.1039/14779234/2003			1477-9226	1477-9234	https://www.rsc.org/Publishing/Journals/dt/index.asp	Unique_Item_Investigations	4	4	0
+Dalton Transactions	Royal Society of Chemistry		pubs.rsc.org	10.1039/14779234/2003			1477-9226	1477-9234	https://www.rsc.org/Publishing/Journals/dt/index.asp	Unique_Item_Requests	2	2	0
+Environmental Science: Atmospheres	Royal Society of Chemistry		pubs.rsc.org	10.1039/26343606/2021				2634-3606	https://www.rsc.org/Publishing/Journals/EA/Index.asp	Unique_Item_Requests	1	1	0
+Environmental Science: Atmospheres	Royal Society of Chemistry		pubs.rsc.org	10.1039/26343606/2021				2634-3606	https://www.rsc.org/Publishing/Journals/EA/Index.asp	Total_Item_Requests	1	1	0
+Environmental Science: Atmospheres	Royal Society of Chemistry		pubs.rsc.org	10.1039/26343606/2021				2634-3606	https://www.rsc.org/Publishing/Journals/EA/Index.asp	Unique_Item_Investigations	2	2	0
+Environmental Science: Atmospheres	Royal Society of Chemistry		pubs.rsc.org	10.1039/26343606/2021				2634-3606	https://www.rsc.org/Publishing/Journals/EA/Index.asp	Total_Item_Investigations	2	2	0
+Environmental Science: Nano	Royal Society of Chemistry		pubs.rsc.org	10.1039/20518161/2014			2051-8153	2051-8161	https://www.rsc.org/Publishing/Journals/EN/Index.asp	Unique_Item_Requests	2	2	0
+Environmental Science: Nano	Royal Society of Chemistry		pubs.rsc.org	10.1039/20518161/2014			2051-8153	2051-8161	https://www.rsc.org/Publishing/Journals/EN/Index.asp	Total_Item_Requests	3	3	0
+Environmental Science: Nano	Royal Society of Chemistry		pubs.rsc.org	10.1039/20518161/2014			2051-8153	2051-8161	https://www.rsc.org/Publishing/Journals/EN/Index.asp	Unique_Item_Investigations	4	4	0
+Environmental Science: Nano	Royal Society of Chemistry		pubs.rsc.org	10.1039/20518161/2014			2051-8153	2051-8161	https://www.rsc.org/Publishing/Journals/EN/Index.asp	Total_Item_Investigations	5	5	0
+Food & Function	Royal Society of Chemistry		pubs.rsc.org	10.1039/2042650X/2010			2042-6496	2042-650X	https://www.rsc.org/Publishing/Journals/FO/Index.asp	Unique_Item_Requests	1	1	0
+Food & Function	Royal Society of Chemistry		pubs.rsc.org	10.1039/2042650X/2010			2042-6496	2042-650X	https://www.rsc.org/Publishing/Journals/FO/Index.asp	Total_Item_Requests	2	2	0
+Food & Function	Royal Society of Chemistry		pubs.rsc.org	10.1039/2042650X/2010			2042-6496	2042-650X	https://www.rsc.org/Publishing/Journals/FO/Index.asp	Unique_Item_Investigations	2	2	0
+Food & Function	Royal Society of Chemistry		pubs.rsc.org	10.1039/2042650X/2010			2042-6496	2042-650X	https://www.rsc.org/Publishing/Journals/FO/Index.asp	Total_Item_Investigations	3	3	0
+Green Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639270/1999			1463-9262	1463-9270	https://www.rsc.org/Publishing/Journals/GC/Index.asp	Total_Item_Investigations	4	4	0
+Green Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639270/1999			1463-9262	1463-9270	https://www.rsc.org/Publishing/Journals/GC/Index.asp	Total_Item_Requests	2	2	0
+Green Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639270/1999			1463-9262	1463-9270	https://www.rsc.org/Publishing/Journals/GC/Index.asp	Unique_Item_Investigations	4	4	0
+Green Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639270/1999			1463-9262	1463-9270	https://www.rsc.org/Publishing/Journals/GC/Index.asp	Unique_Item_Requests	2	2	0
+Green Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639270/1999			1463-9262	1463-9270	https://www.rsc.org/Publishing/Journals/GC/Index.asp	Total_Item_Investigations	4	4	0
+Green Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639270/1999			1463-9262	1463-9270	https://www.rsc.org/Publishing/Journals/GC/Index.asp	Total_Item_Requests	3	3	0
+Green Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639270/1999			1463-9262	1463-9270	https://www.rsc.org/Publishing/Journals/GC/Index.asp	Unique_Item_Investigations	3	3	0
+Green Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639270/1999			1463-9262	1463-9270	https://www.rsc.org/Publishing/Journals/GC/Index.asp	Unique_Item_Requests	2	2	0
+Green Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639270/1999			1463-9262	1463-9270	https://www.rsc.org/Publishing/Journals/GC/Index.asp	Total_Item_Investigations	9	9	0
+Green Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639270/1999			1463-9262	1463-9270	https://www.rsc.org/Publishing/Journals/GC/Index.asp	Total_Item_Requests	6	6	0
+Green Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639270/1999			1463-9262	1463-9270	https://www.rsc.org/Publishing/Journals/GC/Index.asp	Unique_Item_Investigations	2	2	0
+Green Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639270/1999			1463-9262	1463-9270	https://www.rsc.org/Publishing/Journals/GC/Index.asp	Unique_Item_Requests	1	1	0
+Green Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639270/1999			1463-9262	1463-9270	https://www.rsc.org/Publishing/Journals/GC/Index.asp	Total_Item_Investigations	1	1	0
+Green Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639270/1999			1463-9262	1463-9270	https://www.rsc.org/Publishing/Journals/GC/Index.asp	Total_Item_Requests	1	1	0
+Green Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639270/1999			1463-9262	1463-9270	https://www.rsc.org/Publishing/Journals/GC/Index.asp	Unique_Item_Investigations	1	1	0
+Green Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639270/1999			1463-9262	1463-9270	https://www.rsc.org/Publishing/Journals/GC/Index.asp	Unique_Item_Requests	1	1	0
+Green Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639270/1999			1463-9262	1463-9270	https://www.rsc.org/Publishing/Journals/GC/Index.asp	Total_Item_Investigations	2	2	0
+Green Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639270/1999			1463-9262	1463-9270	https://www.rsc.org/Publishing/Journals/GC/Index.asp	Total_Item_Requests	2	2	0
+Green Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639270/1999			1463-9262	1463-9270	https://www.rsc.org/Publishing/Journals/GC/Index.asp	Unique_Item_Investigations	2	2	0
+Green Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639270/1999			1463-9262	1463-9270	https://www.rsc.org/Publishing/Journals/GC/Index.asp	Unique_Item_Requests	2	2	0
+Green Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639270/1999			1463-9262	1463-9270	https://www.rsc.org/Publishing/Journals/GC/Index.asp	Total_Item_Investigations	12	12	0
+Green Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639270/1999			1463-9262	1463-9270	https://www.rsc.org/Publishing/Journals/GC/Index.asp	Total_Item_Requests	8	8	0
+Green Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639270/1999			1463-9262	1463-9270	https://www.rsc.org/Publishing/Journals/GC/Index.asp	Unique_Item_Investigations	2	2	0
+Green Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639270/1999			1463-9262	1463-9270	https://www.rsc.org/Publishing/Journals/GC/Index.asp	Unique_Item_Requests	1	1	0
+Inorganic Electrochemistry	Royal Society of Chemistry		Silverchair	10.1039/9781847551146					http://rsc.org	No_License	1	1	0
+Inorganic Electrochemistry	Royal Society of Chemistry		Silverchair	10.1039/9781847551146					http://rsc.org	Total_Item_Investigations	1	1	0
+Inorganic Electrochemistry	Royal Society of Chemistry		Silverchair	10.1039/9781847551146					http://rsc.org	Total_Item_Investigations	1	1	0
+Inorganic Electrochemistry	Royal Society of Chemistry		Silverchair	10.1039/9781847551146					http://rsc.org	Unique_Item_Investigations	1	1	0
+Inorganic Electrochemistry	Royal Society of Chemistry		Silverchair	10.1039/9781847551146					http://rsc.org	Unique_Item_Investigations	1	1	0
+Inorganic Electrochemistry	Royal Society of Chemistry		Silverchair	10.1039/9781847551146					http://rsc.org	Unique_Title_Investigations	1	1	0
+Journal of Materials Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/13645501/1991			0959-9428	1364-5501	https://www.rsc.org/Publishing/Journals/JM/Index.asp	Unique_Item_Requests	2	2	0
+Journal of Materials Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/13645501/1991			0959-9428	1364-5501	https://www.rsc.org/Publishing/Journals/JM/Index.asp	Total_Item_Requests	4	4	0
+Journal of Materials Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/13645501/1991			0959-9428	1364-5501	https://www.rsc.org/Publishing/Journals/JM/Index.asp	Unique_Item_Investigations	4	4	0
+Journal of Materials Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/13645501/1991			0959-9428	1364-5501	https://www.rsc.org/Publishing/Journals/JM/Index.asp	Total_Item_Investigations	6	6	0
+Journal of Materials Chemistry A	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507496/2013			2050-7488	2050-7496	https://pubs.rsc.org/doi/10.1039/20507496/2013	Total_Item_Investigations	5	5	0
+Journal of Materials Chemistry A	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507496/2013			2050-7488	2050-7496	https://pubs.rsc.org/doi/10.1039/20507496/2013	Total_Item_Requests	3	3	0
+Journal of Materials Chemistry A	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507496/2013			2050-7488	2050-7496	https://pubs.rsc.org/doi/10.1039/20507496/2013	Unique_Item_Investigations	3	3	0
+Journal of Materials Chemistry A	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507496/2013			2050-7488	2050-7496	https://pubs.rsc.org/doi/10.1039/20507496/2013	Unique_Item_Requests	1	1	0
+Journal of Materials Chemistry A	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507496/2013			2050-7488	2050-7496	https://pubs.rsc.org/doi/10.1039/20507496/2013	Total_Item_Investigations	2	2	0
+Journal of Materials Chemistry A	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507496/2013			2050-7488	2050-7496	https://pubs.rsc.org/doi/10.1039/20507496/2013	Total_Item_Requests	2	2	0
+Journal of Materials Chemistry A	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507496/2013			2050-7488	2050-7496	https://pubs.rsc.org/doi/10.1039/20507496/2013	Unique_Item_Investigations	2	2	0
+Journal of Materials Chemistry A	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507496/2013			2050-7488	2050-7496	https://pubs.rsc.org/doi/10.1039/20507496/2013	Unique_Item_Requests	2	2	0
+Journal of Materials Chemistry B	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507518/2013			2050-750X	2050-7518	https://pubs.rsc.org/doi/10.1039/20507518/2013	Total_Item_Investigations	4	4	0
+Journal of Materials Chemistry B	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507518/2013			2050-750X	2050-7518	https://pubs.rsc.org/doi/10.1039/20507518/2013	Total_Item_Requests	2	2	0
+Journal of Materials Chemistry B	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507518/2013			2050-750X	2050-7518	https://pubs.rsc.org/doi/10.1039/20507518/2013	Unique_Item_Investigations	3	3	0
+Journal of Materials Chemistry B	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507518/2013			2050-750X	2050-7518	https://pubs.rsc.org/doi/10.1039/20507518/2013	Unique_Item_Requests	1	1	0
+Journal of Materials Chemistry B	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507518/2013			2050-750X	2050-7518	https://pubs.rsc.org/doi/10.1039/20507518/2013	Total_Item_Investigations	1	1	0
+Journal of Materials Chemistry B	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507518/2013			2050-750X	2050-7518	https://pubs.rsc.org/doi/10.1039/20507518/2013	Total_Item_Investigations	2	2	0
+Journal of Materials Chemistry B	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507518/2013			2050-750X	2050-7518	https://pubs.rsc.org/doi/10.1039/20507518/2013	Total_Item_Requests	1	1	0
+Journal of Materials Chemistry B	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507518/2013			2050-750X	2050-7518	https://pubs.rsc.org/doi/10.1039/20507518/2013	Total_Item_Requests	2	2	0
+Journal of Materials Chemistry B	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507518/2013			2050-750X	2050-7518	https://pubs.rsc.org/doi/10.1039/20507518/2013	Unique_Item_Investigations	1	1	0
+Journal of Materials Chemistry B	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507518/2013			2050-750X	2050-7518	https://pubs.rsc.org/doi/10.1039/20507518/2013	Unique_Item_Investigations	2	2	0
+Journal of Materials Chemistry B	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507518/2013			2050-750X	2050-7518	https://pubs.rsc.org/doi/10.1039/20507518/2013	Unique_Item_Requests	1	1	0
+Journal of Materials Chemistry B	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507518/2013			2050-750X	2050-7518	https://pubs.rsc.org/doi/10.1039/20507518/2013	Unique_Item_Requests	2	2	0
+Journal of Materials Chemistry B	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507518/2013			2050-750X	2050-7518	https://pubs.rsc.org/doi/10.1039/20507518/2013	Total_Item_Investigations	2	2	0
+Journal of Materials Chemistry B	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507518/2013			2050-750X	2050-7518	https://pubs.rsc.org/doi/10.1039/20507518/2013	Total_Item_Requests	1	1	0
+Journal of Materials Chemistry B	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507518/2013			2050-750X	2050-7518	https://pubs.rsc.org/doi/10.1039/20507518/2013	Unique_Item_Investigations	2	2	0
+Journal of Materials Chemistry B	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507518/2013			2050-750X	2050-7518	https://pubs.rsc.org/doi/10.1039/20507518/2013	Unique_Item_Requests	1	1	0
+Journal of Materials Chemistry C	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507534/2013			2050-7526	2050-7534	https://pubs.rsc.org/doi/10.1039/20507534/2013	Total_Item_Investigations	2	2	0
+Journal of Materials Chemistry C	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507534/2013			2050-7526	2050-7534	https://pubs.rsc.org/doi/10.1039/20507534/2013	Total_Item_Requests	1	1	0
+Journal of Materials Chemistry C	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507534/2013			2050-7526	2050-7534	https://pubs.rsc.org/doi/10.1039/20507534/2013	Unique_Item_Investigations	2	2	0
+Journal of Materials Chemistry C	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507534/2013			2050-7526	2050-7534	https://pubs.rsc.org/doi/10.1039/20507534/2013	Unique_Item_Requests	1	1	0
+Journal of Materials Chemistry C	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507534/2013			2050-7526	2050-7534	https://pubs.rsc.org/doi/10.1039/20507534/2013	Total_Item_Investigations	2	2	0
+Journal of Materials Chemistry C	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507534/2013			2050-7526	2050-7534	https://pubs.rsc.org/doi/10.1039/20507534/2013	Total_Item_Requests	1	1	0
+Journal of Materials Chemistry C	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507534/2013			2050-7526	2050-7534	https://pubs.rsc.org/doi/10.1039/20507534/2013	Unique_Item_Investigations	2	2	0
+Journal of Materials Chemistry C	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507534/2013			2050-7526	2050-7534	https://pubs.rsc.org/doi/10.1039/20507534/2013	Unique_Item_Requests	1	1	0
+Journal of Materials Chemistry C	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507534/2013			2050-7526	2050-7534	https://pubs.rsc.org/doi/10.1039/20507534/2013	Total_Item_Investigations	2	2	0
+Journal of Materials Chemistry C	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507534/2013			2050-7526	2050-7534	https://pubs.rsc.org/doi/10.1039/20507534/2013	Total_Item_Requests	1	1	0
+Journal of Materials Chemistry C	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507534/2013			2050-7526	2050-7534	https://pubs.rsc.org/doi/10.1039/20507534/2013	Unique_Item_Investigations	2	2	0
+Journal of Materials Chemistry C	Royal Society of Chemistry		pubs.rsc.org	10.1039/20507534/2013			2050-7526	2050-7534	https://pubs.rsc.org/doi/10.1039/20507534/2013	Unique_Item_Requests	1	1	0
+Lab on a Chip	Royal Society of Chemistry		pubs.rsc.org	10.1039/14730189/2001			1473-0197	1473-0189	https://www.rsc.org/Publishing/Journals/LC/Index.asp	Total_Item_Investigations	2	2	0
+Lab on a Chip	Royal Society of Chemistry		pubs.rsc.org	10.1039/14730189/2001			1473-0197	1473-0189	https://www.rsc.org/Publishing/Journals/LC/Index.asp	Total_Item_Requests	1	1	0
+Lab on a Chip	Royal Society of Chemistry		pubs.rsc.org	10.1039/14730189/2001			1473-0197	1473-0189	https://www.rsc.org/Publishing/Journals/LC/Index.asp	Unique_Item_Investigations	2	2	0
+Lab on a Chip	Royal Society of Chemistry		pubs.rsc.org	10.1039/14730189/2001			1473-0197	1473-0189	https://www.rsc.org/Publishing/Journals/LC/Index.asp	Unique_Item_Requests	1	1	0
+Lab on a Chip	Royal Society of Chemistry		pubs.rsc.org	10.1039/14730189/2001			1473-0197	1473-0189	https://www.rsc.org/Publishing/Journals/LC/Index.asp	Total_Item_Investigations	3	3	0
+Lab on a Chip	Royal Society of Chemistry		pubs.rsc.org	10.1039/14730189/2001			1473-0197	1473-0189	https://www.rsc.org/Publishing/Journals/LC/Index.asp	Total_Item_Requests	2	2	0
+Lab on a Chip	Royal Society of Chemistry		pubs.rsc.org	10.1039/14730189/2001			1473-0197	1473-0189	https://www.rsc.org/Publishing/Journals/LC/Index.asp	Unique_Item_Investigations	2	2	0
+Lab on a Chip	Royal Society of Chemistry		pubs.rsc.org	10.1039/14730189/2001			1473-0197	1473-0189	https://www.rsc.org/Publishing/Journals/LC/Index.asp	Unique_Item_Requests	1	1	0
+Materials Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/26335409/2020				2633-5409	https://www.rsc.org/Publishing/Journals/MA/Index.asp	Total_Item_Investigations	2	2	0
+Materials Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/26335409/2020				2633-5409	https://www.rsc.org/Publishing/Journals/MA/Index.asp	Total_Item_Requests	1	1	0
+Materials Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/26335409/2020				2633-5409	https://www.rsc.org/Publishing/Journals/MA/Index.asp	Unique_Item_Investigations	2	2	0
+Materials Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/26335409/2020				2633-5409	https://www.rsc.org/Publishing/Journals/MA/Index.asp	Unique_Item_Requests	1	1	0
+Materials Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/26335409/2020				2633-5409	https://www.rsc.org/Publishing/Journals/MA/Index.asp	Total_Item_Investigations	15	15	0
+Materials Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/26335409/2020				2633-5409	https://www.rsc.org/Publishing/Journals/MA/Index.asp	Total_Item_Requests	11	11	0
+Materials Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/26335409/2020				2633-5409	https://www.rsc.org/Publishing/Journals/MA/Index.asp	Unique_Item_Investigations	10	10	0
+Materials Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/26335409/2020				2633-5409	https://www.rsc.org/Publishing/Journals/MA/Index.asp	Unique_Item_Requests	6	6	0
+Nanoscale	Royal Society of Chemistry		pubs.rsc.org	10.1039/20403372/2009			2040-3364	2040-3372	https://www.rsc.org/Publishing/Journals/NR/Index.asp	Total_Item_Investigations	2	2	0
+Nanoscale	Royal Society of Chemistry		pubs.rsc.org	10.1039/20403372/2009			2040-3364	2040-3372	https://www.rsc.org/Publishing/Journals/NR/Index.asp	Total_Item_Requests	1	1	0
+Nanoscale	Royal Society of Chemistry		pubs.rsc.org	10.1039/20403372/2009			2040-3364	2040-3372	https://www.rsc.org/Publishing/Journals/NR/Index.asp	Unique_Item_Investigations	2	2	0
+Nanoscale	Royal Society of Chemistry		pubs.rsc.org	10.1039/20403372/2009			2040-3364	2040-3372	https://www.rsc.org/Publishing/Journals/NR/Index.asp	Unique_Item_Requests	1	1	0
+Nanoscale	Royal Society of Chemistry		pubs.rsc.org	10.1039/20403372/2009			2040-3364	2040-3372	https://www.rsc.org/Publishing/Journals/NR/Index.asp	Total_Item_Investigations	2	2	0
+Nanoscale	Royal Society of Chemistry		pubs.rsc.org	10.1039/20403372/2009			2040-3364	2040-3372	https://www.rsc.org/Publishing/Journals/NR/Index.asp	Total_Item_Requests	1	1	0
+Nanoscale	Royal Society of Chemistry		pubs.rsc.org	10.1039/20403372/2009			2040-3364	2040-3372	https://www.rsc.org/Publishing/Journals/NR/Index.asp	Unique_Item_Investigations	2	2	0
+Nanoscale	Royal Society of Chemistry		pubs.rsc.org	10.1039/20403372/2009			2040-3364	2040-3372	https://www.rsc.org/Publishing/Journals/NR/Index.asp	Unique_Item_Requests	1	1	0
+Nanoscale Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/25160230/2018				2516-0230	https://www.rsc.org/Publishing/Journals/NA/Index.asp	Unique_Item_Requests	2	2	0
+Nanoscale Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/25160230/2018				2516-0230	https://www.rsc.org/Publishing/Journals/NA/Index.asp	Total_Item_Requests	2	2	0
+Nanoscale Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/25160230/2018				2516-0230	https://www.rsc.org/Publishing/Journals/NA/Index.asp	Unique_Item_Investigations	2	2	0
+Nanoscale Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/25160230/2018				2516-0230	https://www.rsc.org/Publishing/Journals/NA/Index.asp	Total_Item_Investigations	2	2	0
+Natural Product Reports	Royal Society of Chemistry		pubs.rsc.org	10.1039/14604752/1984			0265-0568	1460-4752	https://www.rsc.org/Publishing/Journals/NP/Index.asp	Total_Item_Investigations	2	2	0
+Natural Product Reports	Royal Society of Chemistry		pubs.rsc.org	10.1039/14604752/1984			0265-0568	1460-4752	https://www.rsc.org/Publishing/Journals/NP/Index.asp	Total_Item_Requests	2	2	0
+Natural Product Reports	Royal Society of Chemistry		pubs.rsc.org	10.1039/14604752/1984			0265-0568	1460-4752	https://www.rsc.org/Publishing/Journals/NP/Index.asp	Unique_Item_Investigations	1	1	0
+Natural Product Reports	Royal Society of Chemistry		pubs.rsc.org	10.1039/14604752/1984			0265-0568	1460-4752	https://www.rsc.org/Publishing/Journals/NP/Index.asp	Unique_Item_Requests	1	1	0
+Natural Product Reports	Royal Society of Chemistry		pubs.rsc.org	10.1039/14604752/1984			0265-0568	1460-4752	https://www.rsc.org/Publishing/Journals/NP/Index.asp	Total_Item_Investigations	3	3	0
+Natural Product Reports	Royal Society of Chemistry		pubs.rsc.org	10.1039/14604752/1984			0265-0568	1460-4752	https://www.rsc.org/Publishing/Journals/NP/Index.asp	Total_Item_Requests	2	2	0
+Natural Product Reports	Royal Society of Chemistry		pubs.rsc.org	10.1039/14604752/1984			0265-0568	1460-4752	https://www.rsc.org/Publishing/Journals/NP/Index.asp	Unique_Item_Investigations	2	2	0
+Natural Product Reports	Royal Society of Chemistry		pubs.rsc.org	10.1039/14604752/1984			0265-0568	1460-4752	https://www.rsc.org/Publishing/Journals/NP/Index.asp	Unique_Item_Requests	1	1	0
+Organic &  Biomolecular Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14770539/2003			1477-0520	1477-0539	https://www.rsc.org/Publishing/Journals/OB/Index.asp	Total_Item_Investigations	2	2	0
+Organic &  Biomolecular Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14770539/2003			1477-0520	1477-0539	https://www.rsc.org/Publishing/Journals/OB/Index.asp	Total_Item_Requests	2	2	0
+Organic &  Biomolecular Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14770539/2003			1477-0520	1477-0539	https://www.rsc.org/Publishing/Journals/OB/Index.asp	Unique_Item_Investigations	2	2	0
+Organic &  Biomolecular Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14770539/2003			1477-0520	1477-0539	https://www.rsc.org/Publishing/Journals/OB/Index.asp	Unique_Item_Requests	2	2	0
+Organic &  Biomolecular Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14770539/2003			1477-0520	1477-0539	https://www.rsc.org/Publishing/Journals/OB/Index.asp	Total_Item_Investigations	2	2	0
+Organic &  Biomolecular Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14770539/2003			1477-0520	1477-0539	https://www.rsc.org/Publishing/Journals/OB/Index.asp	Total_Item_Requests	1	1	0
+Organic &  Biomolecular Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14770539/2003			1477-0520	1477-0539	https://www.rsc.org/Publishing/Journals/OB/Index.asp	Unique_Item_Investigations	2	2	0
+Organic &  Biomolecular Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14770539/2003			1477-0520	1477-0539	https://www.rsc.org/Publishing/Journals/OB/Index.asp	Unique_Item_Requests	1	1	0
+Organic &  Biomolecular Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14770539/2003			1477-0520	1477-0539	https://www.rsc.org/Publishing/Journals/OB/Index.asp	Total_Item_Investigations	3	3	0
+Organic &  Biomolecular Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14770539/2003			1477-0520	1477-0539	https://www.rsc.org/Publishing/Journals/OB/Index.asp	Total_Item_Requests	2	2	0
+Organic &  Biomolecular Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14770539/2003			1477-0520	1477-0539	https://www.rsc.org/Publishing/Journals/OB/Index.asp	Unique_Item_Investigations	2	2	0
+Organic &  Biomolecular Chemistry	Royal Society of Chemistry		pubs.rsc.org	10.1039/14770539/2003			1477-0520	1477-0539	https://www.rsc.org/Publishing/Journals/OB/Index.asp	Unique_Item_Requests	1	1	0
+Physical Chemistry Chemical Physics	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639084/1999			1463-9076	1463-9084	https://www.rsc.org/Publishing/Journals/CP/Index.asp	Total_Item_Investigations	2	2	0
+Physical Chemistry Chemical Physics	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639084/1999			1463-9076	1463-9084	https://www.rsc.org/Publishing/Journals/CP/Index.asp	Total_Item_Requests	1	1	0
+Physical Chemistry Chemical Physics	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639084/1999			1463-9076	1463-9084	https://www.rsc.org/Publishing/Journals/CP/Index.asp	Unique_Item_Investigations	2	2	0
+Physical Chemistry Chemical Physics	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639084/1999			1463-9076	1463-9084	https://www.rsc.org/Publishing/Journals/CP/Index.asp	Unique_Item_Requests	1	1	0
+Physical Chemistry Chemical Physics	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639084/1999			1463-9076	1463-9084	https://www.rsc.org/Publishing/Journals/CP/Index.asp	Total_Item_Investigations	3	3	0
+Physical Chemistry Chemical Physics	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639084/1999			1463-9076	1463-9084	https://www.rsc.org/Publishing/Journals/CP/Index.asp	Total_Item_Requests	2	2	0
+Physical Chemistry Chemical Physics	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639084/1999			1463-9076	1463-9084	https://www.rsc.org/Publishing/Journals/CP/Index.asp	Unique_Item_Investigations	2	2	0
+Physical Chemistry Chemical Physics	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639084/1999			1463-9076	1463-9084	https://www.rsc.org/Publishing/Journals/CP/Index.asp	Unique_Item_Requests	1	1	0
+Physical Chemistry Chemical Physics	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639084/1999			1463-9076	1463-9084	https://www.rsc.org/Publishing/Journals/CP/Index.asp	Total_Item_Investigations	9	9	0
+Physical Chemistry Chemical Physics	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639084/1999			1463-9076	1463-9084	https://www.rsc.org/Publishing/Journals/CP/Index.asp	Total_Item_Requests	6	6	0
+Physical Chemistry Chemical Physics	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639084/1999			1463-9076	1463-9084	https://www.rsc.org/Publishing/Journals/CP/Index.asp	Unique_Item_Investigations	4	4	0
+Physical Chemistry Chemical Physics	Royal Society of Chemistry		pubs.rsc.org	10.1039/14639084/1999			1463-9076	1463-9084	https://www.rsc.org/Publishing/Journals/CP/Index.asp	Unique_Item_Requests	3	3	0
+Processing Metabolomics and Proteomics Data with Open Software: A Practical Guide	Royal Society of Chemistry		Silverchair	10.1039/9781788019880					http://rsc.org	No_License	1	1	0
+Processing Metabolomics and Proteomics Data with Open Software: A Practical Guide	Royal Society of Chemistry		Silverchair	10.1039/9781788019880					http://rsc.org	Unique_Item_Investigations	1	1	0
+Processing Metabolomics and Proteomics Data with Open Software: A Practical Guide	Royal Society of Chemistry		Silverchair	10.1039/9781788019880					http://rsc.org	Total_Item_Investigations	1	1	0
+Processing Metabolomics and Proteomics Data with Open Software: A Practical Guide	Royal Society of Chemistry		Silverchair	10.1039/9781788019880					http://rsc.org	Unique_Title_Investigations	1	1	0
+Reaction Chemistry & Engineering	Royal Society of Chemistry		pubs.rsc.org	10.1039/20589883/2015				2058-9883	https://www.rsc.org/Publishing/Journals/RE/Index.asp	Unique_Item_Requests	1	1	0
+Reaction Chemistry & Engineering	Royal Society of Chemistry		pubs.rsc.org	10.1039/20589883/2015				2058-9883	https://www.rsc.org/Publishing/Journals/RE/Index.asp	Total_Item_Requests	2	2	0
+Reaction Chemistry & Engineering	Royal Society of Chemistry		pubs.rsc.org	10.1039/20589883/2015				2058-9883	https://www.rsc.org/Publishing/Journals/RE/Index.asp	Unique_Item_Investigations	2	2	0
+Reaction Chemistry & Engineering	Royal Society of Chemistry		pubs.rsc.org	10.1039/20589883/2015				2058-9883	https://www.rsc.org/Publishing/Journals/RE/Index.asp	Total_Item_Investigations	4	4	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Total_Item_Investigations	6	6	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Total_Item_Requests	4	4	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Unique_Item_Investigations	2	2	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Unique_Item_Requests	1	1	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Total_Item_Investigations	1	1	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Total_Item_Requests	1	1	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Unique_Item_Investigations	1	1	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Unique_Item_Requests	1	1	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Total_Item_Investigations	2	2	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Total_Item_Requests	1	1	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Unique_Item_Investigations	2	2	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Unique_Item_Requests	1	1	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Total_Item_Investigations	13	13	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Total_Item_Requests	10	10	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Unique_Item_Investigations	9	9	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Unique_Item_Requests	6	6	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Total_Item_Investigations	2	2	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Total_Item_Requests	1	1	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Unique_Item_Investigations	2	2	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Unique_Item_Requests	1	1	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Total_Item_Investigations	11	11	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Total_Item_Requests	6	6	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Unique_Item_Investigations	9	9	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Unique_Item_Requests	4	4	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Total_Item_Investigations	5	5	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Total_Item_Requests	3	3	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Unique_Item_Investigations	3	3	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Unique_Item_Requests	2	2	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Total_Item_Investigations	2	2	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Total_Item_Requests	1	1	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Unique_Item_Investigations	2	2	0
+RSC Advances	Royal Society of Chemistry		pubs.rsc.org	10.1039/20462069/2011				2046-2069	https://www.rsc.org/Publishing/Journals/RA/Index.asp	Unique_Item_Requests	1	1	0
+RSC Applied Interfaces	Royal Society of Chemistry		pubs.rsc.org	10.1039/27553701/2023				2755-3701	https://www.rsc.org/Publishing/Journals/LF/Index.asp	Unique_Item_Requests	1	1	0
+RSC Applied Interfaces	Royal Society of Chemistry		pubs.rsc.org	10.1039/27553701/2023				2755-3701	https://www.rsc.org/Publishing/Journals/LF/Index.asp	Total_Item_Requests	1	1	0
+RSC Applied Interfaces	Royal Society of Chemistry		pubs.rsc.org	10.1039/27553701/2023				2755-3701	https://www.rsc.org/Publishing/Journals/LF/Index.asp	Unique_Item_Investigations	2	2	0
+RSC Applied Interfaces	Royal Society of Chemistry		pubs.rsc.org	10.1039/27553701/2023				2755-3701	https://www.rsc.org/Publishing/Journals/LF/Index.asp	Total_Item_Investigations	2	2	0
+RSC Journals Archive 1841-1996	Royal Society of Chemistry		pubs.rsc.org						http://rsc.org	Unique_Item_Requests	2	2	0
+RSC Journals Archive 1841-1996	Royal Society of Chemistry		pubs.rsc.org						http://rsc.org	Total_Item_Requests	2	2	0
+RSC Journals Archive 1841-1996	Royal Society of Chemistry		pubs.rsc.org						http://rsc.org	Unique_Item_Investigations	2	2	0
+RSC Journals Archive 1841-1996	Royal Society of Chemistry		pubs.rsc.org						http://rsc.org	Total_Item_Investigations	2	2	0
+RSC Medicinal Chemistry (previously MedChemComm)	Royal Society of Chemistry		pubs.rsc.org	10.1039/26328682/2020				2632-8682	https://www.rsc.org/Publishing/Journals/MD/Index.asp	Unique_Item_Requests	2	2	0
+RSC Medicinal Chemistry (previously MedChemComm)	Royal Society of Chemistry		pubs.rsc.org	10.1039/26328682/2020				2632-8682	https://www.rsc.org/Publishing/Journals/MD/Index.asp	Total_Item_Requests	2	2	0
+RSC Medicinal Chemistry (previously MedChemComm)	Royal Society of Chemistry		pubs.rsc.org	10.1039/26328682/2020				2632-8682	https://www.rsc.org/Publishing/Journals/MD/Index.asp	Unique_Item_Investigations	4	4	0
+RSC Medicinal Chemistry (previously MedChemComm)	Royal Society of Chemistry		pubs.rsc.org	10.1039/26328682/2020				2632-8682	https://www.rsc.org/Publishing/Journals/MD/Index.asp	Total_Item_Investigations	4	4	0
+Smart Materials for Drug Delivery	Royal Society of Chemistry		Silverchair	10.1039/9781849736800					http://rsc.org	Unique_Item_Requests	1	1	0
+Smart Materials for Drug Delivery	Royal Society of Chemistry		Silverchair	10.1039/9781849736800					http://rsc.org	Total_Item_Requests	2	2	0
+Smart Materials for Drug Delivery	Royal Society of Chemistry		Silverchair	10.1039/9781849736800					http://rsc.org	Unique_Item_Investigations	1	1	0
+Smart Materials for Drug Delivery	Royal Society of Chemistry		Silverchair	10.1039/9781849736800					http://rsc.org	Total_Item_Investigations	2	2	0
+Smart Materials for Drug Delivery	Royal Society of Chemistry		Silverchair	10.1039/9781849736800					http://rsc.org	Unique_Title_Investigations	1	1	0
+Smart Materials for Drug Delivery	Royal Society of Chemistry		Silverchair	10.1039/9781849736800					http://rsc.org	Unique_Title_Requests	1	1	0
+Soft Matter	Royal Society of Chemistry		pubs.rsc.org	10.1039/17446848/2005			1744-683X	1744-6848	https://www.rsc.org/Publishing/Journals/SM/Index.asp	Total_Item_Investigations	2	2	0
+Soft Matter	Royal Society of Chemistry		pubs.rsc.org	10.1039/17446848/2005			1744-683X	1744-6848	https://www.rsc.org/Publishing/Journals/SM/Index.asp	Total_Item_Requests	1	1	0
+Soft Matter	Royal Society of Chemistry		pubs.rsc.org	10.1039/17446848/2005			1744-683X	1744-6848	https://www.rsc.org/Publishing/Journals/SM/Index.asp	Unique_Item_Investigations	2	2	0
+Soft Matter	Royal Society of Chemistry		pubs.rsc.org	10.1039/17446848/2005			1744-683X	1744-6848	https://www.rsc.org/Publishing/Journals/SM/Index.asp	Unique_Item_Requests	1	1	0
+Soft Matter	Royal Society of Chemistry		pubs.rsc.org	10.1039/17446848/2005			1744-683X	1744-6848	https://www.rsc.org/Publishing/Journals/SM/Index.asp	Total_Item_Investigations	9	9	0
+Soft Matter	Royal Society of Chemistry		pubs.rsc.org	10.1039/17446848/2005			1744-683X	1744-6848	https://www.rsc.org/Publishing/Journals/SM/Index.asp	Total_Item_Requests	4	4	0
+Soft Matter	Royal Society of Chemistry		pubs.rsc.org	10.1039/17446848/2005			1744-683X	1744-6848	https://www.rsc.org/Publishing/Journals/SM/Index.asp	Unique_Item_Investigations	4	4	0
+Soft Matter	Royal Society of Chemistry		pubs.rsc.org	10.1039/17446848/2005			1744-683X	1744-6848	https://www.rsc.org/Publishing/Journals/SM/Index.asp	Unique_Item_Requests	1	1	0
+Soft Matter	Royal Society of Chemistry		pubs.rsc.org	10.1039/17446848/2005			1744-683X	1744-6848	https://www.rsc.org/Publishing/Journals/SM/Index.asp	Total_Item_Investigations	4	4	0
+Soft Matter	Royal Society of Chemistry		pubs.rsc.org	10.1039/17446848/2005			1744-683X	1744-6848	https://www.rsc.org/Publishing/Journals/SM/Index.asp	Total_Item_Requests	3	3	0
+Soft Matter	Royal Society of Chemistry		pubs.rsc.org	10.1039/17446848/2005			1744-683X	1744-6848	https://www.rsc.org/Publishing/Journals/SM/Index.asp	Unique_Item_Investigations	2	2	0
+Soft Matter	Royal Society of Chemistry		pubs.rsc.org	10.1039/17446848/2005			1744-683X	1744-6848	https://www.rsc.org/Publishing/Journals/SM/Index.asp	Unique_Item_Requests	1	1	0
+Sustainable Energy & Fuels	Royal Society of Chemistry		pubs.rsc.org	10.1039/23984902/2017				2398-4902	https://www.rsc.org/Publishing/Journals/SE/Index.asp	Unique_Item_Requests	1	1	0
+Sustainable Energy & Fuels	Royal Society of Chemistry		pubs.rsc.org	10.1039/23984902/2017				2398-4902	https://www.rsc.org/Publishing/Journals/SE/Index.asp	Total_Item_Requests	2	2	0
+Sustainable Energy & Fuels	Royal Society of Chemistry		pubs.rsc.org	10.1039/23984902/2017				2398-4902	https://www.rsc.org/Publishing/Journals/SE/Index.asp	Unique_Item_Investigations	2	2	0
+Sustainable Energy & Fuels	Royal Society of Chemistry		pubs.rsc.org	10.1039/23984902/2017				2398-4902	https://www.rsc.org/Publishing/Journals/SE/Index.asp	Total_Item_Investigations	3	3	0
+The Analyst	Royal Society of Chemistry		pubs.rsc.org	10.1039/13645528/1876			0003-2654	1364-5528	https://www.rsc.org/Publishing/Journals/AN/Index.asp	Unique_Item_Requests	1	1	0
+The Analyst	Royal Society of Chemistry		pubs.rsc.org	10.1039/13645528/1876			0003-2654	1364-5528	https://www.rsc.org/Publishing/Journals/AN/Index.asp	Total_Item_Requests	2	2	0
+The Analyst	Royal Society of Chemistry		pubs.rsc.org	10.1039/13645528/1876			0003-2654	1364-5528	https://www.rsc.org/Publishing/Journals/AN/Index.asp	Unique_Item_Investigations	1	1	0
+The Analyst	Royal Society of Chemistry		pubs.rsc.org	10.1039/13645528/1876			0003-2654	1364-5528	https://www.rsc.org/Publishing/Journals/AN/Index.asp	Total_Item_Investigations	2	2	0

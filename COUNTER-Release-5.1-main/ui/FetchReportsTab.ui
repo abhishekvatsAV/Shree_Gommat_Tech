@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1010</width>
+    <width>1067</width>
     <height>693</height>
    </rect>
   </property>
@@ -277,6 +277,7 @@ border: none ;
                        </property>
                        <property name="styleSheet">
                         <string notr="true">QDateEdit {
+background-color: #2E2F30;
     border: 2px solid #808080;
     border-radius: 4px;
     padding-left: 5px;
@@ -345,6 +346,7 @@ QDateEdit::down-arrow {
                        </property>
                        <property name="styleSheet">
                         <string notr="true">QDateEdit {
+background-color: #2E2F30;
     border: 2px solid #808080;
     border-radius: 4px;
     padding-left: 5px;
@@ -1003,6 +1005,7 @@ alignment: AlignCenter;
                  </property>
                  <property name="styleSheet">
                   <string notr="true">QDateEdit {
+background-color: #2E2F30;
     border: 2px solid #808080;
     border-radius: 4px;
     padding-left: 5px;
@@ -1044,7 +1047,7 @@ QDateEdit::down-arrow {
                    <second>0</second>
                    <year>2019</year>
                    <month>12</month>
-                   <day>24</day>
+                   <day>23</day>
                   </datetime>
                  </property>
                  <property name="displayFormat">

@@ -7,11 +7,11 @@ Metric_Types	Searches_Platform; Total_Item_Requests; Unique_Item_Requests; Uniqu
 Report_Filters	Access_Type=Controlled; Access_Method=Regular
 Report_Attributes	
 Exceptions	
-Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-01-31
-Created	2024-02-29T10:45:00Z
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-02T14:22:29Z
 Created_By	collections@upei.ca
 
-Platform	Metric_Type	Reporting_Period_Total	Jan-2024
-video.alexanderstreet.com	Searches_Platform	337	337
-video.alexanderstreet.com	Total_Item_Requests	249	249
-video.alexanderstreet.com	Unique_Item_Requests	219	219
+Platform	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+video.alexanderstreet.com	Searches_Platform	542	337	205
+video.alexanderstreet.com	Total_Item_Requests	356	249	107
+video.alexanderstreet.com	Unique_Item_Requests	313	219	94

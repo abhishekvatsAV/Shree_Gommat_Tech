@@ -1,0 +1,79 @@
+{
+"Report_Header": {
+"Created":"2024-03-01T13:50:36Z",
+"Created_By":"Microbiology Society",
+"Customer_ID":"o006646",
+"Report_ID":"PR",
+"Release":"5",
+"Report_Name":"Platform Master Report",
+"Institution_Name":"UNIVERSITY OF PRINCE EDWARD ISLAND",
+"Institution_ID": [
+{
+"Type":"Proprietary",
+"Value":"mbs:sgid023870"
+}
+],
+"Report_Filters":[
+{
+"Name":"Begin_Date",
+"Value":"2024-01-01"
+},{
+"Name":"End_Date",
+"Value":"2024-02-29"
+},{
+"Name":"Access_Method",
+"Value":"Regular"
+}
+,{
+"Name":"Metric_Type",
+"Value":"Total_Item_Investigations|Total_Item_Requests|Unique_Item_Investigations|Unique_Item_Requests"
+}
+,{
+"Name":"Data_Type",
+"Value":"Article|Book|Book_Segment|Journal|Platform"
+}],
+"Report_Attributes":[
+{
+"Name":"Attributes_To_Show",
+"Value":"Data_Type|Access_Method"
+}
+]
+,
+"Exceptions":[
+{
+"Code":"3031",
+"Severity":"Warning",
+"Message":"Usage Not Ready for Requested Dates(Search Usage is available up to 2024-01-31.Investigation Usage is available up to 2024-01-31.Request Usage is available up to 2024-01-31.)",
+"Help_URL":"/help/sushi"
+}]
+},
+"Report_Items": [
+{
+"Platform":"mbs",
+"Data_Type":"Article",
+"Access_Method":"Regular",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":21
+},{
+"Metric_Type":"Total_Item_Requests",
+"Count":12
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":19
+},{
+"Metric_Type":"Unique_Item_Requests",
+"Count":9
+}]
+}
+]
+}
+]
+}

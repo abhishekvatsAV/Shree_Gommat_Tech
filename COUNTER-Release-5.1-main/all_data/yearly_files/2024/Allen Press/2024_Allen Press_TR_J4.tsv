@@ -6,49 +6,49 @@ Institution_ID	Silverchair:19464
 Metric_Types	Total_Item_Requests; Unique_Item_Requests
 Report_Filters	Access_Method=Regular; Access_Type=Controlled; Data_Type=Journal
 Report_Attributes	
-Exceptions	
-Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-01-31
-Created	2024-02-23T00:00:00Z
+Exceptions	3031: Usage Not Ready for Requested Dates ()
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-01T00:00:00Z
 Created_By	Silverchair
 
-Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	Print_ISSN	Online_ISSN	URI	YOP	Metric_Type	Reporting_Period_Total	Jan-2024
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		1996	Total_Item_Requests	4	4
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		1996	Unique_Item_Requests	2	2
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		1998	Unique_Item_Requests	2	2
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		1998	Total_Item_Requests	2	2
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		1999	Unique_Item_Requests	1	1
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		1999	Total_Item_Requests	1	1
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2001	Total_Item_Requests	1	1
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2001	Unique_Item_Requests	1	1
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2002	Total_Item_Requests	2	2
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2002	Unique_Item_Requests	2	2
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2003	Unique_Item_Requests	2	2
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2003	Total_Item_Requests	4	4
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2005	Unique_Item_Requests	1	1
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2005	Total_Item_Requests	2	2
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2006	Total_Item_Requests	7	7
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2006	Unique_Item_Requests	4	4
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2008	Unique_Item_Requests	1	1
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2008	Total_Item_Requests	1	1
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2010	Unique_Item_Requests	1	1
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2010	Total_Item_Requests	1	1
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2011	Total_Item_Requests	1	1
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2011	Unique_Item_Requests	1	1
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2012	Unique_Item_Requests	2	2
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2012	Total_Item_Requests	4	4
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2014	Total_Item_Requests	5	5
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2014	Unique_Item_Requests	4	4
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2015	Total_Item_Requests	2	2
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2015	Unique_Item_Requests	2	2
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2016	Total_Item_Requests	1	1
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2016	Unique_Item_Requests	1	1
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2017	Total_Item_Requests	1	1
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2017	Unique_Item_Requests	1	1
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2022	Total_Item_Requests	2	2
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2022	Unique_Item_Requests	2	2
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2023	Total_Item_Requests	3	3
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2023	Unique_Item_Requests	1	1
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2024	Total_Item_Requests	10	10
-Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2024	Unique_Item_Requests	10	10
-Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078	0090-3558	1943-3700		2024	Total_Item_Requests	2	2
-Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078	0090-3558	1943-3700		2024	Unique_Item_Requests	1	1
+Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	Print_ISSN	Online_ISSN	URI	YOP	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		1996	Total_Item_Requests	4	4	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		1996	Unique_Item_Requests	2	2	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		1998	Unique_Item_Requests	2	2	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		1998	Total_Item_Requests	2	2	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		1999	Unique_Item_Requests	1	1	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		1999	Total_Item_Requests	1	1	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2001	Total_Item_Requests	1	1	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2001	Unique_Item_Requests	1	1	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2002	Total_Item_Requests	2	2	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2002	Unique_Item_Requests	2	2	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2003	Unique_Item_Requests	2	2	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2003	Total_Item_Requests	4	4	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2005	Unique_Item_Requests	1	1	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2005	Total_Item_Requests	2	2	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2006	Total_Item_Requests	7	7	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2006	Unique_Item_Requests	4	4	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2008	Unique_Item_Requests	1	1	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2008	Total_Item_Requests	1	1	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2010	Unique_Item_Requests	1	1	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2010	Total_Item_Requests	1	1	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2011	Total_Item_Requests	1	1	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2011	Unique_Item_Requests	1	1	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2012	Unique_Item_Requests	2	2	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2012	Total_Item_Requests	4	4	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2014	Total_Item_Requests	5	5	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2014	Unique_Item_Requests	4	4	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2015	Total_Item_Requests	2	2	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2015	Unique_Item_Requests	2	2	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2016	Total_Item_Requests	1	1	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2016	Unique_Item_Requests	1	1	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2017	Total_Item_Requests	1	1	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2017	Unique_Item_Requests	1	1	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2022	Total_Item_Requests	2	2	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2022	Unique_Item_Requests	2	2	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2023	Total_Item_Requests	3	3	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2023	Unique_Item_Requests	1	1	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2024	Total_Item_Requests	10	10	0
+Journal of the American Animal Hospital Association	Allen Press		Allen Press		Silverchair:1000033	0587-2871	1547-3317		2024	Unique_Item_Requests	10	10	0
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078	0090-3558	1943-3700		2024	Total_Item_Requests	2	2	0
+Journal of Wildlife Diseases	Allen Press		Allen Press		Silverchair:1000078	0090-3558	1943-3700		2024	Unique_Item_Requests	1	1	0

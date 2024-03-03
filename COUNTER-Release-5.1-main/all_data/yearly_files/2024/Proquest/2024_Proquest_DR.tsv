@@ -1,0 +1,194 @@
+Report_Name	Database Master Report
+Report_ID	DR
+Release	5
+Institution_Name	UNIVERSITY OF PRINCE EDWARD ISLAND
+Institution_ID	ProQuest:14670
+Metric_Types	
+Report_Filters	Platform=ProQuest
+Report_Attributes	
+Exceptions	3040: Partial Data Returned. (Usage data has not been processed for all requested months.)
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-01T13:53:39Z
+Created_By	ProQuest
+
+Database	Publisher	Publisher_ID	Platform	Proprietary_ID	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+Academic Video Online	ProQuest		ProQuest	Proquest:avon	Searches_Regular	75	47	28
+Agriculture Science Database	ProQuest		ProQuest	Proquest:agriculturejournals	No_License	1	1	0
+Alt-PressWatch	ProQuest		ProQuest	Proquest:altpresswatch	No_License	2	2	0
+Aquatic Science & Fisheries Abstracts (ASFA) 1: Biological Sciences & Living Resources	ProQuest		ProQuest	Proquest:asfabiological	Searches_Regular	83	52	31
+Aquatic Science & Fisheries Abstracts (ASFA) 2: Ocean Technology, Policy & Non-Living Resources	ProQuest		ProQuest	Proquest:asfaocean	Searches_Regular	83	52	31
+Aquatic Science & Fisheries Abstracts (ASFA) 2: Ocean Technology, Policy & Non-Living Resources	ProQuest		ProQuest	Proquest:asfaocean	Total_Item_Investigations	2	1	1
+Aquatic Science & Fisheries Abstracts (ASFA) 2: Ocean Technology, Policy & Non-Living Resources	ProQuest		ProQuest	Proquest:asfaocean	Unique_Item_Investigations	2	1	1
+Aquatic Science & Fisheries Abstracts (ASFA) 2: Ocean Technology, Policy & Non-Living Resources	ProQuest		ProQuest	Proquest:asfaocean	Total_Item_Requests	1	0	1
+Aquatic Science & Fisheries Abstracts (ASFA) 2: Ocean Technology, Policy & Non-Living Resources	ProQuest		ProQuest	Proquest:asfaocean	Unique_Item_Requests	1	0	1
+Aquatic Science & Fisheries Abstracts (ASFA) 3: Aquatic Pollution & Environmental Quality	ProQuest		ProQuest	Proquest:asfaaquaticpollution	Searches_Regular	83	52	31
+Aquatic Science & Fisheries Abstracts (ASFA) Aquaculture Abstracts	ProQuest		ProQuest	Proquest:asfaaquaculture	Searches_Regular	83	52	31
+Aquatic Science & Fisheries Abstracts (ASFA) Aquaculture Abstracts	ProQuest		ProQuest	Proquest:asfaaquaculture	Total_Item_Investigations	2	0	2
+Aquatic Science & Fisheries Abstracts (ASFA) Aquaculture Abstracts	ProQuest		ProQuest	Proquest:asfaaquaculture	Unique_Item_Investigations	1	0	1
+Aquatic Science & Fisheries Abstracts (ASFA) Marine Biotechnology Abstracts	ProQuest		ProQuest	Proquest:asfamarine	Searches_Regular	83	52	31
+ASFA: Aquatic Sciences and Fisheries Abstracts	ProQuest		ProQuest	Proquest:asfa	Searches_Regular	83	52	31
+Biological Science Database	ProQuest		ProQuest	Proquest:biologicalscijournals	No_License	1	0	1
+Canadian Business & Current Affairs Database	ProQuest		ProQuest	Proquest:cbcacomplete	Searches_Regular	115	77	38
+Canadian Business & Current Affairs Database: Business	ProQuest		ProQuest	Proquest:cbcacompletebusiness	Total_Item_Investigations	15	12	3
+Canadian Business & Current Affairs Database: Business	ProQuest		ProQuest	Proquest:cbcacompletebusiness	Total_Item_Requests	15	12	3
+Canadian Business & Current Affairs Database: Business	ProQuest		ProQuest	Proquest:cbcacompletebusiness	Unique_Item_Investigations	12	11	1
+Canadian Business & Current Affairs Database: Business	ProQuest		ProQuest	Proquest:cbcacompletebusiness	Unique_Item_Requests	12	11	1
+Canadian Business & Current Affairs Database: Health & Medicine	ProQuest		ProQuest	Proquest:cbcacompletehealth	Total_Item_Investigations	18	6	12
+Canadian Business & Current Affairs Database: Health & Medicine	ProQuest		ProQuest	Proquest:cbcacompletehealth	Total_Item_Requests	17	5	12
+Canadian Business & Current Affairs Database: Health & Medicine	ProQuest		ProQuest	Proquest:cbcacompletehealth	Unique_Item_Investigations	12	6	6
+Canadian Business & Current Affairs Database: Health & Medicine	ProQuest		ProQuest	Proquest:cbcacompletehealth	Unique_Item_Requests	11	5	6
+Canadian Business & Current Affairs Database: History	ProQuest		ProQuest	Proquest:cbcacompletehistory	Total_Item_Investigations	38	19	19
+Canadian Business & Current Affairs Database: History	ProQuest		ProQuest	Proquest:cbcacompletehistory	Total_Item_Requests	33	14	19
+Canadian Business & Current Affairs Database: History	ProQuest		ProQuest	Proquest:cbcacompletehistory	Unique_Item_Investigations	31	15	16
+Canadian Business & Current Affairs Database: History	ProQuest		ProQuest	Proquest:cbcacompletehistory	Unique_Item_Requests	27	11	16
+Canadian Business & Current Affairs Database: History	ProQuest		ProQuest	Proquest:cbcacompletehistory	Total_Item_Investigations	16	13	3
+Canadian Business & Current Affairs Database: History	ProQuest		ProQuest	Proquest:cbcacompletehistory	Total_Item_Requests	14	11	3
+Canadian Business & Current Affairs Database: History	ProQuest		ProQuest	Proquest:cbcacompletehistory	Unique_Item_Investigations	13	10	3
+Canadian Business & Current Affairs Database: History	ProQuest		ProQuest	Proquest:cbcacompletehistory	Unique_Item_Requests	12	9	3
+Canadian Business & Current Affairs Database: History	ProQuest		ProQuest	Proquest:cbcacompletehistory	Total_Item_Investigations	3	3	0
+Canadian Business & Current Affairs Database: History	ProQuest		ProQuest	Proquest:cbcacompletehistory	Total_Item_Requests	3	3	0
+Canadian Business & Current Affairs Database: History	ProQuest		ProQuest	Proquest:cbcacompletehistory	Unique_Item_Investigations	3	3	0
+Canadian Business & Current Affairs Database: History	ProQuest		ProQuest	Proquest:cbcacompletehistory	Unique_Item_Requests	3	3	0
+Canadian Business & Current Affairs Database: History	ProQuest		ProQuest	Proquest:cbcacompletehistory	Total_Item_Investigations	1	1	0
+Canadian Business & Current Affairs Database: History	ProQuest		ProQuest	Proquest:cbcacompletehistory	Total_Item_Requests	1	1	0
+Canadian Business & Current Affairs Database: History	ProQuest		ProQuest	Proquest:cbcacompletehistory	Unique_Item_Investigations	1	1	0
+Canadian Business & Current Affairs Database: History	ProQuest		ProQuest	Proquest:cbcacompletehistory	Unique_Item_Requests	1	1	0
+Canadian Business & Current Affairs Database: History	ProQuest		ProQuest	Proquest:cbcacompletehistory	Total_Item_Investigations	6	2	4
+Canadian Business & Current Affairs Database: History	ProQuest		ProQuest	Proquest:cbcacompletehistory	Unique_Item_Investigations	4	1	3
+Canadian Business & Current Affairs Database: History	ProQuest		ProQuest	Proquest:cbcacompletehistory	Total_Item_Requests	3	0	3
+Canadian Business & Current Affairs Database: History	ProQuest		ProQuest	Proquest:cbcacompletehistory	Unique_Item_Requests	2	0	2
+Canadian Business & Current Affairs Database: Literature & Language	ProQuest		ProQuest	Proquest:cbcacompletelitlang	Total_Item_Investigations	22	15	7
+Canadian Business & Current Affairs Database: Literature & Language	ProQuest		ProQuest	Proquest:cbcacompletelitlang	Total_Item_Requests	19	12	7
+Canadian Business & Current Affairs Database: Literature & Language	ProQuest		ProQuest	Proquest:cbcacompletelitlang	Unique_Item_Investigations	14	8	6
+Canadian Business & Current Affairs Database: Literature & Language	ProQuest		ProQuest	Proquest:cbcacompletelitlang	Unique_Item_Requests	14	8	6
+Canadian Business & Current Affairs Database: Literature & Language	ProQuest		ProQuest	Proquest:cbcacompletelitlang	Total_Item_Investigations	21	7	14
+Canadian Business & Current Affairs Database: Literature & Language	ProQuest		ProQuest	Proquest:cbcacompletelitlang	Total_Item_Requests	18	6	12
+Canadian Business & Current Affairs Database: Literature & Language	ProQuest		ProQuest	Proquest:cbcacompletelitlang	Unique_Item_Investigations	14	6	8
+Canadian Business & Current Affairs Database: Literature & Language	ProQuest		ProQuest	Proquest:cbcacompletelitlang	Unique_Item_Requests	14	6	8
+Canadian Business & Current Affairs Database: Science & Technology	ProQuest		ProQuest	Proquest:cbcacompletescitech	Total_Item_Investigations	19	7	12
+Canadian Business & Current Affairs Database: Science & Technology	ProQuest		ProQuest	Proquest:cbcacompletescitech	Total_Item_Requests	18	6	12
+Canadian Business & Current Affairs Database: Science & Technology	ProQuest		ProQuest	Proquest:cbcacompletescitech	Unique_Item_Investigations	13	5	8
+Canadian Business & Current Affairs Database: Science & Technology	ProQuest		ProQuest	Proquest:cbcacompletescitech	Unique_Item_Requests	12	4	8
+Canadian Business & Current Affairs Database: Social Sciences	ProQuest		ProQuest	Proquest:cbcacompletesocsci	Total_Item_Investigations	10	7	3
+Canadian Business & Current Affairs Database: Social Sciences	ProQuest		ProQuest	Proquest:cbcacompletesocsci	Total_Item_Requests	8	5	3
+Canadian Business & Current Affairs Database: Social Sciences	ProQuest		ProQuest	Proquest:cbcacompletesocsci	Unique_Item_Investigations	9	6	3
+Canadian Business & Current Affairs Database: Social Sciences	ProQuest		ProQuest	Proquest:cbcacompletesocsci	Unique_Item_Requests	7	4	3
+Canadian Business & Current Affairs Database: The Arts	ProQuest		ProQuest	Proquest:cbcacompletearts	Total_Item_Investigations	5	3	2
+Canadian Business & Current Affairs Database: The Arts	ProQuest		ProQuest	Proquest:cbcacompletearts	Total_Item_Requests	5	3	2
+Canadian Business & Current Affairs Database: The Arts	ProQuest		ProQuest	Proquest:cbcacompletearts	Unique_Item_Investigations	3	2	1
+Canadian Business & Current Affairs Database: The Arts	ProQuest		ProQuest	Proquest:cbcacompletearts	Unique_Item_Requests	3	2	1
+Coronavirus Research Database	ProQuest		ProQuest	Proquest:coronavirus	Searches_Regular	75	47	28
+Dissertations & Theses @ University of Prince Edward Island	ProQuest		ProQuest	Proquest:pqdtlocal1006012	Searches_Regular	82	50	32
+Dissertations & Theses @ University of Prince Edward Island	ProQuest		ProQuest	Proquest:pqdtlocal1006012	Total_Item_Investigations	11	1	10
+Dissertations & Theses @ University of Prince Edward Island	ProQuest		ProQuest	Proquest:pqdtlocal1006012	Total_Item_Requests	2	1	1
+Dissertations & Theses @ University of Prince Edward Island	ProQuest		ProQuest	Proquest:pqdtlocal1006012	Unique_Item_Investigations	8	1	7
+Dissertations & Theses @ University of Prince Edward Island	ProQuest		ProQuest	Proquest:pqdtlocal1006012	Unique_Item_Requests	2	1	1
+Earth, Atmospheric & Aquatic Science Collection	ProQuest		ProQuest	Proquest:earthatmosphericaquatic	Searches_Regular	83	52	31
+Earth, Atmospheric & Aquatic Science Database	ProQuest		ProQuest	Proquest:eaasdb	Searches_Regular	83	52	31
+Earth, Atmospheric & Aquatic Science Database	ProQuest		ProQuest	Proquest:eaasdb	Total_Item_Investigations	48	26	22
+Earth, Atmospheric & Aquatic Science Database	ProQuest		ProQuest	Proquest:eaasdb	Total_Item_Requests	48	26	22
+Earth, Atmospheric & Aquatic Science Database	ProQuest		ProQuest	Proquest:eaasdb	Unique_Item_Investigations	35	17	18
+Earth, Atmospheric & Aquatic Science Database	ProQuest		ProQuest	Proquest:eaasdb	Unique_Item_Requests	35	17	18
+Ebook Central	ProQuest		ProQuest	Proquest:ebookcentral1	Searches_Regular	75	47	28
+Education Database	ProQuest		ProQuest	Proquest:education	No_License	2	0	2
+Health & Medical Collection	ProQuest		ProQuest	Proquest:healthcomplete	No_License	6	3	3
+Latino Literature: Poetry, Drama, and Fiction	ProQuest		ProQuest	Proquest:litcollectionlali	Searches_Regular	75	47	28
+Literature Online - Full Text Journals	ProQuest		ProQuest	Proquest:lionjournals	No_License	1	0	1
+Materials Science Database	ProQuest		ProQuest	Proquest:materialsscijournals	No_License	2	1	1
+Medical Database	ProQuest		ProQuest	Proquest:medical	No_License	8	4	4
+Meteorological & Geoastrophysical Abstracts	ProQuest		ProQuest	Proquest:mgamodule	Searches_Regular	83	52	31
+Oceanic Abstracts	ProQuest		ProQuest	Proquest:oceanic	Searches_Regular	83	52	31
+Oceanic Abstracts	ProQuest		ProQuest	Proquest:oceanic	Total_Item_Investigations	2	0	2
+Oceanic Abstracts	ProQuest		ProQuest	Proquest:oceanic	Unique_Item_Investigations	1	0	1
+Periodicals Archive Online	ProQuest		ProQuest	Proquest:pao	Searches_Regular	150	94	56
+Periodicals Archive Online Collection 1	ProQuest		ProQuest	Proquest:pao1_2upd	Searches_Automated	75	47	28
+Periodicals Archive Online Collection 1	ProQuest		ProQuest	Proquest:pao1_2upd	Total_Item_Investigations	15	3	12
+Periodicals Archive Online Collection 1	ProQuest		ProQuest	Proquest:pao1_2upd	Total_Item_Requests	15	3	12
+Periodicals Archive Online Collection 1	ProQuest		ProQuest	Proquest:pao1_2upd	Unique_Item_Investigations	12	3	9
+Periodicals Archive Online Collection 1	ProQuest		ProQuest	Proquest:pao1_2upd	Unique_Item_Requests	12	3	9
+Periodicals Archive Online Collection 10	ProQuest		ProQuest	Proquest:pao10	Searches_Automated	75	47	28
+Periodicals Archive Online Collection 10	ProQuest		ProQuest	Proquest:pao10	Total_Item_Investigations	3	1	2
+Periodicals Archive Online Collection 10	ProQuest		ProQuest	Proquest:pao10	Total_Item_Requests	2	1	1
+Periodicals Archive Online Collection 10	ProQuest		ProQuest	Proquest:pao10	Unique_Item_Investigations	2	1	1
+Periodicals Archive Online Collection 10	ProQuest		ProQuest	Proquest:pao10	Unique_Item_Requests	2	1	1
+Periodicals Archive Online Collection 2	ProQuest		ProQuest	Proquest:pao2_2upd	Searches_Automated	75	47	28
+Periodicals Archive Online Collection 2	ProQuest		ProQuest	Proquest:pao2_2upd	Total_Item_Investigations	12	10	2
+Periodicals Archive Online Collection 2	ProQuest		ProQuest	Proquest:pao2_2upd	Total_Item_Requests	12	10	2
+Periodicals Archive Online Collection 2	ProQuest		ProQuest	Proquest:pao2_2upd	Unique_Item_Investigations	9	7	2
+Periodicals Archive Online Collection 2	ProQuest		ProQuest	Proquest:pao2_2upd	Unique_Item_Requests	9	7	2
+Periodicals Archive Online Collection 2	ProQuest		ProQuest	Proquest:pao2upd	Searches_Automated	75	47	28
+Periodicals Archive Online Collection 3	ProQuest		ProQuest	Proquest:pao3_3upd	Searches_Automated	75	47	28
+Periodicals Archive Online Collection 3	ProQuest		ProQuest	Proquest:pao3_3upd	Total_Item_Investigations	3	2	1
+Periodicals Archive Online Collection 3	ProQuest		ProQuest	Proquest:pao3_3upd	Total_Item_Requests	3	2	1
+Periodicals Archive Online Collection 3	ProQuest		ProQuest	Proquest:pao3_3upd	Unique_Item_Investigations	2	1	1
+Periodicals Archive Online Collection 3	ProQuest		ProQuest	Proquest:pao3_3upd	Unique_Item_Requests	2	1	1
+Periodicals Archive Online Collection 4	ProQuest		ProQuest	Proquest:pao4_2	Searches_Automated	75	47	28
+Periodicals Archive Online Collection 4	ProQuest		ProQuest	Proquest:pao4upd	Searches_Automated	75	47	28
+Periodicals Archive Online Collection 4	ProQuest		ProQuest	Proquest:pao4upd	Total_Item_Investigations	36	0	36
+Periodicals Archive Online Collection 4	ProQuest		ProQuest	Proquest:pao4upd	Total_Item_Requests	35	0	35
+Periodicals Archive Online Collection 4	ProQuest		ProQuest	Proquest:pao4upd	Unique_Item_Investigations	12	0	12
+Periodicals Archive Online Collection 4	ProQuest		ProQuest	Proquest:pao4upd	Unique_Item_Requests	12	0	12
+Periodicals Archive Online Collection 5	ProQuest		ProQuest	Proquest:pao5_2	Searches_Automated	75	47	28
+Periodicals Archive Online Collection 5	ProQuest		ProQuest	Proquest:pao5upd	Searches_Automated	75	47	28
+Periodicals Archive Online Collection 5	ProQuest		ProQuest	Proquest:pao5upd	Total_Item_Investigations	8	4	4
+Periodicals Archive Online Collection 5	ProQuest		ProQuest	Proquest:pao5upd	Total_Item_Requests	8	4	4
+Periodicals Archive Online Collection 5	ProQuest		ProQuest	Proquest:pao5upd	Unique_Item_Investigations	5	3	2
+Periodicals Archive Online Collection 5	ProQuest		ProQuest	Proquest:pao5upd	Unique_Item_Requests	5	3	2
+Periodicals Archive Online Collection 6	ProQuest		ProQuest	Proquest:pao6	Searches_Automated	75	47	28
+Periodicals Archive Online Collection 6	ProQuest		ProQuest	Proquest:pao6	Total_Item_Investigations	5	1	4
+Periodicals Archive Online Collection 6	ProQuest		ProQuest	Proquest:pao6	Total_Item_Requests	5	1	4
+Periodicals Archive Online Collection 6	ProQuest		ProQuest	Proquest:pao6	Unique_Item_Investigations	3	1	2
+Periodicals Archive Online Collection 6	ProQuest		ProQuest	Proquest:pao6	Unique_Item_Requests	3	1	2
+Periodicals Archive Online Collection 6	ProQuest		ProQuest	Proquest:pao6_2	Searches_Automated	75	47	28
+Periodicals Archive Online Collection 7	ProQuest		ProQuest	Proquest:pao7	Searches_Automated	75	47	28
+Periodicals Archive Online Collection 7	ProQuest		ProQuest	Proquest:pao7	Total_Item_Investigations	5	0	5
+Periodicals Archive Online Collection 7	ProQuest		ProQuest	Proquest:pao7	Total_Item_Requests	5	0	5
+Periodicals Archive Online Collection 7	ProQuest		ProQuest	Proquest:pao7	Unique_Item_Investigations	2	0	2
+Periodicals Archive Online Collection 7	ProQuest		ProQuest	Proquest:pao7	Unique_Item_Requests	2	0	2
+Periodicals Archive Online Collection 8	ProQuest		ProQuest	Proquest:pao8	Searches_Automated	75	47	28
+Periodicals Archive Online Collection 8	ProQuest		ProQuest	Proquest:pao8	Total_Item_Investigations	24	1	23
+Periodicals Archive Online Collection 8	ProQuest		ProQuest	Proquest:pao8	Total_Item_Requests	24	1	23
+Periodicals Archive Online Collection 8	ProQuest		ProQuest	Proquest:pao8	Unique_Item_Investigations	13	1	12
+Periodicals Archive Online Collection 8	ProQuest		ProQuest	Proquest:pao8	Unique_Item_Requests	13	1	12
+Periodicals Archive Online Collection 9	ProQuest		ProQuest	Proquest:pao9	Searches_Automated	75	47	28
+Periodicals Archive Online Collection 9	ProQuest		ProQuest	Proquest:pao9	Total_Item_Investigations	12	2	10
+Periodicals Archive Online Collection 9	ProQuest		ProQuest	Proquest:pao9	Total_Item_Requests	12	2	10
+Periodicals Archive Online Collection 9	ProQuest		ProQuest	Proquest:pao9	Unique_Item_Investigations	8	1	7
+Periodicals Archive Online Collection 9	ProQuest		ProQuest	Proquest:pao9	Unique_Item_Requests	8	1	7
+PRISMA Database	ProQuest		ProQuest	Proquest:prismanohapi	No_License	2	0	2
+ProQuest Dissertations & Theses Global	ProQuest		ProQuest	Proquest:pqdtglobal1	No_License	226	117	109
+ProQuest Historical Newspapers: The Globe and Mail	ProQuest		ProQuest	Proquest:hnpglobeandmail	Searches_Regular	90	57	33
+ProQuest Historical Newspapers: The Globe and Mail	ProQuest		ProQuest	Proquest:hnpglobeandmail	Total_Item_Investigations	18	6	12
+ProQuest Historical Newspapers: The Globe and Mail	ProQuest		ProQuest	Proquest:hnpglobeandmail	Total_Item_Requests	18	6	12
+ProQuest Historical Newspapers: The Globe and Mail	ProQuest		ProQuest	Proquest:hnpglobeandmail	Unique_Item_Investigations	12	6	6
+ProQuest Historical Newspapers: The Globe and Mail	ProQuest		ProQuest	Proquest:hnpglobeandmail	Unique_Item_Requests	12	6	6
+ProQuest One Business General Content	ProQuest		ProQuest	Proquest:pq1busgeneral	No_License	17	7	10
+ProQuest One Business General Content	ProQuest		ProQuest	Proquest:pq1busgeneral	Total_Item_Investigations	1	1	0
+ProQuest One Business General Content	ProQuest		ProQuest	Proquest:pq1busgeneral	Total_Item_Requests	1	1	0
+ProQuest One Business General Content	ProQuest		ProQuest	Proquest:pq1busgeneral	Unique_Item_Investigations	1	1	0
+ProQuest One Business General Content	ProQuest		ProQuest	Proquest:pq1busgeneral	Unique_Item_Requests	1	1	0
+ProQuest One Business General Content	ProQuest		ProQuest	Proquest:pq1busgeneral	No_License	1	1	0
+ProQuest One Literature Journals	ProQuest		ProQuest	Proquest:pq1litjournals	No_License	1	0	1
+ProQuest Preview Content	ProQuest		ProQuest	Proquest:internalopenlayer	Total_Item_Investigations	3	1	2
+ProQuest Preview Content	ProQuest		ProQuest	Proquest:internalopenlayer	Unique_Item_Investigations	2	1	1
+ProQuest Preview Content	ProQuest		ProQuest	Proquest:internalopenlayer	Unique_Title_Investigations	2	1	1
+ProQuest Preview Content	ProQuest		ProQuest	Proquest:internalopenlayer	Total_Item_Investigations	32	15	17
+ProQuest Preview Content	ProQuest		ProQuest	Proquest:internalopenlayer	Unique_Item_Investigations	31	15	16
+ProQuest Preview Content	ProQuest		ProQuest	Proquest:internalopenlayer	Total_Item_Investigations	2	1	1
+ProQuest Preview Content	ProQuest		ProQuest	Proquest:internalopenlayer	Unique_Item_Investigations	2	1	1
+ProQuest Professional Education	ProQuest		ProQuest	Proquest:educationperiodicals	No_License	3	2	1
+Psychology Database	ProQuest		ProQuest	Proquest:psychology	No_License	2	0	2
+Publicly Available Content Database	ProQuest		ProQuest	Proquest:publiccontent	Searches_Regular	75	47	28
+Publicly Available Content Database	ProQuest		ProQuest	Proquest:publiccontent	Total_Item_Investigations	63	26	37
+Publicly Available Content Database	ProQuest		ProQuest	Proquest:publiccontent	Total_Item_Requests	60	24	36
+Publicly Available Content Database	ProQuest		ProQuest	Proquest:publiccontent	Unique_Item_Investigations	50	19	31
+Publicly Available Content Database	ProQuest		ProQuest	Proquest:publiccontent	Unique_Item_Requests	50	19	31
+Publicly Available Content Database	ProQuest		ProQuest	Proquest:publiccontent	Total_Item_Investigations	9	2	7
+Publicly Available Content Database	ProQuest		ProQuest	Proquest:publiccontent	Total_Item_Requests	9	2	7
+Publicly Available Content Database	ProQuest		ProQuest	Proquest:publiccontent	Unique_Item_Investigations	9	2	7
+Publicly Available Content Database	ProQuest		ProQuest	Proquest:publiccontent	Unique_Item_Requests	9	2	7
+Research Library: Business	ProQuest		ProQuest	Proquest:pqrlbusinessalumni	No_License	1	0	1
+Research Library: History	ProQuest		ProQuest	Proquest:pqrlhistoryalumni	No_License	1	0	1
+Science Database	ProQuest		ProQuest	Proquest:sciencejournals	No_License	5	5	0
+Social Science Database	ProQuest		ProQuest	Proquest:socscijournals	No_License	6	6	0
+UK & Ireland Database	ProQuest		ProQuest	Proquest:ukireland	No_License	5	0	5

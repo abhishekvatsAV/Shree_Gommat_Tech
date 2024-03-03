@@ -1,0 +1,83 @@
+{
+"Report_Header": {
+"Created":"2024-03-01T13:46:44Z",
+"Created_By":"ingentaconnect",
+"Customer_ID":"peican",
+"Report_ID":"TR_J1",
+"Release":"5",
+"Report_Name":"Journal Requests (Excluding OA_Gold)",
+"Institution_Name":"University of PEI (Prince Edward Island)",
+"Institution_ID": [
+{
+"Type":"Proprietary",
+"Value":"connect:peican"
+}
+],
+"Report_Filters":[
+{
+"Name":"Begin_Date",
+"Value":"2024-01-01"
+},{
+"Name":"End_Date",
+"Value":"2024-02-29"
+},{
+"Name":"Access_Method",
+"Value":"Regular"
+}
+,{
+"Name":"Metric_Type",
+"Value":"Total_Item_Requests|Unique_Item_Requests"
+}
+,{
+"Name":"Data_Type",
+"Value":"Journal"
+},{
+"Name":"Access_Type",
+"Value":"Controlled"
+}],
+"Exceptions":[
+{
+"Code":3031,
+"Severity":"Warning",
+"Message":"Usage Not Ready for Requested Dates(Request Usage is available up to 2024-01-31.)",
+"Help_URL":"/help/sushi"
+}]
+},
+"Report_Items": [
+{
+"Title":"Bulletin of Marine Science",
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "0007-4977"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1553-6955"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/umrsmas/bullmar"
+}
+],
+"Platform":"connect",
+"Publisher":"University of Miami - Rosenstiel School of Marine, Atmospheric & Earth Science",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Requests",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Requests",
+"Count":1
+}]}
+
+]
+}
+]
+}

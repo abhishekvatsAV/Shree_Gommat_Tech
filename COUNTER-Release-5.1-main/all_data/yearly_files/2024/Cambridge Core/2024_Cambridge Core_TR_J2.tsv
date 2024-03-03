@@ -1,0 +1,42 @@
+Report_Name	Journal Access Denied
+Report_ID	TR_J2
+Release	5
+Institution_Name	University of Prince Edward Island
+Institution_ID	CUP:12159
+Metric_Types	Limit_Exceeded; No_License
+Report_Filters	Data_Type=Journal; Access_Method=Regular
+Report_Attributes	
+Exceptions	
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-01T13:38:47Z
+Created_By	Cambridge Core
+
+Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	Print_ISSN	Online_ISSN	URI	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+American Political Science Review	Cambridge University Press		Cambridge Core		CUP:PSR	0003-0554	1537-5943	https://www.cambridge.org/core/product/identifier/PSR/type/journal	No_License	1	0	1
+Animal Genetic Resources/Resources génétiques animales/Recursos genéticos animales	Cambridge University Press		Cambridge Core		CUP:AGR	2078-6336	2078-6344	https://www.cambridge.org/core/product/identifier/AGR/type/journal	No_License	1	0	1
+Animal Science	Cambridge University Press		Cambridge Core		CUP:ASC	1357-7298	1748-748X	https://www.cambridge.org/core/product/identifier/ASC/type/journal	No_License	4	3	1
+Art Libraries Journal	Cambridge University Press		Cambridge Core		CUP:ALJ	0307-4722	2059-7525	https://www.cambridge.org/core/product/identifier/ALJ/type/journal	No_License	1	1	0
+Biological Reviews	Cambridge University Press		Cambridge Core		CUP:BRE	1464-7931	1469-185X	https://www.cambridge.org/core/product/identifier/BRE/type/journal	No_License	2	0	2
+Canadian Journal of Political Science/Revue canadienne de science politique	Cambridge University Press		Cambridge Core		CUP:CJP	0008-4239	1744-9324	https://www.cambridge.org/core/product/identifier/CJP/type/journal	No_License	2	0	2
+Developmental Medicine and Child Neurology	Cambridge University Press		Cambridge Core		CUP:DMC	0012-1622	1469-8749	https://www.cambridge.org/core/product/identifier/DMC/type/journal	No_License	1	0	1
+Economics & Philosophy	Cambridge University Press		Cambridge Core		CUP:EAP	0266-2671	1474-0028	https://www.cambridge.org/core/product/identifier/EAP/type/journal	No_License	1	1	0
+Environmental Conservation	Cambridge University Press		Cambridge Core		CUP:ENC	0376-8929	1469-4387	https://www.cambridge.org/core/product/identifier/ENC/type/journal	No_License	2	0	2
+European Journal of Anaesthesiology	Cambridge University Press		Cambridge Core		CUP:EJA	0265-0215	1365-2346	https://www.cambridge.org/core/product/identifier/EJA/type/journal	No_License	1	1	0
+History in Africa	Cambridge University Press		Cambridge Core		CUP:HIA	0361-5413	1558-2744	https://www.cambridge.org/core/product/identifier/HIA/type/journal	No_License	4	0	4
+Hypatia	Cambridge University Press		Cambridge Core		CUP:HYP	0887-5367	1527-2001	https://www.cambridge.org/core/product/identifier/HYP/type/journal	No_License	1	0	1
+International Journal of Technology Assessment in Health Care	Cambridge University Press		Cambridge Core		CUP:THC	0266-4623	1471-6348	https://www.cambridge.org/core/product/identifier/THC/type/journal	No_License	2	1	1
+Irish Journal of Psychological Medicine	Cambridge University Press		Cambridge Core		CUP:IPM	0790-9667	2051-6967	https://www.cambridge.org/core/product/identifier/IPM/type/journal	No_License	1	1	0
+Journal of Helminthology	Cambridge University Press		Cambridge Core		CUP:JHL	0022-149X	1475-2697	https://www.cambridge.org/core/product/identifier/JHL/type/journal	No_License	3	0	3
+Journal of Materials Research	Cambridge University Press		Cambridge Core		CUP:JMR	0884-2914	2044-5326	https://www.cambridge.org/core/product/identifier/JMR/type/journal	No_License	2	0	2
+Law and History Review	Cambridge University Press		Cambridge Core		CUP:LHR	0738-2480	1939-9022	https://www.cambridge.org/core/product/identifier/LHR/type/journal	No_License	2	0	2
+Modern Italy	Cambridge University Press		Cambridge Core		CUP:MIT	1353-2944	1469-9877	https://www.cambridge.org/core/product/identifier/MIT/type/journal	No_License	1	1	0
+Nations and Nationalism	Cambridge University Press		Cambridge Core		CUP:NAT	1354-5078	1469-8129	https://www.cambridge.org/core/product/identifier/NAT/type/journal	No_License	2	0	2
+Philosophy of Science	Cambridge University Press		Cambridge Core		CUP:PSA	0031-8248	1539-767X	https://www.cambridge.org/core/product/identifier/PSA/type/journal	No_License	3	0	3
+PMLA / Publications of the Modern Language Association of America	Cambridge University Press		Cambridge Core		CUP:MLA	0030-8129	1938-1530	https://www.cambridge.org/core/product/identifier/MLA/type/journal	No_License	1	0	1
+Psychological Medicine	Cambridge University Press		Cambridge Core		CUP:PSM	0033-2917	1469-8978	https://www.cambridge.org/core/product/identifier/PSM/type/journal	No_License	2	0	2
+Religious Studies	Cambridge University Press		Cambridge Core		CUP:RES	0034-4125	1469-901X	https://www.cambridge.org/core/product/identifier/RES/type/journal	No_License	1	0	1
+Social Anthropology	Cambridge University Press		Cambridge Core		CUP:SAN	0964-0282	1469-8676	https://www.cambridge.org/core/product/identifier/SAN/type/journal	No_License	1	1	0
+Studies in Church History	Cambridge University Press		Cambridge Core		CUP:STC	0424-2084	2059-0644	https://www.cambridge.org/core/product/identifier/STC/type/journal	No_License	1	1	0
+The Historical Journal	Cambridge University Press		Cambridge Core		CUP:HIS	0018-246X	1469-5103	https://www.cambridge.org/core/product/identifier/HIS/type/journal	No_License	2	1	1
+The Journal of Agricultural Science			Cambridge Core		CUP:AGS	0021-8596	1469-5146	https://www.cambridge.org/core/product/identifier/AGS/type/journal	No_License	1	0	1
+The Review of Politics	Cambridge University Press		Cambridge Core		CUP:ROP	0034-6705	1748-6858	https://www.cambridge.org/core/product/identifier/ROP/type/journal	No_License	1	0	1

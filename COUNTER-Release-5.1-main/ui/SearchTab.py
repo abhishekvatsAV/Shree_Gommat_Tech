@@ -14,7 +14,7 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 class Ui_Search(object):
     def setupUi(self, Search):
         Search.setObjectName("Search")
-        Search.resize(801, 591)
+        Search.resize(819, 591)
         Search.setStyleSheet("*{\n"
 "    \n"
 "    \n"
@@ -202,6 +202,7 @@ class Ui_Search(object):
         font.setPointSize(12)
         self.start_year_edit.setFont(font)
         self.start_year_edit.setStyleSheet("QDateEdit {\n"
+"background-color: #2E2F30;\n"
 "    border: 2px solid #808080;\n"
 "    border-radius: 4px;\n"
 "    padding-left: 5px;\n"
@@ -256,6 +257,7 @@ class Ui_Search(object):
         font.setPointSize(12)
         self.end_year_edit.setFont(font)
         self.end_year_edit.setStyleSheet("QDateEdit {\n"
+"background-color: #2E2F30;\n"
 "    border: 2px solid #808080;\n"
 "    border-radius: 4px;\n"
 "    padding-left: 5px;\n"
@@ -309,7 +311,7 @@ class Ui_Search(object):
         self.gridLayout = QtWidgets.QGridLayout(self.frame_4)
         self.gridLayout.setObjectName("gridLayout")
         self.horizontalFrame = QtWidgets.QFrame(self.frame_4)
-        self.horizontalFrame.setMaximumSize(QtCore.QSize(16777215, 70))
+        self.horizontalFrame.setMaximumSize(QtCore.QSize(16777215, 80))
         self.horizontalFrame.setStyleSheet("border-radius: 8px;padding: 4px;")
         self.horizontalFrame.setObjectName("horizontalFrame")
         self.horizontalLayout = QtWidgets.QHBoxLayout(self.horizontalFrame)
@@ -328,6 +330,8 @@ class Ui_Search(object):
 "    color: white;\n"
 "border-radius: 0px;\n"
 "background: #2E2F30;\n"
+"padding-left: 10px;\n"
+"padding-right: 6px;\n"
 "}\n"
 "\n"
 "QComboBox QAbstractItemView {\n"
@@ -350,15 +354,19 @@ class Ui_Search(object):
         sizePolicy.setVerticalStretch(0)
         sizePolicy.setHeightForWidth(self.input_search_edit.sizePolicy().hasHeightForWidth())
         self.input_search_edit.setSizePolicy(sizePolicy)
-        self.input_search_edit.setMaximumSize(QtCore.QSize(16777215, 40))
+        self.input_search_edit.setMinimumSize(QtCore.QSize(0, 20))
+        self.input_search_edit.setMaximumSize(QtCore.QSize(16777215, 60))
         font = QtGui.QFont()
         font.setFamily("Georgia")
-        font.setPointSize(12)
+        font.setPointSize(-1)
         self.input_search_edit.setFont(font)
         self.input_search_edit.setStyleSheet("QLineEdit {\n"
 "    color: white;\n"
 "    background-color: #2E2F30;\n"
 " border-radius:4px;\n"
+"padding: 5px;\n"
+"font-size: 14px;\n"
+"padding-left: 14px;\n"
 "}\n"
 "")
         self.input_search_edit.setObjectName("input_search_edit")
@@ -382,7 +390,7 @@ class Ui_Search(object):
         self.result_summary_edit.setStyleSheet("border: none;\n"
 "font-size: 18px;")
         self.result_summary_edit.setObjectName("result_summary_edit")
-        self.gridLayout.addWidget(self.result_summary_edit, 3, 0, 1, 1)
+        self.gridLayout.addWidget(self.result_summary_edit, 3, 0, 1, 1, QtCore.Qt.AlignHCenter)
         self.verticalLayout.addWidget(self.frame_4)
         self.gridLayout_2.addWidget(self.frame, 0, 0, 1, 1)
         self.frame_2 = QtWidgets.QFrame(self.widget_3)
@@ -397,20 +405,22 @@ class Ui_Search(object):
         font.setFamily("Georgia")
         font.setPointSize(18)
         font.setBold(True)
+        font.setItalic(False)
         self.save_folder_button.setFont(font)
         self.save_folder_button.setAutoFillBackground(False)
-        self.save_folder_button.setStyleSheet("\n"
-"  QPushButton {\n"
-"    border: 2px solid #000000;\n"
-"border-color:grey;\n"
-"border-radius:15px;\n"
-"text-align:center;\n"
+        self.save_folder_button.setStyleSheet("QPushButton {\n"
+"    background-color: #1768E3; \n"
+"    color: #FFFFFF;\n"
+"    font: bold;\n"
+"   border-radius: 6px;\n"
+"text-align: center;\n"
+"padding: 14px;\n"
 "}\n"
 "\n"
-"QPushButton:hover {\n"
-"    background-color: lightblue;\n"
+"QPushButton:hover{\n"
+" background-color: #2095E6;\n"
+"cursor: pointer;\n"
 "}\n"
-"\n"
 "\n"
 "")
         icon = QtGui.QIcon()
@@ -425,20 +435,22 @@ class Ui_Search(object):
         font.setFamily("Georgia")
         font.setPointSize(18)
         font.setBold(True)
+        font.setItalic(False)
         self.search_button.setFont(font)
         self.search_button.setAutoFillBackground(False)
-        self.search_button.setStyleSheet("\n"
-"  QPushButton {\n"
-"    border: 2px solid #000000;\n"
-"border-color:grey;\n"
-"border-radius:15px;\n"
-"text-align:center;\n"
+        self.search_button.setStyleSheet("QPushButton {\n"
+"    background-color: #1768E3; \n"
+"    color: #FFFFFF;\n"
+"    font: bold;\n"
+"   border-radius: 6px;\n"
+"text-align: center;\n"
+"padding: 14px;\n"
 "}\n"
 "\n"
-"QPushButton:hover {\n"
-"    background-color: lightblue;\n"
+"QPushButton:hover{\n"
+" background-color: #2095E6;\n"
+"cursor: pointer;\n"
 "}\n"
-"\n"
 "\n"
 "")
         icon1 = QtGui.QIcon()
@@ -454,6 +466,13 @@ class Ui_Search(object):
 
         self.retranslateUi(Search)
         QtCore.QMetaObject.connectSlotsByName(Search)
+        Search.setTabOrder(self.start_year_edit, self.start_month_comboBox)
+        Search.setTabOrder(self.start_month_comboBox, self.end_year_edit)
+        Search.setTabOrder(self.end_year_edit, self.end_month_comboBox)
+        Search.setTabOrder(self.end_month_comboBox, self.search_type)
+        Search.setTabOrder(self.search_type, self.input_search_edit)
+        Search.setTabOrder(self.input_search_edit, self.search_button)
+        Search.setTabOrder(self.search_button, self.save_folder_button)
 
     def retranslateUi(self, Search):
         _translate = QtCore.QCoreApplication.translate

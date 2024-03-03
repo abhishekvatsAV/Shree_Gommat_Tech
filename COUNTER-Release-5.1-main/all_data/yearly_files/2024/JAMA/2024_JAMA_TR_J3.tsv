@@ -1,0 +1,58 @@
+Report_Name	Journal Usage by Access Type
+Report_ID	TR_J3
+Release	5
+Institution_Name	University of Prince Edward Island
+Institution_ID	Silverchair:35310
+Metric_Types	Total_Item_Investigations; Total_Item_Requests; Unique_Item_Investigations; Unique_Item_Requests
+Report_Filters	Access_Method=Regular; Data_Type=Journal
+Report_Attributes	
+Exceptions	3031: Usage Not Ready for Requested Dates ()
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-01T00:00:00Z
+Created_By	Silverchair
+
+Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	Print_ISSN	Online_ISSN	URI	Access_Type	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+JAMA	American Medical Association		American Medical Association		Silverchair:67	0098-7484	1538-3598		Controlled	Total_Item_Investigations	53	53	0
+JAMA	American Medical Association		American Medical Association		Silverchair:67	0098-7484	1538-3598		Controlled	Unique_Item_Investigations	49	49	0
+JAMA	American Medical Association		American Medical Association		Silverchair:67	0098-7484	1538-3598		Controlled	Total_Item_Requests	51	51	0
+JAMA	American Medical Association		American Medical Association		Silverchair:67	0098-7484	1538-3598		Controlled	Unique_Item_Requests	47	47	0
+JAMA Cardiology	American Medical Association		American Medical Association		Silverchair:184	2380-6583	2380-6591		OA_Gold	Total_Item_Requests	1	1	0
+JAMA Cardiology	American Medical Association		American Medical Association		Silverchair:184	2380-6583	2380-6591		OA_Gold	Unique_Item_Investigations	1	1	0
+JAMA Cardiology	American Medical Association		American Medical Association		Silverchair:184	2380-6583	2380-6591		OA_Gold	Total_Item_Investigations	1	1	0
+JAMA Cardiology	American Medical Association		American Medical Association		Silverchair:184	2380-6583	2380-6591		OA_Gold	Unique_Item_Requests	1	1	0
+JAMA Dermatology	American Medical Association		American Medical Association		Silverchair:68	2168-6068	2168-6084		Controlled	Total_Item_Requests	1	1	0
+JAMA Dermatology	American Medical Association		American Medical Association		Silverchair:68	2168-6068	2168-6084		Controlled	Total_Item_Investigations	2	2	0
+JAMA Dermatology	American Medical Association		American Medical Association		Silverchair:68	2168-6068	2168-6084		Controlled	Unique_Item_Investigations	2	2	0
+JAMA Dermatology	American Medical Association		American Medical Association		Silverchair:68	2168-6068	2168-6084		Controlled	Unique_Item_Requests	1	1	0
+JAMA Health Forum	American Medical Association		American Medical Association		Silverchair:185		2689-0186		OA_Gold	Total_Item_Requests	4	4	0
+JAMA Health Forum	American Medical Association		American Medical Association		Silverchair:185		2689-0186		OA_Gold	Unique_Item_Investigations	3	3	0
+JAMA Health Forum	American Medical Association		American Medical Association		Silverchair:185		2689-0186		OA_Gold	Unique_Item_Requests	3	3	0
+JAMA Health Forum	American Medical Association		American Medical Association		Silverchair:185		2689-0186		OA_Gold	Total_Item_Investigations	4	4	0
+JAMA Internal Medicine	American Medical Association		American Medical Association		Silverchair:71	2168-6106	2168-6114		Controlled	Unique_Item_Investigations	10	10	0
+JAMA Internal Medicine	American Medical Association		American Medical Association		Silverchair:71	2168-6106	2168-6114		Controlled	Total_Item_Investigations	14	14	0
+JAMA Internal Medicine	American Medical Association		American Medical Association		Silverchair:71	2168-6106	2168-6114		Controlled	Total_Item_Requests	1	1	0
+JAMA Internal Medicine	American Medical Association		American Medical Association		Silverchair:71	2168-6106	2168-6114		Controlled	Unique_Item_Requests	1	1	0
+JAMA Network Open	American Medical Association		American Medical Association		Silverchair:187		2574-3805		OA_Gold	Total_Item_Investigations	7	7	0
+JAMA Network Open	American Medical Association		American Medical Association		Silverchair:187		2574-3805		OA_Gold	Unique_Item_Requests	7	7	0
+JAMA Network Open	American Medical Association		American Medical Association		Silverchair:187		2574-3805		OA_Gold	Total_Item_Requests	7	7	0
+JAMA Network Open	American Medical Association		American Medical Association		Silverchair:187		2574-3805		OA_Gold	Unique_Item_Investigations	7	7	0
+JAMA Neurology	American Medical Association		American Medical Association		Silverchair:72	2168-6149	2168-6157		Controlled	Total_Item_Investigations	6	6	0
+JAMA Neurology	American Medical Association		American Medical Association		Silverchair:72	2168-6149	2168-6157		Controlled	Unique_Item_Investigations	4	4	0
+JAMA Neurology	American Medical Association		American Medical Association		Silverchair:72	2168-6149	2168-6157		Controlled	Unique_Item_Requests	1	1	0
+JAMA Neurology	American Medical Association		American Medical Association		Silverchair:72	2168-6149	2168-6157		Controlled	Total_Item_Requests	2	2	0
+JAMA Ophthalmology	American Medical Association		American Medical Association		Silverchair:73	2168-6165	2168-6173		Controlled	Total_Item_Investigations	2	2	0
+JAMA Ophthalmology	American Medical Association		American Medical Association		Silverchair:73	2168-6165	2168-6173		Controlled	Unique_Item_Requests	1	1	0
+JAMA Ophthalmology	American Medical Association		American Medical Association		Silverchair:73	2168-6165	2168-6173		Controlled	Unique_Item_Investigations	2	2	0
+JAMA Ophthalmology	American Medical Association		American Medical Association		Silverchair:73	2168-6165	2168-6173		Controlled	Total_Item_Requests	1	1	0
+JAMA Otolaryngology–Head & Neck Surgery	American Medical Association		American Medical Association		Silverchair:74	2168-6181	2168-619X		Controlled	Total_Item_Investigations	6	6	0
+JAMA Otolaryngology–Head & Neck Surgery	American Medical Association		American Medical Association		Silverchair:74	2168-6181	2168-619X		Controlled	Unique_Item_Requests	2	2	0
+JAMA Otolaryngology–Head & Neck Surgery	American Medical Association		American Medical Association		Silverchair:74	2168-6181	2168-619X		Controlled	Total_Item_Requests	2	2	0
+JAMA Otolaryngology–Head & Neck Surgery	American Medical Association		American Medical Association		Silverchair:74	2168-6181	2168-619X		Controlled	Unique_Item_Investigations	6	6	0
+JAMA Pediatrics	American Medical Association		American Medical Association		Silverchair:75	2168-6203	2168-6211		Controlled	Total_Item_Requests	2	2	0
+JAMA Pediatrics	American Medical Association		American Medical Association		Silverchair:75	2168-6203	2168-6211		Controlled	Total_Item_Investigations	3	3	0
+JAMA Pediatrics	American Medical Association		American Medical Association		Silverchair:75	2168-6203	2168-6211		Controlled	Unique_Item_Requests	2	2	0
+JAMA Pediatrics	American Medical Association		American Medical Association		Silverchair:75	2168-6203	2168-6211		Controlled	Unique_Item_Investigations	3	3	0
+JAMA Surgery	American Medical Association		American Medical Association		Silverchair:76	2168-6254	2168-6262		Controlled	Total_Item_Investigations	1	1	0
+JAMA Surgery	American Medical Association		American Medical Association		Silverchair:76	2168-6254	2168-6262		Controlled	Unique_Item_Requests	1	1	0
+JAMA Surgery	American Medical Association		American Medical Association		Silverchair:76	2168-6254	2168-6262		Controlled	Total_Item_Requests	1	1	0
+JAMA Surgery	American Medical Association		American Medical Association		Silverchair:76	2168-6254	2168-6262		Controlled	Unique_Item_Investigations	1	1	0

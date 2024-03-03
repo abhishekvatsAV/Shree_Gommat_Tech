@@ -1,4 +1,4 @@
-name	is_version_5_0_or_5_1	base_url	starting_year	customer_id	requestor_id	api_key	platform	requires_two_attempts	does_ip_checking	needs_throttling	notes	provider
+name	version	base_url	starting_year	customer_id	requestor_id	api_key	platform	requires_two_attempts	does_ip_checking	needs_throttling	notes	provider
 Justin Spence	5.1	http://www.miles.org/counter/r51/reports	2010	080964768	084566337	1fb6a0bd-a283-4523-8269-d57fc6bdca4a	760a511	True	False	True	Someone college powe	Friend cur
 Tonya Gibson	5.1	http://cook-pham.com/counter/r51/reports	2018	021763944	040867889	2d6046d6-806b-48f0-a1e1-802bc1f84b05	ba38263	False	False	True	Challenge away neces	Certainly 
 Sharon Grant	5.1	http://www.johnson.org/counter/r51/reports	2015	117201763	011174446	fb2be494-4395-43b0-8d28-8d1cad9cf851	5008c62	False	False	False	Continue about some 	Reveal fin

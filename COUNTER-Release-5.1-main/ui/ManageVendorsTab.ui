@@ -89,7 +89,17 @@ QPushButton:hover {
                   </sizepolicy>
                  </property>
                  <property name="styleSheet">
-                  <string notr="true">text-align: center;
+                  <string notr="true">QPushButton { 
+    color: #FFFFFF;
+	font: bold;
+   border-radius: 4px;
+text-align: center;
+}
+
+QPushButton:hover{
+ background-color: #2095E6;
+}
+
 </string>
                  </property>
                  <property name="text">
@@ -110,7 +120,17 @@ QPushButton:hover {
                   </sizepolicy>
                  </property>
                  <property name="styleSheet">
-                  <string notr="true">text-align: center;
+                  <string notr="true">QPushButton { 
+    color: #FFFFFF;
+	font: bold;
+   border-radius: 4px;
+text-align: center;
+}
+
+QPushButton:hover{
+ background-color: #2095E6;
+}
+
 </string>
                  </property>
                  <property name="text">
@@ -134,7 +154,17 @@ QPushButton:hover {
                   <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;img src=&quot;:/newPrefix/save_icon.png&quot;/&gt;yguhbnj&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
                  </property>
                  <property name="styleSheet">
-                  <string notr="true">text-align: center;
+                  <string notr="true">QPushButton { 
+    color: #FFFFFF;
+	font: bold;
+   border-radius: 4px;
+text-align: center;
+}
+
+QPushButton:hover{
+ background-color: #2095E6;
+}
+
 </string>
                  </property>
                  <property name="text">
@@ -155,7 +185,17 @@ QPushButton:hover {
                   </sizepolicy>
                  </property>
                  <property name="styleSheet">
-                  <string notr="true">text-align: center;
+                  <string notr="true">QPushButton { 
+    color: #FFFFFF;
+	font: bold;
+   border-radius: 4px;
+text-align: center;
+}
+
+QPushButton:hover{
+ background-color: #2095E6;
+}
+
 </string>
                  </property>
                  <property name="text">
@@ -180,19 +220,24 @@ QPushButton:hover {
               </property>
               <property name="styleSheet">
                <string notr="true">QListView {
-	background-color: #cccccc;
-
-	color:black;
+	background-color: rgb(33, 33, 33);
+	color:white;
+	alternate-background-color: rgb(50, 50, 50);
+	padding: 8px;
+	border: 2px solid gray;
+	border-radius: 4px;
 }
 
-#vendorsListView{
+QListView::item {
+    padding: 6px;
+}
 
 
-    border: 5px solid #000000;
-	border-color: rgb(166, 166, 166);
-color:black;
-
-
+QScrollBar {
+    border: none;
+    background: rgb(30, 30, 30);
+    width: 15px;
+    margin: 15px 0 15px 0;
 }</string>
               </property>
               <property name="alternatingRowColors">
@@ -233,7 +278,17 @@ QPushButton:hover {
             <item>
              <widget class="QPushButton" name="version51">
               <property name="styleSheet">
-               <string notr="true">text-align: center;
+               <string notr="true">QPushButton { 
+    color: #FFFFFF;
+	font: bold;
+   border-radius: 4px;
+text-align: center;
+}
+
+QPushButton:hover{
+ background-color: #2095E6;
+}
+
 </string>
               </property>
               <property name="text">
@@ -243,6 +298,20 @@ QPushButton:hover {
             </item>
             <item>
              <widget class="QPushButton" name="version50">
+              <property name="styleSheet">
+               <string notr="true">QPushButton { 
+    color: #FFFFFF;
+	font: bold;
+   border-radius: 4px;
+text-align: center;
+}
+
+QPushButton:hover{
+ background-color: #2095E6;
+}
+
+</string>
+              </property>
               <property name="text">
                <string>Version 5.0</string>
               </property>

@@ -450,7 +450,7 @@
 450.
 451.
 </code></pre></td><td><pre><code>#set ( $calendar = $date.getCalendar() )##
-$calendar.setTime($date.toDate('yyyy-MM-dd','2024-01-31', $enLocale))####
+$calendar.setTime($date.toDate('yyyy-MM-dd','2024-02-29', $enLocale))####
 #if ($calendar.get(5)==1)##
 $calendar.add(2, 1)####
 $calendar.add(6, -1)####
@@ -565,7 +565,7 @@ $calendar.add(6, -1)####
 ####
 {##
 &quot;Report_Header&quot;:{##
-&quot;Created&quot;:&quot;2024-02-29T10:47:53Z&quot;,##
+&quot;Created&quot;:&quot;2024-03-02T09:52:58Z&quot;,##
 &quot;Created_By&quot;:&quot;sushi+pr447048@aps.org&quot;,##
 &quot;Customer_ID&quot;:&quot;PR447048&quot;,##
 &quot;Report_ID&quot;:&quot;PR&quot;,##
@@ -579,7 +579,7 @@ $calendar.add(6, -1)####
 },##
 {##
 &quot;Name&quot;:&quot;End_Date&quot;,##
-&quot;Value&quot;:&quot;2024-01-31&quot;##
+&quot;Value&quot;:&quot;2024-02-29&quot;##
 }#if ($metricTypes != &quot;&quot;),##
 {##
 &quot;Name&quot;:&quot;Metric_Type&quot;,##

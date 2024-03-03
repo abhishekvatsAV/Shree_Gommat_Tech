@@ -47,6 +47,16 @@ class Ui_FetchProgressDialog(object):
         sizePolicy.setVerticalStretch(0)
         sizePolicy.setHeightForWidth(self.progress_bar.sizePolicy().hasHeightForWidth())
         self.progress_bar.setSizePolicy(sizePolicy)
+        self.progress_bar.setStyleSheet("QProgressBar {\n"
+"    border: 2px solid grey;\n"
+"    border-radius: 5px;\n"
+"    text-align: center;\n"
+"}\n"
+"\n"
+"QProgressBar::chunk {\n"
+"    background-color: #05B8CC;\n"
+"    width: 20px;\n"
+"}")
         self.progress_bar.setProperty("value", 24)
         self.progress_bar.setObjectName("progress_bar")
         self.verticalLayout_2.addWidget(self.progress_bar)
@@ -57,10 +67,11 @@ class Ui_FetchProgressDialog(object):
         sizePolicy.setVerticalStretch(0)
         sizePolicy.setHeightForWidth(self.results_scroll_area.sizePolicy().hasHeightForWidth())
         self.results_scroll_area.setSizePolicy(sizePolicy)
+        self.results_scroll_area.setStyleSheet("")
         self.results_scroll_area.setWidgetResizable(True)
         self.results_scroll_area.setObjectName("results_scroll_area")
         self.scroll_area_widget_contents = QtWidgets.QWidget()
-        self.scroll_area_widget_contents.setGeometry(QtCore.QRect(0, 0, 774, 441))
+        self.scroll_area_widget_contents.setGeometry(QtCore.QRect(0, 0, 774, 433))
         self.scroll_area_widget_contents.setObjectName("scroll_area_widget_contents")
         self.scroll_area_vertical_layout = QtWidgets.QVBoxLayout(self.scroll_area_widget_contents)
         self.scroll_area_vertical_layout.setObjectName("scroll_area_vertical_layout")

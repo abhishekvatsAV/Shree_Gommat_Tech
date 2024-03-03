@@ -1,0 +1,25 @@
+Report_Name	Platform Master Report
+Report_ID	PR
+Release	5
+Institution_Name	University of Prince Edward Island
+Institution_ID	rsc:3140
+Metric_Types	
+Report_Filters	
+Report_Attributes	Attributes_To_Show=Data_Type|Access_Method
+Exceptions	
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-01T14:00:10Z
+Created_By	MPS Limited
+
+Platform	Data_Type	Access_Method	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+pubs.rsc.org	Journal	Regular	Total_Item_Requests	163	163	0
+pubs.rsc.org	Journal	Regular	Unique_Item_Requests	100	100	0
+pubs.rsc.org	Journal	Regular	Total_Item_Investigations	250	250	0
+pubs.rsc.org	Journal	Regular	Unique_Item_Investigations	175	175	0
+rsc.xyz	Platform	Regular	Searches_Platform	2	2	0
+Silverchair	Book	Regular	Total_Item_Investigations	5	5	0
+Silverchair	Book	Regular	Total_Item_Requests	2	2	0
+Silverchair	Book	Regular	Unique_Item_Investigations	4	4	0
+Silverchair	Book	Regular	Unique_Item_Requests	1	1	0
+Silverchair	Book	Regular	Unique_Title_Requests	1	1	0
+Silverchair	Book	Regular	Unique_Title_Investigations	3	3	0

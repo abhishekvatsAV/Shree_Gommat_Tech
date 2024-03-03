@@ -1,0 +1,2755 @@
+{
+"Report_Header": {
+"Created":"2024-03-01T13:47:25Z",
+"Created_By":"ingentaconnect",
+"Customer_ID":"peican",
+"Report_ID":"IR",
+"Release":"5",
+"Report_Name":"Item Master Report",
+"Institution_Name":"University of PEI (Prince Edward Island)",
+"Institution_ID": [
+{
+"Type":"Proprietary",
+"Value":"connect:peican"
+}
+],
+"Report_Filters":[
+{
+"Name":"Begin_Date",
+"Value":"2024-01-01"
+},{
+"Name":"End_Date",
+"Value":"2024-02-29"
+},{
+"Name":"Access_Method",
+"Value":"Regular"
+}
+,{
+"Name":"Metric_Type",
+"Value":"No_License|Total_Item_Investigations|Total_Item_Requests|Unique_Item_Investigations|Unique_Item_Requests"
+}
+,{
+"Name":"Parent_Data_Type",
+"Value":"Book|Journal"
+},{
+"Name":"Data_Type",
+"Value":"Article|Book|Book_Segment"
+}],
+"Report_Attributes":[
+{
+"Name":"Attributes_To_Show",
+"Value":"Data_Type|Access_Type|Access_Method|YOP|Authors|Publication_Date|Article_Version; Include_Parent_Details=True"
+}
+]
+,
+"Exceptions":[
+{
+"Code":3031,
+"Severity":"Warning",
+"Message":"Usage Not Ready for Requested Dates(Investigation Usage is available up to 2024-01-31.Request Usage is available up to 2024-01-31.No License Usage is available up to 2024-01-31.)",
+"Help_URL":"/help/sushi"
+}]
+},
+"Report_Items": [
+{
+"Item":"A Research Note on Relationships Between the Vertical Jump and Standing Broad Jump in Law Enforcement Recruits: Implications for Lower-Body Power Testing",
+"Item_ID": [
+{
+"Type": "DOI",
+"Value": "10.1519/jsc.0000000000003821"
+},
+{
+"Type": "Print_ISSN",
+"Value": "1064-8011"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/wk/jsc/2022/00000036/00000008/art00039"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Lockie"
+},
+{
+"Type": "Author",
+"Name": "Robert G. and Moreno"
+},
+{
+"Type": "Author",
+"Name": "Mathew R. and Dawes"
+},
+{
+"Type": "Author",
+"Name": "J. Jay"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"connect",
+"Publisher":"Wolters Kluwer",
+"Item_Parent": {
+"Item_Name": "Journal of Strength and Conditioning Research",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Lockie"
+},
+{
+"Type": "Author",
+"Name": "Robert G. and Moreno"
+},
+{
+"Type": "Author",
+"Name": "Mathew R. and Dawes"
+},
+{
+"Type": "Author",
+"Name": "J. Jay"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Data_Type",
+"Value": "Journal"
+},
+{
+"Type": "Print_ISSN",
+"Value": "1064-8011"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/wk/jsc"
+}
+]},
+"Data_Type":"Article",
+"YOP":"2022",
+"Access_Type":"Controlled",
+"Access_Method":"Regular",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"No_License",
+"Count":1
+}]
+}
+]
+},
+{
+"Item":"Archives of Sexuality and Gender: LGBTQ History and Culture Since 1940, Part I",
+"Item_ID": [
+{
+"Type": "DOI",
+"Value": "10.5260/chara.18.3.9"
+},
+{
+"Type": "Print_ISSN",
+"Value": "1525-4011"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1525-4003"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/annurev/tca/2017/00000018/00000003/art00005"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Hennessey"
+},
+{
+"Type": "Author",
+"Name": "Christina L."
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"annurev",
+"Publisher":"Annual Reviews",
+"Item_Parent": {
+"Item_Name": "The Charleston Advisor",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Hennessey"
+},
+{
+"Type": "Author",
+"Name": "Christina L."
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Data_Type",
+"Value": "Journal"
+},
+{
+"Type": "Print_ISSN",
+"Value": "1525-4011"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1525-4003"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/annurev/tca"
+}
+]},
+"Data_Type":"Article",
+"YOP":"2017",
+"Access_Type":"Controlled",
+"Access_Method":"Regular",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"No_License",
+"Count":1
+}]
+}
+]
+},
+{
+"Item":"Associations Between Technology Use, Responsive Feeding, and Child Temperament Among Prior Prenatal Intervention Participants",
+"Item_ID": [
+{
+"Type": "DOI",
+"Value": "10.1097/dbp.0000000000001174"
+},
+{
+"Type": "Print_ISSN",
+"Value": "0196-206X"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/wk/dbp/2023/00000044/00000004/art00010"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Ventura"
+},
+{
+"Type": "Author",
+"Name": "Alison K. and Hart"
+},
+{
+"Type": "Author",
+"Name": "Chantelle N. and Phelan"
+},
+{
+"Type": "Author",
+"Name": "Suzanne and Jelalian"
+},
+{
+"Type": "Author",
+"Name": "Elissa and Wing"
+},
+{
+"Type": "Author",
+"Name": "Rena R."
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"connect",
+"Publisher":"Wolters Kluwer",
+"Item_Parent": {
+"Item_Name": "Journal of Developmental & Behavioral Pediatrics",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Ventura"
+},
+{
+"Type": "Author",
+"Name": "Alison K. and Hart"
+},
+{
+"Type": "Author",
+"Name": "Chantelle N. and Phelan"
+},
+{
+"Type": "Author",
+"Name": "Suzanne and Jelalian"
+},
+{
+"Type": "Author",
+"Name": "Elissa and Wing"
+},
+{
+"Type": "Author",
+"Name": "Rena R."
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Data_Type",
+"Value": "Journal"
+},
+{
+"Type": "Print_ISSN",
+"Value": "0196-206X"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/wk/dbp"
+}
+]},
+"Data_Type":"Article",
+"YOP":"2023",
+"Access_Type":"Controlled",
+"Access_Method":"Regular",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"No_License",
+"Count":1
+}]
+}
+]
+},
+{
+"Item":"Comparison of Systemic Extended-release Buprenorphine and Local Extended-release Bupivacaine-Meloxicam as Analgesics for Laparotomy in Mice",
+"Item_ID": [
+{
+"Type": "DOI",
+"Value": "10.30802/aalas-jaalas-22-000107"
+},
+{
+"Type": "Print_ISSN",
+"Value": "1559-6109"
+},
+{
+"Type": "Online_ISSN",
+"Value": "2769-6677"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/aalas/jaalas/2023/00000062/00000005/art00005"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Yang"
+},
+{
+"Type": "Author",
+"Name": "Peggy and Hish"
+},
+{
+"Type": "Author",
+"Name": "Gerry and Lester"
+},
+{
+"Type": "Author",
+"Name": "Patrick A"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"connect",
+"Publisher":"American Association for Laboratory Animal Science",
+"Item_Parent": {
+"Item_Name": "Journal of the American Association for Laboratory Animal Science",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Yang"
+},
+{
+"Type": "Author",
+"Name": "Peggy and Hish"
+},
+{
+"Type": "Author",
+"Name": "Gerry and Lester"
+},
+{
+"Type": "Author",
+"Name": "Patrick A"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Data_Type",
+"Value": "Journal"
+},
+{
+"Type": "Print_ISSN",
+"Value": "1559-6109"
+},
+{
+"Type": "Online_ISSN",
+"Value": "2769-6677"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/aalas/jaalas"
+}
+]},
+"Data_Type":"Article",
+"YOP":"2023",
+"Access_Type":"Controlled",
+"Access_Method":"Regular",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"No_License",
+"Count":1
+}]
+}
+]
+},
+{
+"Item":"Determination of the Feasibility of Fish Attracting Devices for Enhancing Fisheries in Puerto Rico",
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "0007-4977"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/umrsmas/bullmar/1989/00000044/00000002/art00039"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Feigenbaum"
+},
+{
+"Type": "Author",
+"Name": "David and Friedlander"
+},
+{
+"Type": "Author",
+"Name": "Alan and Bushing"
+},
+{
+"Type": "Author",
+"Name": "Mark"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"connect",
+"Publisher":"University of Miami - Rosenstiel School of Marine, Atmospheric & Earth Science",
+"Item_Parent": {
+"Item_Name": "Bulletin of Marine Science",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Feigenbaum"
+},
+{
+"Type": "Author",
+"Name": "David and Friedlander"
+},
+{
+"Type": "Author",
+"Name": "Alan and Bushing"
+},
+{
+"Type": "Author",
+"Name": "Mark"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Data_Type",
+"Value": "Journal"
+},
+{
+"Type": "Print_ISSN",
+"Value": "0007-4977"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1553-6955"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/umrsmas/bullmar"
+}
+]},
+"Data_Type":"Article",
+"YOP":"1989",
+"Access_Type":"Controlled",
+"Access_Method":"Regular",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+}]
+}
+]
+},
+{
+"Item":"Eat, Sleep, Console and Adjunctive Buprenorphine Improved Outcomes in Neonatal Opioid Withdrawal Syndrome",
+"Item_ID": [
+{
+"Type": "DOI",
+"Value": "10.1097/anc.0000000000000824"
+},
+{
+"Type": "Print_ISSN",
+"Value": "1536-0903"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1536-0911"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/wk/anc/2021/00000021/00000001/art00011"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Hein"
+},
+{
+"Type": "Author",
+"Name": "Sarrah and Clouser"
+},
+{
+"Type": "Author",
+"Name": "Barbara and Tamim"
+},
+{
+"Type": "Author",
+"Name": "Mohammed M. and Lockett"
+},
+{
+"Type": "Author",
+"Name": "Diane and Brauer"
+},
+{
+"Type": "Author",
+"Name": "Kathleen and Cooper"
+},
+{
+"Type": "Author",
+"Name": "Linda and Cleveland"
+},
+{
+"Type": "Author",
+"Name": "Lisa"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"connect",
+"Publisher":"Wolters Kluwer",
+"Item_Parent": {
+"Item_Name": "Advances in Neonatal Care",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Hein"
+},
+{
+"Type": "Author",
+"Name": "Sarrah and Clouser"
+},
+{
+"Type": "Author",
+"Name": "Barbara and Tamim"
+},
+{
+"Type": "Author",
+"Name": "Mohammed M. and Lockett"
+},
+{
+"Type": "Author",
+"Name": "Diane and Brauer"
+},
+{
+"Type": "Author",
+"Name": "Kathleen and Cooper"
+},
+{
+"Type": "Author",
+"Name": "Linda and Cleveland"
+},
+{
+"Type": "Author",
+"Name": "Lisa"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Data_Type",
+"Value": "Journal"
+},
+{
+"Type": "Print_ISSN",
+"Value": "1536-0903"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1536-0911"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/wk/anc"
+}
+]},
+"Data_Type":"Article",
+"YOP":"2021",
+"Access_Type":"Controlled",
+"Access_Method":"Regular",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"No_License",
+"Count":1
+}]
+}
+]
+},
+{
+"Item":"Effects of transformational and shared leadership styles on employees' perception of team effectiveness",
+"Item_ID": [
+{
+"Type": "DOI",
+"Value": "10.2224/sbp.5805"
+},
+{
+"Type": "Print_ISSN",
+"Value": "0301-2212"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/sbp/sbp/2017/00000045/00000003/art00003"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Choi"
+},
+{
+"Type": "Author",
+"Name": "Suk Bong and Kim"
+},
+{
+"Type": "Author",
+"Name": "Kihwan and Kang"
+},
+{
+"Type": "Author",
+"Name": "Seung-Wan"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"connect",
+"Publisher":"Scientific Journal Publishers",
+"Item_Parent": {
+"Item_Name": "Social Behavior and Personality: an international journal",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Choi"
+},
+{
+"Type": "Author",
+"Name": "Suk Bong and Kim"
+},
+{
+"Type": "Author",
+"Name": "Kihwan and Kang"
+},
+{
+"Type": "Author",
+"Name": "Seung-Wan"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Data_Type",
+"Value": "Journal"
+},
+{
+"Type": "Print_ISSN",
+"Value": "0301-2212"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/sbp/sbp"
+}
+]},
+"Data_Type":"Article",
+"YOP":"2017",
+"Access_Type":"Controlled",
+"Access_Method":"Regular",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"No_License",
+"Count":1
+}]
+}
+]
+},
+{
+"Item":"Environmental Economics, Ecological Economics, and the Concept of Sustainable Development",
+"Item_ID": [
+{
+"Type": "DOI",
+"Value": "10.3197/096327197776679158"
+},
+{
+"Type": "Print_ISSN",
+"Value": "0963-2719"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/whp/ev/1997/00000006/00000002/art00006"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Munda"
+},
+{
+"Type": "Author",
+"Name": "Giuseppe"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"connect",
+"Publisher":"White Horse Press",
+"Item_Parent": {
+"Item_Name": "Environmental Values",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Munda"
+},
+{
+"Type": "Author",
+"Name": "Giuseppe"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Data_Type",
+"Value": "Journal"
+},
+{
+"Type": "Print_ISSN",
+"Value": "0963-2719"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1752-7015"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/whp/ev"
+}
+]},
+"Data_Type":"Article",
+"YOP":"1997",
+"Access_Type":"Controlled",
+"Access_Method":"Regular",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":2
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"No_License",
+"Count":2
+}]
+}
+]
+},
+{
+"Item":"Evaluation of a Behavioral Test for Sickness Behavior Associated with Fusarium Mycotoxin Ingestion in Female Beagle Dogs (Canis familiaris)",
+"Item_ID": [
+{
+"Type": "DOI",
+"Value": "10.30802/aalas-jaalas-22-000104"
+},
+{
+"Type": "Print_ISSN",
+"Value": "1559-6109"
+},
+{
+"Type": "Online_ISSN",
+"Value": "2769-6677"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/aalas/jaalas/2023/00000062/00000004/art00009"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Brunt"
+},
+{
+"Type": "Author",
+"Name": "Michael W and Turner"
+},
+{
+"Type": "Author",
+"Name": "Patricia V and Leung"
+},
+{
+"Type": "Author",
+"Name": "Maxwell C K and Millman"
+},
+{
+"Type": "Author",
+"Name": "Suzanne T"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"connect",
+"Publisher":"American Association for Laboratory Animal Science",
+"Item_Parent": {
+"Item_Name": "Journal of the American Association for Laboratory Animal Science",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Brunt"
+},
+{
+"Type": "Author",
+"Name": "Michael W and Turner"
+},
+{
+"Type": "Author",
+"Name": "Patricia V and Leung"
+},
+{
+"Type": "Author",
+"Name": "Maxwell C K and Millman"
+},
+{
+"Type": "Author",
+"Name": "Suzanne T"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Data_Type",
+"Value": "Journal"
+},
+{
+"Type": "Print_ISSN",
+"Value": "1559-6109"
+},
+{
+"Type": "Online_ISSN",
+"Value": "2769-6677"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/aalas/jaalas"
+}
+]},
+"Data_Type":"Article",
+"YOP":"2023",
+"Access_Type":"OA_Gold",
+"Access_Method":"Regular",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+}]
+}
+]
+},
+{
+"Item":"Fad Diets: Dietary Dilemmas, Predicaments, and Recommendations for its Use",
+"Item_ID": [
+{
+"Type": "DOI",
+"Value": "10.2174/1573401316999200407092922"
+},
+{
+"Type": "Print_ISSN",
+"Value": "1573-4013"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/ben/cnf/2020/00000016/00000009/art00012"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Singh"
+},
+{
+"Type": "Author",
+"Name": "Jyoti and Rasane"
+},
+{
+"Type": "Author",
+"Name": "Prasad and Tomer"
+},
+{
+"Type": "Author",
+"Name": "Vidisha and Kaur"
+},
+{
+"Type": "Author",
+"Name": "Sawinder and Gat"
+},
+{
+"Type": "Author",
+"Name": "Yogesh and Dhawan"
+},
+{
+"Type": "Author",
+"Name": "Kajal and Mahato"
+},
+{
+"Type": "Author",
+"Name": "Dipendra K. and Kumar"
+},
+{
+"Type": "Author",
+"Name": "Vikas"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"connect",
+"Publisher":"Bentham Science Publishers",
+"Item_Parent": {
+"Item_Name": "Current Nutrition & Food Science",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Singh"
+},
+{
+"Type": "Author",
+"Name": "Jyoti and Rasane"
+},
+{
+"Type": "Author",
+"Name": "Prasad and Tomer"
+},
+{
+"Type": "Author",
+"Name": "Vidisha and Kaur"
+},
+{
+"Type": "Author",
+"Name": "Sawinder and Gat"
+},
+{
+"Type": "Author",
+"Name": "Yogesh and Dhawan"
+},
+{
+"Type": "Author",
+"Name": "Kajal and Mahato"
+},
+{
+"Type": "Author",
+"Name": "Dipendra K. and Kumar"
+},
+{
+"Type": "Author",
+"Name": "Vikas"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Data_Type",
+"Value": "Journal"
+},
+{
+"Type": "Print_ISSN",
+"Value": "1573-4013"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/ben/cnf"
+}
+]},
+"Data_Type":"Article",
+"YOP":"2020",
+"Access_Type":"Controlled",
+"Access_Method":"Regular",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"No_License",
+"Count":1
+}]
+}
+]
+},
+{
+"Item":"Field Trial of a Pasteurella multocida Extract Vaccine in Rabbits",
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "1559-6109"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/aalas/jaalas/2008/00000047/00000001/art00003"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Suckow"
+},
+{
+"Type": "Author",
+"Name": "Mark A and Haab"
+},
+{
+"Type": "Author",
+"Name": "Rudolph W and Miloscio"
+},
+{
+"Type": "Author",
+"Name": "Lawrence J and Guilloud"
+},
+{
+"Type": "Author",
+"Name": "Norman B"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"connect",
+"Publisher":"American Association for Laboratory Animal Science",
+"Item_Parent": {
+"Item_Name": "Journal of the American Association for Laboratory Animal Science",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Suckow"
+},
+{
+"Type": "Author",
+"Name": "Mark A and Haab"
+},
+{
+"Type": "Author",
+"Name": "Rudolph W and Miloscio"
+},
+{
+"Type": "Author",
+"Name": "Lawrence J and Guilloud"
+},
+{
+"Type": "Author",
+"Name": "Norman B"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Data_Type",
+"Value": "Journal"
+},
+{
+"Type": "Print_ISSN",
+"Value": "1559-6109"
+},
+{
+"Type": "Online_ISSN",
+"Value": "2769-6677"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/aalas/jaalas"
+}
+]},
+"Data_Type":"Article",
+"YOP":"2008",
+"Access_Type":"OA_Gold",
+"Access_Method":"Regular",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+}]
+}
+]
+},
+{
+"Item":"Gender Dysphoria, Eating Disorders and Body Image: An Overview",
+"Item_ID": [
+{
+"Type": "DOI",
+"Value": "10.2174/1871530319666191015193120"
+},
+{
+"Type": "Print_ISSN",
+"Value": "1871-5303"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/ben/emiddt/2020/00000020/00000004/art00004"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Milano"
+},
+{
+"Type": "Author",
+"Name": "Walter and Ambrosio"
+},
+{
+"Type": "Author",
+"Name": "Paola and Carizzone"
+},
+{
+"Type": "Author",
+"Name": "Francesa and De Biasio"
+},
+{
+"Type": "Author",
+"Name": "Valeria and Foggia"
+},
+{
+"Type": "Author",
+"Name": "Giuseppina and Capasso"
+},
+{
+"Type": "Author",
+"Name": "Anna"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"connect",
+"Publisher":"Bentham Science Publishers",
+"Item_Parent": {
+"Item_Name": "Endocrine, Metabolic & Immune Disorders-Drug Targets (Formerly Current Drug Targets - Immune, Endocrine & Metabolic Disorders)",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Milano"
+},
+{
+"Type": "Author",
+"Name": "Walter and Ambrosio"
+},
+{
+"Type": "Author",
+"Name": "Paola and Carizzone"
+},
+{
+"Type": "Author",
+"Name": "Francesa and De Biasio"
+},
+{
+"Type": "Author",
+"Name": "Valeria and Foggia"
+},
+{
+"Type": "Author",
+"Name": "Giuseppina and Capasso"
+},
+{
+"Type": "Author",
+"Name": "Anna"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Data_Type",
+"Value": "Journal"
+},
+{
+"Type": "Print_ISSN",
+"Value": "1871-5303"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/ben/emiddt"
+}
+]},
+"Data_Type":"Article",
+"YOP":"2020",
+"Access_Type":"Controlled",
+"Access_Method":"Regular",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"No_License",
+"Count":1
+}]
+}
+]
+},
+{
+"Item":"Habitat segregation and population structure of Caribbean sea anemones and associated crustaceans on coral reefs at Akumal Bay, Mexico",
+"Item_ID": [
+{
+"Type": "DOI",
+"Value": "10.5343/bms.2017.1020"
+},
+{
+"Type": "Print_ISSN",
+"Value": "0007-4977"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/umrsmas/bullmar/2017/00000093/00000004/art00011"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Colombara"
+},
+{
+"Type": "Author",
+"Name": "Alexandra M and Quinn"
+},
+{
+"Type": "Author",
+"Name": "David and Chadwick"
+},
+{
+"Type": "Author",
+"Name": "Nanette E"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"connect",
+"Publisher":"University of Miami - Rosenstiel School of Marine, Atmospheric & Earth Science",
+"Item_Parent": {
+"Item_Name": "Bulletin of Marine Science",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Colombara"
+},
+{
+"Type": "Author",
+"Name": "Alexandra M and Quinn"
+},
+{
+"Type": "Author",
+"Name": "David and Chadwick"
+},
+{
+"Type": "Author",
+"Name": "Nanette E"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Data_Type",
+"Value": "Journal"
+},
+{
+"Type": "Print_ISSN",
+"Value": "0007-4977"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1553-6955"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/umrsmas/bullmar"
+}
+]},
+"Data_Type":"Article",
+"YOP":"2017",
+"Access_Type":"Controlled",
+"Access_Method":"Regular",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":2
+},{
+"Metric_Type":"Total_Item_Requests",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Requests",
+"Count":1
+}]
+}
+]
+},
+{
+"Item":"How Climate Change is Considered in Sustainable Tourism Policies: A Case of The Mediterranean Islands of Malta and Mallorca",
+"Item_ID": [
+{
+"Type": "DOI",
+"Value": "10.3727/154427208785899920"
+},
+{
+"Type": "Print_ISSN",
+"Value": "1544-2721"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/cog/tri/2008/00000012/00000001/art00006"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Dodds"
+},
+{
+"Type": "Author",
+"Name": "Rachel; Kelman"
+},
+{
+"Type": "Author",
+"Name": "Ilan"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"connect",
+"Publisher":"Cognizant Communication Corporation",
+"Item_Parent": {
+"Item_Name": "Tourism Review International",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Dodds"
+},
+{
+"Type": "Author",
+"Name": "Rachel; Kelman"
+},
+{
+"Type": "Author",
+"Name": "Ilan"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Data_Type",
+"Value": "Journal"
+},
+{
+"Type": "Print_ISSN",
+"Value": "1544-2721"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1943-4421"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/cog/tri"
+}
+]},
+"Data_Type":"Article",
+"YOP":"2008",
+"Access_Type":"Controlled",
+"Access_Method":"Regular",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":5
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":4
+},{
+"Metric_Type":"No_License",
+"Count":5
+}]
+}
+]
+},
+{
+"Item":"Impact of Prenatal Cannabis Use Disorder on Perinatal Outcomes",
+"Item_ID": [
+{
+"Type": "DOI",
+"Value": "10.1097/adm.0000000000001123"
+},
+{
+"Type": "Print_ISSN",
+"Value": "1932-0620"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/wk/adm/2006/00000017/00000003/art00008"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Prewitt"
+},
+{
+"Type": "Author",
+"Name": "Kristin C. and Hayer"
+},
+{
+"Type": "Author",
+"Name": "Sarena and Garg"
+},
+{
+"Type": "Author",
+"Name": "Bharti and Benson"
+},
+{
+"Type": "Author",
+"Name": "Ashley E. and Hedges"
+},
+{
+"Type": "Author",
+"Name": "Madeline A. and Caughey"
+},
+{
+"Type": "Author",
+"Name": "Aaron B. and Lo"
+},
+{
+"Type": "Author",
+"Name": "Jamie O."
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"connect",
+"Publisher":"Wolters Kluwer",
+"Item_Parent": {
+"Item_Name": "Journal of Addiction Medicine",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Prewitt"
+},
+{
+"Type": "Author",
+"Name": "Kristin C. and Hayer"
+},
+{
+"Type": "Author",
+"Name": "Sarena and Garg"
+},
+{
+"Type": "Author",
+"Name": "Bharti and Benson"
+},
+{
+"Type": "Author",
+"Name": "Ashley E. and Hedges"
+},
+{
+"Type": "Author",
+"Name": "Madeline A. and Caughey"
+},
+{
+"Type": "Author",
+"Name": "Aaron B. and Lo"
+},
+{
+"Type": "Author",
+"Name": "Jamie O."
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Data_Type",
+"Value": "Journal"
+},
+{
+"Type": "Print_ISSN",
+"Value": "1932-0620"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/wk/adm"
+}
+]},
+"Data_Type":"Article",
+"YOP":"2006",
+"Access_Type":"Controlled",
+"Access_Method":"Regular",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"No_License",
+"Count":1
+}]
+}
+]
+},
+{
+"Item":"Is the SenpaiKouhai relationship common across China, Korea, and Japan?",
+"Item_ID": [
+{
+"Type": "DOI",
+"Value": "10.2224/sbp.7404"
+},
+{
+"Type": "Print_ISSN",
+"Value": "0301-2212"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/sbp/sbp/2019/00000047/00000001/art00012"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Qie"
+},
+{
+"Type": "Author",
+"Name": "Nan and Patrick Rau"
+},
+{
+"Type": "Author",
+"Name": "Pei-Luen and Wang"
+},
+{
+"Type": "Author",
+"Name": "Lin and Ma"
+},
+{
+"Type": "Author",
+"Name": "Liang"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"connect",
+"Publisher":"Scientific Journal Publishers",
+"Item_Parent": {
+"Item_Name": "Social Behavior and Personality: an international journal",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Qie"
+},
+{
+"Type": "Author",
+"Name": "Nan and Patrick Rau"
+},
+{
+"Type": "Author",
+"Name": "Pei-Luen and Wang"
+},
+{
+"Type": "Author",
+"Name": "Lin and Ma"
+},
+{
+"Type": "Author",
+"Name": "Liang"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Data_Type",
+"Value": "Journal"
+},
+{
+"Type": "Print_ISSN",
+"Value": "0301-2212"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/sbp/sbp"
+}
+]},
+"Data_Type":"Article",
+"YOP":"2019",
+"Access_Type":"Controlled",
+"Access_Method":"Regular",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"No_License",
+"Count":1
+}]
+}
+]
+},
+{
+"Item":"Oral Gavage in Rats: Animal Welfare Evaluation",
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "1559-6109"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/aalas/jaalas/2012/00000051/00000001/art00004"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Turner"
+},
+{
+"Type": "Author",
+"Name": "Patricia V and Vaughn"
+},
+{
+"Type": "Author",
+"Name": "Elizabeth and Sunohara-Neilson"
+},
+{
+"Type": "Author",
+"Name": "Janet and Ovari"
+},
+{
+"Type": "Author",
+"Name": "Jelena and Leri"
+},
+{
+"Type": "Author",
+"Name": "Francesco"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"connect",
+"Publisher":"American Association for Laboratory Animal Science",
+"Item_Parent": {
+"Item_Name": "Journal of the American Association for Laboratory Animal Science",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Turner"
+},
+{
+"Type": "Author",
+"Name": "Patricia V and Vaughn"
+},
+{
+"Type": "Author",
+"Name": "Elizabeth and Sunohara-Neilson"
+},
+{
+"Type": "Author",
+"Name": "Janet and Ovari"
+},
+{
+"Type": "Author",
+"Name": "Jelena and Leri"
+},
+{
+"Type": "Author",
+"Name": "Francesco"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Data_Type",
+"Value": "Journal"
+},
+{
+"Type": "Print_ISSN",
+"Value": "1559-6109"
+},
+{
+"Type": "Online_ISSN",
+"Value": "2769-6677"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/aalas/jaalas"
+}
+]},
+"Data_Type":"Article",
+"YOP":"2012",
+"Access_Type":"OA_Gold",
+"Access_Method":"Regular",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":2
+},{
+"Metric_Type":"Total_Item_Requests",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Requests",
+"Count":1
+}]
+}
+]
+},
+{
+"Item":"Pain Management in Neonatal Intensive Care",
+"Item_ID": [
+{
+"Type": "DOI",
+"Value": "10.1097/ajp.0000000000000168"
+},
+{
+"Type": "Print_ISSN",
+"Value": "0749-8047"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1536-5409"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/wk/cjpn/2015/00000031/00000009/art00010"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Aukes"
+},
+{
+"Type": "Author",
+"Name": "Daphne I. and Roofthooft"
+},
+{
+"Type": "Author",
+"Name": "Daniëlla W. E. and Simons"
+},
+{
+"Type": "Author",
+"Name": "Sinno H. P. and Tibboel"
+},
+{
+"Type": "Author",
+"Name": "Dick and van Dijk"
+},
+{
+"Type": "Author",
+"Name": "Monique"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"connect",
+"Publisher":"Wolters Kluwer",
+"Item_Parent": {
+"Item_Name": "The Clinical Journal of Pain",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Aukes"
+},
+{
+"Type": "Author",
+"Name": "Daphne I. and Roofthooft"
+},
+{
+"Type": "Author",
+"Name": "Daniëlla W. E. and Simons"
+},
+{
+"Type": "Author",
+"Name": "Sinno H. P. and Tibboel"
+},
+{
+"Type": "Author",
+"Name": "Dick and van Dijk"
+},
+{
+"Type": "Author",
+"Name": "Monique"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Data_Type",
+"Value": "Journal"
+},
+{
+"Type": "Print_ISSN",
+"Value": "0749-8047"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1536-5409"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/wk/cjpn"
+}
+]},
+"Data_Type":"Article",
+"YOP":"2015",
+"Access_Type":"Controlled",
+"Access_Method":"Regular",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"No_License",
+"Count":1
+}]
+}
+]
+},
+{
+"Item":"Phantom Penises In Transsexuals",
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "1355-8250"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/imp/jcs/2008/00000015/00000001/art00001"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Ramachandran"
+},
+{
+"Type": "Author",
+"Name": "V.S. and McGeoch"
+},
+{
+"Type": "Author",
+"Name": "P. D."
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"connect",
+"Publisher":"Imprint Academic",
+"Item_Parent": {
+"Item_Name": "Journal of Consciousness Studies",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Ramachandran"
+},
+{
+"Type": "Author",
+"Name": "V.S. and McGeoch"
+},
+{
+"Type": "Author",
+"Name": "P. D."
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Data_Type",
+"Value": "Journal"
+},
+{
+"Type": "Print_ISSN",
+"Value": "1355-8250"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/imp/jcs"
+}
+]},
+"Data_Type":"Article",
+"YOP":"2008",
+"Access_Type":"Controlled",
+"Access_Method":"Regular",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"No_License",
+"Count":1
+}]
+}
+]
+},
+{
+"Item":"Public Health Nursing and Community Health Worker Teams : A Community-Based Preventive Services Clinic Exemplar",
+"Item_ID": [
+{
+"Type": "DOI",
+"Value": "10.1097/jac.0000000000000393"
+},
+{
+"Type": "Print_ISSN",
+"Value": "0148-9917"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1550-3267"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/wk/jac/2021/00000044/00000004/art00003"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Cooper"
+},
+{
+"Type": "Author",
+"Name": "Jennifer and Bejster"
+},
+{
+"Type": "Author",
+"Name": "Mallory and Policicchio"
+},
+{
+"Type": "Author",
+"Name": "Judi and Langhorne"
+},
+{
+"Type": "Author",
+"Name": "Tamera and Jackson"
+},
+{
+"Type": "Author",
+"Name": "Shanteny and Shelton"
+},
+{
+"Type": "Author",
+"Name": "Patrice and Toney"
+},
+{
+"Type": "Author",
+"Name": "Stephanie"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"connect",
+"Publisher":"Wolters Kluwer",
+"Item_Parent": {
+"Item_Name": "Journal of Ambulatory Care Management",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Cooper"
+},
+{
+"Type": "Author",
+"Name": "Jennifer and Bejster"
+},
+{
+"Type": "Author",
+"Name": "Mallory and Policicchio"
+},
+{
+"Type": "Author",
+"Name": "Judi and Langhorne"
+},
+{
+"Type": "Author",
+"Name": "Tamera and Jackson"
+},
+{
+"Type": "Author",
+"Name": "Shanteny and Shelton"
+},
+{
+"Type": "Author",
+"Name": "Patrice and Toney"
+},
+{
+"Type": "Author",
+"Name": "Stephanie"
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Data_Type",
+"Value": "Journal"
+},
+{
+"Type": "Print_ISSN",
+"Value": "0148-9917"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1550-3267"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/wk/jac"
+}
+]},
+"Data_Type":"Article",
+"YOP":"2021",
+"Access_Type":"Controlled",
+"Access_Method":"Regular",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"No_License",
+"Count":1
+}]
+}
+]
+},
+{
+"Item":"Remote Sensing Techniques to Assess Water Quality",
+"Item_ID": [
+{
+"Type": "DOI",
+"Value": "10.14358/pers.69.6.695"
+},
+{
+"Type": "Print_ISSN",
+"Value": "0099-1112"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/asprs/pers/2003/00000069/00000006/art00007"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Ritchie"
+},
+{
+"Type": "Author",
+"Name": "Jerry C. and Zimba"
+},
+{
+"Type": "Author",
+"Name": "Paul V. and Everitt"
+},
+{
+"Type": "Author",
+"Name": "James H."
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"connect",
+"Publisher":"American Society for Photogrammetry and Remote Sensing",
+"Item_Parent": {
+"Item_Name": "Photogrammetric Engineering & Remote Sensing",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Ritchie"
+},
+{
+"Type": "Author",
+"Name": "Jerry C. and Zimba"
+},
+{
+"Type": "Author",
+"Name": "Paul V. and Everitt"
+},
+{
+"Type": "Author",
+"Name": "James H."
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Data_Type",
+"Value": "Journal"
+},
+{
+"Type": "Print_ISSN",
+"Value": "0099-1112"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/asprs/pers"
+}
+]},
+"Data_Type":"Article",
+"YOP":"2003",
+"Access_Type":"OA_Gold",
+"Access_Method":"Regular",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+}]
+}
+]
+},
+{
+"Item":"Serum total protein concentrations in surplus dairy calves in British Columbia",
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "0008-5286"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/cvma/cvj/2023/00000064/00000005/art00012"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Wilson"
+},
+{
+"Type": "Author",
+"Name": "Devon J. and Pempek"
+},
+{
+"Type": "Author",
+"Name": "Jessica A. and Habing"
+},
+{
+"Type": "Author",
+"Name": "Gregory and Proudfoot"
+},
+{
+"Type": "Author",
+"Name": "Kathryn L. and Renaud"
+},
+{
+"Type": "Author",
+"Name": "David L."
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"connect",
+"Publisher":"Canadian Veterinary Medical Association",
+"Item_Parent": {
+"Item_Name": "The Canadian Veterinary Journal",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Wilson"
+},
+{
+"Type": "Author",
+"Name": "Devon J. and Pempek"
+},
+{
+"Type": "Author",
+"Name": "Jessica A. and Habing"
+},
+{
+"Type": "Author",
+"Name": "Gregory and Proudfoot"
+},
+{
+"Type": "Author",
+"Name": "Kathryn L. and Renaud"
+},
+{
+"Type": "Author",
+"Name": "David L."
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Data_Type",
+"Value": "Journal"
+},
+{
+"Type": "Print_ISSN",
+"Value": "0008-5286"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/cvma/cvj"
+}
+]},
+"Data_Type":"Article",
+"YOP":"2023",
+"Access_Type":"Controlled",
+"Access_Method":"Regular",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"No_License",
+"Count":1
+}]
+}
+]
+},
+{
+"Item":"Superior Mesenteric Artery Syndrome",
+"Item_ID": [
+{
+"Type": "DOI",
+"Value": "10.1097/tin.0000000000000090"
+},
+{
+"Type": "Print_ISSN",
+"Value": "0883-5691"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1550-5146"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/wk/tin/2017/00000032/00000001/art00002"
+}
+],
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Thompson"
+},
+{
+"Type": "Author",
+"Name": "Kyle L. and Ziegler"
+},
+{
+"Type": "Author",
+"Name": "Jane and Trate"
+},
+{
+"Type": "Author",
+"Name": "T. Cate and Trate"
+},
+{
+"Type": "Author",
+"Name": "Douglas M."
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Platform":"connect",
+"Publisher":"Wolters Kluwer",
+"Item_Parent": {
+"Item_Name": "Topics in Clinical Nutrition",
+"Item_Contributors": [
+{
+"Type": "Author",
+"Name": "Thompson"
+},
+{
+"Type": "Author",
+"Name": "Kyle L. and Ziegler"
+},
+{
+"Type": "Author",
+"Name": "Jane and Trate"
+},
+{
+"Type": "Author",
+"Name": "T. Cate and Trate"
+},
+{
+"Type": "Author",
+"Name": "Douglas M."
+}
+],
+"Item_Attributes": [
+{
+"Type": "Article_Version",
+"Value": "VoR"
+}
+],
+"Item_ID": [
+{
+"Type": "Data_Type",
+"Value": "Journal"
+},
+{
+"Type": "Print_ISSN",
+"Value": "0883-5691"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1550-5146"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/wk/tin"
+}
+]},
+"Data_Type":"Article",
+"YOP":"2017",
+"Access_Type":"Controlled",
+"Access_Method":"Regular",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"No_License",
+"Count":1
+}]
+}
+]
+}
+]
+}

@@ -1,0 +1,36 @@
+Report_Name	Journal Usage by Access Type
+Report_ID	TR_J3
+Release	5
+Institution_Name	UNIVERSITY OF PRINCE EDWARD ISLAND
+Institution_ID	mbs:sgid023870
+Metric_Types	Total_Item_Investigations; Total_Item_Requests; Unique_Item_Investigations; Unique_Item_Requests
+Report_Filters	Access_Method=Regular; Data_Type=Journal
+Report_Attributes	
+Exceptions	3031: Usage Not Ready for Requested Dates(Investigation Usage is available up to 2024-01-31.Request Usage is available up to 2024-01-31.) ()
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-01T13:50:50Z
+Created_By	Microbiology Society
+
+Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	Print_ISSN	Online_ISSN	URI	Access_Type	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+International Journal of Systematic and Evolutionary Microbiology	Microbiology Society		mbs			1466-5026	1466-5034	https://www.microbiologyresearch.org/content/journal/ijsem	Controlled	Total_Item_Investigations	9	9	0
+International Journal of Systematic and Evolutionary Microbiology	Microbiology Society		mbs			1466-5026	1466-5034	https://www.microbiologyresearch.org/content/journal/ijsem	Controlled	Total_Item_Requests	4	4	0
+International Journal of Systematic and Evolutionary Microbiology	Microbiology Society		mbs			1466-5026	1466-5034	https://www.microbiologyresearch.org/content/journal/ijsem	Controlled	Unique_Item_Investigations	8	8	0
+International Journal of Systematic and Evolutionary Microbiology	Microbiology Society		mbs			1466-5026	1466-5034	https://www.microbiologyresearch.org/content/journal/ijsem	Controlled	Unique_Item_Requests	4	4	0
+International Journal of Systematic and Evolutionary Microbiology	Microbiology Society		mbs			1466-5026	1466-5034	https://www.microbiologyresearch.org/content/journal/ijsem	OA_Gold	Total_Item_Investigations	2	2	0
+International Journal of Systematic and Evolutionary Microbiology	Microbiology Society		mbs			1466-5026	1466-5034	https://www.microbiologyresearch.org/content/journal/ijsem	OA_Gold	Total_Item_Requests	2	2	0
+International Journal of Systematic and Evolutionary Microbiology	Microbiology Society		mbs			1466-5026	1466-5034	https://www.microbiologyresearch.org/content/journal/ijsem	OA_Gold	Unique_Item_Investigations	2	2	0
+International Journal of Systematic and Evolutionary Microbiology	Microbiology Society		mbs			1466-5026	1466-5034	https://www.microbiologyresearch.org/content/journal/ijsem	OA_Gold	Unique_Item_Requests	1	1	0
+Journal of General Virology	Microbiology Society		mbs			0022-1317	1465-2099	https://www.microbiologyresearch.org/content/journal/jgv	Controlled	Total_Item_Investigations	3	3	0
+Journal of General Virology	Microbiology Society		mbs			0022-1317	1465-2099	https://www.microbiologyresearch.org/content/journal/jgv	Controlled	Total_Item_Requests	3	3	0
+Journal of General Virology	Microbiology Society		mbs			0022-1317	1465-2099	https://www.microbiologyresearch.org/content/journal/jgv	Controlled	Unique_Item_Investigations	3	3	0
+Journal of General Virology	Microbiology Society		mbs			0022-1317	1465-2099	https://www.microbiologyresearch.org/content/journal/jgv	Controlled	Unique_Item_Requests	2	2	0
+Journal of General Virology	Microbiology Society		mbs			0022-1317	1465-2099	https://www.microbiologyresearch.org/content/journal/jgv	OA_Gold	Total_Item_Investigations	2	2	0
+Journal of General Virology	Microbiology Society		mbs			0022-1317	1465-2099	https://www.microbiologyresearch.org/content/journal/jgv	OA_Gold	Unique_Item_Investigations	2	2	0
+Journal of Medical Microbiology	Microbiology Society		mbs			0022-2615	1473-5644	https://www.microbiologyresearch.org/content/journal/jmm	Controlled	Total_Item_Investigations	3	3	0
+Journal of Medical Microbiology	Microbiology Society		mbs			0022-2615	1473-5644	https://www.microbiologyresearch.org/content/journal/jmm	Controlled	Total_Item_Requests	2	2	0
+Journal of Medical Microbiology	Microbiology Society		mbs			0022-2615	1473-5644	https://www.microbiologyresearch.org/content/journal/jmm	Controlled	Unique_Item_Investigations	2	2	0
+Journal of Medical Microbiology	Microbiology Society		mbs			0022-2615	1473-5644	https://www.microbiologyresearch.org/content/journal/jmm	Controlled	Unique_Item_Requests	1	1	0
+Microbiology	Microbiology Society		mbs			1350-0872	1465-2080	https://www.microbiologyresearch.org/content/journal/micro	Controlled	Total_Item_Investigations	2	2	0
+Microbiology	Microbiology Society		mbs			1350-0872	1465-2080	https://www.microbiologyresearch.org/content/journal/micro	Controlled	Total_Item_Requests	1	1	0
+Microbiology	Microbiology Society		mbs			1350-0872	1465-2080	https://www.microbiologyresearch.org/content/journal/micro	Controlled	Unique_Item_Investigations	2	2	0
+Microbiology	Microbiology Society		mbs			1350-0872	1465-2080	https://www.microbiologyresearch.org/content/journal/micro	Controlled	Unique_Item_Requests	1	1	0

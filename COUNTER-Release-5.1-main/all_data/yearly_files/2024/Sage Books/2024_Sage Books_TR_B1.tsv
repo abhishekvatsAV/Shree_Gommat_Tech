@@ -1,0 +1,38 @@
+Report_Name	Book Requests (Excluding OA_Gold)
+Report_ID	TR_B1
+Release	5
+Institution_Name	Univ of Prince Edward Island
+Institution_ID	sagepub:21063
+Metric_Types	Total_Item_Requests; Unique_Title_Requests
+Report_Filters	Data_Type=Book; Access_Type=Controlled; Access_Method=Regular
+Report_Attributes	
+Exceptions	
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-01T14:01:03Z
+Created_By	Sage Publishing SecureCenter
+
+Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	ISBN	Print_ISSN	Online_ISSN	URI	YOP	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+Adult Personality Development: Theories and Concepts	Sage Publications		Sage Knowledge	10.4135/9781452233796	sagepub:4322	978-1-4522-3379-6		9780-0803		2012	Total_Item_Requests	2	0	2
+Adult Personality Development: Theories and Concepts	Sage Publications		Sage Knowledge	10.4135/9781452233796	sagepub:4322	978-1-4522-3379-6		9780-0803		2012	Unique_Title_Requests	2	0	2
+Cultivating Communication in the Classroom	Sage Publications		Sage Knowledge	10.4135/9781071801420		978-1-0718-0142-0				2020	Total_Item_Requests	2	0	2
+Cultivating Communication in the Classroom	Sage Publications		Sage Knowledge	10.4135/9781071801420		978-1-0718-0142-0				2020	Unique_Title_Requests	2	0	2
+Encyclopedia of Power	Sage Publications		Sage Knowledge	10.4135/9781412994088		978-1-4129-9408-8		9781-1412		2011	Total_Item_Requests	1	0	1
+Encyclopedia of Power	Sage Publications		Sage Knowledge	10.4135/9781412994088		978-1-4129-9408-8		9781-1412		2011	Unique_Title_Requests	1	0	1
+Group Leadership Skills	Sage Publications		Sage Knowledge	10.4135/9781071800980		978-1-0718-0098-0				2020	Total_Item_Requests	4	0	4
+Group Leadership Skills	Sage Publications		Sage Knowledge	10.4135/9781071800980		978-1-0718-0098-0				2020	Unique_Title_Requests	1	0	1
+Social Media: A Critical Introduction	Sage Publications		Sage Knowledge	10.4135/9781446270066	sagepub:239467	978-1-4462-7006-6		9781-1446		2014	Total_Item_Requests	36	32	4
+Social Media: A Critical Introduction	Sage Publications		Sage Knowledge	10.4135/9781446270066	sagepub:239467	978-1-4462-7006-6		9781-1446		2014	Unique_Title_Requests	4	3	1
+The Essentials of School Leadership	Sage Publications		Sage Knowledge	10.4135/9781446288290	sagepub:233047	978-1-4462-8829-0		9781-1847		2013	Total_Item_Requests	2	2	0
+The Essentials of School Leadership	Sage Publications		Sage Knowledge	10.4135/9781446288290	sagepub:233047	978-1-4462-8829-0		9781-1847		2013	Unique_Title_Requests	2	2	0
+The Knowledge Translation Toolkit	Sage Publications		Sage Knowledge	10.4135/9789351507765	sagepub:236110	978-93-5150-776-5		9788-8132		2016	Total_Item_Requests	4	4	0
+The Knowledge Translation Toolkit	Sage Publications		Sage Knowledge	10.4135/9789351507765	sagepub:236110	978-93-5150-776-5		9788-8132		2016	Unique_Title_Requests	1	1	0
+The SAGE Encyclopedia of Intellectual and Developmental Disorders	Sage Publications		Sage Knowledge	10.4135/9781483392271	sagepub:245681	978-1-4833-9227-1		9781-1483		2018	Total_Item_Requests	4	4	0
+The SAGE Encyclopedia of Intellectual and Developmental Disorders	Sage Publications		Sage Knowledge	10.4135/9781483392271	sagepub:245681	978-1-4833-9227-1		9781-1483		2018	Unique_Title_Requests	4	4	0
+The SAGE Handbook of Education for Citizenship and Democracy	Sage Publications		Sage Knowledge	10.4135/9781849200486	sagepub:230964	978-1-84920-048-6		9781-1412		2010	Total_Item_Requests	4	0	4
+The SAGE Handbook of Education for Citizenship and Democracy	Sage Publications		Sage Knowledge	10.4135/9781849200486	sagepub:230964	978-1-84920-048-6		9781-1412		2010	Unique_Title_Requests	1	0	1
+The SAGE Handbook of Outdoor Play and Learning	Sage Publications		Sage Knowledge	10.4135/9781526402028	sagepub:245741	978-1-5264-0202-8		9781-1473		2014	Total_Item_Requests	2	2	0
+The SAGE Handbook of Outdoor Play and Learning	Sage Publications		Sage Knowledge	10.4135/9781526402028	sagepub:245741	978-1-5264-0202-8		9781-1473		2014	Unique_Title_Requests	1	1	0
+The Sage Handbook of Social Constructionist Practice	Sage Publications		Sage Knowledge	10.4135/9781529714326		978-1-5297-1432-6				2020	Total_Item_Requests	3	0	3
+The Sage Handbook of Social Constructionist Practice	Sage Publications		Sage Knowledge	10.4135/9781529714326		978-1-5297-1432-6				2020	Unique_Title_Requests	3	0	3
+The Therapeutic Relationship in Cognitive Behavioural Therapy	Sage Publications		Sage Knowledge	10.4135/9781526461568		978-1-5264-6156-8				2020	Total_Item_Requests	1	1	0
+The Therapeutic Relationship in Cognitive Behavioural Therapy	Sage Publications		Sage Knowledge	10.4135/9781526461568		978-1-5264-6156-8				2020	Unique_Title_Requests	1	1	0

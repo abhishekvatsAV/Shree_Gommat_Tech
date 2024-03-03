@@ -1,0 +1,76 @@
+{
+"Report_Header": {
+"Created":"2024-03-01T13:50:47Z",
+"Created_By":"Microbiology Society",
+"Customer_ID":"o006646",
+"Report_ID":"TR_J2",
+"Release":"5",
+"Report_Name":"Journal Access Denied",
+"Institution_Name":"UNIVERSITY OF PRINCE EDWARD ISLAND",
+"Institution_ID": [
+{
+"Type":"Proprietary",
+"Value":"mbs:sgid023870"
+}
+],
+"Report_Filters":[
+{
+"Name":"Begin_Date",
+"Value":"2024-01-01"
+},{
+"Name":"End_Date",
+"Value":"2024-02-29"
+},{
+"Name":"Access_Method",
+"Value":"Regular"
+}
+,{
+"Name":"Metric_Type",
+"Value":"No_License|Limit_Exceeded"
+}
+,{
+"Name":"Data_Type",
+"Value":"Journal"
+}],
+"Exceptions":[
+{
+"Code":"3031",
+"Severity":"Warning",
+"Message":"Usage Not Ready for Requested Dates(No License Usage is available up to 2024-01-31.)",
+"Help_URL":"/help/sushi"
+}]
+},
+"Report_Items": [
+{
+"Title":"International Journal of Systematic and Evolutionary Microbiology",
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "1466-5026"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1466-5034"
+},
+{
+"Type": "URI",
+"Value": "https://www.microbiologyresearch.org/content/journal/ijsem"
+}
+],
+"Platform":"mbs",
+"Publisher":"Microbiology Society",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"No_License",
+"Count":4
+}]}
+]
+}
+]
+}

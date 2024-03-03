@@ -1,0 +1,552 @@
+Report_Name	Database Search and Item Usage
+Report_ID	DR_D1
+Release	5
+Institution_Name	UNIVERSITY OF PRINCE EDWARD ISLAND
+Institution_ID	EBSCOhost:uprince
+Metric_Types	Searches_Automated; Searches_Federated; Searches_Regular; Total_Item_Investigations; Total_Item_Requests
+Report_Filters	Access_Method=Regular
+Report_Attributes	
+Exceptions	3040: Partial Data Returned (The request could not be fulfilled in its entirety, since some of the requested data is missing. Usage has been returned for months where usage data exists.); 3031: Usage Not Ready for Requested Dates (Service has not yet processed the usage for one or more of the requested months)
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-01T13:42:04Z
+Created_By	EBSCO Information Services
+
+Database	Publisher	Publisher_ID	Platform	Proprietary_ID	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+ABC-CLIO	Undefined		EBSCOhost	EBSCOhost:conclio	Searches_Automated	78	78	0
+ABC-CLIO eBooks	ABC-CLIO		EBSCOhost	EBSCOhost:edsclb	Searches_Automated	15715	15715	0
+ABC-CLIO Social Studies Databases, Academic Edition	ABC-CLIO		EBSCOhost	EBSCOhost:edsaca	Searches_Automated	15683	15683	0
+Academic Search Complete	EBSCO Publishing		EBSCOhost	EBSCOhost:a9h	Searches_Automated	22893	22893	0
+Academic Search Complete	EBSCO Publishing		EBSCOhost	EBSCOhost:a9h	Searches_Regular	890	890	0
+Academic Search Complete	EBSCO Publishing		EBSCOhost	EBSCOhost:a9h	Total_Item_Investigations	1850	1850	0
+Academic Search Complete	EBSCO Publishing		EBSCOhost	EBSCOhost:a9h	Total_Item_Requests	1204	1204	0
+Academic Search Index	EBSCO Publishing		EBSCOhost	EBSCOhost:asx	Searches_Automated	15957	15957	0
+Academic Search Index	EBSCO Publishing		EBSCOhost	EBSCOhost:asx	Total_Item_Investigations	30	30	0
+AccessEngineering	McGraw-Hill Companies, Inc.		EBSCOhost	EBSCOhost:edsace	Searches_Automated	15824	15824	0
+Accessible Archives	Accessible Archives		EBSCOhost	EBSCOhost:edsaan	Searches_Automated	15756	15756	0
+Accessible Archives	Accessible Archives		EBSCOhost	EBSCOhost:edsaan	Total_Item_Investigations	3	3	0
+AccessScience	McGraw-Hill Companies, Inc.		EBSCOhost	EBSCOhost:edsasc	Searches_Automated	15751	15751	0
+AccessScience	McGraw-Hill Companies, Inc.		EBSCOhost	EBSCOhost:edsasc	Total_Item_Investigations	1	1	0
+ACLS Humanities Ebook	American Council of Learned Societies		EBSCOhost	EBSCOhost:edsacl	Searches_Automated	15758	15758	0
+ACLS Humanities Ebook	American Council of Learned Societies		EBSCOhost	EBSCOhost:edsacl	Total_Item_Investigations	4	4	0
+ACM Full-Text Collection	Association for Computing Machinery		EBSCOhost	EBSCOhost:edscma	Searches_Automated	15725	15725	0
+ACM Full-Text Collection	Association for Computing Machinery		EBSCOhost	EBSCOhost:edscma	Total_Item_Investigations	12	12	0
+ACS Publications	Undefined		EBSCOhost	EBSCOhost:edsacs	Searches_Automated	15737	15737	0
+ACS Publications	Undefined		EBSCOhost	EBSCOhost:edsacs	Total_Item_Investigations	7	7	0
+Adam Matthew Digital	Adam Matthew Digital		EBSCOhost	EBSCOhost:edsamd	Searches_Automated	22699	22699	0
+Adam Matthew Digital	Adam Matthew Digital		EBSCOhost	EBSCOhost:edsamd	Total_Item_Investigations	5	5	0
+Aerospace Research Central	American Institute of Aeronautics & Astronautics		EBSCOhost	EBSCOhost:edsare	Searches_Automated	15727	15727	0
+African Journals	Sabinet Online Limited		EBSCOhost	EBSCOhost:edssas	Searches_Automated	15761	15761	0
+African Journals	Sabinet Online Limited		EBSCOhost	EBSCOhost:edssas	Total_Item_Investigations	5	5	0
+agriRxiv	Undefined		EBSCOhost	EBSCOhost:edsarv	Searches_Automated	15703	15703	0
+AGRIS ODS	Undefined		EBSCOhost	EBSCOhost:edsago	Searches_Automated	15737	15737	0
+AGRIS ODS	Undefined		EBSCOhost	EBSCOhost:edsago	Total_Item_Investigations	24	24	0
+AHRQ News Now	Undefined		EBSCOhost	EBSCOhost:edsahr	Searches_Automated	15717	15717	0
+Air University Library Index to Military Periodicals (AULIMP)	Defense Technical Information Center		EBSCOhost	EBSCOhost:edsaul	Searches_Automated	15748	15748	0
+Airiti Library eBooks & Journals - 華藝線上圖書館	Airiti Press Inc.		EBSCOhost	EBSCOhost:edsarl	Searches_Automated	15783	15783	0
+Airiti Library eBooks & Journals - 華藝線上圖書館	Airiti Press Inc.		EBSCOhost	EBSCOhost:edsarl	Total_Item_Investigations	6	6	0
+Alexander Street	Alexander Street Press		EBSCOhost	EBSCOhost:edsasp	Searches_Automated	15773	15773	0
+Alexander Street	Alexander Street Press		EBSCOhost	EBSCOhost:edsasp	Total_Item_Investigations	30	30	0
+America: History & Life	EBSCO Publishing		EBSCOhost	EBSCOhost:ahl	Searches_Automated	22777	22777	0
+America: History & Life	EBSCO Publishing		EBSCOhost	EBSCOhost:ahl	Searches_Regular	118	118	0
+America: History & Life	EBSCO Publishing		EBSCOhost	EBSCOhost:ahl	Total_Item_Investigations	73	73	0
+American Indian History Online	Infobase Publishing		EBSCOhost	EBSCOhost:edsaih	Searches_Automated	15711	15711	0
+Animal Pharm	Informa Business Intelligence		EBSCOhost	EBSCOhost:edsiap	Searches_Automated	15801	15801	0
+AnthroSource	Undefined		EBSCOhost	EBSCOhost:edsatr	Searches_Automated	15699	15699	0
+AnthroSource	Undefined		EBSCOhost	EBSCOhost:edsatr	Total_Item_Investigations	3	3	0
+APA PsycArticles	American Psychological Association		EBSCOhost	EBSCOhost:edspdh	Searches_Automated	19254	19254	0
+APA PsycArticles	American Psychological Association		EBSCOhost	EBSCOhost:edspdh	Total_Item_Investigations	6	6	0
+APA PsycArticles	American Psychological Association		EBSCOhost	EBSCOhost:pdh	Searches_Automated	19302	19302	0
+APA PsycArticles	American Psychological Association		EBSCOhost	EBSCOhost:pdh	Searches_Regular	109	109	0
+APA PsycArticles	American Psychological Association		EBSCOhost	EBSCOhost:pdh	Total_Item_Investigations	262	262	0
+APA PsycArticles	American Psychological Association		EBSCOhost	EBSCOhost:pdh	Total_Item_Requests	231	231	0
+APA PsycBooks	American Psychological Association		EBSCOhost	EBSCOhost:edspzh	Searches_Automated	15762	15762	0
+APA PsycBooks	American Psychological Association		EBSCOhost	EBSCOhost:edspzh	Total_Item_Investigations	9	9	0
+APA PsycInfo	American Psychological Association		EBSCOhost	EBSCOhost:psyh	Searches_Automated	22842	22842	0
+APA PsycInfo	American Psychological Association		EBSCOhost	EBSCOhost:psyh	Searches_Regular	702	702	0
+APA PsycInfo	American Psychological Association		EBSCOhost	EBSCOhost:psyh	Total_Item_Investigations	1339	1339	0
+APA PsycTherapy	Undefined		EBSCOhost	EBSCOhost:ldpsy	Searches_Regular	2	2	0
+Aphasiology Archive	University of Pittsburgh, University Library Syste		EBSCOhost	EBSCOhost:edsupa	Searches_Automated	19169	19169	0
+Archive of European Integration	University of Pittsburgh, University Library Syste		EBSCOhost	EBSCOhost:edsupe	Searches_Automated	19171	19171	0
+Arts & Humanities Citation Index	Thomson Reuters		EBSCOhost	EBSCOhost:edswah	Searches_Automated	19273	19273	0
+Arts & Humanities Citation Index	Thomson Reuters		EBSCOhost	EBSCOhost:edswah	Total_Item_Investigations	5	5	0
+arXiv	arXiv		EBSCOhost	EBSCOhost:edsarx	Searches_Automated	22698	22698	0
+arXiv	arXiv		EBSCOhost	EBSCOhost:edsarx	Total_Item_Investigations	23	23	0
+ASCE Legacy Journals	Undefined		EBSCOhost	EBSCOhost:edsalj	Searches_Automated	15737	15737	0
+ASM Handbooks Online	ASM International		EBSCOhost	EBSCOhost:edsaho	Searches_Automated	15755	15755	0
+Associated Press Video	Undefined		EBSCOhost	EBSCOhost:vap	Searches_Automated	2	2	0
+Associated Press Video	Undefined		EBSCOhost	EBSCOhost:vap	Searches_Regular	2863	2863	0
+Associated Press Video	Undefined		EBSCOhost	EBSCOhost:vap	Total_Item_Investigations	1	1	0
+Associated Press Video	Undefined		EBSCOhost	EBSCOhost:vap	Total_Item_Requests	1	1	0
+ASTM Compass	ASTM International		EBSCOhost	EBSCOhost:edsatm	Searches_Automated	19195	19195	0
+Atla Religion Database with AtlaSerials	American Theological Library Association		EBSCOhost	EBSCOhost:rfh	Searches_Automated	22746	22746	0
+Atla Religion Database with AtlaSerials	American Theological Library Association		EBSCOhost	EBSCOhost:rfh	Searches_Regular	100	100	0
+Atla Religion Database with AtlaSerials	American Theological Library Association		EBSCOhost	EBSCOhost:rfh	Total_Item_Investigations	146	146	0
+Atla Religion Database with AtlaSerials	American Theological Library Association		EBSCOhost	EBSCOhost:rfh	Total_Item_Requests	29	29	0
+Audiobook Collection (EBSCOhost)	Undefined		EBSCOhost	EBSCOhost:nlabk	Searches_Regular	37	37	0
+Australian Public Affairs Full Text / APAIS Index	RMIT Training Pty Ltd trading as RMIT Publishing		EBSCOhost	EBSCOhost:edsaup	Searches_Automated	15754	15754	0
+Australian Public Affairs Full Text / APAIS Index	RMIT Training Pty Ltd trading as RMIT Publishing		EBSCOhost	EBSCOhost:edsaup	Total_Item_Investigations	10	10	0
+BASE	Bielefeld University Library		EBSCOhost	EBSCOhost:edsbas	Searches_Automated	3906	3906	0
+BASE	Bielefeld University Library		EBSCOhost	EBSCOhost:edsbas	Total_Item_Investigations	37	37	0
+BC Open Textbook Project	BCcampus		EBSCOhost	EBSCOhost:edsbcc	Searches_Automated	15699	15699	0
+BC Open Textbook Project	BCcampus		EBSCOhost	EBSCOhost:edsbcc	Total_Item_Investigations	1	1	0
+Bibliography of Indigenous Peoples in North America	Human Relations Area Files Inc.		EBSCOhost	EBSCOhost:fph	Searches_Automated	19288	19288	0
+Bibliography of Indigenous Peoples in North America	Human Relations Area Files Inc.		EBSCOhost	EBSCOhost:fph	Searches_Regular	102	102	0
+Bibliography of Indigenous Peoples in North America	Human Relations Area Files Inc.		EBSCOhost	EBSCOhost:fph	Total_Item_Investigations	4	4	0
+Biodiversity Heritage Library	Biodiversity Heritage Library		EBSCOhost	EBSCOhost:edsbhl	Searches_Automated	15735	15735	0
+Biodiversity Heritage Library	Biodiversity Heritage Library		EBSCOhost	EBSCOhost:edsbhl	Total_Item_Investigations	1	1	0
+Biomedical Index	Undefined		EBSCOhost	EBSCOhost:edm	Searches_Automated	15452	15452	0
+Biomedical Index	Undefined		EBSCOhost	EBSCOhost:edm	Total_Item_Investigations	30	30	0
+BioOne Complete	BioOne		EBSCOhost	EBSCOhost:edsbio	Searches_Automated	19268	19268	0
+Bloomsbury Human Kinetics Library	Undefined		EBSCOhost	EBSCOhost:edsbhk	Searches_Automated	15720	15720	0
+Books at JSTOR	JSTOR		EBSCOhost	EBSCOhost:edsjbk	Searches_Automated	15813	15813	0
+Books at JSTOR	JSTOR		EBSCOhost	EBSCOhost:edsjbk	Total_Item_Investigations	63	63	0
+Brill E-Book Collection	Brill Academic Publishers		EBSCOhost	EBSCOhost:edsbeb	Searches_Automated	15719	15719	0
+Brill E-Book Collection	Brill Academic Publishers		EBSCOhost	EBSCOhost:edsbeb	Total_Item_Investigations	3	3	0
+British Library Document Supply Centre Inside Serials & Conference Proceedings	British Library/ Document Supply Centre		EBSCOhost	EBSCOhost:edsbl	Searches_Automated	19299	19299	0
+British Library Document Supply Centre Inside Serials & Conference Proceedings	British Library/ Document Supply Centre		EBSCOhost	EBSCOhost:edsbl	Total_Item_Investigations	366	366	0
+British Library EThOS	British Library Board		EBSCOhost	EBSCOhost:edsble	Searches_Automated	15721	15721	0
+British Library EThOS	British Library Board		EBSCOhost	EBSCOhost:edsble	Total_Item_Investigations	48	48	0
+Business Source Complete	EBSCO Publishing		EBSCOhost	EBSCOhost:bth	Searches_Automated	22864	22864	0
+Business Source Complete	EBSCO Publishing		EBSCOhost	EBSCOhost:bth	Searches_Regular	965	965	0
+Business Source Complete	EBSCO Publishing		EBSCOhost	EBSCOhost:bth	Total_Item_Investigations	1951	1951	0
+Business Source Complete	EBSCO Publishing		EBSCOhost	EBSCOhost:bth	Total_Item_Requests	859	859	0
+Business Source Index	Undefined		EBSCOhost	EBSCOhost:bsx	Searches_Automated	15927	15927	0
+CAB Abstracts​​​​​​​ with Full Text	Undefined		EBSCOhost	EBSCOhost:cbt	Searches_Automated	15845	15845	0
+CAB Abstracts​​​​​​​ with Full Text	Undefined		EBSCOhost	EBSCOhost:cbt	Searches_Regular	182	182	0
+CAB Abstracts​​​​​​​ with Full Text	Undefined		EBSCOhost	EBSCOhost:cbt	Total_Item_Investigations	687	687	0
+CAB Abstracts​​​​​​​ with Full Text	Undefined		EBSCOhost	EBSCOhost:cbt	Total_Item_Requests	196	196	0
+CAB eBooks	Undefined		EBSCOhost	EBSCOhost:edsceb	Searches_Automated	15697	15697	0
+CAB Reviews	Undefined		EBSCOhost	EBSCOhost:edscre	Searches_Automated	15703	15703	0
+CABI Compendia	Undefined		EBSCOhost	EBSCOhost:edscom	Searches_Automated	15692	15692	0
+CABI Compendia	Undefined		EBSCOhost	EBSCOhost:edscom	Total_Item_Investigations	1	1	0
+Cairn.info	Cairn		EBSCOhost	EBSCOhost:edscrn	Searches_Automated	15792	15792	0
+Cairn.info	Cairn		EBSCOhost	EBSCOhost:edscrn	Total_Item_Investigations	7	7	0
+Cambridge Core Books	Cambridge University Press / Books		EBSCOhost	EBSCOhost:edsupo	Searches_Automated	15752	15752	0
+Cambridge Core Books	Cambridge University Press / Books		EBSCOhost	EBSCOhost:edsupo	Total_Item_Investigations	24	24	0
+Canada Commons	Gibson Library Connection		EBSCOhost	EBSCOhost:edscel	Searches_Automated	22711	22711	0
+Canada Commons	Gibson Library Connection		EBSCOhost	EBSCOhost:edscel	Total_Item_Investigations	5	5	0
+Canadiana Online	Canadiana.org		EBSCOhost	EBSCOhost:edseco	Searches_Automated	22696	22696	0
+Canadiana Online	Canadiana.org		EBSCOhost	EBSCOhost:edseco	Total_Item_Investigations	1	1	0
+Center for Research Libraries	Center for Research Libraries		EBSCOhost	EBSCOhost:edscrl	Searches_Automated	15745	15745	0
+Center for Research Libraries	Center for Research Libraries		EBSCOhost	EBSCOhost:edscrl	Total_Item_Investigations	1	1	0
+ChemSpider	Royal Society of Chemistry		EBSCOhost	EBSCOhost:edschs	Searches_Automated	15754	15754	0
+Children's Literature Comprehensive Database	Undefined		EBSCOhost	EBSCOhost:edsclc	Searches_Automated	15765	15765	0
+Children's Literature Comprehensive Database	Undefined		EBSCOhost	EBSCOhost:edsclc	Total_Item_Investigations	14	14	0
+China Science & Technology Journal Database	Chongqing VIP Information Co. Ltd.		EBSCOhost	EBSCOhost:edscqv	Searches_Automated	15777	15777	0
+China Science & Technology Journal Database	Chongqing VIP Information Co. Ltd.		EBSCOhost	EBSCOhost:edscqv	Total_Item_Investigations	8	8	0
+China/Asia On Demand	OriProbe Information Services		EBSCOhost	EBSCOhost:edsocd	Searches_Automated	15772	15772	0
+Choice Reviews	American Library Association / Choice		EBSCOhost	EBSCOhost:edscro	Searches_Automated	15748	15748	0
+CINAHL with Full Text	EBSCO Publishing		EBSCOhost	EBSCOhost:c8h	Searches_Automated	22802	22802	0
+CINAHL with Full Text	EBSCO Publishing		EBSCOhost	EBSCOhost:c8h	Searches_Regular	2796	2796	0
+CINAHL with Full Text	EBSCO Publishing		EBSCOhost	EBSCOhost:c8h	Total_Item_Investigations	2473	2473	0
+CINAHL with Full Text	EBSCO Publishing		EBSCOhost	EBSCOhost:c8h	Total_Item_Requests	341	341	0
+ClinicalTrials.gov	National Library of Medicine		EBSCOhost	EBSCOhost:edsclt	Searches_Automated	429	429	0
+Cochrane Database of Systematic Reviews	John Wiley & Sons, Inc		EBSCOhost	EBSCOhost:edschh	Searches_Automated	22709	22709	0
+Cochrane Database of Systematic Reviews	John Wiley & Sons, Inc		EBSCOhost	EBSCOhost:edschh	Total_Item_Investigations	1	1	0
+CogPrints	Stevan Harnad		EBSCOhost	EBSCOhost:edscog	Searches_Automated	22707	22707	0
+Complementary Index	EBSCO Publishing		EBSCOhost	EBSCOhost:edb	Searches_Automated	22903	22903	0
+Complementary Index	EBSCO Publishing		EBSCOhost	EBSCOhost:edb	Total_Item_Investigations	296	296	0
+conupitt consolidated db	Undefined		EBSCOhost	EBSCOhost:conupitt	Searches_Automated	78	78	0
+Darwin Books	Societa Editrice il Mulino Spa		EBSCOhost	EBSCOhost:edsdar	Searches_Automated	15755	15755	0
+dblp computer science bibliography	Schloss Dagstuhl LZI		EBSCOhost	EBSCOhost:edsdbl	Searches_Automated	15727	15727	0
+dblp computer science bibliography	Schloss Dagstuhl LZI		EBSCOhost	EBSCOhost:edsdbl	Total_Item_Investigations	9	9	0
+DEHESA	Repositorio Institucional Universidad de Extremadu		EBSCOhost	EBSCOhost:edsdeh	Searches_Automated	15720	15720	0
+Digital Access to Scholarship at Harvard (DASH)	Harvard University Library, Office for Scholarly C		EBSCOhost	EBSCOhost:edshld	Searches_Automated	22737	22737	0
+Digital Library of the Caribbean	Digital Library of the Caribbean		EBSCOhost	EBSCOhost:edsloc	Searches_Automated	15749	15749	0
+DigitalNZ	National Library of New Zealand		EBSCOhost	EBSCOhost:edsdnz	Searches_Automated	15711	15711	0
+DigitalNZ	National Library of New Zealand		EBSCOhost	EBSCOhost:edsdnz	Total_Item_Investigations	1	1	0
+Directory of Open Access Books	Undefined		EBSCOhost	EBSCOhost:edsdob	Searches_Automated	15766	15766	0
+Directory of Open Access Books	Undefined		EBSCOhost	EBSCOhost:edsdob	Total_Item_Investigations	32	32	0
+Directory of Open Access Journals	Directory of Open Access Journals		EBSCOhost	EBSCOhost:edsdoj	Searches_Automated	19298	19298	0
+Directory of Open Access Journals	Directory of Open Access Journals		EBSCOhost	EBSCOhost:edsdoj	Total_Item_Investigations	492	492	0
+E-Journals	EBSCO Publishing		EBSCOhost	EBSCOhost:eoah	Searches_Regular	4663	4663	0
+E-Journals	EBSCO Publishing		EBSCOhost	EBSCOhost:eoah	Total_Item_Investigations	7	7	0
+E-LIS (Eprints in Library & Information Science)	Advanced ePublishing Infrastructures - CILEA		EBSCOhost	EBSCOhost:edseli	Searches_Automated	19292	19292	0
+eArticle	Electronic Education Research Information Service		EBSCOhost	EBSCOhost:edsers	Searches_Automated	15752	15752	0
+eArticle	Electronic Education Research Information Service		EBSCOhost	EBSCOhost:edsers	Total_Item_Investigations	8	8	0
+eBook Academic Collection (EBSCOhost)	Undefined		EBSCOhost	EBSCOhost:e000xna	Searches_Automated	22813	22813	0
+eBook Academic Collection (EBSCOhost)	Undefined		EBSCOhost	EBSCOhost:e000xna	Searches_Regular	104	104	0
+eBook Academic Collection (EBSCOhost)	Undefined		EBSCOhost	EBSCOhost:e000xna	Total_Item_Investigations	1323	1323	0
+eBook Academic Collection (EBSCOhost)	Undefined		EBSCOhost	EBSCOhost:e000xna	Total_Item_Requests	761	761	0
+eBook Collection (EBSCOhost)	Undefined		EBSCOhost	EBSCOhost:nlebk	Searches_Automated	22759	22759	0
+eBook Collection (EBSCOhost)	Undefined		EBSCOhost	EBSCOhost:nlebk	Searches_Regular	141	141	0
+eBook Collection (EBSCOhost)	Undefined		EBSCOhost	EBSCOhost:nlebk	Total_Item_Investigations	1424	1424	0
+eBook Collection (EBSCOhost)	Undefined		EBSCOhost	EBSCOhost:nlebk	Total_Item_Requests	920	920	0
+eBook Index	EBSCO Publishing		EBSCOhost	EBSCOhost:edsebk	Searches_Automated	15823	15823	0
+eBook Index	EBSCO Publishing		EBSCOhost	EBSCOhost:edsebk	Total_Item_Investigations	518	518	0
+eBook Open Access (OA) Collection (EBSCOhost)	Undefined		EBSCOhost	EBSCOhost:e001mww	Searches_Automated	15787	15787	0
+eBook Open Access (OA) Collection (EBSCOhost)	Undefined		EBSCOhost	EBSCOhost:e001mww	Searches_Regular	100	100	0
+eBook Open Access (OA) Collection (EBSCOhost)	Undefined		EBSCOhost	EBSCOhost:e001mww	Total_Item_Investigations	12	12	0
+eBook Open Access (OA) Collection (EBSCOhost)	Undefined		EBSCOhost	EBSCOhost:e001mww	Total_Item_Requests	6	6	0
+EBSCO eClassics Collection (EBSCOhost)	EBSCO Publishing		EBSCOhost	EBSCOhost:e63sww	Searches_Automated	15769	15769	0
+EBSCO eClassics Collection (EBSCOhost)	EBSCO Publishing		EBSCOhost	EBSCOhost:e63sww	Searches_Regular	100	100	0
+ECONIS	German National Library of Economics		EBSCOhost	EBSCOhost:edszbw	Searches_Automated	15798	15798	0
+ECONIS	German National Library of Economics		EBSCOhost	EBSCOhost:edszbw	Total_Item_Investigations	21	21	0
+EconLit with Full Text	Undefined		EBSCOhost	EBSCOhost:eoh	Searches_Automated	22775	22775	0
+EconLit with Full Text	Undefined		EBSCOhost	EBSCOhost:eoh	Searches_Regular	114	114	0
+EconLit with Full Text	Undefined		EBSCOhost	EBSCOhost:eoh	Total_Item_Investigations	127	127	0
+EconLit with Full Text	Undefined		EBSCOhost	EBSCOhost:eoh	Total_Item_Requests	43	43	0
+EDS consolidated db (academicbasecustomizer)	Undefined		EBSCOhost	EBSCOhost:conacad	Searches_Automated	78	78	0
+EDS consolidated db (FULL - use conedsqd2)	Undefined		EBSCOhost	EBSCOhost:conedsqd	Searches_Automated	78	78	0
+EDS consolidated db (Korean databases)	Undefined		EBSCOhost	EBSCOhost:conkorean	Searches_Automated	78	78	0
+EDS consolidated db (QD facet) no10	Undefined		EBSCOhost	EBSCOhost:conedsqd10	Searches_Automated	78	78	0
+EDS consolidated db (QD facet) no11	Undefined		EBSCOhost	EBSCOhost:conedsqd11	Searches_Automated	78	78	0
+EDS consolidated db (QD facet) no12	Undefined		EBSCOhost	EBSCOhost:conedsqd12	Searches_Automated	78	78	0
+EDS consolidated db (QD facet) no12	Undefined		EBSCOhost	EBSCOhost:conedsqd12	Total_Item_Investigations	4	4	0
+EDS consolidated db (QD facet) no13	Undefined		EBSCOhost	EBSCOhost:conedsqd13	Searches_Automated	78	78	0
+EDS consolidated db (QD facet) no14	Undefined		EBSCOhost	EBSCOhost:conedsqd14	Searches_Automated	78	78	0
+EDS consolidated db (QD facet) no14	Undefined		EBSCOhost	EBSCOhost:conedsqd14	Total_Item_Investigations	1	1	0
+EDS consolidated db (QD facet) no15	Undefined		EBSCOhost	EBSCOhost:conedsqd15	Searches_Automated	78	78	0
+EDS consolidated db (QD facet) no16	Undefined		EBSCOhost	EBSCOhost:conedsqd16	Searches_Automated	78	78	0
+EDS consolidated db (QD facet) no17	Undefined		EBSCOhost	EBSCOhost:conedsqd17	Searches_Automated	78	78	0
+EDS consolidated db (QD facet) no18	Undefined		EBSCOhost	EBSCOhost:conedsqd18	Searches_Automated	78	78	0
+EDS consolidated db (QD facet) no19	Undefined		EBSCOhost	EBSCOhost:conedsqd19	Searches_Automated	78	78	0
+EDS consolidated db (QD facet) no2	Undefined		EBSCOhost	EBSCOhost:conedsqd2	Searches_Automated	78	78	0
+EDS consolidated db (QD facet) no20	Undefined		EBSCOhost	EBSCOhost:conedsqd20	Searches_Automated	78	78	0
+EDS consolidated db (QD facet) no3	Undefined		EBSCOhost	EBSCOhost:conedsqd3	Searches_Automated	78	78	0
+EDS consolidated db (QD facet) no4	Undefined		EBSCOhost	EBSCOhost:conedsqd4	Searches_Automated	78	78	0
+EDS consolidated db (QD facet) no5	Undefined		EBSCOhost	EBSCOhost:conedsqd5	Searches_Automated	78	78	0
+EDS consolidated db (QD facet) no6	Undefined		EBSCOhost	EBSCOhost:conedsqd6	Searches_Automated	78	78	0
+EDS consolidated db (QD facet) no8	Undefined		EBSCOhost	EBSCOhost:conedsqd8	Searches_Automated	78	78	0
+EDS consolidated db (QD facet) no9	Undefined		EBSCOhost	EBSCOhost:conedsqd9	Searches_Automated	78	78	0
+EDS consolidated db 3 (EDSBaseCustomizer)	Undefined		EBSCOhost	EBSCOhost:coneds3	Searches_Automated	78	78	0
+EDS Consolidated NZL	Undefined		EBSCOhost	EBSCOhost:connzl	Searches_Automated	78	78	0
+EDS consolidation db #1 (coneds1)	Undefined		EBSCOhost	EBSCOhost:coneds1	Searches_Automated	78	78	0
+EDS USPTO Patent Grants consolidated DB	Undefined		EBSCOhost	EBSCOhost:conpgr	Searches_Automated	78	78	0
+Education Research Complete	EBSCO Publishing		EBSCOhost	EBSCOhost:ehh	Searches_Automated	22841	22841	0
+Education Research Complete	EBSCO Publishing		EBSCOhost	EBSCOhost:ehh	Searches_Regular	139	139	0
+Education Research Complete	EBSCO Publishing		EBSCOhost	EBSCOhost:ehh	Total_Item_Investigations	324	324	0
+Education Research Complete	EBSCO Publishing		EBSCOhost	EBSCOhost:ehh	Total_Item_Requests	175	175	0
+eHRAF World Cultures	Human Relations Area Files Inc.		EBSCOhost	EBSCOhost:edsewc	Searches_Automated	15758	15758	0
+Eighteenth Century Collections Online	Cengage Learning		EBSCOhost	EBSCOhost:edsgec	Searches_Automated	22697	22697	0
+Elgaronline	Edward Elgar Publishing		EBSCOhost	EBSCOhost:edselg	Searches_Automated	15727	15727	0
+Elgaronline	Edward Elgar Publishing		EBSCOhost	EBSCOhost:edselg	Total_Item_Investigations	17	17	0
+Emerald Insight	Emerald Publishing Group Limited		EBSCOhost	EBSCOhost:edsemr	Searches_Automated	15848	15848	0
+Emerald Insight	Emerald Publishing Group Limited		EBSCOhost	EBSCOhost:edsemr	Total_Item_Investigations	100	100	0
+ERIC	Computer Sciences Corporation		EBSCOhost	EBSCOhost:eric	Searches_Automated	22808	22808	0
+ERIC	Computer Sciences Corporation		EBSCOhost	EBSCOhost:eric	Searches_Regular	234	234	0
+ERIC	Computer Sciences Corporation		EBSCOhost	EBSCOhost:eric	Total_Item_Investigations	298	298	0
+ERICdata Higher Education Knowledge	Hyweb Technology Co., Ltd.		EBSCOhost	EBSCOhost:edserd	Searches_Automated	15770	15770	0
+Erudit	Consortium Erudit		EBSCOhost	EBSCOhost:edseru	Searches_Automated	19259	19259	0
+Erudit	Consortium Erudit		EBSCOhost	EBSCOhost:edseru	Total_Item_Investigations	15	15	0
+eScholarship	California Digital Library		EBSCOhost	EBSCOhost:edssch	Searches_Automated	15793	15793	0
+eScholarship	California Digital Library		EBSCOhost	EBSCOhost:edssch	Total_Item_Investigations	35	35	0
+EU Bookshop	European Union, Publications Office		EBSCOhost	EBSCOhost:edseub	Searches_Automated	15761	15761	0
+European Views of the Americas: 1493 to 1750	EBSCO Publishing		EBSCOhost	EBSCOhost:hev	Searches_Regular	98	98	0
+Europeana	Undefined		EBSCOhost	EBSCOhost:edseur	Searches_Automated	19232	19232	0
+Europeana	Undefined		EBSCOhost	EBSCOhost:edseur	Total_Item_Investigations	3	3	0
+Exploring Race in Society	Undefined		EBSCOhost	EBSCOhost:psr	Searches_Automated	15778	15778	0
+Exploring Race in Society	Undefined		EBSCOhost	EBSCOhost:psr	Searches_Regular	98	98	0
+Exploring Race in Society	Undefined		EBSCOhost	EBSCOhost:psr	Total_Item_Investigations	3	3	0
+Exploring Race in Society	Undefined		EBSCOhost	EBSCOhost:psr	Total_Item_Requests	1	1	0
+Films on Demand	Infobase Publishing		EBSCOhost	EBSCOhost:edsfod	Searches_Automated	6937	6937	0
+Funk & Wagnalls New World Encyclopedia	World Almanac Education Group Inc.		EBSCOhost	EBSCOhost:funk	Searches_Regular	98	98	0
+Gale Academic OneFile	Cengage Learning		EBSCOhost	EBSCOhost:edsgao	Searches_Automated	19254	19254	0
+Gale Academic OneFile	Cengage Learning		EBSCOhost	EBSCOhost:edsgao	Total_Item_Investigations	277	277	0
+Gale Academic OneFile	Cengage Learning		EBSCOhost	EBSCOhost:edsgao	Total_Item_Requests	3	3	0
+Gale Academic OneFile Select	Cengage Learning		EBSCOhost	EBSCOhost:edsgea	Searches_Automated	15785	15785	0
+Gale Academic OneFile Select	Cengage Learning		EBSCOhost	EBSCOhost:edsgea	Total_Item_Investigations	1	1	0
+Gale Business: Insights	Cengage Learning		EBSCOhost	EBSCOhost:edsbig	Searches_Automated	15768	15768	0
+Gale Business: Insights	Cengage Learning		EBSCOhost	EBSCOhost:edsbig	Total_Item_Investigations	352	352	0
+Gale Business: Insights	Cengage Learning		EBSCOhost	EBSCOhost:edsbig	Total_Item_Requests	67	67	0
+Gale Consolidated DB	Undefined		EBSCOhost	EBSCOhost:congale	Searches_Automated	78	78	0
+Gale Consolidated DB 2	Undefined		EBSCOhost	EBSCOhost:congale2	Searches_Automated	78	78	0
+Gale eBooks	Cengage Learning		EBSCOhost	EBSCOhost:edsgvr	Searches_Automated	22733	22733	0
+Gale eBooks	Cengage Learning		EBSCOhost	EBSCOhost:edsgvr	Total_Item_Investigations	49	49	0
+Gale General OneFile	Cengage Learning		EBSCOhost	EBSCOhost:edsggo	Searches_Automated	15785	15785	0
+Gale General OneFile	Cengage Learning		EBSCOhost	EBSCOhost:edsggo	Total_Item_Investigations	37	37	0
+Gale Health and Wellness	Cengage Learning		EBSCOhost	EBSCOhost:edsghw	Searches_Automated	15785	15785	0
+Gale in Context: Biography	Cengage Learning		EBSCOhost	EBSCOhost:edsgbc	Searches_Automated	15825	15825	0
+Gale in Context: Biography	Cengage Learning		EBSCOhost	EBSCOhost:edsgbc	Total_Item_Investigations	4	4	0
+Gale in Context: College	Undefined		EBSCOhost	EBSCOhost:edsgac	Searches_Automated	15805	15805	0
+Gale in Context: College	Undefined		EBSCOhost	EBSCOhost:edsgac	Total_Item_Investigations	103	103	0
+Gale in Context: Environmental Studies	Undefined		EBSCOhost	EBSCOhost:edsgce	Searches_Automated	15777	15777	0
+Gale in Context: Environmental Studies	Undefined		EBSCOhost	EBSCOhost:edsgce	Total_Item_Investigations	24	24	0
+Gale In Context: Global Issues	Cengage Learning		EBSCOhost	EBSCOhost:edsgit	Searches_Automated	15755	15755	0
+Gale In Context: Global Issues	Cengage Learning		EBSCOhost	EBSCOhost:edsgit	Total_Item_Investigations	75	75	0
+Gale In Context: High School	Cengage Learning		EBSCOhost	EBSCOhost:edsgsr	Searches_Automated	15825	15825	0
+Gale In Context: High School	Cengage Learning		EBSCOhost	EBSCOhost:edsgsr	Total_Item_Investigations	1	1	0
+Gale In Context: Opposing Viewpoints	Cengage Learning		EBSCOhost	EBSCOhost:edsgov	Searches_Automated	15825	15825	0
+Gale In Context: Opposing Viewpoints	Cengage Learning		EBSCOhost	EBSCOhost:edsgov	Total_Item_Investigations	6	6	0
+Gale In Context: Science	Cengage Learning		EBSCOhost	EBSCOhost:edsgsc	Searches_Automated	15825	15825	0
+Gale In Context: Science	Cengage Learning		EBSCOhost	EBSCOhost:edsgsc	Total_Item_Investigations	15	15	0
+Gale In Context: U.S. History	Cengage Learning		EBSCOhost	EBSCOhost:edsgus	Searches_Automated	15825	15825	0
+Gale In Context: World History	Cengage Learning		EBSCOhost	EBSCOhost:edsgwh	Searches_Automated	15825	15825	0
+Gale Literature Resource Center	Cengage Learning		EBSCOhost	EBSCOhost:edsglr	Searches_Automated	15766	15766	0
+Gale Literature Resource Center	Cengage Learning		EBSCOhost	EBSCOhost:edsglr	Total_Item_Investigations	10	10	0
+Gale Literature: Contemporary Authors	Cengage Learning		EBSCOhost	EBSCOhost:edscau	Searches_Automated	15752	15752	0
+Gale Literature: LitFinder	Cengage Learning		EBSCOhost	EBSCOhost:edsltf	Searches_Automated	15713	15713	0
+Gale Literature: LitFinder	Cengage Learning		EBSCOhost	EBSCOhost:edsltf	Total_Item_Investigations	4	4	0
+Gale OneFile: Business	Cengage Learning		EBSCOhost	EBSCOhost:edsinc	Searches_Automated	15802	15802	0
+Gale OneFile: Business	Cengage Learning		EBSCOhost	EBSCOhost:edsinc	Total_Item_Investigations	116	116	0
+Gale OneFile: Computer Science	Cengage Learning		EBSCOhost	EBSCOhost:edsgic	Searches_Automated	15781	15781	0
+Gale OneFile: Health and Medicine	Cengage Learning		EBSCOhost	EBSCOhost:edsgih	Searches_Automated	15785	15785	0
+Gale OneFile: Health and Medicine	Cengage Learning		EBSCOhost	EBSCOhost:edsgih	Total_Item_Investigations	45	45	0
+Gale OneFile: Informe Académico	Cengage Learning		EBSCOhost	EBSCOhost:edsgii	Searches_Automated	15785	15785	0
+Gale OneFile: Informe Académico	Cengage Learning		EBSCOhost	EBSCOhost:edsgii	Total_Item_Investigations	2	2	0
+Gale OneFile: LegalTrac	Cengage Learning		EBSCOhost	EBSCOhost:edsglt	Searches_Automated	15781	15781	0
+Gale OneFile: News	Cengage Learning		EBSCOhost	EBSCOhost:edsgin	Searches_Automated	15821	15821	0
+Gale OneFile: News	Cengage Learning		EBSCOhost	EBSCOhost:edsgin	Total_Item_Investigations	51	51	0
+Gallica Bibliothèque numérique	Bibliotheque Nationale France		EBSCOhost	EBSCOhost:edsgal	Searches_Automated	15760	15760	0
+Gallica Bibliothèque numérique	Bibliotheque Nationale France		EBSCOhost	EBSCOhost:edsgal	Total_Item_Investigations	2	2	0
+GeoRef	American Geological Institute		EBSCOhost	EBSCOhost:geh	Searches_Automated	15811	15811	0
+GeoRef	American Geological Institute		EBSCOhost	EBSCOhost:geh	Searches_Regular	100	100	0
+GeoRef	American Geological Institute		EBSCOhost	EBSCOhost:geh	Total_Item_Investigations	71	71	0
+GeoRef In Process	American Geological Institute		EBSCOhost	EBSCOhost:guh	Searches_Automated	15782	15782	0
+GeoRef In Process	American Geological Institute		EBSCOhost	EBSCOhost:guh	Searches_Regular	98	98	0
+GeoRef In Process	American Geological Institute		EBSCOhost	EBSCOhost:guh	Total_Item_Investigations	8	8	0
+GOBI E-books	Undefined		EBSCOhost	EBSCOhost:edsgob	Searches_Automated	22656	22656	0
+GOBI E-books	Undefined		EBSCOhost	EBSCOhost:edsgob	Total_Item_Investigations	626	626	0
+GreenFILE	EBSCO Publishing		EBSCOhost	EBSCOhost:8gh	Searches_Automated	22788	22788	0
+GreenFILE	EBSCO Publishing		EBSCOhost	EBSCOhost:8gh	Searches_Regular	102	102	0
+GreenFILE	EBSCO Publishing		EBSCOhost	EBSCOhost:8gh	Total_Item_Investigations	53	53	0
+Grove Music Online	Oxford University Press / UK		EBSCOhost	EBSCOhost:edsomo	Searches_Automated	19228	19228	0
+Harvard Faculty Seminar Series	Undefined		EBSCOhost	EBSCOhost:vhf	Searches_Regular	1836	1836	0
+Harvard Library Bibliographic Dataset	Harvard University Library, Office for Scholarly C		EBSCOhost	EBSCOhost:edshlc	Searches_Automated	19269	19269	0
+Harvard Library Bibliographic Dataset	Harvard University Library, Office for Scholarly C		EBSCOhost	EBSCOhost:edshlc	Total_Item_Investigations	363	363	0
+HathiTrust	HathiTrust		EBSCOhost	EBSCOhost:edshtl	Searches_Automated	15780	15780	0
+HathiTrust	HathiTrust		EBSCOhost	EBSCOhost:edshtl	Total_Item_Investigations	134	134	0
+Health Reference Center	Infobase Publishing		EBSCOhost	EBSCOhost:edshrc	Searches_Automated	15846	15846	0
+HeinOnline	William S. HEIN & Co., Inc.		EBSCOhost	EBSCOhost:edshol	Searches_Automated	15799	15799	0
+HeinOnline	William S. HEIN & Co., Inc.		EBSCOhost	EBSCOhost:edshol	Total_Item_Investigations	151	151	0
+Henry Stewart Talks	Henry Stewart Talks		EBSCOhost	EBSCOhost:edshst	Searches_Automated	15756	15756	0
+Henry Stewart Talks	Henry Stewart Talks		EBSCOhost	EBSCOhost:edshst	Total_Item_Investigations	2	2	0
+Historical Abstracts	EBSCO Publishing		EBSCOhost	EBSCOhost:hia	Searches_Automated	22786	22786	0
+Historical Abstracts	EBSCO Publishing		EBSCOhost	EBSCOhost:hia	Searches_Regular	116	116	0
+Historical Abstracts	EBSCO Publishing		EBSCOhost	EBSCOhost:hia	Total_Item_Investigations	85	85	0
+HLAS Online	Library of Congress, Hispanic Division		EBSCOhost	EBSCOhost:edshla	Searches_Automated	15824	15824	0
+HLAS Online	Library of Congress, Hispanic Division		EBSCOhost	EBSCOhost:edshla	Total_Item_Investigations	1	1	0
+Human-Animal Interactions	Undefined		EBSCOhost	EBSCOhost:edshai	Searches_Automated	13153	13153	0
+HyRead Journal	Hyweb Technology Co., Ltd.		EBSCOhost	EBSCOhost:edshyr	Searches_Automated	15746	15746	0
+Ibuk.pl	Wydawnictwo Naukowe PWN SA		EBSCOhost	EBSCOhost:edsibu	Searches_Automated	15741	15741	0
+Ibuk.pl	Wydawnictwo Naukowe PWN SA		EBSCOhost	EBSCOhost:edsibu	Total_Item_Investigations	1	1	0
+IEEE Xplore Digital Library	IEEE		EBSCOhost	EBSCOhost:edseee	Searches_Automated	22783	22783	0
+IEEE Xplore Digital Library	IEEE		EBSCOhost	EBSCOhost:edseee	Total_Item_Investigations	252	252	0
+IMF eLibrary	International Monetary Fund		EBSCOhost	EBSCOhost:edsimf	Searches_Automated	15776	15776	0
+IMF eLibrary	International Monetary Fund		EBSCOhost	EBSCOhost:edsimf	Total_Item_Investigations	1	1	0
+IndianJournals.com	Diva Enterprises Private Limited		EBSCOhost	EBSCOhost:edsijc	Searches_Automated	15767	15767	0
+IndianJournals.com	Diva Enterprises Private Limited		EBSCOhost	EBSCOhost:edsijc	Total_Item_Investigations	14	14	0
+Informit Business Collection	RMIT Training Pty Ltd trading as RMIT Publishing		EBSCOhost	EBSCOhost:edsibc	Searches_Automated	15776	15776	0
+Informit Engineering Collection	RMIT Training Pty Ltd trading as RMIT Publishing		EBSCOhost	EBSCOhost:edsiec	Searches_Automated	15776	15776	0
+Informit Families & Society Collection	RMIT Training Pty Ltd trading as RMIT Publishing		EBSCOhost	EBSCOhost:edsifs	Searches_Automated	15792	15792	0
+Informit Families & Society Collection	RMIT Training Pty Ltd trading as RMIT Publishing		EBSCOhost	EBSCOhost:edsifs	Total_Item_Investigations	1	1	0
+Informit Health Collection	RMIT Training Pty Ltd trading as RMIT Publishing		EBSCOhost	EBSCOhost:edsihc	Searches_Automated	15776	15776	0
+Informit Health Collection	RMIT Training Pty Ltd trading as RMIT Publishing		EBSCOhost	EBSCOhost:edsihc	Total_Item_Investigations	27	27	0
+Informit Humanities & Social Sciences Collection	RMIT Training Pty Ltd trading as RMIT Publishing		EBSCOhost	EBSCOhost:edsihs	Searches_Automated	15776	15776	0
+Informit Humanities & Social Sciences Collection	RMIT Training Pty Ltd trading as RMIT Publishing		EBSCOhost	EBSCOhost:edsihs	Total_Item_Investigations	17	17	0
+Informit Indigenous Collection	RMIT Training Pty Ltd trading as RMIT Publishing		EBSCOhost	EBSCOhost:edsind	Searches_Automated	15776	15776	0
+Informit Literature & Culture Collection	RMIT Training Pty Ltd trading as RMIT Publishing		EBSCOhost	EBSCOhost:edsilc	Searches_Automated	15776	15776	0
+Informit New Zealand Collection	RMIT Training Pty Ltd trading as RMIT Publishing		EBSCOhost	EBSCOhost:edsnzc	Searches_Automated	15797	15797	0
+Informit New Zealand Collection	RMIT Training Pty Ltd trading as RMIT Publishing		EBSCOhost	EBSCOhost:edsnzc	Total_Item_Investigations	8	8	0
+InfoSci-Journals	Informa Business Intelligence		EBSCOhost	EBSCOhost:edsisj	Searches_Automated	15773	15773	0
+InfoSci-Journals	Informa Business Intelligence		EBSCOhost	EBSCOhost:edsisj	Total_Item_Investigations	14	14	0
+Inspec	Institution of Engineering & Technology		EBSCOhost	EBSCOhost:inh	Searches_Automated	22816	22816	0
+Inspec	Institution of Engineering & Technology		EBSCOhost	EBSCOhost:inh	Searches_Regular	105	105	0
+Inspec	Institution of Engineering & Technology		EBSCOhost	EBSCOhost:inh	Total_Item_Investigations	146	146	0
+Inter-American Development Bank Repository	Inter-American Development Bank		EBSCOhost	EBSCOhost:edsiad	Searches_Automated	15804	15804	0
+J-STAGE	Japan Science & Technology Agency		EBSCOhost	EBSCOhost:edsjst	Searches_Automated	19278	19278	0
+J-STAGE	Japan Science & Technology Agency		EBSCOhost	EBSCOhost:edsjst	Total_Item_Investigations	6	6	0
+Japanese Periodical Index - 雑誌記事索引	National Diet Library		EBSCOhost	EBSCOhost:edsjpi	Searches_Automated	15796	15796	0
+Japanese Periodical Index - 雑誌記事索引	National Diet Library		EBSCOhost	EBSCOhost:edsjpi	Total_Item_Investigations	2	2	0
+Journals@OVID	Kluwer Law International		EBSCOhost	EBSCOhost:edsovi	Searches_Automated	15770	15770	0
+Journals@OVID	Kluwer Law International		EBSCOhost	EBSCOhost:edsovi	Total_Item_Investigations	19	19	0
+JSTOR Journals	JSTOR		EBSCOhost	EBSCOhost:edsjsr	Searches_Automated	22808	22808	0
+JSTOR Journals	JSTOR		EBSCOhost	EBSCOhost:edsjsr	Total_Item_Investigations	406	406	0
+JSTOR Open Shared Collection	Undefined		EBSCOhost	EBSCOhost:edsocc	Searches_Automated	15759	15759	0
+Kanopy	Kanopy Streaming Service		EBSCOhost	EBSCOhost:edskan	Searches_Automated	3900	3900	0
+KERIS Theses & Dissertations	Korea Education Research Information Service		EBSCOhost	EBSCOhost:edsker	Searches_Automated	15733	15733	0
+KERIS Theses & Dissertations	Korea Education Research Information Service		EBSCOhost	EBSCOhost:edsker	Total_Item_Investigations	5	5	0
+KOCW (Korea OpenCourseWare)	Undefined		EBSCOhost	EBSCOhost:edskow	Searches_Automated	15733	15733	0
+Korean Studies Information Service System	Korean Studies Information Co.		EBSCOhost	EBSCOhost:edskis	Searches_Automated	15754	15754	0
+Korean Studies Information Service System	Korean Studies Information Co.		EBSCOhost	EBSCOhost:edskis	Total_Item_Investigations	5	5	0
+LDBO consolidated build	Undefined		EBSCOhost	EBSCOhost:conldbo	Searches_Automated	78	78	0
+LexisNexis Academic: Law Reviews	LexisNexis		EBSCOhost	EBSCOhost:edslex	Searches_Automated	22709	22709	0
+LexisNexis Academic: Law Reviews	LexisNexis		EBSCOhost	EBSCOhost:edslex	Total_Item_Investigations	6	6	0
+Library, Information Science & Technology Abstracts	EBSCO Publishing		EBSCOhost	EBSCOhost:lxh	Searches_Automated	22791	22791	0
+Library, Information Science & Technology Abstracts	EBSCO Publishing		EBSCOhost	EBSCOhost:lxh	Searches_Regular	105	105	0
+Library, Information Science & Technology Abstracts	EBSCO Publishing		EBSCOhost	EBSCOhost:lxh	Total_Item_Investigations	18	18	0
+LibreTexts	Undefined		EBSCOhost	EBSCOhost:edslbt	Searches_Automated	15720	15720	0
+LibreTexts	Undefined		EBSCOhost	EBSCOhost:edslbt	Total_Item_Investigations	2	2	0
+LUNA Commons	Luna Imaging, Inc.		EBSCOhost	EBSCOhost:edsluc	Searches_Automated	15748	15748	0
+Manuscriptorium Digital Library	Library Institute of the Czech National Library		EBSCOhost	EBSCOhost:edsman	Searches_Automated	15755	15755	0
+MAS Reference eBook Collection	Undefined		EBSCOhost	EBSCOhost:e865sww	Searches_Automated	22710	22710	0
+MAS Reference eBook Collection	Undefined		EBSCOhost	EBSCOhost:e865sww	Searches_Regular	100	100	0
+MAS Ultra - School Edition	EBSCO Publishing		EBSCOhost	EBSCOhost:ulh	Searches_Automated	22760	22760	0
+MAS Ultra - School Edition	EBSCO Publishing		EBSCOhost	EBSCOhost:ulh	Searches_Regular	104	104	0
+MAS Ultra - School Edition	EBSCO Publishing		EBSCOhost	EBSCOhost:ulh	Total_Item_Investigations	64	64	0
+MAS Ultra - School Edition	EBSCO Publishing		EBSCOhost	EBSCOhost:ulh	Total_Item_Requests	48	48	0
+MathSciNet via EBSCOhost	American Mathematical Society		EBSCOhost	EBSCOhost:msn	Searches_Automated	19275	19275	0
+MathSciNet via EBSCOhost	American Mathematical Society		EBSCOhost	EBSCOhost:msn	Searches_Regular	101	101	0
+MathSciNet via EBSCOhost	American Mathematical Society		EBSCOhost	EBSCOhost:msn	Total_Item_Investigations	14	14	0
+McGraw-Hill eBook Library	McGraw Hill Financial, Inc.		EBSCOhost	EBSCOhost:edsely	Searches_Automated	15723	15723	0
+McGraw-Hill eBook Library	McGraw Hill Financial, Inc.		EBSCOhost	EBSCOhost:edsely	Total_Item_Investigations	5	5	0
+McGraw-Hill Medical	McGraw Hill Financial, Inc.		EBSCOhost	EBSCOhost:edsmgh	Searches_Automated	15762	15762	0
+McGraw-Hill Medical	McGraw Hill Financial, Inc.		EBSCOhost	EBSCOhost:edsmgh	Total_Item_Investigations	3	3	0
+Medical Online E-Books Library	Meteo Inc.		EBSCOhost	EBSCOhost:edsmob	Searches_Automated	15755	15755	0
+Medical Online-E	Meteo Inc.		EBSCOhost	EBSCOhost:edsmoe	Searches_Automated	15796	15796	0
+Medical Online-E	Meteo Inc.		EBSCOhost	EBSCOhost:edsmoe	Total_Item_Investigations	4	4	0
+MEDLINE	Undefined		EBSCOhost	EBSCOhost:cmedm	Searches_Automated	7372	7372	0
+MEDLINE	Undefined		EBSCOhost	EBSCOhost:cmedm	Total_Item_Investigations	27	27	0
+MEDLINE Ultimate	Undefined		EBSCOhost	EBSCOhost:mdl	Searches_Automated	15911	15911	0
+MEDLINE Ultimate	Undefined		EBSCOhost	EBSCOhost:mdl	Searches_Regular	268	268	0
+MEDLINE Ultimate	Undefined		EBSCOhost	EBSCOhost:mdl	Total_Item_Investigations	1089	1089	0
+MEDLINE Ultimate	Undefined		EBSCOhost	EBSCOhost:mdl	Total_Item_Requests	662	662	0
+Military & Government Collection	EBSCO Publishing		EBSCOhost	EBSCOhost:mth	Searches_Automated	22789	22789	0
+Military & Government Collection	EBSCO Publishing		EBSCOhost	EBSCOhost:mth	Searches_Regular	105	105	0
+Military & Government Collection	EBSCO Publishing		EBSCOhost	EBSCOhost:mth	Total_Item_Investigations	31	31	0
+Military & Government Collection	EBSCO Publishing		EBSCOhost	EBSCOhost:mth	Total_Item_Requests	19	19	0
+Milne Open Textbooks	SUNY Geneseo		EBSCOhost	EBSCOhost:edssun	Searches_Automated	22740	22740	0
+Minha Biblioteca	Minha Biblioteca		EBSCOhost	EBSCOhost:edsmib	Searches_Automated	15756	15756	0
+Minority Health Archive	University of Pittsburgh, University Library Syste		EBSCOhost	EBSCOhost:edsuph	Searches_Automated	15776	15776	0
+MLA Directory of Periodicals	Modern Language Association of America		EBSCOhost	EBSCOhost:kah	Searches_Automated	15759	15759	0
+MLA Directory of Periodicals	Modern Language Association of America		EBSCOhost	EBSCOhost:kah	Searches_Regular	100	100	0
+MLA Directory of Periodicals	Modern Language Association of America		EBSCOhost	EBSCOhost:kah	Total_Item_Investigations	9	9	0
+MLA International Bibliography	Modern Language Association of America		EBSCOhost	EBSCOhost:mzh	Searches_Automated	22767	22767	0
+MLA International Bibliography	Modern Language Association of America		EBSCOhost	EBSCOhost:mzh	Searches_Regular	142	142	0
+MLA International Bibliography	Modern Language Association of America		EBSCOhost	EBSCOhost:mzh	Total_Item_Investigations	128	128	0
+NASA Technical Reports	National Aeronautics & Space Administration (NASA)		EBSCOhost	EBSCOhost:edsnas	Searches_Automated	15821	15821	0
+Naxos Music Library	Naxos Online Library, LLC		EBSCOhost	EBSCOhost:edsnol	Searches_Automated	22694	22694	0
+Naxos Music Library	Naxos Online Library, LLC		EBSCOhost	EBSCOhost:edsnol	Total_Item_Investigations	2	2	0
+NBU Scholar Electronic Repository	New Bulgarian University		EBSCOhost	EBSCOhost:edsnbu	Searches_Automated	15722	15722	0
+NCI (National Cancer Institute at the National Institutes of Health)	NCI (National Cancer Institute at the National Ins		EBSCOhost	EBSCOhost:edspdq	Searches_Automated	15754	15754	0
+Networked Digital Library of Theses & Dissertations	Networked Digital Library of Theses & Dissertation		EBSCOhost	EBSCOhost:edsndl	Searches_Automated	15776	15776	0
+Networked Digital Library of Theses & Dissertations	Networked Digital Library of Theses & Dissertation		EBSCOhost	EBSCOhost:edsndl	Total_Item_Investigations	15	15	0
+NewsBank	NewsBank, Inc.		EBSCOhost	EBSCOhost:edsnbk	Searches_Automated	15761	15761	0
+NewsBank	NewsBank, Inc.		EBSCOhost	EBSCOhost:edsnbk	Total_Item_Investigations	34	34	0
+NewsBank - Archives	NewsBank, Inc.		EBSCOhost	EBSCOhost:edsnba	Searches_Automated	15755	15755	0
+Newswires	EBSCO Publishing		EBSCOhost	EBSCOhost:nsm	Searches_Automated	15769	15769	0
+Newswires	EBSCO Publishing		EBSCOhost	EBSCOhost:nsm	Searches_Regular	4663	4663	0
+NORA (Norwegian Open Research Archive)	CRIStin		EBSCOhost	EBSCOhost:edsnor	Searches_Automated	15720	15720	0
+NORA (Norwegian Open Research Archive)	CRIStin		EBSCOhost	EBSCOhost:edsnor	Total_Item_Investigations	3	3	0
+OAIster	OCLC Inc.		EBSCOhost	EBSCOhost:edsoai	Searches_Automated	3903	3903	0
+OAIster	OCLC Inc.		EBSCOhost	EBSCOhost:edsoai	Total_Item_Investigations	1	1	0
+OAPEN Library	OAPEN Library		EBSCOhost	EBSCOhost:edsoap	Searches_Automated	19182	19182	0
+OAPEN Library	OAPEN Library		EBSCOhost	EBSCOhost:edsoap	Total_Item_Investigations	7	7	0
+OECD iLibrary	Organisation for Economic Cooperation & Developmen		EBSCOhost	EBSCOhost:edsoec	Searches_Automated	15767	15767	0
+OECD iLibrary	Organisation for Economic Cooperation & Developmen		EBSCOhost	EBSCOhost:edsoec	Total_Item_Investigations	5	5	0
+Open Textbook Library	Center for Open Education at the University of Min		EBSCOhost	EBSCOhost:edsotl	Searches_Automated	22691	22691	0
+Open Textbook Library	Center for Open Education at the University of Min		EBSCOhost	EBSCOhost:edsotl	Total_Item_Investigations	2	2	0
+OpenAIRE	OpenAIRE		EBSCOhost	EBSCOhost:edsair	Searches_Automated	15821	15821	0
+OpenAIRE	OpenAIRE		EBSCOhost	EBSCOhost:edsair	Total_Item_Investigations	422	422	0
+OpenDissertations	EBSCO Publishing		EBSCOhost	EBSCOhost:ddu	Searches_Automated	15776	15776	0
+OpenDissertations	EBSCO Publishing		EBSCOhost	EBSCOhost:ddu	Searches_Regular	101	101	0
+OpenDissertations	EBSCO Publishing		EBSCOhost	EBSCOhost:ddu	Total_Item_Investigations	12	12	0
+Openedition.org	Centre National de la Recherche Scientifique Unive		EBSCOhost	EBSCOhost:edsrev	Searches_Automated	15776	15776	0
+Openedition.org	Centre National de la Recherche Scientifique Unive		EBSCOhost	EBSCOhost:edsrev	Total_Item_Investigations	4	4	0
+OpenStax	Rice University		EBSCOhost	EBSCOhost:edsopx	Searches_Automated	15697	15697	0
+Oxfam Policy & Practice	Oxfam GB		EBSCOhost	EBSCOhost:edsoxf	Searches_Automated	15804	15804	0
+Oxford Clinical Psychology	Oxford University Press / USA		EBSCOhost	EBSCOhost:edsocp	Searches_Automated	15762	15762	0
+Oxford Clinical Psychology	Oxford University Press / USA		EBSCOhost	EBSCOhost:edsocp	Total_Item_Investigations	2	2	0
+Oxford Consolidated db	Undefined		EBSCOhost	EBSCOhost:conoxford	Searches_Automated	78	78	0
+Oxford Handbooks Online	Oxford University Press / UK		EBSCOhost	EBSCOhost:edsoho	Searches_Automated	15707	15707	0
+Oxford Handbooks Online	Oxford University Press / UK		EBSCOhost	EBSCOhost:edsoho	Total_Item_Investigations	3	3	0
+Oxford Scholarly Editions Online	Oxford University Press / USA		EBSCOhost	EBSCOhost:edsose	Searches_Automated	15744	15744	0
+Oxford Scholarship Online	Oxford University Press / UK		EBSCOhost	EBSCOhost:edsoso	Searches_Automated	15707	15707	0
+Oxford Scholarship Online	Oxford University Press / UK		EBSCOhost	EBSCOhost:edsoso	Total_Item_Investigations	26	26	0
+Persée	Persee		EBSCOhost	EBSCOhost:edsper	Searches_Automated	15790	15790	0
+PhilSci Archive	University of Pittsburgh, University Library Syste		EBSCOhost	EBSCOhost:edsupp	Searches_Automated	19169	19169	0
+Plantwise Knowledge Bank	Undefined		EBSCOhost	EBSCOhost:edspkb	Searches_Automated	12728	12728	0
+Plantwise Knowledge Bank	Undefined		EBSCOhost	EBSCOhost:edspkb	Total_Item_Investigations	2	2	0
+PORBASE	Biblioteca Nacional de Portugal		EBSCOhost	EBSCOhost:edspor	Searches_Automated	15707	15707	0
+Pressbooks Directory	Undefined		EBSCOhost	EBSCOhost:edspbd	Searches_Automated	15720	15720	0
+Pressbooks Directory	Undefined		EBSCOhost	EBSCOhost:edspbd	Total_Item_Investigations	3	3	0
+Primary Search	EBSCO Publishing		EBSCOhost	EBSCOhost:prh	Searches_Automated	22704	22704	0
+Primary Search	EBSCO Publishing		EBSCOhost	EBSCOhost:prh	Searches_Regular	101	101	0
+Primary Search	EBSCO Publishing		EBSCOhost	EBSCOhost:prh	Total_Item_Investigations	2	2	0
+Primary Search	EBSCO Publishing		EBSCOhost	EBSCOhost:prh	Total_Item_Requests	1	1	0
+Primary Search Reference eBook Collection	Undefined		EBSCOhost	EBSCOhost:e867sww	Searches_Automated	22706	22706	0
+Primary Search Reference eBook Collection	Undefined		EBSCOhost	EBSCOhost:e867sww	Searches_Regular	100	100	0
+ProjectMUSE	Project Muse		EBSCOhost	EBSCOhost:edspmu	Searches_Automated	22707	22707	0
+ProjectMUSE	Project Muse		EBSCOhost	EBSCOhost:edspmu	Total_Item_Investigations	52	52	0
+Publications New Zealand Metadata	National Library of New Zealand		EBSCOhost	EBSCOhost:edsnzl	Searches_Automated	19206	19206	0
+Publications New Zealand Metadata	National Library of New Zealand		EBSCOhost	EBSCOhost:edsnzl	Total_Item_Investigations	4	4	0
+R2 Digital Library	Rittenhouse Books		EBSCOhost	EBSCOhost:edsrdl	Searches_Automated	15746	15746	0
+RACO (Revistes Catalanes amb Accés Obert)	Universitaries de Catalunya, Consorci de Biblioteq		EBSCOhost	EBSCOhost:edsrac	Searches_Automated	15783	15783	0
+RACO (Revistes Catalanes amb Accés Obert)	Universitaries de Catalunya, Consorci de Biblioteq		EBSCOhost	EBSCOhost:edsrac	Total_Item_Investigations	6	6	0
+RAMBI	National Library of Israel		EBSCOhost	EBSCOhost:edsram	Searches_Automated	15751	15751	0
+RAMBI	National Library of Israel		EBSCOhost	EBSCOhost:edsram	Total_Item_Investigations	9	9	0
+RCAAP	Foundation for National Scientific Computing		EBSCOhost	EBSCOhost:edsrca	Searches_Automated	15806	15806	0
+RCAAP	Foundation for National Scientific Computing		EBSCOhost	EBSCOhost:edsrca	Total_Item_Investigations	12	12	0
+Regional Business News	EBSCO Publishing		EBSCOhost	EBSCOhost:bwh	Searches_Automated	22736	22736	0
+Regional Business News	EBSCO Publishing		EBSCOhost	EBSCOhost:bwh	Searches_Regular	100	100	0
+Regional Business News	EBSCO Publishing		EBSCOhost	EBSCOhost:bwh	Total_Item_Investigations	9	9	0
+Regional Business News	EBSCO Publishing		EBSCOhost	EBSCOhost:bwh	Total_Item_Requests	4	4	0
+RePEc	RePEc		EBSCOhost	EBSCOhost:edsrep	Searches_Automated	19326	19326	0
+RePEc	RePEc		EBSCOhost	EBSCOhost:edsrep	Total_Item_Investigations	43	43	0
+Research Starters	EBSCO Publishing		EBSCOhost	EBSCOhost:ers	Searches_Automated	19260	19260	0
+Research Starters	EBSCO Publishing		EBSCOhost	EBSCOhost:ers	Total_Item_Investigations	58	58	0
+Research Starters	EBSCO Publishing		EBSCOhost	EBSCOhost:ers	Total_Item_Requests	40	40	0
+Rivisteweb	Societa Editrice il Mulino Spa		EBSCOhost	EBSCOhost:edsriv	Searches_Automated	15755	15755	0
+Robertson Library Catalogue	Undefined		EBSCOhost	EBSCOhost:cat01065a	Searches_Automated	22745	22745	0
+Robertson Library Catalogue	Undefined		EBSCOhost	EBSCOhost:cat01065a	Searches_Regular	101	101	0
+Robertson Library Catalogue	Undefined		EBSCOhost	EBSCOhost:cat01065a	Total_Item_Investigations	916	916	0
+Rock's Backpages	Undefined		EBSCOhost	EBSCOhost:edsrbp	Searches_Automated	15765	15765	0
+Routledge Handbooks Online	Taylor & Francis Ltd		EBSCOhost	EBSCOhost:edsrho	Searches_Automated	15724	15724	0
+Routledge Handbooks Online	Taylor & Francis Ltd		EBSCOhost	EBSCOhost:edsrho	Total_Item_Investigations	12	12	0
+RxTx	Canadian Pharmacists Association		EBSCOhost	EBSCOhost:edsrxt	Searches_Automated	15709	15709	0
+SAGE Knowledge	Sage Publications Inc.		EBSCOhost	EBSCOhost:edsskl	Searches_Automated	2	2	0
+SAGE Research Methods	Sage Publications Inc.		EBSCOhost	EBSCOhost:edsrem	Searches_Automated	15711	15711	0
+SAGE Research Methods	Sage Publications Inc.		EBSCOhost	EBSCOhost:edsrem	Total_Item_Investigations	5	5	0
+SAGE Research Methods Foundations	Undefined		EBSCOhost	EBSCOhost:edsrmf	Searches_Automated	15781	15781	0
+ScholarVox	Cyberlibris		EBSCOhost	EBSCOhost:edsvox	Searches_Automated	15756	15756	0
+ScholarVox	Cyberlibris		EBSCOhost	EBSCOhost:edsvox	Total_Item_Investigations	13	13	0
+SciELO	SciELO		EBSCOhost	EBSCOhost:edssci	Searches_Automated	15767	15767	0
+SciELO Books	SciELO		EBSCOhost	EBSCOhost:edsscb	Searches_Automated	15762	15762	0
+Science Citation Index Expanded	Thomson Reuters		EBSCOhost	EBSCOhost:edswsc	Searches_Automated	19275	19275	0
+Science Citation Index Expanded	Thomson Reuters		EBSCOhost	EBSCOhost:edswsc	Total_Item_Investigations	24	24	0
+ScienceDirect	EBSCO Publishing		EBSCOhost	EBSCOhost:edselp	Searches_Automated	22768	22768	0
+ScienceDirect	EBSCO Publishing		EBSCOhost	EBSCOhost:edselp	Total_Item_Investigations	386	386	0
+SciTech Connect	U.S. Department of Energy (OSTI)		EBSCOhost	EBSCOhost:edsstc	Searches_Automated	19196	19196	0
+SciTech Connect	U.S. Department of Energy (OSTI)		EBSCOhost	EBSCOhost:edsstc	Total_Item_Investigations	12	12	0
+SCOAP3	Undefined		EBSCOhost	EBSCOhost:edscop	Searches_Automated	15773	15773	0
+Scopus®	Elsevier B.V.		EBSCOhost	EBSCOhost:edselc	Searches_Automated	22831	22831	0
+Scopus®	Elsevier B.V.		EBSCOhost	EBSCOhost:edselc	Total_Item_Investigations	1129	1129	0
+Skillsoft Books	SkillSoft Books24x7		EBSCOhost	EBSCOhost:edsssb	Searches_Automated	15768	15768	0
+Skillsoft Books	SkillSoft Books24x7		EBSCOhost	EBSCOhost:edsssb	Total_Item_Investigations	1	1	0
+Social Sciences Citation Index	Thomson Reuters		EBSCOhost	EBSCOhost:edswss	Searches_Automated	19280	19280	0
+Social Sciences Citation Index	Thomson Reuters		EBSCOhost	EBSCOhost:edswss	Total_Item_Investigations	7	7	0
+SocINDEX with Full Text	EBSCO Publishing		EBSCOhost	EBSCOhost:sih	Searches_Automated	22829	22829	0
+SocINDEX with Full Text	EBSCO Publishing		EBSCOhost	EBSCOhost:sih	Searches_Regular	116	116	0
+SocINDEX with Full Text	EBSCO Publishing		EBSCOhost	EBSCOhost:sih	Total_Item_Investigations	250	250	0
+SocINDEX with Full Text	EBSCO Publishing		EBSCOhost	EBSCOhost:sih	Total_Item_Requests	124	124	0
+SPORTDiscus with Full Text	EBSCO Publishing		EBSCOhost	EBSCOhost:s3h	Searches_Automated	22801	22801	0
+SPORTDiscus with Full Text	EBSCO Publishing		EBSCOhost	EBSCOhost:s3h	Searches_Regular	105	105	0
+SPORTDiscus with Full Text	EBSCO Publishing		EBSCOhost	EBSCOhost:s3h	Total_Item_Investigations	102	102	0
+SPORTDiscus with Full Text	EBSCO Publishing		EBSCOhost	EBSCOhost:s3h	Total_Item_Requests	65	65	0
+Springer Nature eBooks	Springer Science & Business Media B.V.		EBSCOhost	EBSCOhost:edssjb	Searches_Automated	15783	15783	0
+Springer Nature eBooks	Springer Science & Business Media B.V.		EBSCOhost	EBSCOhost:edssjb	Total_Item_Investigations	180	180	0
+Springer Nature Journals	Undefined		EBSCOhost	EBSCOhost:edssjs	Searches_Automated	15881	15881	0
+Springer Nature Journals	Undefined		EBSCOhost	EBSCOhost:edssjs	Total_Item_Investigations	257	257	0
+Springer Nature Journals	Undefined		EBSCOhost	EBSCOhost:edssjs	Total_Item_Requests	1	1	0
+SSOAR – Social Science Open Access Repository	GESIS - Leibniz-Institut fur Sozialwissenschaften		EBSCOhost	EBSCOhost:edsgso	Searches_Automated	19242	19242	0
+SSOAR – Social Science Open Access Repository	GESIS - Leibniz-Institut fur Sozialwissenschaften		EBSCOhost	EBSCOhost:edsgso	Total_Item_Investigations	3	3	0
+Supplemental Index	EBSCO Publishing		EBSCOhost	EBSCOhost:edo	Searches_Automated	22865	22865	0
+Supplemental Index	EBSCO Publishing		EBSCOhost	EBSCOhost:edo	Total_Item_Investigations	177	177	0
+Sustainable Organization Library (SOL)	GSE Research Limited		EBSCOhost	EBSCOhost:edssol	Searches_Automated	15774	15774	0
+Swedish National Bibliography	National Library of Sweden		EBSCOhost	EBSCOhost:edslib	Searches_Automated	15751	15751	0
+SwePub	Undefined		EBSCOhost	EBSCOhost:edsswe	Searches_Automated	15793	15793	0
+SwePub	Undefined		EBSCOhost	EBSCOhost:edsswe	Total_Item_Investigations	72	72	0
+TDX	Universitaries de Catalunya, Consorci de Biblioteq		EBSCOhost	EBSCOhost:edstdx	Searches_Automated	15763	15763	0
+TDX	Universitaries de Catalunya, Consorci de Biblioteq		EBSCOhost	EBSCOhost:edstdx	Total_Item_Investigations	11	11	0
+The O’Reilly Learning Platform	Undefined		EBSCOhost	EBSCOhost:edsool	Searches_Automated	15695	15695	0
+The O’Reilly Learning Platform	Undefined		EBSCOhost	EBSCOhost:edsool	Total_Item_Investigations	19	19	0
+Times Digital Archive	Cengage Learning		EBSCOhost	EBSCOhost:edsgtd	Searches_Automated	15758	15758	0
+Times Digital Archive	Cengage Learning		EBSCOhost	EBSCOhost:edsgtd	Total_Item_Investigations	1	1	0
+Torrossa	Casalini Libri		EBSCOhost	EBSCOhost:edstor	Searches_Automated	15773	15773	0
+Torrossa	Casalini Libri		EBSCOhost	EBSCOhost:edstor	Total_Item_Investigations	7	7	0
+UC Press E-Books	University of California Press		EBSCOhost	EBSCOhost:edspeb	Searches_Automated	15712	15712	0
+UC Press E-Books	University of California Press		EBSCOhost	EBSCOhost:edspeb	Total_Item_Investigations	13	13	0
+University Press Scholarship Online	Oxford University Press / USA		EBSCOhost	EBSCOhost:edsups	Searches_Automated	19176	19176	0
+University Press Scholarship Online	Oxford University Press / USA		EBSCOhost	EBSCOhost:edsups	Total_Item_Investigations	1	1	0
+USPTO Patent Applications	U.S. Patent & Trademark Office		EBSCOhost	EBSCOhost:edspap	Searches_Automated	15689	15689	0
+USPTO Patent Grants	U.S. Patent & Trademark Office		EBSCOhost	EBSCOhost:edspgr	Searches_Automated	15689	15689	0
+USPTO Patent Grants	U.S. Patent & Trademark Office		EBSCOhost	EBSCOhost:edspgr	Total_Item_Investigations	1	1	0
+Wiley Digital Archives	Undefined		EBSCOhost	EBSCOhost:edsrai	Searches_Automated	15698	15698	0
+Women's Studies International	EBSCO Publishing		EBSCOhost	EBSCOhost:fyh	Searches_Automated	22800	22800	0
+Women's Studies International	EBSCO Publishing		EBSCOhost	EBSCOhost:fyh	Searches_Regular	103	103	0
+Women's Studies International	EBSCO Publishing		EBSCOhost	EBSCOhost:fyh	Total_Item_Investigations	12	12	0
+World Affairs Online WAO	Fachinformationsverbund Internationale Beziehungen		EBSCOhost	EBSCOhost:edswao	Searches_Automated	436	436	0
+World Affairs Online WAO	Fachinformationsverbund Internationale Beziehungen		EBSCOhost	EBSCOhost:edswao	Total_Item_Investigations	16	16	0
+World Bank eLibrary	World Bank Publications		EBSCOhost	EBSCOhost:edswbe	Searches_Automated	15773	15773	0
+스콜라(Scholar)	Kyobo Book		EBSCOhost	EBSCOhost:edskyo	Searches_Automated	15752	15752	0
+스콜라(Scholar)	Kyobo Book		EBSCOhost	EBSCOhost:edskyo	Total_Item_Investigations	7	7	0

@@ -1,0 +1,160 @@
+{
+    "Report_Header": {
+        "Created": "2024-03-01T05:45:04-08:00", 
+        "Created_By": "HighWire Press Inc.", 
+        "Customer_ID": "COLLECTIONS@UPEI.CA", 
+        "Exceptions": [
+            {
+                "Code": "3040", 
+                "Data": "Usage data has not been processed for all requested months.  Data is not yet available after 202401", 
+                "Message": "Request could not be fulfilled in its entirety. Data that was available was returned.", 
+                "Severity": "Warning"
+            }
+        ], 
+        "Institution_ID": [
+            {
+                "Type": "Proprietary", 
+                "Value": "HighWire:COLLECTIONS@UPEI.CA"
+            }
+        ], 
+        "Institution_Name": "COLLECTIONS@UPEI.CA", 
+        "Release": "5", 
+        "Report_Filters": [
+            {
+                "Name": "Begin_Date", 
+                "Value": "2024-01-01"
+            }, 
+            {
+                "Name": "End_Date", 
+                "Value": "2024-02-29"
+            }, 
+            {
+                "Name": "Metric_Type", 
+                "Value": "Limit_Exceeded|No_License"
+            }, 
+            {
+                "Name": "Data_Type", 
+                "Value": "Journal"
+            }, 
+            {
+                "Name": "Access_Method", 
+                "Value": "Regular"
+            }
+        ], 
+        "Report_ID": "TR_J2", 
+        "Report_Name": "Journal Access Denied"
+    }, 
+    "Report_Items": [
+        {
+            "Item_ID": [
+                {
+                    "Type": "DOI", 
+                    "Value": "10.1136/bjsports"
+                }, 
+                {
+                    "Type": "Online_ISSN", 
+                    "Value": "1473-0480"
+                }, 
+                {
+                    "Type": "Print_ISSN", 
+                    "Value": "0306-3674"
+                }, 
+                {
+                    "Type": "URI", 
+                    "Value": "http://bjsm.bmj.com"
+                }
+            ], 
+            "Performance": [
+                {
+                    "Instance": [
+                        {
+                            "Count": 7, 
+                            "Metric_Type": "No_License"
+                        }
+                    ], 
+                    "Period": {
+                        "Begin_Date": "2024-01-01", 
+                        "End_Date": "2024-01-31"
+                    }
+                }
+            ], 
+            "Platform": "HighWire Press", 
+            "Publisher": "BMJ Publishing Group Ltd", 
+            "Title": "British Journal of Sports Medicine"
+        }, 
+        {
+            "Item_ID": [
+                {
+                    "Type": "DOI", 
+                    "Value": "10.1136/gutjnl"
+                }, 
+                {
+                    "Type": "Online_ISSN", 
+                    "Value": "1468-3288"
+                }, 
+                {
+                    "Type": "Print_ISSN", 
+                    "Value": "0017-5749"
+                }, 
+                {
+                    "Type": "URI", 
+                    "Value": "http://gut.bmj.com"
+                }
+            ], 
+            "Performance": [
+                {
+                    "Instance": [
+                        {
+                            "Count": 3, 
+                            "Metric_Type": "No_License"
+                        }
+                    ], 
+                    "Period": {
+                        "Begin_Date": "2024-01-01", 
+                        "End_Date": "2024-01-31"
+                    }
+                }
+            ], 
+            "Platform": "HighWire Press", 
+            "Publisher": "BMJ Publishing Group Ltd", 
+            "Title": "Gut"
+        }, 
+        {
+            "Item_ID": [
+                {
+                    "Type": "DOI", 
+                    "Value": "10.1136/medethics"
+                }, 
+                {
+                    "Type": "Online_ISSN", 
+                    "Value": "1473-4257"
+                }, 
+                {
+                    "Type": "Print_ISSN", 
+                    "Value": "0306-6800"
+                }, 
+                {
+                    "Type": "URI", 
+                    "Value": "http://jme.bmj.com"
+                }
+            ], 
+            "Performance": [
+                {
+                    "Instance": [
+                        {
+                            "Count": 1, 
+                            "Metric_Type": "No_License"
+                        }
+                    ], 
+                    "Period": {
+                        "Begin_Date": "2024-01-01", 
+                        "End_Date": "2024-01-31"
+                    }
+                }
+            ], 
+            "Platform": "HighWire Press", 
+            "Publisher": "BMJ Publishing Group Ltd", 
+            "Title": "Journal of Medical Ethics"
+        }
+    ]
+}

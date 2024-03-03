@@ -6,11 +6,11 @@ Institution_ID	aaas:20351555
 Metric_Types	Limit_Exceeded; No_License
 Report_Filters	Data_Type=Journal; Access_Method=Regular
 Report_Attributes	
-Exceptions	
-Reporting_Period	End_Date=2024-01-31; Begin_Date=2024-01-01
-Created	2024-02-23T05:29:59Z
+Exceptions	3031: Usage Not Ready for Requested Dates (Requested data between 2024-02-01 and 2024-02-29. However only data between 2021-05-01 and 2024-01-31 exists.)
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-02T01:51:06Z
 Created_By	Atypon Systems LLC.
 
-Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	Print_ISSN	Online_ISSN	URI	Metric_Type	Reporting_Period_Total	Jan-2024
-Science Signaling	American Association for the Advancement of Science		aaas	10.1126/signaling	aaas:signaling	1945-0877	1937-9145		No_License	4	4
-Science Translational Medicine	American Association for the Advancement of Science		aaas	10.1126/stm	aaas:stm	1946-6234	1946-6242		No_License	3	3
+Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	Print_ISSN	Online_ISSN	URI	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+Science Signaling	American Association for the Advancement of Science		aaas	10.1126/signaling	aaas:signaling	1945-0877	1937-9145		No_License	4	4	0
+Science Translational Medicine	American Association for the Advancement of Science		aaas	10.1126/stm	aaas:stm	1946-6234	1946-6242		No_License	3	3	0

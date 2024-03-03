@@ -14,7 +14,7 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 class Ui_FetchReports(object):
     def setupUi(self, FetchReports):
         FetchReports.setObjectName("FetchReports")
-        FetchReports.resize(1010, 693)
+        FetchReports.resize(1067, 693)
         FetchReports.setStyleSheet("*{\n"
 "    \n"
 "border:none;\n"
@@ -201,6 +201,7 @@ class Ui_FetchReports(object):
         self.end_date_edit_fetch_year = QtWidgets.QDateEdit(self.frmDateRange)
         self.end_date_edit_fetch_year.setMinimumSize(QtCore.QSize(0, 20))
         self.end_date_edit_fetch_year.setStyleSheet("QDateEdit {\n"
+"background-color: #2E2F30;\n"
 "    border: 2px solid #808080;\n"
 "    border-radius: 4px;\n"
 "    padding-left: 5px;\n"
@@ -247,6 +248,7 @@ class Ui_FetchReports(object):
         self.begin_date_edit_fetch_year.setSizePolicy(sizePolicy)
         self.begin_date_edit_fetch_year.setMinimumSize(QtCore.QSize(0, 20))
         self.begin_date_edit_fetch_year.setStyleSheet("QDateEdit {\n"
+"background-color: #2E2F30;\n"
 "    border: 2px solid #808080;\n"
 "    border-radius: 4px;\n"
 "    padding-left: 5px;\n"
@@ -603,6 +605,7 @@ class Ui_FetchReports(object):
         self.All_reports_edit_fetch.setSizePolicy(sizePolicy)
         self.All_reports_edit_fetch.setMinimumSize(QtCore.QSize(0, 23))
         self.All_reports_edit_fetch.setStyleSheet("QDateEdit {\n"
+"background-color: #2E2F30;\n"
 "    border: 2px solid #808080;\n"
 "    border-radius: 4px;\n"
 "    padding-left: 5px;\n"
@@ -636,7 +639,7 @@ class Ui_FetchReports(object):
 "    border-bottom: none;\n"
 "    border-top-color: white;\n"
 "}")
-        self.All_reports_edit_fetch.setDateTime(QtCore.QDateTime(QtCore.QDate(2019, 12, 24), QtCore.QTime(0, 0, 0)))
+        self.All_reports_edit_fetch.setDateTime(QtCore.QDateTime(QtCore.QDate(2019, 12, 23), QtCore.QTime(0, 0, 0)))
         self.All_reports_edit_fetch.setObjectName("All_reports_edit_fetch")
         self.horizontalLayout.addWidget(self.All_reports_edit_fetch)
         self.fetch_all_data_button = QtWidgets.QPushButton(self.frame_3)

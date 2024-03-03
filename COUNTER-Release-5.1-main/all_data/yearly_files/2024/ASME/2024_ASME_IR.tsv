@@ -1,0 +1,22 @@
+Report_Name	Item Master Report
+Report_ID	IR
+Release	5
+Institution_Name	University of Prince Edward Island
+Institution_ID	Silverchair:3217
+Metric_Types	
+Report_Filters	
+Report_Attributes	
+Exceptions	3031: Usage Not Ready for Requested Dates ()
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-01T00:00:00Z
+Created_By	Silverchair
+
+Item	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	ISBN	Print_ISSN	Online_ISSN	URI	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+<italic>Anisotropic Elasticity: Theory and Applications</italic>	ASME		American Society of Mechanical Engineers Digital Collection	10.1115/1.2787237	Silverchair:395357					Unique_Item_Investigations	1	1	0
+A Hydrodynamic Study of a Propeller Turbine During a Transient Runaway Event Initiated at the Best Efficiency Point	ASME		American Society of Mechanical Engineers Digital Collection	10.1115/1.4040232	Silverchair:367059					Unique_Item_Investigations	1	1	0
+Calibration and Validation of a Mechanistic Micromilling Force Prediction Model	ASME		American Society of Mechanical Engineers Digital Collection	10.1115/1.4030210	Silverchair:375484					Unique_Item_Investigations	1	1	0
+Hydrogen Loading System for Thin Films for Betavoltaics	ASME		American Society of Mechanical Engineers Digital Collection	10.1115/1.4056974	Silverchair:1159840					Unique_Item_Investigations	1	1	0
+Micropitting in Hertzian Contacts	ASME		American Society of Mechanical Engineers Digital Collection	10.1115/1.3251583	Silverchair:383128					Unique_Item_Investigations	1	1	0
+Role of Inclusions, Surface Roughness and Operating Conditions on Rolling Contact Fatigue	ASME		American Society of Mechanical Engineers Digital Collection	10.1115/1.2833927	Silverchair:437915					Unique_Item_Investigations	1	1	0
+Small Modular Reactors: Opportunities and Challenges as Emerging Nuclear Technologies for Power Production	ASME		American Society of Mechanical Engineers Digital Collection	10.1115/1.4062644	Silverchair:1163617					Unique_Item_Investigations	1	1	0
+Study On Radiofrequency Ablation of Lung and Kidney Tumors with and Without Nanoparticles Using Multi-tined Electrode	ASME		American Society of Mechanical Engineers Digital Collection	10.1115/1.4064344	Silverchair:1193471					Unique_Item_Investigations	1	1	0

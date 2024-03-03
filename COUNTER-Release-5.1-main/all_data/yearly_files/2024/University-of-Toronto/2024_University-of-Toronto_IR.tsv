@@ -1,0 +1,87 @@
+Report_Name	Item Master Report
+Report_ID	IR
+Release	5
+Institution_Name	University of Prince Edward Island
+Institution_ID	utoronto:9387e450-faa8-45af-9e22-9709197fea9c
+Metric_Types	
+Report_Filters	
+Report_Attributes	
+Exceptions	3031: Usage Not Ready for Requested Dates (Requested data between 2024-02-01 and 2024-02-29. However only data between 2018-11-01 and 2024-01-31 exists.); 3050: Parameter Not Recognized in this Context (Unsupported parameters in request: [include_component_details] unsupported parameters will be ignored.)
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-01T06:06:58Z
+Created_By	Atypon Systems LLC.
+
+Item	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	ISBN	Print_ISSN	Online_ISSN	URI	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+A Unique Spectrum of Care Tool Provides a Self-Regulated Learning Opportunity and Facilitates Client Communication	University of Toronto Press		University of Toronto Press	10.3138/jvme-2023-0144						Unique_Item_Investigations	1	1	0
+A Unique Spectrum of Care Tool Provides a Self-Regulated Learning Opportunity and Facilitates Client Communication	University of Toronto Press		University of Toronto Press	10.3138/jvme-2023-0144						Unique_Item_Requests	1	1	0
+A Unique Spectrum of Care Tool Provides a Self-Regulated Learning Opportunity and Facilitates Client Communication	University of Toronto Press		University of Toronto Press	10.3138/jvme-2023-0144						Total_Item_Requests	1	1	0
+A Unique Spectrum of Care Tool Provides a Self-Regulated Learning Opportunity and Facilitates Client Communication	University of Toronto Press		University of Toronto Press	10.3138/jvme-2023-0144						Total_Item_Investigations	1	1	0
+Animal Welfare Training at the Ontario Veterinary College	University of Toronto Press		University of Toronto Press	10.3138/jvme.32.4.447						Unique_Item_Investigations	1	1	0
+Animal Welfare Training at the Ontario Veterinary College	University of Toronto Press		University of Toronto Press	10.3138/jvme.32.4.447						Unique_Item_Requests	1	1	0
+Animal Welfare Training at the Ontario Veterinary College	University of Toronto Press		University of Toronto Press	10.3138/jvme.32.4.447						Total_Item_Requests	1	1	0
+Animal Welfare Training at the Ontario Veterinary College	University of Toronto Press		University of Toronto Press	10.3138/jvme.32.4.447						Total_Item_Investigations	3	3	0
+Animal-Handling Teaching at the Royal (Dick) School of Veterinary Studies, University of Edinburgh	University of Toronto Press		University of Toronto Press	10.3138/jvme.34.5.554						Unique_Item_Investigations	1	1	0
+Animal-Handling Teaching at the Royal (Dick) School of Veterinary Studies, University of Edinburgh	University of Toronto Press		University of Toronto Press	10.3138/jvme.34.5.554						Unique_Item_Requests	1	1	0
+Animal-Handling Teaching at the Royal (Dick) School of Veterinary Studies, University of Edinburgh	University of Toronto Press		University of Toronto Press	10.3138/jvme.34.5.554						Total_Item_Requests	1	1	0
+Animal-Handling Teaching at the Royal (Dick) School of Veterinary Studies, University of Edinburgh	University of Toronto Press		University of Toronto Press	10.3138/jvme.34.5.554						Total_Item_Investigations	1	1	0
+Attitudes of Veterinary Students at One US College toward Factors Relating to Farm Animal Welfare	University of Toronto Press		University of Toronto Press	10.3138/jvme.32.4.481						Unique_Item_Investigations	1	1	0
+Attitudes of Veterinary Students at One US College toward Factors Relating to Farm Animal Welfare	University of Toronto Press		University of Toronto Press	10.3138/jvme.32.4.481						Total_Item_Investigations	1	1	0
+Design and Validation of a Simulator for Equine Joint Injections	University of Toronto Press		University of Toronto Press	10.3138/jvme.0912-083R1						Unique_Item_Investigations	1	1	0
+Design and Validation of a Simulator for Equine Joint Injections	University of Toronto Press		University of Toronto Press	10.3138/jvme.0912-083R1						Unique_Item_Requests	1	1	0
+Design and Validation of a Simulator for Equine Joint Injections	University of Toronto Press		University of Toronto Press	10.3138/jvme.0912-083R1						Total_Item_Requests	1	1	0
+Design and Validation of a Simulator for Equine Joint Injections	University of Toronto Press		University of Toronto Press	10.3138/jvme.0912-083R1						Total_Item_Investigations	1	1	0
+Direct Measurement of Veterinary Student Learning Outcomes for the NAVMEC Professional Competencies in a Multi-User Virtual Learning Environment	University of Toronto Press		University of Toronto Press	10.3138/jvme.0318-025r2						Unique_Item_Investigations	1	1	0
+Direct Measurement of Veterinary Student Learning Outcomes for the NAVMEC Professional Competencies in a Multi-User Virtual Learning Environment	University of Toronto Press		University of Toronto Press	10.3138/jvme.0318-025r2						Unique_Item_Requests	1	1	0
+Direct Measurement of Veterinary Student Learning Outcomes for the NAVMEC Professional Competencies in a Multi-User Virtual Learning Environment	University of Toronto Press		University of Toronto Press	10.3138/jvme.0318-025r2						Total_Item_Requests	1	1	0
+Direct Measurement of Veterinary Student Learning Outcomes for the NAVMEC Professional Competencies in a Multi-User Virtual Learning Environment	University of Toronto Press		University of Toronto Press	10.3138/jvme.0318-025r2						Total_Item_Investigations	1	1	0
+Examining the Validity of the North American Veterinary Licensing Examination (NAVLE) Time Constraints	University of Toronto Press		University of Toronto Press	10.3138/jvme.0217-026r						Unique_Item_Investigations	1	1	0
+Examining the Validity of the North American Veterinary Licensing Examination (NAVLE) Time Constraints	University of Toronto Press		University of Toronto Press	10.3138/jvme.0217-026r						Unique_Item_Requests	1	1	0
+Examining the Validity of the North American Veterinary Licensing Examination (NAVLE) Time Constraints	University of Toronto Press		University of Toronto Press	10.3138/jvme.0217-026r						Total_Item_Requests	1	1	0
+Examining the Validity of the North American Veterinary Licensing Examination (NAVLE) Time Constraints	University of Toronto Press		University of Toronto Press	10.3138/jvme.0217-026r						Total_Item_Investigations	1	1	0
+Facilitating parent-child sexual health communication: Recommendations from the New Brunswick “Ask Me Anything” survey	University of Toronto Press		University of Toronto Press	10.3138/cjhs.2023-0005						No_License	4	4	0
+Facilitating parent-child sexual health communication: Recommendations from the New Brunswick “Ask Me Anything” survey	University of Toronto Press		University of Toronto Press	10.3138/cjhs.2023-0005						Unique_Item_Investigations	4	4	0
+Facilitating parent-child sexual health communication: Recommendations from the New Brunswick “Ask Me Anything” survey	University of Toronto Press		University of Toronto Press	10.3138/cjhs.2023-0005						Total_Item_Investigations	4	4	0
+Family members of Veterans with mental health problems: Seeking, finding, and accessing informal and formal supports during the military-to-civilian transition	University of Toronto Press		University of Toronto Press	10.3138/jmvfh-2019-0023						Unique_Item_Investigations	2	2	0
+Family members of Veterans with mental health problems: Seeking, finding, and accessing informal and formal supports during the military-to-civilian transition	University of Toronto Press		University of Toronto Press	10.3138/jmvfh-2019-0023						Unique_Item_Requests	2	2	0
+Family members of Veterans with mental health problems: Seeking, finding, and accessing informal and formal supports during the military-to-civilian transition	University of Toronto Press		University of Toronto Press	10.3138/jmvfh-2019-0023						Total_Item_Requests	3	3	0
+Family members of Veterans with mental health problems: Seeking, finding, and accessing informal and formal supports during the military-to-civilian transition	University of Toronto Press		University of Toronto Press	10.3138/jmvfh-2019-0023						Total_Item_Investigations	3	3	0
+Impact of a Spectrum of Care Elective Course on Third-Year Veterinary Students’ Self-Reported Knowledge, Attitudes, and Competencies	University of Toronto Press		University of Toronto Press	10.3138/jvme-2022-0010						Unique_Item_Investigations	1	1	0
+Impact of a Spectrum of Care Elective Course on Third-Year Veterinary Students’ Self-Reported Knowledge, Attitudes, and Competencies	University of Toronto Press		University of Toronto Press	10.3138/jvme-2022-0010						Unique_Item_Requests	1	1	0
+Impact of a Spectrum of Care Elective Course on Third-Year Veterinary Students’ Self-Reported Knowledge, Attitudes, and Competencies	University of Toronto Press		University of Toronto Press	10.3138/jvme-2022-0010						Total_Item_Requests	2	2	0
+Impact of a Spectrum of Care Elective Course on Third-Year Veterinary Students’ Self-Reported Knowledge, Attitudes, and Competencies	University of Toronto Press		University of Toronto Press	10.3138/jvme-2022-0010						Total_Item_Investigations	2	2	0
+Mass Transit and the Failure of Private Ownership: The Case of Toronto in the Early Twentieth Century	University of Toronto Press		University of Toronto Press	10.7202/1019498ar						No_License	1	1	0
+Mass Transit and the Failure of Private Ownership: The Case of Toronto in the Early Twentieth Century	University of Toronto Press		University of Toronto Press	10.7202/1019498ar						Unique_Item_Investigations	1	1	0
+Mass Transit and the Failure of Private Ownership: The Case of Toronto in the Early Twentieth Century	University of Toronto Press		University of Toronto Press	10.7202/1019498ar						Total_Item_Investigations	2	2	0
+Recognizing Indigenous Rights in Canada: Property Rights and Natural Resource Values	University of Toronto Press		University of Toronto Press	10.3138/cpp.2020-017						Unique_Item_Investigations	1	1	0
+Recognizing Indigenous Rights in Canada: Property Rights and Natural Resource Values	University of Toronto Press		University of Toronto Press	10.3138/cpp.2020-017						Unique_Item_Requests	1	1	0
+Recognizing Indigenous Rights in Canada: Property Rights and Natural Resource Values	University of Toronto Press		University of Toronto Press	10.3138/cpp.2020-017						Total_Item_Requests	1	1	0
+Recognizing Indigenous Rights in Canada: Property Rights and Natural Resource Values	University of Toronto Press		University of Toronto Press	10.3138/cpp.2020-017						Total_Item_Investigations	1	1	0
+Relationship among combat experience, Veteran pathology, and pathology of Veterans’ intimate partners: Factors predicting the pathology of Veterans and their intimate partners	University of Toronto Press		University of Toronto Press	10.3138/jmvfh-2020-0023						Unique_Item_Investigations	1	1	0
+Relationship among combat experience, Veteran pathology, and pathology of Veterans’ intimate partners: Factors predicting the pathology of Veterans and their intimate partners	University of Toronto Press		University of Toronto Press	10.3138/jmvfh-2020-0023						Unique_Item_Requests	1	1	0
+Relationship among combat experience, Veteran pathology, and pathology of Veterans’ intimate partners: Factors predicting the pathology of Veterans and their intimate partners	University of Toronto Press		University of Toronto Press	10.3138/jmvfh-2020-0023						Total_Item_Requests	2	2	0
+Relationship among combat experience, Veteran pathology, and pathology of Veterans’ intimate partners: Factors predicting the pathology of Veterans and their intimate partners	University of Toronto Press		University of Toronto Press	10.3138/jmvfh-2020-0023						Total_Item_Investigations	2	2	0
+Teaching and Learning Communication in Veterinary Medicine	University of Toronto Press		University of Toronto Press	10.3138/jvme.33.1.11						Unique_Item_Investigations	1	1	0
+Teaching and Learning Communication in Veterinary Medicine	University of Toronto Press		University of Toronto Press	10.3138/jvme.33.1.11						Unique_Item_Requests	1	1	0
+Teaching and Learning Communication in Veterinary Medicine	University of Toronto Press		University of Toronto Press	10.3138/jvme.33.1.11						Total_Item_Requests	1	1	0
+Teaching and Learning Communication in Veterinary Medicine	University of Toronto Press		University of Toronto Press	10.3138/jvme.33.1.11						Total_Item_Investigations	1	1	0
+Teaching Surgery to the Veterinary Novice: The Ohio State University Experience	University of Toronto Press		University of Toronto Press	10.3138/jvme.34.5.620						Unique_Item_Investigations	1	1	0
+Teaching Surgery to the Veterinary Novice: The Ohio State University Experience	University of Toronto Press		University of Toronto Press	10.3138/jvme.34.5.620						Unique_Item_Requests	1	1	0
+Teaching Surgery to the Veterinary Novice: The Ohio State University Experience	University of Toronto Press		University of Toronto Press	10.3138/jvme.34.5.620						Total_Item_Requests	1	1	0
+Teaching Surgery to the Veterinary Novice: The Ohio State University Experience	University of Toronto Press		University of Toronto Press	10.3138/jvme.34.5.620						Total_Item_Investigations	1	1	0
+Teaching Tip: Design and Implementation of a Safe Equine Radiation-Free Radiographic Simulator for Veterinary Skills Training in the Pre-clinical Curriculum	University of Toronto Press		University of Toronto Press	10.3138/jvme-2023-0080						Unique_Item_Investigations	1	1	0
+Teaching Tip: Design and Implementation of a Safe Equine Radiation-Free Radiographic Simulator for Veterinary Skills Training in the Pre-clinical Curriculum	University of Toronto Press		University of Toronto Press	10.3138/jvme-2023-0080						Unique_Item_Requests	1	1	0
+Teaching Tip: Design and Implementation of a Safe Equine Radiation-Free Radiographic Simulator for Veterinary Skills Training in the Pre-clinical Curriculum	University of Toronto Press		University of Toronto Press	10.3138/jvme-2023-0080						Total_Item_Requests	1	1	0
+Teaching Tip: Design and Implementation of a Safe Equine Radiation-Free Radiographic Simulator for Veterinary Skills Training in the Pre-clinical Curriculum	University of Toronto Press		University of Toronto Press	10.3138/jvme-2023-0080						Total_Item_Investigations	1	1	0
+Toward a broader conceptualization of trans women's sexual health	University of Toronto Press		University of Toronto Press	10.3138/cjhs.24.1-CO1						Unique_Item_Investigations	1	1	0
+Toward a broader conceptualization of trans women's sexual health	University of Toronto Press		University of Toronto Press	10.3138/cjhs.24.1-CO1						Total_Item_Investigations	1	1	0
+Understanding Anti-Asian Racism from Communication Perspectives: Insights from a Rapid Literature Review	University of Toronto Press		University of Toronto Press	10.3138/cjc.2022-0066						No_License	1	1	0
+Understanding Anti-Asian Racism from Communication Perspectives: Insights from a Rapid Literature Review	University of Toronto Press		University of Toronto Press	10.3138/cjc.2022-0066						Unique_Item_Investigations	1	1	0
+Understanding Anti-Asian Racism from Communication Perspectives: Insights from a Rapid Literature Review	University of Toronto Press		University of Toronto Press	10.3138/cjc.2022-0066						Total_Item_Investigations	1	1	0
+“A whole series of frightful cases”: Domestic Violence, the Periodical Press and Victorian Feminist Writing	University of Toronto Press		University of Toronto Press	10.3138/topia.13.89						Unique_Item_Investigations	1	1	0
+“A whole series of frightful cases”: Domestic Violence, the Periodical Press and Victorian Feminist Writing	University of Toronto Press		University of Toronto Press	10.3138/topia.13.89						Total_Item_Investigations	1	1	0
+“Be proactive not reactive”: Understanding gaps in student sexual consent education	University of Toronto Press		University of Toronto Press	10.3138/cjhs.2021-0003						No_License	4	4	0
+“Be proactive not reactive”: Understanding gaps in student sexual consent education	University of Toronto Press		University of Toronto Press	10.3138/cjhs.2021-0003						Unique_Item_Investigations	2	2	0
+“Be proactive not reactive”: Understanding gaps in student sexual consent education	University of Toronto Press		University of Toronto Press	10.3138/cjhs.2021-0003						Total_Item_Investigations	4	4	0
+“Yes doesn’t always mean yes, but no means no”: Exploring the perceived ambiguities in university students’ experiences of sexual consent	University of Toronto Press		University of Toronto Press	10.3138/cjhs.2023-0003						No_License	2	2	0
+“Yes doesn’t always mean yes, but no means no”: Exploring the perceived ambiguities in university students’ experiences of sexual consent	University of Toronto Press		University of Toronto Press	10.3138/cjhs.2023-0003						Unique_Item_Investigations	1	1	0
+“Yes doesn’t always mean yes, but no means no”: Exploring the perceived ambiguities in university students’ experiences of sexual consent	University of Toronto Press		University of Toronto Press	10.3138/cjhs.2023-0003						Total_Item_Investigations	2	2	0

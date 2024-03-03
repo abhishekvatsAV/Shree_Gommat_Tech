@@ -83,7 +83,17 @@ class Ui_manage_vendor_tab(object):
         sizePolicy.setVerticalStretch(0)
         sizePolicy.setHeightForWidth(self.addVendorButton.sizePolicy().hasHeightForWidth())
         self.addVendorButton.setSizePolicy(sizePolicy)
-        self.addVendorButton.setStyleSheet("text-align: center;\n"
+        self.addVendorButton.setStyleSheet("QPushButton { \n"
+"    color: #FFFFFF;\n"
+"    font: bold;\n"
+"   border-radius: 4px;\n"
+"text-align: center;\n"
+"}\n"
+"\n"
+"QPushButton:hover{\n"
+" background-color: #2095E6;\n"
+"}\n"
+"\n"
 "")
         icon = QtGui.QIcon()
         icon.addPixmap(QtGui.QPixmap("resources/Icons/add.png"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
@@ -96,7 +106,17 @@ class Ui_manage_vendor_tab(object):
         sizePolicy.setVerticalStretch(0)
         sizePolicy.setHeightForWidth(self.importVendorsButton.sizePolicy().hasHeightForWidth())
         self.importVendorsButton.setSizePolicy(sizePolicy)
-        self.importVendorsButton.setStyleSheet("text-align: center;\n"
+        self.importVendorsButton.setStyleSheet("QPushButton { \n"
+"    color: #FFFFFF;\n"
+"    font: bold;\n"
+"   border-radius: 4px;\n"
+"text-align: center;\n"
+"}\n"
+"\n"
+"QPushButton:hover{\n"
+" background-color: #2095E6;\n"
+"}\n"
+"\n"
 "")
         icon1 = QtGui.QIcon()
         icon1.addPixmap(QtGui.QPixmap("resources/Icons/import.png"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
@@ -109,7 +129,17 @@ class Ui_manage_vendor_tab(object):
         sizePolicy.setVerticalStretch(0)
         sizePolicy.setHeightForWidth(self.exportVendorsButton.sizePolicy().hasHeightForWidth())
         self.exportVendorsButton.setSizePolicy(sizePolicy)
-        self.exportVendorsButton.setStyleSheet("text-align: center;\n"
+        self.exportVendorsButton.setStyleSheet("QPushButton { \n"
+"    color: #FFFFFF;\n"
+"    font: bold;\n"
+"   border-radius: 4px;\n"
+"text-align: center;\n"
+"}\n"
+"\n"
+"QPushButton:hover{\n"
+" background-color: #2095E6;\n"
+"}\n"
+"\n"
 "")
         icon2 = QtGui.QIcon()
         icon2.addPixmap(QtGui.QPixmap("resources/Icons/export - Copy.png"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
@@ -122,7 +152,17 @@ class Ui_manage_vendor_tab(object):
         sizePolicy.setVerticalStretch(0)
         sizePolicy.setHeightForWidth(self.editvendorsbutton.sizePolicy().hasHeightForWidth())
         self.editvendorsbutton.setSizePolicy(sizePolicy)
-        self.editvendorsbutton.setStyleSheet("text-align: center;\n"
+        self.editvendorsbutton.setStyleSheet("QPushButton { \n"
+"    color: #FFFFFF;\n"
+"    font: bold;\n"
+"   border-radius: 4px;\n"
+"text-align: center;\n"
+"}\n"
+"\n"
+"QPushButton:hover{\n"
+" background-color: #2095E6;\n"
+"}\n"
+"\n"
 "")
         icon3 = QtGui.QIcon()
         icon3.addPixmap(QtGui.QPixmap("resources/Icons/edit.png"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
@@ -136,19 +176,24 @@ class Ui_manage_vendor_tab(object):
         font.setPointSize(11)
         self.vendorsListView.setFont(font)
         self.vendorsListView.setStyleSheet("QListView {\n"
-"    background-color: #cccccc;\n"
-"\n"
-"    color:black;\n"
+"    background-color: rgb(33, 33, 33);\n"
+"    color:white;\n"
+"    alternate-background-color: rgb(50, 50, 50);\n"
+"    padding: 8px;\n"
+"    border: 2px solid gray;\n"
+"    border-radius: 4px;\n"
 "}\n"
 "\n"
-"#vendorsListView{\n"
+"QListView::item {\n"
+"    padding: 6px;\n"
+"}\n"
 "\n"
 "\n"
-"    border: 5px solid #000000;\n"
-"    border-color: rgb(166, 166, 166);\n"
-"color:black;\n"
-"\n"
-"\n"
+"QScrollBar {\n"
+"    border: none;\n"
+"    background: rgb(30, 30, 30);\n"
+"    width: 15px;\n"
+"    margin: 15px 0 15px 0;\n"
 "}")
         self.vendorsListView.setAlternatingRowColors(True)
         self.vendorsListView.setObjectName("vendorsListView")
@@ -172,11 +217,33 @@ class Ui_manage_vendor_tab(object):
         self.horizontalLayout_2 = QtWidgets.QHBoxLayout(self.selectVersionFrame)
         self.horizontalLayout_2.setObjectName("horizontalLayout_2")
         self.version51 = QtWidgets.QPushButton(self.selectVersionFrame)
-        self.version51.setStyleSheet("text-align: center;\n"
+        self.version51.setStyleSheet("QPushButton { \n"
+"    color: #FFFFFF;\n"
+"    font: bold;\n"
+"   border-radius: 4px;\n"
+"text-align: center;\n"
+"}\n"
+"\n"
+"QPushButton:hover{\n"
+" background-color: #2095E6;\n"
+"}\n"
+"\n"
 "")
         self.version51.setObjectName("version51")
         self.horizontalLayout_2.addWidget(self.version51)
         self.version50 = QtWidgets.QPushButton(self.selectVersionFrame)
+        self.version50.setStyleSheet("QPushButton { \n"
+"    color: #FFFFFF;\n"
+"    font: bold;\n"
+"   border-radius: 4px;\n"
+"text-align: center;\n"
+"}\n"
+"\n"
+"QPushButton:hover{\n"
+" background-color: #2095E6;\n"
+"}\n"
+"\n"
+"")
         self.version50.setObjectName("version50")
         self.horizontalLayout_2.addWidget(self.version50)
         self.gridLayout.addWidget(self.selectVersionFrame, 2, 0, 1, 1, QtCore.Qt.AlignHCenter)

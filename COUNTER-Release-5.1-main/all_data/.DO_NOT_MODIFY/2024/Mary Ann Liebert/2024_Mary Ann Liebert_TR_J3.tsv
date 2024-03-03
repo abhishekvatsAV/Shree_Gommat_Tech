@@ -1,0 +1,82 @@
+Report_Name	Journal Usage by Access Type
+Report_ID	TR_J3
+Release	5
+Institution_Name	University of Prince Edward Island
+Institution_ID	mal:8252134
+Metric_Types	Total_Item_Investigations; Total_Item_Requests; Unique_Item_Investigations; Unique_Item_Requests
+Report_Filters	Access_Method=Regular; Data_Type=Journal
+Report_Attributes	
+Exceptions	3031: Usage Not Ready for Requested Dates (Requested data between 2024-02-01 and 2024-02-29. However only data between 2018-11-01 and 2024-01-31 exists.)
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-01T05:50:26Z
+Created_By	Atypon Systems LLC.
+
+Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	Print_ISSN	Online_ISSN	URI	Access_Type	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+Advances in Wound Care	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/wound	mal:wound	2162-1918	2162-1934		Controlled	Unique_Item_Investigations	1	1	0
+Advances in Wound Care	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/wound	mal:wound	2162-1918	2162-1934		Controlled	Unique_Item_Requests	1	1	0
+Advances in Wound Care	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/wound	mal:wound	2162-1918	2162-1934		Controlled	Total_Item_Investigations	1	1	0
+Advances in Wound Care	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/wound	mal:wound	2162-1918	2162-1934		Controlled	Total_Item_Requests	1	1	0
+Antioxidants & Redox Signaling	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/ars.4	mal:ars	1523-0864	1557-7716		Controlled	Unique_Item_Investigations	2	2	0
+Antioxidants & Redox Signaling	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/ars.4	mal:ars	1523-0864	1557-7716		Controlled	Total_Item_Investigations	3	3	0
+Applied Biosafety	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/apb	mal:apb	1535-6760	2470-1246		Controlled	Unique_Item_Investigations	1	1	0
+Applied Biosafety	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/apb	mal:apb	1535-6760	2470-1246		Controlled	Unique_Item_Requests	1	1	0
+Applied Biosafety	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/apb	mal:apb	1535-6760	2470-1246		Controlled	Total_Item_Investigations	1	1	0
+Applied Biosafety	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/apb	mal:apb	1535-6760	2470-1246		Controlled	Total_Item_Requests	1	1	0
+Autism in Adulthood	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/aut	mal:aut	2573-9581	2573-959X		OA_Gold	Unique_Item_Investigations	3	3	0
+Autism in Adulthood	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/aut	mal:aut	2573-9581	2573-959X		OA_Gold	Unique_Item_Requests	3	3	0
+Autism in Adulthood	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/aut	mal:aut	2573-9581	2573-959X		OA_Gold	Total_Item_Investigations	5	5	0
+Autism in Adulthood	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/aut	mal:aut	2573-9581	2573-959X		OA_Gold	Total_Item_Requests	5	5	0
+Bioelectricity	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/bioe	mal:bioe	2576-3105	2576-3113		Controlled	Unique_Item_Investigations	1	1	0
+Bioelectricity	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/bioe	mal:bioe	2576-3105	2576-3113		Controlled	Total_Item_Investigations	1	1	0
+Brain Connectivity	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/brain	mal:brain	2158-0014	2158-0022		OA_Gold	Unique_Item_Investigations	1	1	0
+Brain Connectivity	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/brain	mal:brain	2158-0014	2158-0022		OA_Gold	Unique_Item_Requests	1	1	0
+Brain Connectivity	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/brain	mal:brain	2158-0014	2158-0022		OA_Gold	Total_Item_Investigations	1	1	0
+Brain Connectivity	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/brain	mal:brain	2158-0014	2158-0022		OA_Gold	Total_Item_Requests	1	1	0
+Cannabis and Cannabinoid Research	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/can	mal:can	2578-5125	2378-8763		Controlled	Unique_Item_Investigations	1	1	0
+Cannabis and Cannabinoid Research	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/can	mal:can	2578-5125	2378-8763		Controlled	Unique_Item_Requests	1	1	0
+Cannabis and Cannabinoid Research	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/can	mal:can	2578-5125	2378-8763		Controlled	Total_Item_Investigations	1	1	0
+Cannabis and Cannabinoid Research	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/can	mal:can	2578-5125	2378-8763		Controlled	Total_Item_Requests	1	1	0
+Childhood Obesity	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/chi	mal:chi	2153-2168	2153-2176		Controlled	Unique_Item_Investigations	1	1	0
+Childhood Obesity	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/chi	mal:chi	2153-2168	2153-2176		Controlled	Total_Item_Investigations	1	1	0
+Cyberpsychology, Behavior, and Social Networking	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/cyber	mal:cyber	2152-2715	2152-2723		OA_Gold	Unique_Item_Investigations	1	1	0
+Cyberpsychology, Behavior, and Social Networking	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/cyber	mal:cyber	2152-2715	2152-2723		OA_Gold	Unique_Item_Requests	1	1	0
+Cyberpsychology, Behavior, and Social Networking	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/cyber	mal:cyber	2152-2715	2152-2723		OA_Gold	Total_Item_Investigations	1	1	0
+Cyberpsychology, Behavior, and Social Networking	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/cyber	mal:cyber	2152-2715	2152-2723		OA_Gold	Total_Item_Requests	1	1	0
+Health Security	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/hs	mal:hs	2326-5094	2326-5108		Controlled	Unique_Item_Investigations	2	2	0
+Health Security	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/hs	mal:hs	2326-5094	2326-5108		Controlled	Total_Item_Investigations	2	2	0
+Journal of Adolescent and Young Adult Oncology	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/jayao	mal:jayao	2156-5333	2156-535X		Controlled	Unique_Item_Investigations	3	3	0
+Journal of Adolescent and Young Adult Oncology	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/jayao	mal:jayao	2156-5333	2156-535X		Controlled	Total_Item_Investigations	3	3	0
+Journal of Child and Adolescent Psychopharmacology	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/cap.29	mal:cap	1044-5463	1557-8992		Controlled	Unique_Item_Investigations	1	1	0
+Journal of Child and Adolescent Psychopharmacology	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/cap.29	mal:cap	1044-5463	1557-8992		Controlled	Total_Item_Investigations	1	1	0
+Journal of Palliative Medicine	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/jpm.39	mal:jpm	1096-6218	1557-7740		Controlled	Unique_Item_Investigations	2	2	0
+Journal of Palliative Medicine	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/jpm.39	mal:jpm	1096-6218	1557-7740		Controlled	Total_Item_Investigations	2	2	0
+LGBT Health	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/lgbt	mal:lgbt	2325-8292	2325-8306		Controlled	Unique_Item_Investigations	2	2	0
+LGBT Health	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/lgbt	mal:lgbt	2325-8292	2325-8306		Controlled	Total_Item_Investigations	2	2	0
+Metabolic Syndrome and Related Disorders	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/met.43	mal:met	1540-4196	1557-8518		Controlled	Unique_Item_Investigations	1	1	0
+Metabolic Syndrome and Related Disorders	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/met.43	mal:met	1540-4196	1557-8518		Controlled	Total_Item_Investigations	1	1	0
+Microbial Drug Resistance	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/mdr.44	mal:mdr	1076-6294	1931-8448		Controlled	Unique_Item_Investigations	1	1	0
+Microbial Drug Resistance	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/mdr.44	mal:mdr	1076-6294	1931-8448		Controlled	Total_Item_Investigations	1	1	0
+Pediatric Allergy, Immunology, and Pulmonology	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/ped	mal:ped	2151-321X	2151-3228		Controlled	Unique_Item_Investigations	1	1	0
+Pediatric Allergy, Immunology, and Pulmonology	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/ped	mal:ped	2151-321X	2151-3228		Controlled	Total_Item_Investigations	1	1	0
+Soft Robotics	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/soro	mal:soro	2169-5172	2169-5180		Controlled	Unique_Item_Investigations	1	1	0
+Soft Robotics	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/soro	mal:soro	2169-5172	2169-5180		Controlled	Total_Item_Investigations	2	2	0
+Stem Cells and Development	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/scd.54	mal:scd	1547-3287	1557-8534		Controlled	Unique_Item_Investigations	2	2	0
+Stem Cells and Development	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/scd.54	mal:scd	1547-3287	1557-8534		Controlled	Total_Item_Investigations	2	2	0
+Transgender Health	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/trgh	mal:trgh	2688-4887	2380-193X		Controlled	Unique_Item_Investigations	6	6	0
+Transgender Health	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/trgh	mal:trgh	2688-4887	2380-193X		Controlled	Unique_Item_Requests	2	2	0
+Transgender Health	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/trgh	mal:trgh	2688-4887	2380-193X		Controlled	Total_Item_Investigations	6	6	0
+Transgender Health	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/trgh	mal:trgh	2688-4887	2380-193X		Controlled	Total_Item_Requests	2	2	0
+Transgender Health	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/trgh	mal:trgh	2688-4887	2380-193X		OA_Gold	Unique_Item_Investigations	2	2	0
+Transgender Health	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/trgh	mal:trgh	2688-4887	2380-193X		OA_Gold	Unique_Item_Requests	2	2	0
+Transgender Health	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/trgh	mal:trgh	2688-4887	2380-193X		OA_Gold	Total_Item_Investigations	3	3	0
+Transgender Health	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/trgh	mal:trgh	2688-4887	2380-193X		OA_Gold	Total_Item_Requests	3	3	0
+Women's Health Reports	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/whr	mal:whr		2688-4844		OA_Gold	Unique_Item_Investigations	2	2	0
+Women's Health Reports	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/whr	mal:whr		2688-4844		OA_Gold	Unique_Item_Requests	2	2	0
+Women's Health Reports	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/whr	mal:whr		2688-4844		OA_Gold	Total_Item_Investigations	2	2	0
+Women's Health Reports	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/whr	mal:whr		2688-4844		OA_Gold	Total_Item_Requests	2	2	0
+Zebrafish	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/zeb.64	mal:zeb	1545-8547	1557-8542		Controlled	Unique_Item_Investigations	2	2	0
+Zebrafish	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/zeb.64	mal:zeb	1545-8547	1557-8542		Controlled	Total_Item_Investigations	3	3	0
+Zebrafish	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/zeb.64	mal:zeb	1545-8547	1557-8542		OA_Gold	Unique_Item_Investigations	5	5	0
+Zebrafish	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/zeb.64	mal:zeb	1545-8547	1557-8542		OA_Gold	Unique_Item_Requests	5	5	0
+Zebrafish	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/zeb.64	mal:zeb	1545-8547	1557-8542		OA_Gold	Total_Item_Investigations	6	6	0
+Zebrafish	Mary Ann Liebert, Inc., publishers		Mary Ann Liebert, Inc. Online Customer Support	10.1089/zeb.64	mal:zeb	1545-8547	1557-8542		OA_Gold	Total_Item_Requests	6	6	0

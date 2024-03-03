@@ -111,57 +111,6 @@ QLineEdit {
             </property>
            </widget>
           </item>
-          <item row="3" column="1">
-           <widget class="QPushButton" name="pushButton">
-            <property name="font">
-             <font>
-              <family>Georgia</family>
-              <pointsize>12</pointsize>
-             </font>
-            </property>
-            <property name="styleSheet">
-             <string notr="true">border: 2px solid grey;
-border-radius:15px;
-text-align:center;</string>
-            </property>
-            <property name="text">
-             <string>Validate</string>
-            </property>
-           </widget>
-          </item>
-          <item row="2" column="2" rowspan="2">
-           <widget class="QDialogButtonBox" name="buttonBox">
-            <property name="sizePolicy">
-             <sizepolicy hsizetype="Expanding" vsizetype="Preferred">
-              <horstretch>0</horstretch>
-              <verstretch>0</verstretch>
-             </sizepolicy>
-            </property>
-            <property name="minimumSize">
-             <size>
-              <width>0</width>
-              <height>20</height>
-             </size>
-            </property>
-            <property name="font">
-             <font>
-              <family>Georgia</family>
-              <pointsize>12</pointsize>
-              <italic>false</italic>
-              <bold>false</bold>
-             </font>
-            </property>
-            <property name="styleSheet">
-             <string notr="true">font: 12pt &quot;Georgia&quot;;
-border: 2px solid grey;
-border-radius: 15px;
-</string>
-            </property>
-            <property name="standardButtons">
-             <set>QDialogButtonBox::Cancel|QDialogButtonBox::Ok</set>
-            </property>
-           </widget>
-          </item>
           <item row="1" column="0" colspan="3">
            <widget class="QFrame" name="AddNewVendor">
             <property name="minimumSize">
@@ -260,7 +209,7 @@ border-radius: 15px;
               </widget>
              </item>
              <item row="0" column="2">
-              <widget class="QLabel" name="label_16">
+              <widget class="QLabel" name="versionEdit">
                <property name="text">
                 <string>5.1</string>
                </property>
@@ -388,10 +337,13 @@ border-radius: 15px;
                </property>
                <property name="styleSheet">
                 <string notr="true">QLineEdit {
-	background-color: #cccccc;
-	border-radius: 20px; 
-color:black;
+	border: 2px solid #808080;
+    border-radius: 4px;
+    padding: 5px;
+	color: white;
+	background-color: #2E2F30;
 }
+
 </string>
                </property>
               </widget>
@@ -413,10 +365,13 @@ color:black;
                </property>
                <property name="styleSheet">
                 <string notr="true">QLineEdit {
-	background-color: #cccccc;
-	border-radius: 20px; 
-color:black;
+	border: 2px solid #808080;
+    border-radius: 4px;
+    padding: 5px;
+	color: white;
+background-color: #2E2F30;
 }
+
 </string>
                </property>
               </widget>
@@ -447,11 +402,40 @@ color:black;
                </property>
                <property name="styleSheet">
                 <string notr="true">QDateEdit {
-	background-color: #cccccc;
-	border-radius: 20px; 
- color:black;
+    border: 2px solid #808080;
+background-color: #2E2F30;
+    border-radius: 4px;
+    padding-left: 5px;
 }
-</string>
+
+QDateEdit::up-button, QDateEdit::down-button {
+    border: none;
+    padding-right: 5px;
+}
+
+QDateEdit::up-button {
+    subcontrol-position: top right;
+}
+
+QDateEdit::down-button {
+    subcontrol-position: bottom right;
+}
+
+QDateEdit::up-arrow, QDateEdit::down-arrow {
+    border: 5px solid rgba(255, 255, 255, 0);
+    width: 0;
+    height: 0;
+}
+
+QDateEdit::up-arrow {
+    border-top: none;
+    border-bottom-color: white;
+}
+
+QDateEdit::down-arrow {
+    border-bottom: none;
+    border-top-color: white;
+}</string>
                </property>
                <property name="dateTime">
                 <datetime>
@@ -460,7 +444,7 @@ color:black;
                  <second>0</second>
                  <year>2019</year>
                  <month>12</month>
-                 <day>29</day>
+                 <day>28</day>
                 </datetime>
                </property>
                <property name="displayFormat">
@@ -478,10 +462,13 @@ color:black;
                </property>
                <property name="styleSheet">
                 <string notr="true">QLineEdit {
-	background-color: #cccccc;
-	border-radius: 20px; 
-color:black;
+	border: 2px solid #808080;
+    border-radius: 4px;
+    padding: 5px;
+	color: white;
+background-color: #2E2F30;
 }
+
 </string>
                </property>
               </widget>
@@ -496,10 +483,13 @@ color:black;
                </property>
                <property name="styleSheet">
                 <string notr="true">QLineEdit {
-	background-color: #cccccc;
-	border-radius: 20px; 
-color:black;
+	border: 2px solid #808080;
+    border-radius: 4px;
+    padding: 5px;
+background-color: #2E2F30;
+	color: white;
 }
+
 </string>
                </property>
               </widget>
@@ -514,10 +504,13 @@ color:black;
                </property>
                <property name="styleSheet">
                 <string notr="true">QLineEdit {
-	background-color: #cccccc;
-	border-radius: 20px; 
-color:black;
+background-color: #2E2F30;
+	border: 2px solid #808080;
+    border-radius: 4px;
+    padding: 5px;
+	color: white;
 }
+
 </string>
                </property>
               </widget>
@@ -532,9 +525,13 @@ color:black;
                </property>
                <property name="styleSheet">
                 <string notr="true">QLineEdit {
-	background-color: #cccccc;
-	border-radius: 20px; 
-color:black;}
+background-color: #2E2F30;
+	border: 2px solid #808080;
+    border-radius: 4px;
+    padding: 5px;
+	color: white;
+}
+
 </string>
                </property>
               </widget>
@@ -570,10 +567,13 @@ color:black;}
                </property>
                <property name="styleSheet">
                 <string notr="true">QLineEdit {
-	background-color: #cccccc;
-	border-radius: 20px; 
-color:black;
+	border: 2px solid #808080;
+    border-radius: 4px;
+background-color: #2E2F30;
+    padding: 5px;
+	color: white;
 }
+
 </string>
                </property>
               </widget>
@@ -594,15 +594,81 @@ color:black;
                </property>
                <property name="styleSheet">
                 <string notr="true">QLineEdit {
-	background-color: #cccccc;
-	border-radius: 20px; 
-color:black;
+	border: 2px solid #808080;
+    border-radius: 4px;
+    padding: 5px;
+	color: white;
+background-color: #2E2F30;
 }
+
 </string>
                </property>
               </widget>
              </item>
             </layout>
+           </widget>
+          </item>
+          <item row="3" column="1">
+           <widget class="QPushButton" name="pushButton">
+            <property name="font">
+             <font>
+              <family>Georgia</family>
+              <pointsize>12</pointsize>
+              <italic>false</italic>
+              <bold>true</bold>
+             </font>
+            </property>
+            <property name="styleSheet">
+             <string notr="true">QPushButton {
+    background-color: #1768E3; 
+    color: #FFFFFF;
+	font: bold;
+   border-radius: 4px;
+text-align: center;
+}
+
+QPushButton:hover{
+ background-color: #2095E6;
+}
+
+</string>
+            </property>
+            <property name="text">
+             <string>Validate</string>
+            </property>
+           </widget>
+          </item>
+          <item row="2" column="2" rowspan="2">
+           <widget class="QDialogButtonBox" name="buttonBox">
+            <property name="sizePolicy">
+             <sizepolicy hsizetype="Expanding" vsizetype="Preferred">
+              <horstretch>0</horstretch>
+              <verstretch>0</verstretch>
+             </sizepolicy>
+            </property>
+            <property name="minimumSize">
+             <size>
+              <width>0</width>
+              <height>20</height>
+             </size>
+            </property>
+            <property name="font">
+             <font>
+              <family>Georgia</family>
+              <pointsize>12</pointsize>
+              <italic>false</italic>
+              <bold>false</bold>
+             </font>
+            </property>
+            <property name="styleSheet">
+             <string notr="true">border: 2px solid grey;
+border-radius: 8px;
+background-color: #000000;
+</string>
+            </property>
+            <property name="standardButtons">
+             <set>QDialogButtonBox::Cancel|QDialogButtonBox::Ok</set>
+            </property>
            </widget>
           </item>
          </layout>

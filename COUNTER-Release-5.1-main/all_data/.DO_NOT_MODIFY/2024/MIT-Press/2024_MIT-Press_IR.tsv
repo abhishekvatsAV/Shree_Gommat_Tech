@@ -1,0 +1,23 @@
+Report_Name	Item Master Report
+Report_ID	IR
+Release	5
+Institution_Name	University of Prince Edward Island
+Institution_ID	Silverchair:491
+Metric_Types	
+Report_Filters	
+Report_Attributes	Attributes_To_Show=Data_Type|Access_Type|Access_Method|YOP|Authors|Publication_Date|Article_Version; Include_Parent_Details=True; Include_Component_Details=True
+Exceptions	3031: Usage Not Ready for Requested Dates ()
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-01T00:00:00Z
+Created_By	Silverchair
+
+Item	Publisher	Publisher_ID	Platform	Authors	Publication_Date	Article_version	DOI	Proprietary_ID	ISBN	Print_ISSN	Online_ISSN	URI	Parent_Title	Parent_Authors	Parent_Publication_Date	Parent_Article_Version	Parent_Data_Type	Parent_DOI	Parent_Proprietary_ID	Parent_ISBN	Parent_Print_ISSN	Parent_Online_ISSN	Parent_URI	Component_Title	Component_Authors	Component_Publication_Date	Component_Data_Type	Component_DOI	Component_Proprietary_ID	Component_ISBN	Component_Print_ISSN	Component_Online_ISSN	Component_URI	Data_Type	YOP	Access_Type	Access_Method	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+Circuits Signals and Systems	The MIT Press		MIT Press	William M. Siebert	1985-09-24		10.7551/mitpress/1839.001.0001	Silverchair:4260	978-0-262-29096-8																									Book	1985	Controlled	Regular	Unique_Item_Investigations	3	3	0
+Dynamic Equations and Their Solutions for Simple Circuits	The MIT Press		MIT Press		1985-09-24		10.7551/mitpress/1839.003.0002	Silverchair:179134					Circuits Signals and Systems				Book	10.7551/mitpress/1839.001.0001	Silverchair:4260	978-0-262-29096-8														Book	1985	Controlled	Regular	Unique_Item_Investigations	1	1	0
+Energy at the End of the WorldAn Orkney Islands Saga	The MIT Press		MIT Press	Laura Watts	2019-01-15		10.7551/mitpress/10910.001.0001	Silverchair:4509	978-0-262-34965-9																									Book	2019	Controlled	Regular	Unique_Item_Investigations	2	2	0
+Gender Discrimination in Education Expenditure in Nepal: Evidence from Living Standards Surveys	MIT Press		MIT Press	Shaleen Khanal; 	2018-03-01		10.1162/adev_a_00109	Silverchair:9944					Asian Development Review				Journal		Silverchair:1000013		0116-1105	1996-7241												Article	2018	OA_Gold	Regular	Unique_Item_Investigations	1	1	0
+Gender Discrimination in Education Expenditure in Nepal: Evidence from Living Standards Surveys	MIT Press		MIT Press	Shaleen Khanal; 	2018-03-01		10.1162/adev_a_00109	Silverchair:9944					Asian Development Review				Journal		Silverchair:1000013		0116-1105	1996-7241												Article	2018	OA_Gold	Regular	Unique_Item_Requests	1	1	0
+Not the Shark, but the Water: How Neutrality and Vocational Awe Intertwine to Uphold White Supremacy	The MIT Press		MIT Press	Anastasia Chiu;  Fobazi M. Ettarh;  Jennifer A. Ferretti; 	2021-04-13		10.7551/mitpress/11969.003.0005	Silverchair:3075315					Knowledge JusticeDisrupting Library and Information Studies through Critical Race Theory				Book	10.7551/mitpress/11969.001.0001	Silverchair:5114	978-0-262-36320-4														Book	2021	OA_Gold	Regular	Unique_Item_Requests	1	1	0
+Not the Shark, but the Water: How Neutrality and Vocational Awe Intertwine to Uphold White Supremacy	The MIT Press		MIT Press	Anastasia Chiu;  Fobazi M. Ettarh;  Jennifer A. Ferretti; 	2021-04-13		10.7551/mitpress/11969.003.0005	Silverchair:3075315					Knowledge JusticeDisrupting Library and Information Studies through Critical Race Theory				Book	10.7551/mitpress/11969.001.0001	Silverchair:5114	978-0-262-36320-4														Book	2021	OA_Gold	Regular	Unique_Item_Investigations	1	1	0
+White Supremacy, Terrorism, and the Failure of Reconstruction in the                     United States	MIT Press		MIT Press	Daniel Byman; 	2021-07-19		10.1162/isec_a_00410	Silverchair:102853					International Security				Journal		Silverchair:1000025		0162-2889	1531-4804												Article	2021	Controlled	Regular	Unique_Item_Investigations	1	1	0
+White Supremacy, Terrorism, and the Failure of Reconstruction in the                     United States	MIT Press		MIT Press	Daniel Byman; 	2021-07-19		10.1162/isec_a_00410	Silverchair:102853					International Security				Journal		Silverchair:1000025		0162-2889	1531-4804												Article	2021	Controlled	Regular	Unique_Item_Requests	1	1	0

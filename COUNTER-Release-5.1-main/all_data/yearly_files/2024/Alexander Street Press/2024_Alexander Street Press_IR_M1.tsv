@@ -7,72 +7,100 @@ Metric_Types	Total_Item_Requests
 Report_Filters	Data_Type=Multimedia; Access_Method=Regular
 Report_Attributes	
 Exceptions	
-Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-01-31
-Created	2024-02-23T13:59:43Z
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-02T14:22:26Z
 Created_By	collections@upei.ca
 
-Item	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	URI	Metric_Type	Reporting_Period_Total	Jan-2024
-A Doll's House	BBC Worldwide		video.alexanderstreet.com				Total_Item_Requests	1	1
-About Face: Supermodels Then and Now	Filmakers Library		video.alexanderstreet.com				Total_Item_Requests	1	1
-Active Listening	ShortCutsTV		video.alexanderstreet.com				Total_Item_Requests	3	3
-Aggregate Expenditures: Part 3	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	1	1
-Aggregate Supply and Demand	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	1	1
-Air Pollution	Cable News Network (CNN)		video.alexanderstreet.com				Total_Item_Requests	4	4
-Anatomy and Physiology	Medcom		video.alexanderstreet.com				Total_Item_Requests	3	3
-Breaking Loneliness	Brandy Y Productions		video.alexanderstreet.com				Total_Item_Requests	1	1
-Cardiopulmonary Assessment and Cardiac Anomalies: Atrial septal defect (ASD)	Medcom		video.alexanderstreet.com				Total_Item_Requests	1	1
-Caring for the Stoma, Caring for the Patient: Enterostomal Therapy Nursing	Medcom		video.alexanderstreet.com				Total_Item_Requests	43	43
-Cave And Climate Change	ABC Commercial		video.alexanderstreet.com				Total_Item_Requests	1	1
-Cinema St. Barth (French Subtitles)	Banyan Archive		video.alexanderstreet.com				Total_Item_Requests	1	1
-Competitive Markets: Part 2	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	2	2
-Consumer Choice: Part 3	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	1	1
-Crash Course Economics, Labor Markets and Minimum Wage	PBS Crash Course		video.alexanderstreet.com				Total_Item_Requests	1	1
-Dead Birds	Documentary Educational Resources (DER)		video.alexanderstreet.com				Total_Item_Requests	1	1
-Dreamweavers	Videofashion		video.alexanderstreet.com				Total_Item_Requests	2	2
-Economic Systems the Labor Market	Crash Course Sociology		video.alexanderstreet.com				Total_Item_Requests	1	1
-Environmental & Global Issues: Part 3	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	1	1
-Everyday Icons	Public Broadcasting Service		video.alexanderstreet.com				Total_Item_Requests	1	1
-Gestalt Dream Analysis: Frederick Perls	Psychological and Educational Films		video.alexanderstreet.com				Total_Item_Requests	1	1
-Gestalt Integration	Microtraining Associates		video.alexanderstreet.com				Total_Item_Requests	1	1
-Gestalt Therapy	Microtraining Associates		video.alexanderstreet.com				Total_Item_Requests	1	1
-Gestational Age and Newborn Reflexes	Medcom		video.alexanderstreet.com				Total_Item_Requests	17	17
-Guided Implant Surgery - A New Dimension in Surgical Precision	Global Institute for Dental Education		video.alexanderstreet.com				Total_Item_Requests	1	1
-Heart Failure Medications and Cholesterol-Lowering Agents	Medcom		video.alexanderstreet.com				Total_Item_Requests	1	1
-History of Psychotherapy	Milton H. Erickson Foundation		video.alexanderstreet.com				Total_Item_Requests	2	2
-How to Become a Victoria's Secret Model	Howcast		video.alexanderstreet.com				Total_Item_Requests	1	1
-Imperfect Competition: Part 2	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	1	1
-Imperfect Competition: Part 3	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	1	1
-KS3 English: Out of the Classroom into the Theatre	Teachers TV/UK Department of Education		video.alexanderstreet.com				Total_Item_Requests	1	1
-Learn More About The Major Kinds Of Pollution In This Infographic Explainer	Encyclopedia Britannica		video.alexanderstreet.com				Total_Item_Requests	4	4
-Macbeth	Stratford Festival		video.alexanderstreet.com				Total_Item_Requests	1	1
-Measuring Economic Growth	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	2	2
-Measuring Economic Growth: Part 1	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	1	1
-Measuring Economic Growth: Part 4	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	2	2
-Measuring Economic Growth: Part 6	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	4	4
-Measuring Economic Growth: Part 7	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	1	1
-Monopoly: Part 3	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	1	1
-Monopoly: Part 4	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	1	1
-Much Ado About Nothing	Royal Shakespeare Company		video.alexanderstreet.com				Total_Item_Requests	1	1
-Oligopolies: Whatever Happened to Price Competition?	Annenberg Learner		video.alexanderstreet.com				Total_Item_Requests	1	1
-Partial Differential Equations	3 Blue 1 Brown		video.alexanderstreet.com				Total_Item_Requests	1	1
-People Of Color With Eating Disorders Face Cultural, Medical Stigmas	NewsHour Productions		video.alexanderstreet.com				Total_Item_Requests	2	2
-Performing Phlebotomy	Medcom		video.alexanderstreet.com				Total_Item_Requests	12	12
-Range of Motion Exercises	Medcom		video.alexanderstreet.com				Total_Item_Requests	6	6
-Remembering John Marshall	Documentary Educational Resources (DER)		video.alexanderstreet.com				Total_Item_Requests	1	1
-Silent Spring	Columbia Broadcasting System		video.alexanderstreet.com				Total_Item_Requests	2	2
-Silly	Monarda Arts		video.alexanderstreet.com				Total_Item_Requests	1	1
-Streaming Services are Hiking Their Prices	Bloomberg L. P.		video.alexanderstreet.com				Total_Item_Requests	1	1
-The Business Cycle	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	85	85
-The Business Cycle: Part 1	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	2	2
-The Business Cycle: Part 2	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	1	1
-The Business Cycle: Part 3	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	1	1
-The Eye of the Storm with Jane Elliott	Admire Productions		video.alexanderstreet.com				Total_Item_Requests	2	2
-The First Ten Minutes	Medcom		video.alexanderstreet.com				Total_Item_Requests	1	1
-The Merchant of Venice	Royal Shakespeare Company		video.alexanderstreet.com				Total_Item_Requests	4	4
-The Playboy Of The Western World	Music Video Distributors		video.alexanderstreet.com				Total_Item_Requests	1	1
-The Power Of A Multinational: Monsanto	TV Choice		video.alexanderstreet.com				Total_Item_Requests	1	1
-The Reproductive System	Medcom		video.alexanderstreet.com				Total_Item_Requests	2	2
-The Taming of the Shrew	Stratford Festival		video.alexanderstreet.com				Total_Item_Requests	2	2
-The Tempest	Royal Shakespeare Company		video.alexanderstreet.com				Total_Item_Requests	1	1
-WaterWays	Institute of Cultural Anthropology and Development Sociology, Universiteit Leiden		video.alexanderstreet.com				Total_Item_Requests	1	1
-What are the Sources and Health Effects of Air Pollution?	Latest Thinking		video.alexanderstreet.com				Total_Item_Requests	1	1
+Item	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	URI	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+A Doll's House	BBC Worldwide		video.alexanderstreet.com				Total_Item_Requests	7	1	6
+A Midsummer Night's Dream	BOND/360		video.alexanderstreet.com				Total_Item_Requests	1	0	1
+About Face: Supermodels Then and Now	Filmakers Library		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+Active Listening	ShortCutsTV		video.alexanderstreet.com				Total_Item_Requests	3	3	0
+Aggregate Expenditures: Part 3	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+Aggregate Supply and Demand	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+Air Pollution	Cable News Network (CNN)		video.alexanderstreet.com				Total_Item_Requests	4	4	0
+Anatomy and Physiology	Medcom		video.alexanderstreet.com				Total_Item_Requests	3	3	0
+Antony and Cleopatra	Stratford Festival		video.alexanderstreet.com				Total_Item_Requests	1	0	1
+As the Water Flows: Sensing Realities	Institute of Cultural Anthropology and Development Sociology, Universiteit Leiden		video.alexanderstreet.com				Total_Item_Requests	1	0	1
+Assessment of the Newborn, Gestational Age and Newborn Reflexes, Gestational Age and Newborn Reflexe	Medcom		video.alexanderstreet.com				Total_Item_Requests	19	17	2
+Bolstering Self-Esteem and Allaying Self-Criticism: Ericksonian Hypnotherapy	Zeig, Tucker & Theisen, Inc.		video.alexanderstreet.com				Total_Item_Requests	2	0	2
+Breaking Loneliness	Brandy Y Productions		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+Bunraku: The Classical Puppets of Japan	Creative Arts Television		video.alexanderstreet.com				Total_Item_Requests	2	0	2
+Cardiopulmonary Assessment and Cardiac Anomalies: Atrial septal defect (ASD)	Medcom		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+Caring for the Stoma, Caring for the Patient: Enterostomal Therapy Nursing	Medcom		video.alexanderstreet.com				Total_Item_Requests	49	43	6
+Cave And Climate Change	ABC Commercial		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+Cinema St. Barth (French Subtitles)	Banyan Archive		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+Coming of Age - Margaret Mead (1901-1978)	Royal Anthropological Institute		video.alexanderstreet.com				Total_Item_Requests	6	0	6
+Competitive Markets: Part 2	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	3	2	1
+Consumer Choice: Part 3	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+Creating Rich Learning Environments	Annenberg Learner		video.alexanderstreet.com				Total_Item_Requests	1	0	1
+Dead Birds	Documentary Educational Resources (DER)		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+Dreamweavers	Videofashion		video.alexanderstreet.com				Total_Item_Requests	2	2	0
+Economic Systems the Labor Market	Crash Course Sociology		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+Environmental & Global Issues: Part 3	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+Everyday Icons	Public Broadcasting Service		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+Gestalt Dream Analysis: Frederick Perls	Psychological and Educational Films		video.alexanderstreet.com				Total_Item_Requests	3	1	2
+Gestalt Integration	Microtraining Associates		video.alexanderstreet.com				Total_Item_Requests	2	1	1
+Gestalt Therapy	Microtraining Associates		video.alexanderstreet.com				Total_Item_Requests	3	1	2
+Guided Implant Surgery - A New Dimension in Surgical Precision	Global Institute for Dental Education		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+Heart Failure Medications and Cholesterol-Lowering Agents	Medcom		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+History of Psychotherapy	Milton H. Erickson Foundation		video.alexanderstreet.com				Total_Item_Requests	2	2	0
+How to Become a Victoria's Secret Model	Howcast		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+Humanization of Technique	Milton H. Erickson Foundation		video.alexanderstreet.com				Total_Item_Requests	2	0	2
+Imperfect Competition: Part 2	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+Imperfect Competition: Part 3	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	3	1	2
+Imperfect Competition: Part 4	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	1	0	1
+Indecently Exposed with Jane Elliott	Admire Productions		video.alexanderstreet.com				Total_Item_Requests	6	0	6
+Jilel: The Calling of the Shell	Microwave Films		video.alexanderstreet.com				Total_Item_Requests	1	0	1
+Kenneth MacMillan's Romeo and Juliet: Prokofiev	Opus Arte		video.alexanderstreet.com				Total_Item_Requests	1	0	1
+KS3 English: Out of the Classroom into the Theatre	Teachers TV/UK Department of Education		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+Labor Markets and Minimum Wage	PBS Crash Course		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+Learn More About The Major Kinds Of Pollution In This Infographic Explainer	Encyclopedia Britannica		video.alexanderstreet.com				Total_Item_Requests	4	4	0
+Macbeth	Illuminations		video.alexanderstreet.com				Total_Item_Requests	1	0	1
+Macbeth	Stratford Festival		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+Measuring Economic Growth	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	3	2	1
+Measuring Economic Growth: Part 1	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+Measuring Economic Growth: Part 4	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	2	2	0
+Measuring Economic Growth: Part 6	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	4	4	0
+Measuring Economic Growth: Part 7	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+Monopoly: Part 3	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+Monopoly: Part 4	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+Much Ado About Nothing	Royal Shakespeare Company		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+Ninth Floor	National Film Board of Canada		video.alexanderstreet.com				Total_Item_Requests	3	0	3
+Oligopolies: Whatever Happened to Price Competition?	Annenberg Learner		video.alexanderstreet.com				Total_Item_Requests	15	1	14
+Partial Differential Equations	3 Blue 1 Brown		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+People Of Color With Eating Disorders Face Cultural, Medical Stigmas	NewsHour Productions		video.alexanderstreet.com				Total_Item_Requests	2	2	0
+Performing Phlebotomy	Medcom		video.alexanderstreet.com				Total_Item_Requests	13	12	1
+Picture a Scientist	Film Platform		video.alexanderstreet.com				Total_Item_Requests	4	0	4
+Prisoners of the Ghetto	SW Pictures		video.alexanderstreet.com				Total_Item_Requests	1	0	1
+Psychology of Prejudice	Alexander Street		video.alexanderstreet.com				Total_Item_Requests	3	0	3
+Range of Motion Exercises	Medcom		video.alexanderstreet.com				Total_Item_Requests	14	6	8
+Remembering John Marshall	Documentary Educational Resources (DER)		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+Romeo & Juliet	Broadway Licensing		video.alexanderstreet.com				Total_Item_Requests	2	0	2
+Romeo & Juliet with Joseph Fiennes	Public Broadcasting Service		video.alexanderstreet.com				Total_Item_Requests	1	0	1
+Silent Spring	Columbia Broadcasting System		video.alexanderstreet.com				Total_Item_Requests	2	2	0
+Silly	Monarda Arts		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+Streaming Services are Hiking Their Prices	Bloomberg L. P.		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+The Age of Reason	Berkeley Media		video.alexanderstreet.com				Total_Item_Requests	2	0	2
+The Business Cycle	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	85	85	0
+The Business Cycle: Part 1	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	2	2	0
+The Business Cycle: Part 2	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+The Business Cycle: Part 3	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+The Eye of the Storm with Jane Elliott	Admire Productions		video.alexanderstreet.com				Total_Item_Requests	2	2	0
+The First Ten Minutes	Medcom		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+The Great Depression	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	4	0	4
+The Merchant of Venice	Royal Shakespeare Company		video.alexanderstreet.com				Total_Item_Requests	4	4	0
+The Perfect Mother\, the Absent Wife: Tapping the Client's Natural Resources	Zeig, Tucker & Theisen, Inc.		video.alexanderstreet.com				Total_Item_Requests	5	0	5
+The Playboy Of The Western World	Music Video Distributors		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+The Power Of A Multinational: Monsanto	TV Choice		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+The Reproductive System	Medcom		video.alexanderstreet.com				Total_Item_Requests	2	2	0
+The Taming of the Shrew	Stratford Festival		video.alexanderstreet.com				Total_Item_Requests	3	2	1
+The Tempest	Royal Shakespeare Company		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+The Union of Humanity and Technique	Milton H. Erickson Foundation		video.alexanderstreet.com				Total_Item_Requests	1	0	1
+Therapeutic Three Generation Family Reunion	Milton H. Erickson Foundation		video.alexanderstreet.com				Total_Item_Requests	2	0	2
+Topical\, Suppository\, and Inhalant Medications	Medcom		video.alexanderstreet.com				Total_Item_Requests	2	0	2
+Trauma\, Spirituality and Recovery	Milton H. Erickson Foundation		video.alexanderstreet.com				Total_Item_Requests	2	0	2
+US Government 20-1	Dallas County Community College District		video.alexanderstreet.com				Total_Item_Requests	1	0	1
+War In Ukraine: Is A Peace Deal Possible?	The Economist		video.alexanderstreet.com				Total_Item_Requests	1	0	1
+WaterWays	Institute of Cultural Anthropology and Development Sociology, Universiteit Leiden		video.alexanderstreet.com				Total_Item_Requests	1	1	0
+What are the Sources and Health Effects of Air Pollution?	Latest Thinking		video.alexanderstreet.com				Total_Item_Requests	1	1	0

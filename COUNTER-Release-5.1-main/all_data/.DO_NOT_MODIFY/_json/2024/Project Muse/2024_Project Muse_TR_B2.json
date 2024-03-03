@@ -1,0 +1,47 @@
+{
+   "Report_Header" : {
+      "Created" : "2024-03-01T08:52:54Z",
+      "Created_By" : "Project MUSE",
+      "Customer_ID" : "i16692",
+      "Exceptions" : [
+         {
+            "Code" : "3031",
+            "Data" : "Invalid date range -- too recent",
+            "Message" : "Usage Not Ready for Requested Dates",
+            "Severity" : "Error"
+         }
+      ],
+      "Institution_ID" : [
+         {
+            "Type" : "Proprietary",
+            "Value" : "MUSE:institution16692"
+         }
+      ],
+      "Institution_Name" : "Prince Edward Island , Univ. of",
+      "Release" : "5",
+      "Report_Filters" : [
+         {
+            "Name" : "Begin_Date",
+            "Value" : "2024-01-01"
+         },
+         {
+            "Name" : "End_Date",
+            "Value" : "2024-02-29"
+         },
+         {
+            "Name" : "Data_Type",
+            "Value" : "Book"
+         },
+         {
+            "Name" : "Access_Method",
+            "Value" : "Regular"
+         },
+         {
+            "Name" : "Metric_Type",
+            "Value" : "Limit_Exceeded|No_License"
+         }
+      ],
+      "Report_ID" : "TR_B2",
+      "Report_Name" : "Book Access Denied"
+   }
+}

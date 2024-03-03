@@ -1,0 +1,114 @@
+Report_Name	Book Requests (Excluding OA_Gold)
+Report_ID	TR_B1
+Release	5
+Institution_Name	UPEI
+Institution_ID	Gale:otta0998
+Metric_Types	Total_Item_Requests; Unique_Title_Requests
+Report_Filters	Data_Type=Book; Access_Type=Controlled; Access_Method=Regular
+Report_Attributes	
+Exceptions	
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-01T08:43:52Z
+Created_By	Gale
+
+Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	ISBN	Print_ISSN	Online_ISSN	URI	YOP	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+American History Through Literature 1870-1920,Vol.1	Charles Scribner's Sons		Gale		gale:5BBN	978-0-684-31493-8				2006	Total_Item_Requests	1	0	1
+American History Through Literature 1870-1920,Vol.1	Charles Scribner's Sons		Gale		gale:5BBN	978-0-684-31493-8				2006	Unique_Title_Requests	1	0	1
+American Writers,Vol.1	Charles Scribner's Sons		Gale		gale:5KXW	978-0-684-31626-0				1974	Total_Item_Requests	1	1	0
+American Writers,Vol.1	Charles Scribner's Sons		Gale		gale:5KXW	978-0-684-31626-0				1974	Unique_Title_Requests	1	1	0
+British Children's Writers, 1914-1960	Gale		Gale		gale:5LOJ		1096-8547			1996	Total_Item_Requests	2	2	0
+British Children's Writers, 1914-1960	Gale		Gale		gale:5LOJ		1096-8547			1996	Unique_Title_Requests	1	1	0
+Business Plans Handbook,Vol.14	Gale, part of Cengage Group		Gale		gale:1UWJ	978-1-4144-3750-7	1084-4473			2008	Total_Item_Requests	1	1	0
+Business Plans Handbook,Vol.14	Gale, part of Cengage Group		Gale		gale:1UWJ	978-1-4144-3750-7	1084-4473			2008	Unique_Title_Requests	1	1	0
+Business Plans Handbook,Vol.17	Gale, part of Cengage Group		Gale		gale:2XUW	978-1-4144-5775-8	1084-4473			2010	Total_Item_Requests	2	2	0
+Business Plans Handbook,Vol.17	Gale, part of Cengage Group		Gale		gale:2XUW	978-1-4144-5775-8	1084-4473			2010	Unique_Title_Requests	1	1	0
+Business Plans Handbook,Vol.20	Gale, part of Cengage Group		Gale		gale:2YUO	978-1-4144-7251-5	1084-4473			2011	Total_Item_Requests	2	2	0
+Business Plans Handbook,Vol.20	Gale, part of Cengage Group		Gale		gale:2YUO	978-1-4144-7251-5	1084-4473			2011	Unique_Title_Requests	1	1	0
+Business Rankings Annual,Ed.Online	Gale		Gale		gale:4OSO		1043-7908			2024	Total_Item_Requests	1	1	0
+Business Rankings Annual,Ed.Online	Gale		Gale		gale:4OSO		1043-7908			2024	Unique_Title_Requests	1	1	0
+Career Information Center,Vol.4,Ed.10	Gale, part of Cengage Group		Gale		gale:6RED	978-0-02-866243-5				2014	Total_Item_Requests	1	1	0
+Career Information Center,Vol.4,Ed.10	Gale, part of Cengage Group		Gale		gale:6RED	978-0-02-866243-5				2014	Unique_Title_Requests	1	1	0
+Dictionary of American History,Vol.4,Ed.3	Charles Scribner's Sons		Gale		gale:5CGI	978-0-684-31415-0				2003	Total_Item_Requests	3	0	3
+Dictionary of American History,Vol.4,Ed.3	Charles Scribner's Sons		Gale		gale:5CGI	978-0-684-31415-0				2003	Unique_Title_Requests	1	0	1
+Dictionary of American History,Vol.7,Ed.3	Charles Scribner's Sons		Gale		gale:5CGL	978-0-684-31415-0				2003	Total_Item_Requests	1	0	1
+Dictionary of American History,Vol.7,Ed.3	Charles Scribner's Sons		Gale		gale:5CGL	978-0-684-31415-0				2003	Unique_Title_Requests	1	0	1
+Dictionary of Literary Biography Yearbook	Gale		Gale		gale:2MRV		1096-8547			1999	Total_Item_Requests	1	1	0
+Dictionary of Literary Biography Yearbook	Gale		Gale		gale:2MRV		1096-8547			1999	Unique_Title_Requests	1	1	0
+Encyclopedia of Asian History	Charles Scribner's Sons		Gale		gale:0QNG					1988	Total_Item_Requests	2	2	0
+Encyclopedia of Asian History	Charles Scribner's Sons		Gale		gale:0QNG					1988	Unique_Title_Requests	1	1	0
+Encyclopedia of Buddhism,Vol.1	Gale		Gale		gale:5AME	978-0-02-865910-7				2004	Total_Item_Requests	1	0	1
+Encyclopedia of Buddhism,Vol.1	Gale		Gale		gale:5AME	978-0-02-865910-7				2004	Unique_Title_Requests	1	0	1
+Encyclopedia of Education,Vol.1,Ed.2	Gale		Gale		gale:5CHO	978-0-02-865882-7				2003	Total_Item_Requests	2	2	0
+Encyclopedia of Education,Vol.1,Ed.2	Gale		Gale		gale:5CHO	978-0-02-865882-7				2003	Unique_Title_Requests	1	1	0
+Encyclopedia of Public Health,Vol.4	Gale		Gale		gale:5AMZ	978-0-02-865888-9				2002	Total_Item_Requests	1	0	1
+Encyclopedia of Public Health,Vol.4	Gale		Gale		gale:5AMZ	978-0-02-865888-9				2002	Unique_Title_Requests	1	0	1
+Encyclopedia of Religion,Vol.8,Ed.2	Gale		Gale		gale:5BTQ	978-0-02-865997-8				2005	Total_Item_Requests	1	0	1
+Encyclopedia of Religion,Vol.8,Ed.2	Gale		Gale		gale:5BTQ	978-0-02-865997-8				2005	Unique_Title_Requests	1	0	1
+Encyclopedia of Sex and Gender,Vol.1	Macmillan Reference USA		Gale		gale:1RIR	978-0-02-866115-5				2007	Total_Item_Requests	1	1	0
+Encyclopedia of Sex and Gender,Vol.1	Macmillan Reference USA		Gale		gale:1RIR	978-0-02-866115-5				2007	Unique_Title_Requests	1	1	0
+Encyclopedia of the Modern Middle East and North Africa,Vol.4,Ed.2	Gale		Gale		gale:5BWS	978-0-02-865987-9				2004	Total_Item_Requests	1	1	0
+Encyclopedia of the Modern Middle East and North Africa,Vol.4,Ed.2	Gale		Gale		gale:5BWS	978-0-02-865987-9				2004	Unique_Title_Requests	1	1	0
+Encyclopedia of the North American Colonies	Gale		Gale		gale:0TFX					1993	Total_Item_Requests	1	1	0
+Encyclopedia of the North American Colonies	Gale		Gale		gale:0TFX					1993	Unique_Title_Requests	1	1	0
+Encyclopedia of Western Colonialism since 1450,Vol.2	Gale		Gale		gale:5GPY	978-0-02-866085-1				2007	Total_Item_Requests	3	3	0
+Encyclopedia of Western Colonialism since 1450,Vol.2	Gale		Gale		gale:5GPY	978-0-02-866085-1				2007	Unique_Title_Requests	2	2	0
+Encyclopedia of Western Colonialism since 1450,Vol.3	Gale		Gale		gale:5GPZ	978-0-02-866085-1				2007	Total_Item_Requests	1	1	0
+Encyclopedia of Western Colonialism since 1450,Vol.3	Gale		Gale		gale:5GPZ	978-0-02-866085-1				2007	Unique_Title_Requests	1	1	0
+Europe Since 1914: Encyclopedia of the Age of War and Reconstruction,Vol.2	Charles Scribner's Sons		Gale		gale:0722	978-0-684-31497-6				2006	Total_Item_Requests	1	1	0
+Europe Since 1914: Encyclopedia of the Age of War and Reconstruction,Vol.2	Charles Scribner's Sons		Gale		gale:0722	978-0-684-31497-6				2006	Unique_Title_Requests	1	1	0
+Europe Since 1914: Encyclopedia of the Age of War and Reconstruction,Vol.4	Charles Scribner's Sons		Gale		gale:0724	978-0-684-31497-6				2006	Total_Item_Requests	1	1	0
+Europe Since 1914: Encyclopedia of the Age of War and Reconstruction,Vol.4	Charles Scribner's Sons		Gale		gale:0724	978-0-684-31497-6				2006	Unique_Title_Requests	1	1	0
+Gale Business: Insights	Gale, part of Cengage Group		Gale		gale:4MYC					2023	Total_Item_Requests	22	14	8
+Gale Business: Insights	Gale, part of Cengage Group		Gale		gale:4MYC					2023	Unique_Title_Requests	16	11	5
+Gale Encyclopedia of American Law,Vol.13,Ed.3	Gale, part of Cengage Group		Gale		gale:1XID	978-1-4144-4302-7				2011	Total_Item_Requests	2	0	2
+Gale Encyclopedia of American Law,Vol.13,Ed.3	Gale, part of Cengage Group		Gale		gale:1XID	978-1-4144-4302-7				2011	Unique_Title_Requests	1	0	1
+Gale In Context Online Collection	Gale, part of Cengage Group		Gale		gale:3LQR					2019	Total_Item_Requests	2	0	2
+Gale In Context Online Collection	Gale, part of Cengage Group		Gale		gale:3LQR					2019	Unique_Title_Requests	1	0	1
+Gale World History Online Collection	Gale, part of Cengage Group		Gale		gale:3LQW					2022	Total_Item_Requests	4	4	0
+Gale World History Online Collection	Gale, part of Cengage Group		Gale		gale:3LQW					2022	Unique_Title_Requests	3	3	0
+Global Markets Direct SWOT Reports	GlobalData Ltd.		Gale		gale:3EWN					2022	Total_Item_Requests	7	6	1
+Global Markets Direct SWOT Reports	GlobalData Ltd.		Gale		gale:3EWN					2022	Unique_Title_Requests	5	4	1
+Governments of the World: A Global Guide to Citizens' Rights and Responsibilities,Vol.2	Gale		Gale		gale:5BIJ	978-0-02-866073-8				2006	Total_Item_Requests	1	1	0
+Governments of the World: A Global Guide to Citizens' Rights and Responsibilities,Vol.2	Gale		Gale		gale:5BIJ	978-0-02-866073-8				2006	Unique_Title_Requests	1	1	0
+Historic U.S. Events	Gale		Gale		gale:0QXA					2011	Total_Item_Requests	2	2	0
+Historic U.S. Events	Gale		Gale		gale:0QXA					2011	Unique_Title_Requests	1	1	0
+History of World Trade Since 1450,Vol.1	Gale		Gale		gale:5BJQ	978-0-02-866070-7				2006	Total_Item_Requests	7	7	0
+History of World Trade Since 1450,Vol.1	Gale		Gale		gale:5BJQ	978-0-02-866070-7				2006	Unique_Title_Requests	6	6	0
+History of World Trade Since 1450,Vol.2	Gale		Gale		gale:5BJR	978-0-02-866070-7				2006	Total_Item_Requests	2	2	0
+History of World Trade Since 1450,Vol.2	Gale		Gale		gale:5BJR	978-0-02-866070-7				2006	Unique_Title_Requests	1	1	0
+Industrial Revolution Reference Library,Vol.1	Gale		Gale		gale:5CYN	978-0-7876-9303-9				2003	Total_Item_Requests	1	1	0
+Industrial Revolution Reference Library,Vol.1	Gale		Gale		gale:5CYN	978-0-7876-9303-9				2003	Unique_Title_Requests	1	1	0
+International Directory of Company Histories,Ed.Online	Gale, part of Cengage Group		Gale		gale:53OG					2024	Total_Item_Requests	1	1	0
+International Directory of Company Histories,Ed.Online	Gale, part of Cengage Group		Gale		gale:53OG					2024	Unique_Title_Requests	1	1	0
+International Directory of Company Histories,Vol.199	Gale, part of Cengage Group		Gale		gale:9GRN	978-1-4103-6215-5	1557-0126			2018	Total_Item_Requests	2	0	2
+International Directory of Company Histories,Vol.199	Gale, part of Cengage Group		Gale		gale:9GRN	978-1-4103-6215-5	1557-0126			2018	Unique_Title_Requests	1	0	1
+International Directory of Company Histories,Vol.226	Gale, part of Cengage Group		Gale		gale:03R5	978-1-4103-9987-8	1557-0126			2020	Total_Item_Requests	3	3	0
+International Directory of Company Histories,Vol.226	Gale, part of Cengage Group		Gale		gale:03R5	978-1-4103-9987-8	1557-0126			2020	Unique_Title_Requests	3	3	0
+Literature and Language I	Gale		Gale		gale:0LRK					1749	Total_Item_Requests	1	1	0
+Literature and Language I	Gale		Gale		gale:0LRK					1749	Unique_Title_Requests	1	1	0
+Market Share Reporter,Ed.32	Gale, part of Cengage Group		Gale		gale:59RN		1052-9578			2022	Total_Item_Requests	3	3	0
+Market Share Reporter,Ed.32	Gale, part of Cengage Group		Gale		gale:59RN		1052-9578			2022	Unique_Title_Requests	1	1	0
+Market Share Reporter,Ed.34	Gale, part of Cengage Group		Gale		gale:54FS		1052-9578			2024	Total_Item_Requests	3	2	1
+Market Share Reporter,Ed.34	Gale, part of Cengage Group		Gale		gale:54FS		1052-9578			2024	Unique_Title_Requests	2	1	1
+Market Share Reporter,Ed.35	Gale, part of Cengage Group		Gale		gale:58MN		1052-9578			2025	Total_Item_Requests	7	2	5
+Market Share Reporter,Ed.35	Gale, part of Cengage Group		Gale		gale:58MN		1052-9578			2025	Unique_Title_Requests	2	1	1
+Notable Corporate Chronologies Online	Gale		Gale		gale:4OSP					2024	Total_Item_Requests	2	2	0
+Notable Corporate Chronologies Online	Gale		Gale		gale:4OSP					2024	Unique_Title_Requests	1	1	0
+Prejudice in the Modern World Reference Library,Vol.2	Gale		Gale		gale:1RXL	978-1-4144-1057-9				2007	Total_Item_Requests	1	0	1
+Prejudice in the Modern World Reference Library,Vol.2	Gale		Gale		gale:1RXL	978-1-4144-1057-9				2007	Unique_Title_Requests	1	0	1
+Religion and Philosophy I	Gale		Gale		gale:0LRF					1779	Total_Item_Requests	3	3	0
+Religion and Philosophy I	Gale		Gale		gale:0LRF					1779	Unique_Title_Requests	2	2	0
+Science and Its Times	Gale		Gale		gale:0PHA	978-0-7876-7724-4				2001	Total_Item_Requests	1	1	0
+Science and Its Times	Gale		Gale		gale:0PHA	978-0-7876-7724-4				2001	Unique_Title_Requests	1	1	0
+Superbugs	Gale, part of Cengage Group		Gale		gale:1XLZ					2016	Total_Item_Requests	1	0	1
+Superbugs	Gale, part of Cengage Group		Gale		gale:1XLZ					2016	Unique_Title_Requests	1	0	1
+The Gale Encyclopedia of Medicine,Vol.1,Ed.4	Gale, part of Cengage Group		Gale		gale:3TUE	978-1-4144-8691-8				2011	Total_Item_Requests	2	2	0
+The Gale Encyclopedia of Medicine,Vol.1,Ed.4	Gale, part of Cengage Group		Gale		gale:3TUE	978-1-4144-8691-8				2011	Unique_Title_Requests	1	1	0
+UXL World Eras,Vol.10	Gale, part of Cengage Group		Gale		gale:6QCB	978-1-57302-978-0				2016	Total_Item_Requests	3	3	0
+UXL World Eras,Vol.10	Gale, part of Cengage Group		Gale		gale:6QCB	978-1-57302-978-0				2016	Unique_Title_Requests	1	1	0
+World Eras,Vol.9	Gale		Gale		gale:0OUD	978-1-4144-4422-2				2003	Total_Item_Requests	2	2	0
+World Eras,Vol.9	Gale		Gale		gale:0OUD	978-1-4144-4422-2				2003	Unique_Title_Requests	1	1	0
+World War I and the Jazz Age	Primary Source Media		Gale		gale:0HMB					1999	Total_Item_Requests	1	1	0
+World War I and the Jazz Age	Primary Source Media		Gale		gale:0HMB					1999	Unique_Title_Requests	1	1	0
+World War I Reference Library,Vol.1	Gale		Gale		gale:5BUR	978-0-7876-9181-3				2002	Total_Item_Requests	1	1	0
+World War I Reference Library,Vol.1	Gale		Gale		gale:5BUR	978-0-7876-9181-3				2002	Unique_Title_Requests	1	1	0

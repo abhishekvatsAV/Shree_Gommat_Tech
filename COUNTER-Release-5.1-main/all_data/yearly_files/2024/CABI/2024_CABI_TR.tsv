@@ -1,0 +1,84 @@
+Report_Name	Title Master Report
+Report_ID	TR
+Release	5
+Institution_Name	Univ Of Prince Edward Island
+Institution_ID	cabi:59221
+Metric_Types	
+Report_Filters	
+Report_Attributes	
+Exceptions	3031: Usage Not Ready for Requested Dates (Requested data between 2024-02-01 and 2024-02-29. However only data between 2022-04-01 and 2024-01-31 exists.)
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-01T05:39:23Z
+Created_By	Atypon Systems LLC.
+
+Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	ISBN	Print_ISSN	Online_ISSN	URI	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+Animal Behaviour and Welfare Cases	CABI		CABI Digital Library	10.1079/abwcases	cabi:abwcs			2958-4353		Unique_Item_Investigations	1	1	0
+Animal Behaviour and Welfare Cases	CABI		CABI Digital Library	10.1079/abwcases	cabi:abwcs			2958-4353		Total_Item_Investigations	1	1	0
+Animal Behaviour and Welfare Cases	CABI		CABI Digital Library	10.1079/abwcases	cabi:abwcs			2958-4353		No_License	1	1	0
+CABI Compendium	CABI		CABI Digital Library	10.1079/cabicompendium	cabi:cabicompendium			2958-3969		Unique_Item_Investigations	1	1	0
+CABI Compendium	CABI		CABI Digital Library	10.1079/cabicompendium	cabi:cabicompendium			2958-3969		Total_Item_Investigations	1	1	0
+CABI Compendium	CABI		CABI Digital Library	10.1079/cabicompendium	cabi:cabicompendium			2958-3969		Unique_Item_Investigations	1	1	0
+CABI Compendium	CABI		CABI Digital Library	10.1079/cabicompendium	cabi:cabicompendium			2958-3969		Unique_Item_Requests	1	1	0
+CABI Compendium	CABI		CABI Digital Library	10.1079/cabicompendium	cabi:cabicompendium			2958-3969		Total_Item_Investigations	1	1	0
+CABI Compendium	CABI		CABI Digital Library	10.1079/cabicompendium	cabi:cabicompendium			2958-3969		Total_Item_Requests	1	1	0
+CABI Reviews	CABI		CABI Digital Library	10.1079/cabireviews	cabi:cabir			1749-8848		Unique_Item_Investigations	1	1	0
+CABI Reviews	CABI		CABI Digital Library	10.1079/cabireviews	cabi:cabir			1749-8848		Total_Item_Investigations	1	1	0
+Climate Change on Diseases and Disorders of Finfish in Cage Culture	CABI		CABI Digital Library	10.1079/9781800621640.0000		978-1-80062-163-3				Unique_Title_Investigations	2	2	0
+Climate Change on Diseases and Disorders of Finfish in Cage Culture	CABI		CABI Digital Library	10.1079/9781800621640.0000		978-1-80062-163-3				Unique_Title_Requests	2	2	0
+Climate Change on Diseases and Disorders of Finfish in Cage Culture	CABI		CABI Digital Library	10.1079/9781800621640.0000		978-1-80062-163-3				Unique_Item_Investigations	2	2	0
+Climate Change on Diseases and Disorders of Finfish in Cage Culture	CABI		CABI Digital Library	10.1079/9781800621640.0000		978-1-80062-163-3				Unique_Item_Requests	2	2	0
+Climate Change on Diseases and Disorders of Finfish in Cage Culture	CABI		CABI Digital Library	10.1079/9781800621640.0000		978-1-80062-163-3				Total_Item_Investigations	2	2	0
+Climate Change on Diseases and Disorders of Finfish in Cage Culture	CABI		CABI Digital Library	10.1079/9781800621640.0000		978-1-80062-163-3				Total_Item_Requests	2	2	0
+Crop Pollination by Bees, Volume 2: Individual Crops and their Bees	CABI		CABI Digital Library	10.1079/9781786393548.0000		978-1-78639-353-1				Unique_Title_Investigations	1	1	0
+Crop Pollination by Bees, Volume 2: Individual Crops and their Bees	CABI		CABI Digital Library	10.1079/9781786393548.0000		978-1-78639-353-1				Unique_Title_Requests	1	1	0
+Crop Pollination by Bees, Volume 2: Individual Crops and their Bees	CABI		CABI Digital Library	10.1079/9781786393548.0000		978-1-78639-353-1				Unique_Item_Investigations	1	1	0
+Crop Pollination by Bees, Volume 2: Individual Crops and their Bees	CABI		CABI Digital Library	10.1079/9781786393548.0000		978-1-78639-353-1				Unique_Item_Requests	1	1	0
+Crop Pollination by Bees, Volume 2: Individual Crops and their Bees	CABI		CABI Digital Library	10.1079/9781786393548.0000		978-1-78639-353-1				Total_Item_Investigations	1	1	0
+Crop Pollination by Bees, Volume 2: Individual Crops and their Bees	CABI		CABI Digital Library	10.1079/9781786393548.0000		978-1-78639-353-1				Total_Item_Requests	1	1	0
+Ecotourism in Scandinavia: lessons in theory and practice	CABI		CABI Digital Library	10.1079/9781845931346.0000		978-1-84593-137-7				Unique_Title_Investigations	1	1	0
+Ecotourism in Scandinavia: lessons in theory and practice	CABI		CABI Digital Library	10.1079/9781845931346.0000		978-1-84593-137-7				Unique_Title_Requests	1	1	0
+Ecotourism in Scandinavia: lessons in theory and practice	CABI		CABI Digital Library	10.1079/9781845931346.0000		978-1-84593-137-7				Unique_Item_Investigations	1	1	0
+Ecotourism in Scandinavia: lessons in theory and practice	CABI		CABI Digital Library	10.1079/9781845931346.0000		978-1-84593-137-7				Unique_Item_Requests	1	1	0
+Ecotourism in Scandinavia: lessons in theory and practice	CABI		CABI Digital Library	10.1079/9781845931346.0000		978-1-84593-137-7				Total_Item_Investigations	1	1	0
+Ecotourism in Scandinavia: lessons in theory and practice	CABI		CABI Digital Library	10.1079/9781845931346.0000		978-1-84593-137-7				Total_Item_Requests	1	1	0
+Feline Reproduction	CABI		CABI Digital Library	10.1079/9781789247107.0000		978-1-78924-709-1				Unique_Title_Investigations	2	2	0
+Feline Reproduction	CABI		CABI Digital Library	10.1079/9781789247107.0000		978-1-78924-709-1				Unique_Title_Requests	2	2	0
+Feline Reproduction	CABI		CABI Digital Library	10.1079/9781789247107.0000		978-1-78924-709-1				Unique_Item_Investigations	2	2	0
+Feline Reproduction	CABI		CABI Digital Library	10.1079/9781789247107.0000		978-1-78924-709-1				Unique_Item_Requests	2	2	0
+Feline Reproduction	CABI		CABI Digital Library	10.1079/9781789247107.0000		978-1-78924-709-1				Total_Item_Investigations	2	2	0
+Feline Reproduction	CABI		CABI Digital Library	10.1079/9781789247107.0000		978-1-78924-709-1				Total_Item_Requests	2	2	0
+Human-Animal Interactions	CABI		CABI Digital Library	10.1079/humananimalinteractions	cabi:hai			2957-9538		Unique_Item_Investigations	4	4	0
+Human-Animal Interactions	CABI		CABI Digital Library	10.1079/humananimalinteractions	cabi:hai			2957-9538		Unique_Item_Requests	4	4	0
+Human-Animal Interactions	CABI		CABI Digital Library	10.1079/humananimalinteractions	cabi:hai			2957-9538		Total_Item_Investigations	5	5	0
+Human-Animal Interactions	CABI		CABI Digital Library	10.1079/humananimalinteractions	cabi:hai			2957-9538		Total_Item_Requests	5	5	0
+Human-Animal Interactions	CABI		CABI Digital Library	10.1079/humananimalinteractions	cabi:hai			2957-9538		Unique_Item_Investigations	3	3	0
+Human-Animal Interactions	CABI		CABI Digital Library	10.1079/humananimalinteractions	cabi:hai			2957-9538		Unique_Item_Requests	3	3	0
+Human-Animal Interactions	CABI		CABI Digital Library	10.1079/humananimalinteractions	cabi:hai			2957-9538		Total_Item_Investigations	4	4	0
+Human-Animal Interactions	CABI		CABI Digital Library	10.1079/humananimalinteractions	cabi:hai			2957-9538		Total_Item_Requests	4	4	0
+Manual of Animal Andrology	CABI		CABI Digital Library	10.1079/9781789243505.0000		978-1-78924-351-2				Unique_Title_Investigations	1	1	0
+Manual of Animal Andrology	CABI		CABI Digital Library	10.1079/9781789243505.0000		978-1-78924-351-2				Unique_Title_Requests	1	1	0
+Manual of Animal Andrology	CABI		CABI Digital Library	10.1079/9781789243505.0000		978-1-78924-351-2				Unique_Item_Investigations	1	1	0
+Manual of Animal Andrology	CABI		CABI Digital Library	10.1079/9781789243505.0000		978-1-78924-351-2				Unique_Item_Requests	1	1	0
+Manual of Animal Andrology	CABI		CABI Digital Library	10.1079/9781789243505.0000		978-1-78924-351-2				Total_Item_Investigations	1	1	0
+Manual of Animal Andrology	CABI		CABI Digital Library	10.1079/9781789243505.0000		978-1-78924-351-2				Total_Item_Requests	1	1	0
+Protozoal abortion in farm ruminants: guidelines for diagnosis and control	CABI		CABI Digital Library	10.1079/9781845932114.0000		978-1-84593-212-1				Unique_Title_Investigations	1	1	0
+Protozoal abortion in farm ruminants: guidelines for diagnosis and control	CABI		CABI Digital Library	10.1079/9781845932114.0000		978-1-84593-212-1				Unique_Title_Requests	1	1	0
+Protozoal abortion in farm ruminants: guidelines for diagnosis and control	CABI		CABI Digital Library	10.1079/9781845932114.0000		978-1-84593-212-1				Unique_Item_Investigations	1	1	0
+Protozoal abortion in farm ruminants: guidelines for diagnosis and control	CABI		CABI Digital Library	10.1079/9781845932114.0000		978-1-84593-212-1				Unique_Item_Requests	1	1	0
+Protozoal abortion in farm ruminants: guidelines for diagnosis and control	CABI		CABI Digital Library	10.1079/9781845932114.0000		978-1-84593-212-1				Total_Item_Investigations	1	1	0
+Protozoal abortion in farm ruminants: guidelines for diagnosis and control	CABI		CABI Digital Library	10.1079/9781845932114.0000		978-1-84593-212-1				Total_Item_Requests	1	1	0
+Rodent pests and their control	CABI		CABI Digital Library	10.1079/9781845938178.0000		978-1-78064-129-4				Unique_Title_Investigations	2	2	0
+Rodent pests and their control	CABI		CABI Digital Library	10.1079/9781845938178.0000		978-1-78064-129-4				Unique_Item_Investigations	2	2	0
+Rodent pests and their control	CABI		CABI Digital Library	10.1079/9781845938178.0000		978-1-78064-129-4				Total_Item_Investigations	2	2	0
+Small animal veterinary psychiatry	CABI		CABI Digital Library	10.1079/9781786394552.0000		978-1-78639-456-9				Unique_Title_Investigations	1	1	0
+Small animal veterinary psychiatry	CABI		CABI Digital Library	10.1079/9781786394552.0000		978-1-78639-456-9				Unique_Title_Requests	1	1	0
+Small animal veterinary psychiatry	CABI		CABI Digital Library	10.1079/9781786394552.0000		978-1-78639-456-9				Unique_Item_Investigations	1	1	0
+Small animal veterinary psychiatry	CABI		CABI Digital Library	10.1079/9781786394552.0000		978-1-78639-456-9				Unique_Item_Requests	1	1	0
+Small animal veterinary psychiatry	CABI		CABI Digital Library	10.1079/9781786394552.0000		978-1-78639-456-9				Total_Item_Investigations	1	1	0
+Small animal veterinary psychiatry	CABI		CABI Digital Library	10.1079/9781786394552.0000		978-1-78639-456-9				Total_Item_Requests	1	1	0
+The biology of animal stress: basic principles and implications for animal welfare.	CABI		CABI Digital Library	10.1079/9780851993591.0000		978-0-85199-930-2				Unique_Title_Investigations	1	1	0
+The biology of animal stress: basic principles and implications for animal welfare.	CABI		CABI Digital Library	10.1079/9780851993591.0000		978-0-85199-930-2				Unique_Title_Requests	1	1	0
+The biology of animal stress: basic principles and implications for animal welfare.	CABI		CABI Digital Library	10.1079/9780851993591.0000		978-0-85199-930-2				Unique_Item_Investigations	1	1	0
+The biology of animal stress: basic principles and implications for animal welfare.	CABI		CABI Digital Library	10.1079/9780851993591.0000		978-0-85199-930-2				Unique_Item_Requests	1	1	0
+The biology of animal stress: basic principles and implications for animal welfare.	CABI		CABI Digital Library	10.1079/9780851993591.0000		978-0-85199-930-2				Total_Item_Investigations	1	1	0
+The biology of animal stress: basic principles and implications for animal welfare.	CABI		CABI Digital Library	10.1079/9780851993591.0000		978-0-85199-930-2				Total_Item_Requests	1	1	0

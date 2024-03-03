@@ -71,7 +71,10 @@ class Ui_Dialog_remove(object):
         self.buttonBox = QtWidgets.QDialogButtonBox(self.widget)
         self.buttonBox.setEnabled(True)
         self.buttonBox.setAutoFillBackground(False)
-        self.buttonBox.setStyleSheet("")
+        self.buttonBox.setStyleSheet("border: 2px solid grey;\n"
+"border-radius: 6px;\n"
+"background-color: #000000;\n"
+"padding: 6px;")
         self.buttonBox.setOrientation(QtCore.Qt.Horizontal)
         self.buttonBox.setStandardButtons(QtWidgets.QDialogButtonBox.Cancel|QtWidgets.QDialogButtonBox.Ok)
         self.buttonBox.setCenterButtons(False)

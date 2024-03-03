@@ -1,0 +1,24 @@
+Report_Name	Platform Master Report
+Report_ID	PR
+Release	5
+Institution_Name	University of Prince Edward Island
+Institution_ID	Silverchair:491
+Metric_Types	
+Report_Filters	
+Report_Attributes	Attributes_To_Show=Data_Type|Access_Method
+Exceptions	3031: Usage Not Ready for Requested Dates ()
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-01T00:00:00Z
+Created_By	Silverchair
+
+Platform	Data_Type	Access_Method	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+MIT Press	Book	Regular	Total_Item_Investigations	8	8	0
+MIT Press	Book	Regular	Unique_Title_Investigations	6	6	0
+MIT Press	Book	Regular	Unique_Item_Requests	1	1	0
+MIT Press	Book	Regular	Unique_Item_Investigations	7	7	0
+MIT Press	Book	Regular	Total_Item_Requests	1	1	0
+MIT Press	Book	Regular	Unique_Title_Requests	1	1	0
+MIT Press	Journal	Regular	Total_Item_Requests	3	3	0
+MIT Press	Journal	Regular	Unique_Item_Investigations	2	2	0
+MIT Press	Journal	Regular	Unique_Item_Requests	2	2	0
+MIT Press	Journal	Regular	Total_Item_Investigations	4	4	0

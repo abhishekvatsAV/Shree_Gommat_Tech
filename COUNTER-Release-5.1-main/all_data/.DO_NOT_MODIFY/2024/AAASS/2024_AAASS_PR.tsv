@@ -6,18 +6,18 @@ Institution_ID	aaas:20351555
 Metric_Types	
 Report_Filters	
 Report_Attributes	Attributes_To_Show=Data_Type|Access_Method
-Exceptions	
-Reporting_Period	End_Date=2024-01-31; Begin_Date=2024-01-01
-Created	2024-02-29T02:45:01Z
+Exceptions	3031: Usage Not Ready for Requested Dates (Requested data between 2024-02-01 and 2024-02-29. However only data between 2021-05-01 and 2024-01-31 exists.)
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-02T06:22:31Z
 Created_By	Atypon Systems LLC.
 
-Platform	Data_Type	Access_Method	Metric_Type	Reporting_Period_Total	Jan-2024
-aaas	Other	Regular	Unique_Item_Investigations	18	18
-aaas	Other	Regular	Unique_Item_Requests	18	18
-aaas	Other	Regular	Total_Item_Investigations	18	18
-aaas	Other	Regular	Total_Item_Requests	18	18
-aaas	Platform	Regular	Searches_Platform	95	95
-aaas	Journal	Regular	Unique_Item_Investigations	71	71
-aaas	Journal	Regular	Unique_Item_Requests	61	61
-aaas	Journal	Regular	Total_Item_Investigations	94	94
-aaas	Journal	Regular	Total_Item_Requests	82	82
+Platform	Data_Type	Access_Method	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+aaas	Other	Regular	Unique_Item_Investigations	18	18	0
+aaas	Other	Regular	Total_Item_Requests	18	18	0
+aaas	Other	Regular	Total_Item_Investigations	18	18	0
+aaas	Other	Regular	Unique_Item_Requests	18	18	0
+aaas	Platform	Regular	Searches_Platform	95	95	0
+aaas	Journal	Regular	Unique_Item_Investigations	71	71	0
+aaas	Journal	Regular	Total_Item_Requests	82	82	0
+aaas	Journal	Regular	Total_Item_Investigations	94	94	0
+aaas	Journal	Regular	Unique_Item_Requests	61	61	0

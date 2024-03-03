@@ -1,0 +1,54 @@
+{
+    "Report_Header": {
+        "Created": "2024-03-01T05:44:57-08:00", 
+        "Created_By": "HighWire Press Inc.", 
+        "Customer_ID": "COLLECTIONS@UPEI.CA", 
+        "Exceptions": [
+            {
+                "Code": "3040", 
+                "Data": "Usage data has not been processed for all requested months.  Data is not yet available after 202401", 
+                "Message": "Request could not be fulfilled in its entirety. Data that was available was returned.", 
+                "Severity": "Warning"
+            }, 
+            {
+                "Code": "3030", 
+                "Data": "No data available for given constraints.", 
+                "Message": "Service did not find any data for the date range specified.", 
+                "Severity": "Error"
+            }
+        ], 
+        "Institution_ID": [
+            {
+                "Type": "Proprietary", 
+                "Value": "HighWire:COLLECTIONS@UPEI.CA"
+            }
+        ], 
+        "Institution_Name": "COLLECTIONS@UPEI.CA", 
+        "Release": "5", 
+        "Report_Filters": [
+            {
+                "Name": "Begin_Date", 
+                "Value": "2024-01-01"
+            }, 
+            {
+                "Name": "End_Date", 
+                "Value": "2024-02-29"
+            }, 
+            {
+                "Name": "Metric_Type", 
+                "Value": "Total_Item_Investigations|Total_Item_Requests|Unique_Item_Investigations|Unique_Item_Requests|Unique_Title_Investigations|Unique_Title_Requests"
+            }, 
+            {
+                "Name": "Data_Type", 
+                "Value": "Book"
+            }, 
+            {
+                "Name": "Access_Method", 
+                "Value": "Regular"
+            }
+        ], 
+        "Report_ID": "TR_B3", 
+        "Report_Name": "Book Usage by Access Type"
+    }, 
+    "Report_Items": []
+}

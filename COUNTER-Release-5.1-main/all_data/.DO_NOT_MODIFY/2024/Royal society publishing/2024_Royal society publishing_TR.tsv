@@ -1,0 +1,134 @@
+Report_Name	Title Master Report
+Report_ID	TR
+Release	5
+Institution_Name	UNIVERSITY OF PRINCE EDWARD ISLAND
+Institution_ID	rsj:CU-0735144
+Metric_Types	
+Report_Filters	
+Report_Attributes	Attributes_To_Show=Data_Type|Section_Type|Access_Type|Access_Method|YOP
+Exceptions	3031: Usage Not Ready for Requested Dates (Requested data between 2024-02-01 and 2024-02-29. However only data between 2018-12-01 and 2024-01-31 exists.)
+Reporting_Period	End_Date=2024-02-29; Begin_Date=2024-01-01
+Created	2024-03-01T06:01:46Z
+Created_By	Atypon Systems LLC.
+
+Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	ISBN	Print_ISSN	Online_ISSN	URI	Data_Type	Section_Type	YOP	Access_Type	Access_Method	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+Biology Letters	Royal Society		rsj	10.1098/rsbl	rsj:rsbl			1744-957X		Journal	Article	2007	Controlled	Regular	Unique_Item_Investigations	1	1	0
+Biology Letters	Royal Society		rsj	10.1098/rsbl	rsj:rsbl			1744-957X		Journal	Article	2007	Controlled	Regular	Total_Item_Requests	1	1	0
+Biology Letters	Royal Society		rsj	10.1098/rsbl	rsj:rsbl			1744-957X		Journal	Article	2007	Controlled	Regular	Total_Item_Investigations	1	1	0
+Biology Letters	Royal Society		rsj	10.1098/rsbl	rsj:rsbl			1744-957X		Journal	Article	2007	Controlled	Regular	Unique_Item_Requests	1	1	0
+Biology Letters	Royal Society		rsj	10.1098/rsbl	rsj:rsbl			1744-957X		Journal	Article	2023	OA_Gold	Regular	Unique_Item_Investigations	3	3	0
+Biology Letters	Royal Society		rsj	10.1098/rsbl	rsj:rsbl			1744-957X		Journal	Article	2023	OA_Gold	Regular	Total_Item_Requests	3	3	0
+Biology Letters	Royal Society		rsj	10.1098/rsbl	rsj:rsbl			1744-957X		Journal	Article	2023	OA_Gold	Regular	Total_Item_Investigations	3	3	0
+Biology Letters	Royal Society		rsj	10.1098/rsbl	rsj:rsbl			1744-957X		Journal	Article	2023	OA_Gold	Regular	Unique_Item_Requests	3	3	0
+Journal of The Royal Society Interface	Royal Society		rsj	10.1098/rsif	rsj:rsif			1742-5662		Journal	Article	2016	OA_Gold	Regular	Unique_Item_Investigations	1	1	0
+Journal of The Royal Society Interface	Royal Society		rsj	10.1098/rsif	rsj:rsif			1742-5662		Journal	Article	2016	OA_Gold	Regular	Total_Item_Requests	1	1	0
+Journal of The Royal Society Interface	Royal Society		rsj	10.1098/rsif	rsj:rsif			1742-5662		Journal	Article	2016	OA_Gold	Regular	Total_Item_Investigations	1	1	0
+Journal of The Royal Society Interface	Royal Society		rsj	10.1098/rsif	rsj:rsif			1742-5662		Journal	Article	2016	OA_Gold	Regular	Unique_Item_Requests	1	1	0
+Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences	Royal Society		rsj	10.1098/rsta	rsj:rsta		1364-503X	1471-2962		Journal	Article	2006	Controlled	Regular	Unique_Item_Investigations	2	2	0
+Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences	Royal Society		rsj	10.1098/rsta	rsj:rsta		1364-503X	1471-2962		Journal	Article	2006	Controlled	Regular	Total_Item_Requests	2	2	0
+Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences	Royal Society		rsj	10.1098/rsta	rsj:rsta		1364-503X	1471-2962		Journal	Article	2006	Controlled	Regular	Total_Item_Investigations	2	2	0
+Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences	Royal Society		rsj	10.1098/rsta	rsj:rsta		1364-503X	1471-2962		Journal	Article	2006	Controlled	Regular	Unique_Item_Requests	2	2	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2007	Controlled	Regular	Unique_Item_Investigations	2	2	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2007	Controlled	Regular	Total_Item_Requests	3	3	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2007	Controlled	Regular	Total_Item_Investigations	3	3	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2007	Controlled	Regular	Unique_Item_Requests	2	2	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2010	Controlled	Regular	Unique_Item_Investigations	1	1	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2010	Controlled	Regular	Total_Item_Requests	1	1	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2010	Controlled	Regular	Total_Item_Investigations	1	1	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2010	Controlled	Regular	Unique_Item_Requests	1	1	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2011	Controlled	Regular	Unique_Item_Investigations	1	1	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2011	Controlled	Regular	Total_Item_Requests	1	1	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2011	Controlled	Regular	Total_Item_Investigations	1	1	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2011	Controlled	Regular	Unique_Item_Requests	1	1	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2013	Controlled	Regular	Unique_Item_Investigations	1	1	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2013	Controlled	Regular	Total_Item_Requests	1	1	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2013	Controlled	Regular	Total_Item_Investigations	1	1	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2013	Controlled	Regular	Unique_Item_Requests	1	1	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2015	Controlled	Regular	Unique_Item_Investigations	1	1	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2015	Controlled	Regular	Total_Item_Requests	1	1	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2015	Controlled	Regular	Total_Item_Investigations	1	1	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2015	Controlled	Regular	Unique_Item_Requests	1	1	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2015	OA_Gold	Regular	Unique_Item_Investigations	1	1	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2015	OA_Gold	Regular	Total_Item_Requests	3	3	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2015	OA_Gold	Regular	Total_Item_Investigations	3	3	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2015	OA_Gold	Regular	Unique_Item_Requests	1	1	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2018	OA_Gold	Regular	Unique_Item_Investigations	1	1	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2018	OA_Gold	Regular	Total_Item_Requests	1	1	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2018	OA_Gold	Regular	Total_Item_Investigations	1	1	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2018	OA_Gold	Regular	Unique_Item_Requests	1	1	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2019	OA_Gold	Regular	Unique_Item_Investigations	1	1	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2019	OA_Gold	Regular	Total_Item_Requests	1	1	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2019	OA_Gold	Regular	Total_Item_Investigations	1	1	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2019	OA_Gold	Regular	Unique_Item_Requests	1	1	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2022	OA_Gold	Regular	Unique_Item_Investigations	7	7	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2022	OA_Gold	Regular	Total_Item_Requests	8	8	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2022	OA_Gold	Regular	Total_Item_Investigations	8	8	0
+Philosophical Transactions of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rstb	rsj:rstb		0962-8436	1471-2970		Journal	Article	2022	OA_Gold	Regular	Unique_Item_Requests	7	7	0
+Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences	Royal Society		rsj	10.1098/rspa	rsj:rspa			1471-2946		Journal	Article	1948	Controlled	Regular	Unique_Item_Investigations	1	1	0
+Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences	Royal Society		rsj	10.1098/rspa	rsj:rspa			1471-2946		Journal	Article	1948	Controlled	Regular	Total_Item_Requests	1	1	0
+Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences	Royal Society		rsj	10.1098/rspa	rsj:rspa			1471-2946		Journal	Article	1948	Controlled	Regular	Total_Item_Investigations	2	2	0
+Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences	Royal Society		rsj	10.1098/rspa	rsj:rspa			1471-2946		Journal	Article	1948	Controlled	Regular	Unique_Item_Requests	1	1	0
+Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences	Royal Society		rsj	10.1098/rspa	rsj:rspa			1471-2946		Journal	Article	1956	Controlled	Regular	Unique_Item_Investigations	1	1	0
+Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences	Royal Society		rsj	10.1098/rspa	rsj:rspa			1471-2946		Journal	Article	1956	Controlled	Regular	Total_Item_Investigations	1	1	0
+Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences	Royal Society		rsj	10.1098/rspa	rsj:rspa			1471-2946		Journal	Article	2003	Controlled	Regular	Unique_Item_Investigations	1	1	0
+Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences	Royal Society		rsj	10.1098/rspa	rsj:rspa			1471-2946		Journal	Article	2003	Controlled	Regular	Total_Item_Investigations	1	1	0
+Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences	Royal Society		rsj	10.1098/rspa	rsj:rspa			1471-2946		Journal	Article	2019	Controlled	Regular	Unique_Item_Investigations	1	1	0
+Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences	Royal Society		rsj	10.1098/rspa	rsj:rspa			1471-2946		Journal	Article	2019	Controlled	Regular	Total_Item_Requests	1	1	0
+Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences	Royal Society		rsj	10.1098/rspa	rsj:rspa			1471-2946		Journal	Article	2019	Controlled	Regular	Total_Item_Investigations	1	1	0
+Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences	Royal Society		rsj	10.1098/rspa	rsj:rspa			1471-2946		Journal	Article	2019	Controlled	Regular	Unique_Item_Requests	1	1	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	1936	Controlled	Regular	Unique_Item_Investigations	1	1	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	1936	Controlled	Regular	Total_Item_Requests	1	1	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	1936	Controlled	Regular	Total_Item_Investigations	1	1	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	1936	Controlled	Regular	Unique_Item_Requests	1	1	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2001	Controlled	Regular	Unique_Item_Investigations	1	1	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2001	Controlled	Regular	Total_Item_Requests	1	1	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2001	Controlled	Regular	Total_Item_Investigations	1	1	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2001	Controlled	Regular	Unique_Item_Requests	1	1	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2011	Controlled	Regular	Unique_Item_Investigations	1	1	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2011	Controlled	Regular	Total_Item_Requests	1	1	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2011	Controlled	Regular	Total_Item_Investigations	1	1	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2011	Controlled	Regular	Unique_Item_Requests	1	1	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2013	Controlled	Regular	Unique_Item_Investigations	2	2	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2013	Controlled	Regular	Total_Item_Requests	5	5	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2013	Controlled	Regular	Total_Item_Investigations	5	5	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2013	Controlled	Regular	Unique_Item_Requests	2	2	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2015	Controlled	Regular	Unique_Item_Investigations	1	1	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2015	Controlled	Regular	Total_Item_Requests	1	1	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2015	Controlled	Regular	Total_Item_Investigations	1	1	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2015	Controlled	Regular	Unique_Item_Requests	1	1	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2016	Controlled	Regular	Unique_Item_Investigations	1	1	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2016	Controlled	Regular	Total_Item_Requests	1	1	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2016	Controlled	Regular	Total_Item_Investigations	1	1	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2016	Controlled	Regular	Unique_Item_Requests	1	1	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2021	Controlled	Regular	Unique_Item_Investigations	2	2	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2021	Controlled	Regular	Total_Item_Requests	3	3	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2021	Controlled	Regular	Total_Item_Investigations	3	3	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2021	Controlled	Regular	Unique_Item_Requests	2	2	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2022	Controlled	Regular	Unique_Item_Investigations	1	1	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2022	Controlled	Regular	Total_Item_Requests	1	1	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2022	Controlled	Regular	Total_Item_Investigations	1	1	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2022	Controlled	Regular	Unique_Item_Requests	1	1	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2023	OA_Gold	Regular	Unique_Item_Investigations	1	1	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2023	OA_Gold	Regular	Total_Item_Requests	1	1	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2023	OA_Gold	Regular	Total_Item_Investigations	1	1	0
+Proceedings of the Royal Society B: Biological Sciences	Royal Society		rsj	10.1098/rspb	rsj:rspb			1471-2954		Journal	Article	2023	OA_Gold	Regular	Unique_Item_Requests	1	1	0
+Royal Society Open Science	Royal Society		rsj	10.1098/rsos	rsj:rsos			2054-5703		Journal	Article	2015	OA_Gold	Regular	Unique_Item_Investigations	1	1	0
+Royal Society Open Science	Royal Society		rsj	10.1098/rsos	rsj:rsos			2054-5703		Journal	Article	2015	OA_Gold	Regular	Total_Item_Requests	1	1	0
+Royal Society Open Science	Royal Society		rsj	10.1098/rsos	rsj:rsos			2054-5703		Journal	Article	2015	OA_Gold	Regular	Total_Item_Investigations	1	1	0
+Royal Society Open Science	Royal Society		rsj	10.1098/rsos	rsj:rsos			2054-5703		Journal	Article	2015	OA_Gold	Regular	Unique_Item_Requests	1	1	0
+Royal Society Open Science	Royal Society		rsj	10.1098/rsos	rsj:rsos			2054-5703		Journal	Article	2020	OA_Gold	Regular	Unique_Item_Investigations	2	2	0
+Royal Society Open Science	Royal Society		rsj	10.1098/rsos	rsj:rsos			2054-5703		Journal	Article	2020	OA_Gold	Regular	Total_Item_Requests	4	4	0
+Royal Society Open Science	Royal Society		rsj	10.1098/rsos	rsj:rsos			2054-5703		Journal	Article	2020	OA_Gold	Regular	Total_Item_Investigations	4	4	0
+Royal Society Open Science	Royal Society		rsj	10.1098/rsos	rsj:rsos			2054-5703		Journal	Article	2020	OA_Gold	Regular	Unique_Item_Requests	2	2	0
+Royal Society Open Science	Royal Society		rsj	10.1098/rsos	rsj:rsos			2054-5703		Journal	Article	2021	OA_Gold	Regular	Unique_Item_Investigations	1	1	0
+Royal Society Open Science	Royal Society		rsj	10.1098/rsos	rsj:rsos			2054-5703		Journal	Article	2021	OA_Gold	Regular	Total_Item_Requests	2	2	0
+Royal Society Open Science	Royal Society		rsj	10.1098/rsos	rsj:rsos			2054-5703		Journal	Article	2021	OA_Gold	Regular	Total_Item_Investigations	2	2	0
+Royal Society Open Science	Royal Society		rsj	10.1098/rsos	rsj:rsos			2054-5703		Journal	Article	2021	OA_Gold	Regular	Unique_Item_Requests	1	1	0
+Royal Society Open Science	Royal Society		rsj	10.1098/rsos	rsj:rsos			2054-5703		Journal	Article	2022	OA_Gold	Regular	Unique_Item_Investigations	2	2	0
+Royal Society Open Science	Royal Society		rsj	10.1098/rsos	rsj:rsos			2054-5703		Journal	Article	2022	OA_Gold	Regular	Total_Item_Requests	3	3	0
+Royal Society Open Science	Royal Society		rsj	10.1098/rsos	rsj:rsos			2054-5703		Journal	Article	2022	OA_Gold	Regular	Total_Item_Investigations	3	3	0
+Royal Society Open Science	Royal Society		rsj	10.1098/rsos	rsj:rsos			2054-5703		Journal	Article	2022	OA_Gold	Regular	Unique_Item_Requests	2	2	0
+Royal Society Open Science	Royal Society		rsj	10.1098/rsos	rsj:rsos			2054-5703		Journal	Article	2023	OA_Gold	Regular	Unique_Item_Investigations	2	2	0
+Royal Society Open Science	Royal Society		rsj	10.1098/rsos	rsj:rsos			2054-5703		Journal	Article	2023	OA_Gold	Regular	Total_Item_Requests	3	3	0
+Royal Society Open Science	Royal Society		rsj	10.1098/rsos	rsj:rsos			2054-5703		Journal	Article	2023	OA_Gold	Regular	Total_Item_Investigations	3	3	0
+Royal Society Open Science	Royal Society		rsj	10.1098/rsos	rsj:rsos			2054-5703		Journal	Article	2023	OA_Gold	Regular	Unique_Item_Requests	2	2	0

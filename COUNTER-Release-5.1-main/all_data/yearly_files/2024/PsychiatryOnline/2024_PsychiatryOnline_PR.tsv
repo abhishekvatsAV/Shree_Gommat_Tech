@@ -1,0 +1,25 @@
+Report_Name	Platform Master Report
+Report_ID	PR
+Release	5
+Institution_Name	University of Prince Edward Island
+Institution_ID	app:297459
+Metric_Types	
+Report_Filters	
+Report_Attributes	
+Exceptions	3031: Usage Not Ready for Requested Dates (Requested data between 2024-02-01 and 2024-02-29. However only data between 2018-11-01 and 2024-01-31 exists.)
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-01T05:54:15Z
+Created_By	Atypon Systems LLC.
+
+Platform	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+American Psychiatric Publishing	Searches_Platform	10	10	0
+American Psychiatric Publishing	Unique_Item_Investigations	17	17	0
+American Psychiatric Publishing	Unique_Item_Requests	16	16	0
+American Psychiatric Publishing	Total_Item_Investigations	42	42	0
+American Psychiatric Publishing	Total_Item_Requests	23	23	0
+American Psychiatric Publishing	Unique_Title_Investigations	12	12	0
+American Psychiatric Publishing	Unique_Title_Requests	11	11	0
+American Psychiatric Publishing	Unique_Item_Investigations	9	9	0
+American Psychiatric Publishing	Unique_Item_Requests	9	9	0
+American Psychiatric Publishing	Total_Item_Investigations	19	19	0
+American Psychiatric Publishing	Total_Item_Requests	10	10	0

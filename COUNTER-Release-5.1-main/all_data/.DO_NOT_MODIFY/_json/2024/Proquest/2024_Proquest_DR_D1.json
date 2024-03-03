@@ -1,0 +1,1880 @@
+{
+  "Report_Header": {
+    "Created": "2024-03-01T13:53:41Z",
+    "Created_By": "ProQuest",
+    "Customer_ID": "14670",
+    "Report_ID": "DR_D1",
+    "Release": "5",
+    "Report_Name": "Database Search and Item Usage",
+    "Institution_Name": "UNIVERSITY OF PRINCE EDWARD ISLAND",
+    "Institution_ID": [
+      {
+        "Type": "Proprietary",
+        "Value": "ProQuest:14670"
+      }
+    ],
+    "Report_Filters": [
+      {
+        "Name": "Platform",
+        "Value": "ProQuest"
+      },
+      {
+        "Name": "Begin_Date",
+        "Value": "2024-01-01"
+      },
+      {
+        "Name": "End_Date",
+        "Value": "2024-02-29"
+      },
+      {
+        "Name": "Metric_Type",
+        "Value": "Searches_Automated|Searches_Federated|Searches_Regular|Total_Item_Investigations|Total_Item_Requests"
+      },
+      {
+        "Name": "Access_Method",
+        "Value": "Regular"
+      }
+    ],
+    "Exceptions": [
+      {
+        "Code": 3040,
+        "Severity": "Warning",
+        "Message": "Partial Data Returned.",
+        "Help_URL": "http://proquest.com/go/usage",
+        "Data": "Usage data has not been processed for all requested months."
+      }
+    ]
+  },
+  "Report_Items": [
+    {
+      "Database": "ASFA: Aquatic Sciences and Fisheries Abstracts",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:asfa"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 52
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Academic Video Online",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:avon"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 47
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Aquatic Science & Fisheries Abstracts (ASFA) 1: Biological Sciences & Living Resources",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:asfabiological"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 52
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Aquatic Science & Fisheries Abstracts (ASFA) 2: Ocean Technology, Policy & Non-Living Resources",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:asfaocean"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 52
+            },
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 31
+            },
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 1
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Aquatic Science & Fisheries Abstracts (ASFA) 3: Aquatic Pollution & Environmental Quality",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:asfaaquaticpollution"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 52
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Aquatic Science & Fisheries Abstracts (ASFA) Aquaculture Abstracts",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:asfaaquaculture"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 52
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 31
+            },
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Aquatic Science & Fisheries Abstracts (ASFA) Marine Biotechnology Abstracts",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:asfamarine"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 52
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Canadian Business & Current Affairs Database",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:cbcacomplete"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 77
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Canadian Business & Current Affairs Database: Business",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:cbcacompletebusiness"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 12
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 12
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 3
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Canadian Business & Current Affairs Database: Health & Medicine",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:cbcacompletehealth"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 6
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 5
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 12
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Canadian Business & Current Affairs Database: History",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:cbcacompletehistory"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 38
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 29
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 26
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Canadian Business & Current Affairs Database: Literature & Language",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:cbcacompletelitlang"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 22
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 18
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 21
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Canadian Business & Current Affairs Database: Science & Technology",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:cbcacompletescitech"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 7
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 6
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 12
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Canadian Business & Current Affairs Database: Social Sciences",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:cbcacompletesocsci"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 7
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 5
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 3
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Canadian Business & Current Affairs Database: The Arts",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:cbcacompletearts"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 3
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 3
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 2
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Coronavirus Research Database",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:coronavirus"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 47
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Dissertations & Theses @ University of Prince Edward Island",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:pqdtlocal1006012"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 50
+            },
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 1
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 32
+            },
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 10
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Earth, Atmospheric & Aquatic Science Collection",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:earthatmosphericaquatic"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 52
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Earth, Atmospheric & Aquatic Science Database",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:eaasdb"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 52
+            },
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 26
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 26
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 31
+            },
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 22
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Ebook Central",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:ebookcentral1"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 47
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Latino Literature: Poetry, Drama, and Fiction",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:litcollectionlali"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 47
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Meteorological & Geoastrophysical Abstracts",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:mgamodule"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 52
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Oceanic Abstracts",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:oceanic"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 52
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 31
+            },
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Periodicals Archive Online",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:pao"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 94
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Periodicals Archive Online Collection 1",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:pao1_2upd"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Automated",
+              "Count": 47
+            },
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 3
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 3
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Automated",
+              "Count": 28
+            },
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 12
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Periodicals Archive Online Collection 10",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:pao10"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Automated",
+              "Count": 47
+            },
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 1
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Automated",
+              "Count": 28
+            },
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 2
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Periodicals Archive Online Collection 2",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:pao2_2upd"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Automated",
+              "Count": 47
+            },
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 10
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 10
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Automated",
+              "Count": 28
+            },
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 2
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Periodicals Archive Online Collection 2",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:pao2upd"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Automated",
+              "Count": 47
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Automated",
+              "Count": 28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Periodicals Archive Online Collection 3",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:pao3_3upd"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Automated",
+              "Count": 47
+            },
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 2
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 2
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Automated",
+              "Count": 28
+            },
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 1
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Periodicals Archive Online Collection 4",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:pao4_2"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Automated",
+              "Count": 47
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Automated",
+              "Count": 28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Periodicals Archive Online Collection 4",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:pao4upd"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Automated",
+              "Count": 47
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Automated",
+              "Count": 28
+            },
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 36
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Periodicals Archive Online Collection 5",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:pao5_2"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Automated",
+              "Count": 47
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Automated",
+              "Count": 28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Periodicals Archive Online Collection 5",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:pao5upd"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Automated",
+              "Count": 47
+            },
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 4
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 4
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Automated",
+              "Count": 28
+            },
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 4
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Periodicals Archive Online Collection 6",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:pao6"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Automated",
+              "Count": 47
+            },
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 1
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Automated",
+              "Count": 28
+            },
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 4
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Periodicals Archive Online Collection 6",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:pao6_2"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Automated",
+              "Count": 47
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Automated",
+              "Count": 28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Periodicals Archive Online Collection 7",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:pao7"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Automated",
+              "Count": 47
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Automated",
+              "Count": 28
+            },
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 5
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Periodicals Archive Online Collection 8",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:pao8"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Automated",
+              "Count": 47
+            },
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 1
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Automated",
+              "Count": 28
+            },
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 23
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Periodicals Archive Online Collection 9",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:pao9"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Automated",
+              "Count": 47
+            },
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 2
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 2
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Automated",
+              "Count": 28
+            },
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 10
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "ProQuest Historical Newspapers: The Globe and Mail",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:hnpglobeandmail"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 57
+            },
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 6
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 6
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 33
+            },
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 12
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "ProQuest One Business General Content",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:pq1busgeneral"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 1
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "ProQuest Preview Content",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:internalopenlayer"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 17
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Database": "Publicly Available Content Database",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:publiccontent"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "ProQuest",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 47
+            },
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 28
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 26
+            }
+          ]
+        },
+        {
+          "Period": {
+            "Begin_Date": "2024-02-01",
+            "End_Date": "2024-02-29"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "Searches_Regular",
+              "Count": 28
+            },
+            {
+              "Metric_Type": "Total_Item_Investigations",
+              "Count": 44
+            },
+            {
+              "Metric_Type": "Total_Item_Requests",
+              "Count": 43
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

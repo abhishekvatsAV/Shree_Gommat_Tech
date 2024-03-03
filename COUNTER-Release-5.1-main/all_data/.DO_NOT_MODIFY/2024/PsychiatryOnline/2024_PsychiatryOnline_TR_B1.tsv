@@ -1,0 +1,20 @@
+Report_Name	Book Requests (Excluding OA_Gold)
+Report_ID	TR_B1
+Release	5
+Institution_Name	University of Prince Edward Island
+Institution_ID	app:297459
+Metric_Types	Total_Item_Requests; Unique_Title_Requests
+Report_Filters	Access_Type=Controlled; Data_Type=Book; Access_Method=Regular
+Report_Attributes	
+Exceptions	3031: Usage Not Ready for Requested Dates (Requested data between 2024-02-01 and 2024-02-29. However only data between 2018-11-01 and 2024-01-31 exists.)
+Reporting_Period	End_Date=2024-02-29; Begin_Date=2024-01-01
+Created	2024-03-01T05:54:38Z
+Created_By	Atypon Systems LLC.
+
+Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	ISBN	Print_ISSN	Online_ISSN	URI	YOP	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+Diagnostic and Statistical Manual of Mental Disorders	American Psychiatric Publishing		American Psychiatric Publishing	10.1176/appi.books.9780890425596		978-0-89042-557-2				2013	Total_Item_Requests	8	8	0
+Diagnostic and Statistical Manual of Mental Disorders	American Psychiatric Publishing		American Psychiatric Publishing	10.1176/appi.books.9780890425596		978-0-89042-557-2				2013	Unique_Title_Requests	5	5	0
+Diagnostic and Statistical Manual of Mental Disorders	American Psychiatric Publishing		American Psychiatric Publishing	10.1176/appi.books.9780890425787						2022	Total_Item_Requests	14	14	0
+Diagnostic and Statistical Manual of Mental Disorders	American Psychiatric Publishing		American Psychiatric Publishing	10.1176/appi.books.9780890425787						2022	Unique_Title_Requests	5	5	0
+DSM-5® Handbook of Differential Diagnosis	American Psychiatric Publishing		American Psychiatric Publishing	10.1176/appi.books.9781585629992		978-1-58562-998-5				2013	Total_Item_Requests	1	1	0
+DSM-5® Handbook of Differential Diagnosis	American Psychiatric Publishing		American Psychiatric Publishing	10.1176/appi.books.9781585629992		978-1-58562-998-5				2013	Unique_Title_Requests	1	1	0

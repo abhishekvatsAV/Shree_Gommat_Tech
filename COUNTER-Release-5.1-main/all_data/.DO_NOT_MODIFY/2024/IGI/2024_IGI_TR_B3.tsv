@@ -1,0 +1,35 @@
+Report_Name	Book Usage by Access Type
+Report_ID	TR_B3
+Release	5
+Institution_Name	University of Prince Edward Island
+Institution_ID	
+Metric_Types	Total_Item_Investigations; Total_Item_Requests; Unique_Item_Investigations; Unique_Item_Requests; Unique_Title_Investigations; Unique_Title_Requests
+Report_Filters	Data_Type=Book; Access_Method=Regular
+Report_Attributes	
+Exceptions	
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-01T01:45:39Z
+Created_By	IGI Global e-Resources Platform
+
+Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	ISBN	Print_ISSN	Online_ISSN	URI	YOP	Access_Type	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+Analyzing Global Social Media Consumption	IGI Global		IGI Global e-Resources Platform			978-1-7998-4718-2				2021	Controlled	Total_Item_Investigations	2	2	0
+Analyzing Global Social Media Consumption	IGI Global		IGI Global e-Resources Platform			978-1-7998-4718-2				2021	Controlled	Unique_Item_Investigations	1	1	0
+Analyzing Global Social Media Consumption	IGI Global		IGI Global e-Resources Platform			978-1-7998-4718-2				2021	Controlled	Unique_Title_Investigations	1	1	0
+Emerging Trends in the Diagnosis and Intervention of Neurodevelopmental Disorders	IGI Global		IGI Global e-Resources Platform			978-1-5225-7004-2				2019	Controlled	Total_Item_Investigations	1	1	0
+Emerging Trends in the Diagnosis and Intervention of Neurodevelopmental Disorders	IGI Global		IGI Global e-Resources Platform			978-1-5225-7004-2				2019	Controlled	Unique_Item_Investigations	1	1	0
+Emerging Trends in the Diagnosis and Intervention of Neurodevelopmental Disorders	IGI Global		IGI Global e-Resources Platform			978-1-5225-7004-2				2019	Controlled	Unique_Title_Investigations	1	1	0
+Influences of Social Media on Consumer Decision-Making Processes in the Food and Grocery Industry	IGI Global		IGI Global e-Resources Platform			978-1-6684-8868-3				2023	Controlled	Total_Item_Investigations	2	2	0
+Influences of Social Media on Consumer Decision-Making Processes in the Food and Grocery Industry	IGI Global		IGI Global e-Resources Platform			978-1-6684-8868-3				2023	Controlled	Unique_Item_Investigations	1	1	0
+Influences of Social Media on Consumer Decision-Making Processes in the Food and Grocery Industry	IGI Global		IGI Global e-Resources Platform			978-1-6684-8868-3				2023	Controlled	Unique_Title_Investigations	1	1	0
+IT and the Development of Digital Skills and Competences in Education	IGI Global		IGI Global e-Resources Platform			978-1-7998-4972-8				2021	Controlled	Total_Item_Investigations	4	4	0
+IT and the Development of Digital Skills and Competences in Education	IGI Global		IGI Global e-Resources Platform			978-1-7998-4972-8				2021	Controlled	Unique_Item_Investigations	2	2	0
+IT and the Development of Digital Skills and Competences in Education	IGI Global		IGI Global e-Resources Platform			978-1-7998-4972-8				2021	Controlled	Unique_Title_Investigations	1	1	0
+New Models for Technical and Vocational Education and Training	IGI Global		IGI Global e-Resources Platform			978-1-7998-2607-1				2021	Controlled	Total_Item_Investigations	1	0	1
+New Models for Technical and Vocational Education and Training	IGI Global		IGI Global e-Resources Platform			978-1-7998-2607-1				2021	Controlled	Unique_Item_Investigations	1	0	1
+New Models for Technical and Vocational Education and Training	IGI Global		IGI Global e-Resources Platform			978-1-7998-2607-1				2021	Controlled	Unique_Title_Investigations	1	0	1
+Preparing Globally Competent Professionals and Leaders for Innovation and Sustainability	IGI Global		IGI Global e-Resources Platform			978-1-6684-4528-0				2022	Controlled	Total_Item_Investigations	15	0	15
+Preparing Globally Competent Professionals and Leaders for Innovation and Sustainability	IGI Global		IGI Global e-Resources Platform			978-1-6684-4528-0				2022	Controlled	Unique_Item_Investigations	8	0	8
+Preparing Globally Competent Professionals and Leaders for Innovation and Sustainability	IGI Global		IGI Global e-Resources Platform			978-1-6684-4528-0				2022	Controlled	Unique_Title_Investigations	6	0	6
+Preparing Globally Competent Professionals and Leaders for Innovation and Sustainability	IGI Global		IGI Global e-Resources Platform			978-1-6684-4528-0				2022	Controlled	Total_Item_Requests	7	0	7
+Preparing Globally Competent Professionals and Leaders for Innovation and Sustainability	IGI Global		IGI Global e-Resources Platform			978-1-6684-4528-0				2022	Controlled	Unique_Item_Requests	5	0	5
+Preparing Globally Competent Professionals and Leaders for Innovation and Sustainability	IGI Global		IGI Global e-Resources Platform			978-1-6684-4528-0				2022	Controlled	Unique_Title_Requests	3	0	3

@@ -1,4 +1,4 @@
-name	is_version_5_0_or_5_1	base_url	starting_year	customer_id	requestor_id	api_key	platform	requires_two_attempts	does_ip_checking	needs_throttling	notes	provider
+name	version	base_url	starting_year	customer_id	requestor_id	api_key	platform	requires_two_attempts	does_ip_checking	needs_throttling	notes	provider
 William Avila	5.1	https://www.briggs.info/counter/r51/reports	2015	044880037	067959246	f69034f0-6bb9-46b6-a2db-27e543978389	35d3ea1	false	true	true	Activity energy thro	Well fact 
 Lauren Willis	5.1	http://smith.net/counter/r51/reports	1978	122742495	121913717	92dd8eaa-d51c-4320-9d8d-7dd0aeb4fee4	3e78fc9	true	false	false	About black treat ha	Low sound 
 Nicole Delgado	5.1	http://www.wright-ray.net/counter/r51/reports	1981	055226499	076112867	0b2d7769-4c21-4265-93a0-4b63917341ea	cd46f9b	false	true	false	Choice who avoid tow	Method whe

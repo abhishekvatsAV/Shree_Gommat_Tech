@@ -1,0 +1,56 @@
+Report_Name	Journal Usage by Access Type
+Report_ID	TR_J3
+Release	5
+Institution_Name	University of Prince Edward Island
+Institution_ID	
+Metric_Types	Total_Item_Investigations; Total_Item_Requests; Unique_Item_Investigations; Unique_Item_Requests
+Report_Filters	Data_Type=Journal; Access_Method=Regular
+Report_Attributes	
+Exceptions	
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-01T01:45:48Z
+Created_By	IGI Global e-Resources Platform
+
+Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	Print_ISSN	Online_ISSN	URI	Access_Type	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+International Journal of Applied Management Theory and Research (IJAMTR)	IGI Global		IGI Global e-Resources Platform			2572-4819	2572-4827		OA_Gold	Total_Item_Investigations	3	0	3
+International Journal of Applied Management Theory and Research (IJAMTR)	IGI Global		IGI Global e-Resources Platform			2572-4819	2572-4827		OA_Gold	Unique_Item_Investigations	1	0	1
+International Journal of Applied Management Theory and Research (IJAMTR)	IGI Global		IGI Global e-Resources Platform			2572-4819	2572-4827		OA_Gold	Total_Item_Requests	2	0	2
+International Journal of Applied Management Theory and Research (IJAMTR)	IGI Global		IGI Global e-Resources Platform			2572-4819	2572-4827		OA_Gold	Unique_Item_Requests	1	0	1
+International Journal of Asian Business and Information Management (IJABIM)	IGI Global		IGI Global e-Resources Platform			1947-9638	1947-9646		OA_Gold	Total_Item_Investigations	7	0	7
+International Journal of Asian Business and Information Management (IJABIM)	IGI Global		IGI Global e-Resources Platform			1947-9638	1947-9646		OA_Gold	Unique_Item_Investigations	2	0	2
+International Journal of Asian Business and Information Management (IJABIM)	IGI Global		IGI Global e-Resources Platform			1947-9638	1947-9646		OA_Gold	Total_Item_Requests	3	0	3
+International Journal of Asian Business and Information Management (IJABIM)	IGI Global		IGI Global e-Resources Platform			1947-9638	1947-9646		OA_Gold	Unique_Item_Requests	1	0	1
+International Journal of E-Business Research (IJEBR)	IGI Global		IGI Global e-Resources Platform			1548-1131	1548-114X		OA_Gold	Total_Item_Investigations	2	1	1
+International Journal of E-Business Research (IJEBR)	IGI Global		IGI Global e-Resources Platform			1548-1131	1548-114X		OA_Gold	Unique_Item_Investigations	2	1	1
+International Journal of Game-Based Learning (IJGBL)	IGI Global		IGI Global e-Resources Platform			2155-6849	2155-6857		OA_Gold	Total_Item_Investigations	17	0	17
+International Journal of Game-Based Learning (IJGBL)	IGI Global		IGI Global e-Resources Platform			2155-6849	2155-6857		OA_Gold	Unique_Item_Investigations	7	0	7
+International Journal of Game-Based Learning (IJGBL)	IGI Global		IGI Global e-Resources Platform			2155-6849	2155-6857		OA_Gold	Total_Item_Requests	11	0	11
+International Journal of Game-Based Learning (IJGBL)	IGI Global		IGI Global e-Resources Platform			2155-6849	2155-6857		OA_Gold	Unique_Item_Requests	4	0	4
+International Journal of Information Systems and Social Change (IJISSC)	IGI Global		IGI Global e-Resources Platform			1941-868X	1941-8698		OA_Gold	Total_Item_Investigations	1	0	1
+International Journal of Information Systems and Social Change (IJISSC)	IGI Global		IGI Global e-Resources Platform			1941-868X	1941-8698		OA_Gold	Unique_Item_Investigations	1	0	1
+International Journal of Information Systems and Social Change (IJISSC)	IGI Global		IGI Global e-Resources Platform			1941-868X	1941-8698		OA_Gold	Total_Item_Requests	1	0	1
+International Journal of Information Systems and Social Change (IJISSC)	IGI Global		IGI Global e-Resources Platform			1941-868X	1941-8698		OA_Gold	Unique_Item_Requests	1	0	1
+International Journal of Sociotechnology and Knowledge Development (IJSKD)	IGI Global		IGI Global e-Resources Platform			1941-6253	1941-6261		Controlled	Total_Item_Investigations	5	0	5
+International Journal of Sociotechnology and Knowledge Development (IJSKD)	IGI Global		IGI Global e-Resources Platform			1941-6253	1941-6261		Controlled	Unique_Item_Investigations	3	0	3
+International Journal of Sociotechnology and Knowledge Development (IJSKD)	IGI Global		IGI Global e-Resources Platform			1941-6253	1941-6261		Controlled	Total_Item_Requests	3	0	3
+International Journal of Sociotechnology and Knowledge Development (IJSKD)	IGI Global		IGI Global e-Resources Platform			1941-6253	1941-6261		Controlled	Unique_Item_Requests	3	0	3
+International Journal of System Dynamics Applications (IJSDA)	IGI Global		IGI Global e-Resources Platform			2160-9772	2160-9799		OA_Gold	Total_Item_Investigations	7	0	7
+International Journal of System Dynamics Applications (IJSDA)	IGI Global		IGI Global e-Resources Platform			2160-9772	2160-9799		OA_Gold	Unique_Item_Investigations	5	0	5
+International Journal of System Dynamics Applications (IJSDA)	IGI Global		IGI Global e-Resources Platform			2160-9772	2160-9799		OA_Gold	Total_Item_Requests	4	0	4
+International Journal of System Dynamics Applications (IJSDA)	IGI Global		IGI Global e-Resources Platform			2160-9772	2160-9799		OA_Gold	Unique_Item_Requests	4	0	4
+International Journal of Web-Based Learning and Teaching Technologies (IJWLTT)	IGI Global		IGI Global e-Resources Platform			1548-1093	1548-1107		OA_Gold	Total_Item_Investigations	20	20	0
+International Journal of Web-Based Learning and Teaching Technologies (IJWLTT)	IGI Global		IGI Global e-Resources Platform			1548-1093	1548-1107		OA_Gold	Unique_Item_Investigations	17	17	0
+International Journal of Web-Based Learning and Teaching Technologies (IJWLTT)	IGI Global		IGI Global e-Resources Platform			1548-1093	1548-1107		OA_Gold	Total_Item_Requests	19	19	0
+International Journal of Web-Based Learning and Teaching Technologies (IJWLTT)	IGI Global		IGI Global e-Resources Platform			1548-1093	1548-1107		OA_Gold	Unique_Item_Requests	17	17	0
+Journal of Business Ecosystems (JBE)	IGI Global		IGI Global e-Resources Platform			2644-1810	2644-1829		OA_Gold	Total_Item_Investigations	4	4	0
+Journal of Business Ecosystems (JBE)	IGI Global		IGI Global e-Resources Platform			2644-1810	2644-1829		OA_Gold	Unique_Item_Investigations	1	1	0
+Journal of Business Ecosystems (JBE)	IGI Global		IGI Global e-Resources Platform			2644-1810	2644-1829		OA_Gold	Total_Item_Requests	2	2	0
+Journal of Business Ecosystems (JBE)	IGI Global		IGI Global e-Resources Platform			2644-1810	2644-1829		OA_Gold	Unique_Item_Requests	1	1	0
+Journal of Global Information Management (JGIM)	IGI Global		IGI Global e-Resources Platform			1062-7375	1533-7995		OA_Gold	Total_Item_Investigations	28	3	25
+Journal of Global Information Management (JGIM)	IGI Global		IGI Global e-Resources Platform			1062-7375	1533-7995		OA_Gold	Unique_Item_Investigations	8	2	6
+Journal of Global Information Management (JGIM)	IGI Global		IGI Global e-Resources Platform			1062-7375	1533-7995		OA_Gold	Total_Item_Requests	13	1	12
+Journal of Global Information Management (JGIM)	IGI Global		IGI Global e-Resources Platform			1062-7375	1533-7995		OA_Gold	Unique_Item_Requests	6	1	5
+Journal of Organizational and End User Computing (JOEUC)	IGI Global		IGI Global e-Resources Platform			1546-2234	1546-5012		OA_Gold	Total_Item_Investigations	2	0	2
+Journal of Organizational and End User Computing (JOEUC)	IGI Global		IGI Global e-Resources Platform			1546-2234	1546-5012		OA_Gold	Unique_Item_Investigations	1	0	1
+Journal of Organizational and End User Computing (JOEUC)	IGI Global		IGI Global e-Resources Platform			1546-2234	1546-5012		OA_Gold	Total_Item_Requests	1	0	1
+Journal of Organizational and End User Computing (JOEUC)	IGI Global		IGI Global e-Resources Platform			1546-2234	1546-5012		OA_Gold	Unique_Item_Requests	1	0	1

@@ -1,0 +1,705 @@
+{
+"Report_Header": {
+"Created":"2024-03-01T13:47:06Z",
+"Created_By":"ingentaconnect",
+"Customer_ID":"peican",
+"Report_ID":"TR_J3",
+"Release":"5",
+"Report_Name":"Journal Usage by Access Type",
+"Institution_Name":"University of PEI (Prince Edward Island)",
+"Institution_ID": [
+{
+"Type":"Proprietary",
+"Value":"connect:peican"
+}
+],
+"Report_Filters":[
+{
+"Name":"Begin_Date",
+"Value":"2024-01-01"
+},{
+"Name":"End_Date",
+"Value":"2024-02-29"
+},{
+"Name":"Access_Method",
+"Value":"Regular"
+}
+,{
+"Name":"Metric_Type",
+"Value":"Total_Item_Investigations|Total_Item_Requests|Unique_Item_Investigations|Unique_Item_Requests"
+}
+,{
+"Name":"Data_Type",
+"Value":"Journal"
+}],
+"Exceptions":[
+{
+"Code":3031,
+"Severity":"Warning",
+"Message":"Usage Not Ready for Requested Dates(Investigation Usage is available up to 2024-01-31.Request Usage is available up to 2024-01-31.)",
+"Help_URL":"/help/sushi"
+}]
+},
+"Report_Items": [
+{
+"Title":"Advances in Neonatal Care",
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "1536-0903"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1536-0911"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/wk/anc"
+}
+],
+"Platform":"connect",
+"Publisher":"Wolters Kluwer",
+"Access_Type":"Controlled",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+}]}
+
+]
+},
+{
+"Title":"Bulletin of Marine Science",
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "0007-4977"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1553-6955"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/umrsmas/bullmar"
+}
+],
+"Platform":"connect",
+"Publisher":"University of Miami - Rosenstiel School of Marine, Atmospheric & Earth Science",
+"Access_Type":"Controlled",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":3
+},{
+"Metric_Type":"Total_Item_Requests",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":2
+},{
+"Metric_Type":"Unique_Item_Requests",
+"Count":1
+}]}
+
+]
+},
+{
+"Title":"Current Nutrition & Food Science",
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "1573-4013"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/ben/cnf"
+}
+],
+"Platform":"connect",
+"Publisher":"Bentham Science Publishers",
+"Access_Type":"Controlled",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+}]}
+
+]
+},
+{
+"Title":"Endocrine, Metabolic & Immune Disorders-Drug Targets (Formerly Current Drug Targets - Immune, Endocrine & Metabolic Disorders)",
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "1871-5303"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/ben/emiddt"
+}
+],
+"Platform":"connect",
+"Publisher":"Bentham Science Publishers",
+"Access_Type":"Controlled",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+}]}
+
+]
+},
+{
+"Title":"Environmental Values",
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "0963-2719"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1752-7015"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/whp/ev"
+}
+],
+"Platform":"connect",
+"Publisher":"White Horse Press",
+"Access_Type":"Controlled",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":2
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+}]}
+
+]
+},
+{
+"Title":"Journal of Addiction Medicine",
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "1932-0620"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/wk/adm"
+}
+],
+"Platform":"connect",
+"Publisher":"Wolters Kluwer",
+"Access_Type":"Controlled",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+}]}
+
+]
+},
+{
+"Title":"Journal of Ambulatory Care Management",
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "0148-9917"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1550-3267"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/wk/jac"
+}
+],
+"Platform":"connect",
+"Publisher":"Wolters Kluwer",
+"Access_Type":"Controlled",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+}]}
+
+]
+},
+{
+"Title":"Journal of Consciousness Studies",
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "1355-8250"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/imp/jcs"
+}
+],
+"Platform":"connect",
+"Publisher":"Imprint Academic",
+"Access_Type":"Controlled",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+}]}
+
+]
+},
+{
+"Title":"Journal of Developmental & Behavioral Pediatrics",
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "0196-206X"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/wk/dbp"
+}
+],
+"Platform":"connect",
+"Publisher":"Wolters Kluwer",
+"Access_Type":"Controlled",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+}]}
+
+]
+},
+{
+"Title":"Journal of Strength and Conditioning Research",
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "1064-8011"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/wk/jsc"
+}
+],
+"Platform":"connect",
+"Publisher":"Wolters Kluwer",
+"Access_Type":"Controlled",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+}]}
+
+]
+},
+{
+"Title":"Journal of the American Association for Laboratory Animal Science",
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "1559-6109"
+},
+{
+"Type": "Online_ISSN",
+"Value": "2769-6677"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/aalas/jaalas"
+}
+],
+"Platform":"connect",
+"Publisher":"American Association for Laboratory Animal Science",
+"Access_Type":"Controlled",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+}]}
+
+]
+},
+{
+"Title":"Journal of the American Association for Laboratory Animal Science",
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "1559-6109"
+},
+{
+"Type": "Online_ISSN",
+"Value": "2769-6677"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/aalas/jaalas"
+}
+],
+"Platform":"connect",
+"Publisher":"American Association for Laboratory Animal Science",
+"Access_Type":"OA_Gold",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":4
+},{
+"Metric_Type":"Total_Item_Requests",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":3
+},{
+"Metric_Type":"Unique_Item_Requests",
+"Count":1
+}]}
+
+]
+},
+{
+"Title":"Photogrammetric Engineering & Remote Sensing",
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "0099-1112"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/asprs/pers"
+}
+],
+"Platform":"connect",
+"Publisher":"American Society for Photogrammetry and Remote Sensing",
+"Access_Type":"OA_Gold",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+}]}
+
+]
+},
+{
+"Title":"Social Behavior and Personality: an international journal",
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "0301-2212"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/sbp/sbp"
+}
+],
+"Platform":"connect",
+"Publisher":"Scientific Journal Publishers",
+"Access_Type":"Controlled",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":2
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":2
+}]}
+
+]
+},
+{
+"Title":"The Canadian Veterinary Journal",
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "0008-5286"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/cvma/cvj"
+}
+],
+"Platform":"connect",
+"Publisher":"Canadian Veterinary Medical Association",
+"Access_Type":"Controlled",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+}]}
+
+]
+},
+{
+"Title":"The Charleston Advisor",
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "1525-4011"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1525-4003"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/annurev/tca"
+}
+],
+"Platform":"annurev",
+"Publisher":"Annual Reviews",
+"Access_Type":"Controlled",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+}]}
+
+]
+},
+{
+"Title":"The Clinical Journal of Pain",
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "0749-8047"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1536-5409"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/wk/cjpn"
+}
+],
+"Platform":"connect",
+"Publisher":"Wolters Kluwer",
+"Access_Type":"Controlled",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+}]}
+
+]
+},
+{
+"Title":"Topics in Clinical Nutrition",
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "0883-5691"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1550-5146"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/wk/tin"
+}
+],
+"Platform":"connect",
+"Publisher":"Wolters Kluwer",
+"Access_Type":"Controlled",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":1
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":1
+}]}
+
+]
+},
+{
+"Title":"Tourism Review International",
+"Item_ID": [
+{
+"Type": "Print_ISSN",
+"Value": "1544-2721"
+},
+{
+"Type": "Online_ISSN",
+"Value": "1943-4421"
+},
+{
+"Type": "URI",
+"Value": "https://www.ingentaconnect.com/content/cog/tri"
+}
+],
+"Platform":"connect",
+"Publisher":"Cognizant Communication Corporation",
+"Access_Type":"Controlled",
+"Performance": [
+{
+"Period": {
+"Begin_Date":"2024-01-01",
+"End_Date":"2024-01-31"
+},
+"Instance": [
+{
+"Metric_Type":"Total_Item_Investigations",
+"Count":5
+},{
+"Metric_Type":"Unique_Item_Investigations",
+"Count":4
+}]}
+
+]
+}
+]
+}

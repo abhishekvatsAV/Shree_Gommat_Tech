@@ -7,18 +7,18 @@ Metric_Types
 Report_Filters	Data_Type=All; Attributes_to_Show=Data_Type|Access_Method; Access_Method=Regular
 Report_Attributes	
 Exceptions	
-Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-01-31
-Created	2024-02-23T08:19:15Z
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-02T04:51:35Z
 Created_By	MathSciNet
 
-Database	Publisher	Publisher_ID	Platform	Proprietary_ID	Metric_Type	Reporting_Period_Total	Jan-2024
-MathSciNet	American Mathematical Society	ISNI:0000 0004 0509 0308	AMS		Searches_Automated	0	0
-MathSciNet	American Mathematical Society	ISNI:0000 0004 0509 0308	AMS		Searches_Regular	55	55
-MathSciNet	American Mathematical Society	ISNI:0000 0004 0509 0308	AMS		Limit_Exceeded	0	0
-MathSciNet	American Mathematical Society	ISNI:0000 0004 0509 0308	AMS		Total_Item_Requests	18	18
-MathSciNet	American Mathematical Society	ISNI:0000 0004 0509 0308	AMS		No_License	0	0
-MathSciNet	American Mathematical Society	ISNI:0000 0004 0509 0308	AMS		Total_Item_Investigations	18	18
-MathSciNet	American Mathematical Society	ISNI:0000 0004 0509 0308	AMS		Unique_Item_Requests	0	0
-MathSciNet	American Mathematical Society	ISNI:0000 0004 0509 0308	AMS		Unique_Item_Investigations	0	0
-MathSciNet	American Mathematical Society	ISNI:0000 0004 0509 0308	AMS		Unique_Title_Investigations	0	0
-MathSciNet	American Mathematical Society	ISNI:0000 0004 0509 0308	AMS		Searches_Federated	0	0
+Database	Publisher	Publisher_ID	Platform	Proprietary_ID	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+MathSciNet	American Mathematical Society	ISNI:0000 0004 0509 0308	AMS		Searches_Automated	0	0	0
+MathSciNet	American Mathematical Society	ISNI:0000 0004 0509 0308	AMS		Searches_Regular	97	55	42
+MathSciNet	American Mathematical Society	ISNI:0000 0004 0509 0308	AMS		Limit_Exceeded	0	0	0
+MathSciNet	American Mathematical Society	ISNI:0000 0004 0509 0308	AMS		Total_Item_Requests	20	18	2
+MathSciNet	American Mathematical Society	ISNI:0000 0004 0509 0308	AMS		No_License	0	0	0
+MathSciNet	American Mathematical Society	ISNI:0000 0004 0509 0308	AMS		Total_Item_Investigations	20	18	2
+MathSciNet	American Mathematical Society	ISNI:0000 0004 0509 0308	AMS		Unique_Item_Requests	0	0	0
+MathSciNet	American Mathematical Society	ISNI:0000 0004 0509 0308	AMS		Unique_Item_Investigations	0	0	0
+MathSciNet	American Mathematical Society	ISNI:0000 0004 0509 0308	AMS		Unique_Title_Investigations	0	0	0
+MathSciNet	American Mathematical Society	ISNI:0000 0004 0509 0308	AMS		Searches_Federated	0	0	0

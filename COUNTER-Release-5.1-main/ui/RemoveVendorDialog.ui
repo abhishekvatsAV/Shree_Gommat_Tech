@@ -99,7 +99,10 @@ border:2px solid grey;
        <bool>false</bool>
       </property>
       <property name="styleSheet">
-       <string notr="true"/>
+       <string notr="true">border: 2px solid grey;
+border-radius: 6px;
+background-color: #000000;
+padding: 6px;</string>
       </property>
       <property name="orientation">
        <enum>Qt::Horizontal</enum>

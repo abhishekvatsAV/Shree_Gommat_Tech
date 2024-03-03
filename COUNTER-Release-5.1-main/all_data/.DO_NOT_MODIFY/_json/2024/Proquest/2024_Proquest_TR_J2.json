@@ -1,0 +1,1209 @@
+{
+  "Report_Header": {
+    "Created": "2024-03-01T13:54:53Z",
+    "Created_By": "ProQuest",
+    "Customer_ID": "14670",
+    "Report_ID": "TR_J2",
+    "Release": "5",
+    "Report_Name": "Journal Access Denied",
+    "Institution_Name": "UNIVERSITY OF PRINCE EDWARD ISLAND",
+    "Institution_ID": [
+      {
+        "Type": "Proprietary",
+        "Value": "ProQuest:14670"
+      }
+    ],
+    "Report_Filters": [
+      {
+        "Name": "Platform",
+        "Value": "ProQuest"
+      },
+      {
+        "Name": "Begin_Date",
+        "Value": "2024-01-01"
+      },
+      {
+        "Name": "End_Date",
+        "Value": "2024-02-29"
+      },
+      {
+        "Name": "Metric_Type",
+        "Value": "Limit_Exceeded|No_License"
+      },
+      {
+        "Name": "Data_Type",
+        "Value": "Journal"
+      },
+      {
+        "Name": "Access_Method",
+        "Value": "Regular"
+      }
+    ],
+    "Exceptions": [
+      {
+        "Code": 3040,
+        "Severity": "Warning",
+        "Message": "Partial Data Returned.",
+        "Help_URL": "http://proquest.com/go/usage",
+        "Data": "Usage data has not been processed for all requested months."
+      }
+    ]
+  },
+  "Report_Items": [
+    {
+      "Title": "ASHRAE Journal",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "0001-2491"
+        },
+        {
+          "Type": "Online_ISSN",
+          "Value": "1943-6637"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:41118"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "American Society of Heating  Refrigerating and AirConditioning Engineers  Inc",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Academy of Educational Leadership Journal",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "1095-6328"
+        },
+        {
+          "Type": "Online_ISSN",
+          "Value": "1528-2643"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:38741"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Allied Business Academies",
+      "Performance": []
+    },
+    {
+      "Title": "Academy of Marketing Studies Journal",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "1095-6298"
+        },
+        {
+          "Type": "Online_ISSN",
+          "Value": "1095-6298"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:38744"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Allied Business Academies",
+      "Performance": []
+    },
+    {
+      "Title": "Academy of Strategic Management Journal",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "1544-1458"
+        },
+        {
+          "Type": "Online_ISSN",
+          "Value": "1939-6104"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:38745"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Allied Business Academies",
+      "Performance": []
+    },
+    {
+      "Title": "Alternative Medicine",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "2162-884X"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:2030010"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "InnoVision Health Media  Inc",
+      "Performance": []
+    },
+    {
+      "Title": "American Institute of Chemical Engineers. AIChE Journal",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "0001-1541"
+        },
+        {
+          "Type": "Online_ISSN",
+          "Value": "1547-5905"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:7879"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "American Institute of Chemical",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "BMJ Case Reports",
+      "Item_ID": [
+        {
+          "Type": "Online_ISSN",
+          "Value": "1757-790X"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:2040977"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "BMJ Publishing Group LTD",
+      "Performance": []
+    },
+    {
+      "Title": "Centro Journal",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "1538-6279"
+        },
+        {
+          "Type": "Online_ISSN",
+          "Value": "2163-2960"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:996363"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Hunter College",
+      "Performance": []
+    },
+    {
+      "Title": "Community Practitioner",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "1462-2815"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:47216"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Media Shed",
+      "Performance": []
+    },
+    {
+      "Title": "Comparative Clinical Pathology",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "1618-5641"
+        },
+        {
+          "Type": "Online_ISSN",
+          "Value": "1618-565X"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:1456361"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Springer Nature BV",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Educational Research Quarterly",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "0196-5042"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:48020"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Educational Research Quarterly",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Femspec",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "1523-4002"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:42681"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Femspec",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Foundation",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "0306-4964"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:636386"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Science Fiction Foundation",
+      "Performance": []
+    },
+    {
+      "Title": "Human and Veterinary Medicine",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "2066-7655"
+        },
+        {
+          "Type": "Online_ISSN",
+          "Value": "2066-7663"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:2046425"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Bioflux SRL",
+      "Performance": []
+    },
+    {
+      "Title": "Information Management",
+      "Item_ID": [
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:51938"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "SourceMedia",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "International Journal of Childbirth Education",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "0887-8625"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:32235"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "International Childbirth Education",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Journal of Entrepreneurship Education",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "1098-8394"
+        },
+        {
+          "Type": "Online_ISSN",
+          "Value": "1528-2651"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:28224"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Allied Business Academies",
+      "Performance": []
+    },
+    {
+      "Title": "Journal of Materials Science",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "0022-2461"
+        },
+        {
+          "Type": "Online_ISSN",
+          "Value": "1573-4803"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:2043599"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Springer Nature BV",
+      "Performance": []
+    },
+    {
+      "Title": "Journal of Organisation and Human Behaviour",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "2277-3274"
+        },
+        {
+          "Type": "Online_ISSN",
+          "Value": "2320-4966"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:2030932"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Publishing India Group",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Journal of Organizational Culture, Communications and Conflict",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "1544-0508"
+        },
+        {
+          "Type": "Online_ISSN",
+          "Value": "1939-4691"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:38870"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Allied Business Academies",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Journal of Services Research",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "0972-4702"
+        },
+        {
+          "Type": "Online_ISSN",
+          "Value": "2581-3412"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:28391"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Vedatya Institute",
+      "Performance": []
+    },
+    {
+      "Title": "Journal of Sports Medicine and Physical Fitness",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "0022-4707"
+        },
+        {
+          "Type": "Online_ISSN",
+          "Value": "1827-1928"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:4718"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Edizioni Minerva Medica",
+      "Performance": []
+    },
+    {
+      "Title": "Journal of the National Society of Allied Health",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "1945-3361"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:39591"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "The National Society of Allied Health",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Journalism History",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "0094-7679"
+        },
+        {
+          "Type": "Online_ISSN",
+          "Value": "2641-2071"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:6565"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Taylor  Francis Ltd",
+      "Performance": []
+    },
+    {
+      "Title": "Lendemains",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "0170-3803"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:5001980"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Narr Francke Attempto",
+      "Performance": []
+    },
+    {
+      "Title": "MIT Sloan Management Review",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "1532-9194"
+        },
+        {
+          "Type": "Online_ISSN",
+          "Value": "1532-8937"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:26142"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Massachusetts Institute of Technology",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Montana; The Magazine of Western History",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "0026-9891"
+        },
+        {
+          "Type": "Online_ISSN",
+          "Value": "2328-4293"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:25074"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Montana Historical Society",
+      "Performance": []
+    },
+    {
+      "Title": "Nursing Economics",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "0746-1739"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:30765"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Anthony J Jannetti  Inc",
+      "Performance": []
+    },
+    {
+      "Title": "Nursing Management (2014+)",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "1354-5760"
+        },
+        {
+          "Type": "Online_ISSN",
+          "Value": "2047-8976"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:2042231"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "RCNi",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Organizational Cultures",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "2327-8013"
+        },
+        {
+          "Type": "Online_ISSN",
+          "Value": "2327-932X"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:5527633"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Common Ground Research Networks",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Postgraduate Medicine",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "0032-5481"
+        },
+        {
+          "Type": "Online_ISSN",
+          "Value": "1941-9260"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:41277"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "JTE Multimedia",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Ranch and Rural Living",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "1084-5402"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:24102"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Ranch and Rural Living Magazine",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Reclaiming Children and Youth",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "1089-5701"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:33810"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Starr Global Learning Network",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Research and Theory for Nursing Practice",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "1541-6577"
+        },
+        {
+          "Type": "Online_ISSN",
+          "Value": "1945-7286"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:28849"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Springer Publishing Company",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Review of Integrative Business and Economics Research ",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "2414-6722"
+        },
+        {
+          "Type": "Online_ISSN",
+          "Value": "2304-1013"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:2032316"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Society of Interdisciplinary Business Research",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Revista Argentina de Clínica Psicológica",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "0327-6716"
+        },
+        {
+          "Type": "Online_ISSN",
+          "Value": "1851-7951"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:4380457"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "FUNDACIN AIGL",
+      "Performance": []
+    },
+    {
+      "Title": "Sloan Management Review  (pre-1986)",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "0019-848X"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:35193"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Massachusetts Institute of Technology",
+      "Performance": []
+    },
+    {
+      "Title": "The CPA Journal",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "0732-8435"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:41798"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "New York State Society of Certified",
+      "Performance": []
+    },
+    {
+      "Title": "The Journal of Government Financial Management",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "1533-1385"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:26015"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Association of Government Accountants",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "The New Zealand Medical Journal (Online)",
+      "Item_ID": [
+        {
+          "Type": "Online_ISSN",
+          "Value": "1175-8716"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:1056335"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "New Zealand Medical Association",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "The Veterinary Record",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "0042-4900"
+        },
+        {
+          "Type": "Online_ISSN",
+          "Value": "2042-7670"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:2041027"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Blackwell Publishing  Ltd",
+      "Performance": []
+    },
+    {
+      "Title": "Theory in Action",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "1937-0229"
+        },
+        {
+          "Type": "Online_ISSN",
+          "Value": "1937-0237"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:2006343"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Transformative Studies Institute",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Tribology & Lubrication Technology",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "1545-858X"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:44644"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Society of Tribologists and Lubrication",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Tribology Letters",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "1023-8883"
+        },
+        {
+          "Type": "Online_ISSN",
+          "Value": "1573-2711"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:2043827"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Springer Nature BV",
+      "Performance": [
+        {
+          "Period": {
+            "Begin_Date": "2024-01-01",
+            "End_Date": "2024-01-31"
+          },
+          "Instance": [
+            {
+              "Metric_Type": "No_License",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Ubiquitous Learning",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "1835-9795"
+        },
+        {
+          "Type": "Online_ISSN",
+          "Value": "2475-9686"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:5531550"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Common Ground Research Networks",
+      "Performance": []
+    },
+    {
+      "Title": "Virginia Woolf Miscellany",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "0736-251X"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:626450"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "Southern Connecticut State University",
+      "Performance": []
+    },
+    {
+      "Title": "Visible Language",
+      "Item_ID": [
+        {
+          "Type": "Print_ISSN",
+          "Value": "0022-2224"
+        },
+        {
+          "Type": "Proprietary",
+          "Value": "ProQuest:48566"
+        }
+      ],
+      "Platform": "ProQuest",
+      "Publisher": "University of Cincinnati on behalf of Visible Language",
+      "Performance": []
+    }
+  ]
+}

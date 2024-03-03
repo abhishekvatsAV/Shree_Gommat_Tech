@@ -1,0 +1,41 @@
+{
+   "Report_Header" : {
+      "Created" : "2024-03-01T08:52:42Z",
+      "Created_By" : "Project MUSE",
+      "Customer_ID" : "i16692",
+      "Exceptions" : [
+         {
+            "Code" : "3031",
+            "Data" : "Invalid date range -- too recent",
+            "Message" : "Usage Not Ready for Requested Dates",
+            "Severity" : "Error"
+         }
+      ],
+      "Institution_ID" : [
+         {
+            "Type" : "Proprietary",
+            "Value" : "MUSE:institution16692"
+         }
+      ],
+      "Institution_Name" : "Prince Edward Island , Univ. of",
+      "Release" : "5",
+      "Report_Attributes" : [
+         {
+            "Name" : "Attributes_To_Show",
+            "Value" : "Data_Type|Access_Method"
+         }
+      ],
+      "Report_Filters" : [
+         {
+            "Name" : "Begin_Date",
+            "Value" : "2024-01-01"
+         },
+         {
+            "Name" : "End_Date",
+            "Value" : "2024-02-29"
+         }
+      ],
+      "Report_ID" : "PR",
+      "Report_Name" : "Platform Master Report"
+   }
+}
