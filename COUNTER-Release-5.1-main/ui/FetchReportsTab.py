@@ -376,10 +376,14 @@ class Ui_FetchReports(object):
         self.lblFetchAllReport_3.setObjectName("lblFetchAllReport_3")
         self.gridLayout_6.addWidget(self.lblFetchAllReport_3, 0, 0, 1, 2)
         self.vendors_list_view_fetch = QtWidgets.QListView(self.frmSelectVenders)
-        self.vendors_list_view_fetch.setStyleSheet("color:white;\n"
+        self.vendors_list_view_fetch.setStyleSheet("\n"
+"\n"
+"color:white;\n"
 "background-color: #1E1E1E;\n"
 "border-radius: 4px;\n"
-"padding: 2px;")
+"padding: 2px;\n"
+"\n"
+"")
         self.vendors_list_view_fetch.setObjectName("vendors_list_view_fetch")
         self.gridLayout_6.addWidget(self.vendors_list_view_fetch, 4, 0, 1, 2)
         self.version_51_button = QtWidgets.QPushButton(self.frmSelectVenders)
@@ -639,7 +643,7 @@ class Ui_FetchReports(object):
 "    border-bottom: none;\n"
 "    border-top-color: white;\n"
 "}")
-        self.All_reports_edit_fetch.setDateTime(QtCore.QDateTime(QtCore.QDate(2019, 12, 23), QtCore.QTime(0, 0, 0)))
+        self.All_reports_edit_fetch.setDateTime(QtCore.QDateTime(QtCore.QDate(2019, 12, 22), QtCore.QTime(0, 0, 0)))
         self.All_reports_edit_fetch.setObjectName("All_reports_edit_fetch")
         self.horizontalLayout.addWidget(self.All_reports_edit_fetch)
         self.fetch_all_data_button = QtWidgets.QPushButton(self.frame_3)

@@ -8,7 +8,7 @@ Report_Filters	Data_Type=Multimedia; Access_Method=Regular
 Report_Attributes	
 Exceptions	
 Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
-Created	2024-03-02T14:22:26Z
+Created	2024-03-06T13:40:35Z
 Created_By	collections@upei.ca
 
 Item	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	URI	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
@@ -22,7 +22,6 @@ Air Pollution	Cable News Network (CNN)		video.alexanderstreet.com				Total_Item_
 Anatomy and Physiology	Medcom		video.alexanderstreet.com				Total_Item_Requests	3	3	0
 Antony and Cleopatra	Stratford Festival		video.alexanderstreet.com				Total_Item_Requests	1	0	1
 As the Water Flows: Sensing Realities	Institute of Cultural Anthropology and Development Sociology, Universiteit Leiden		video.alexanderstreet.com				Total_Item_Requests	1	0	1
-Assessment of the Newborn, Gestational Age and Newborn Reflexes, Gestational Age and Newborn Reflexe	Medcom		video.alexanderstreet.com				Total_Item_Requests	19	17	2
 Bolstering Self-Esteem and Allaying Self-Criticism: Ericksonian Hypnotherapy	Zeig, Tucker & Theisen, Inc.		video.alexanderstreet.com				Total_Item_Requests	2	0	2
 Breaking Loneliness	Brandy Y Productions		video.alexanderstreet.com				Total_Item_Requests	1	1	0
 Bunraku: The Classical Puppets of Japan	Creative Arts Television		video.alexanderstreet.com				Total_Item_Requests	2	0	2
@@ -42,6 +41,7 @@ Everyday Icons	Public Broadcasting Service		video.alexanderstreet.com				Total_I
 Gestalt Dream Analysis: Frederick Perls	Psychological and Educational Films		video.alexanderstreet.com				Total_Item_Requests	3	1	2
 Gestalt Integration	Microtraining Associates		video.alexanderstreet.com				Total_Item_Requests	2	1	1
 Gestalt Therapy	Microtraining Associates		video.alexanderstreet.com				Total_Item_Requests	3	1	2
+Gestational Age and Newborn Reflexes	Medcom		video.alexanderstreet.com				Total_Item_Requests	19	17	2
 Guided Implant Surgery - A New Dimension in Surgical Precision	Global Institute for Dental Education		video.alexanderstreet.com				Total_Item_Requests	1	1	0
 Heart Failure Medications and Cholesterol-Lowering Agents	Medcom		video.alexanderstreet.com				Total_Item_Requests	1	1	0
 History of Psychotherapy	Milton H. Erickson Foundation		video.alexanderstreet.com				Total_Item_Requests	2	2	0

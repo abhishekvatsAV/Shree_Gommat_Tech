@@ -1456,6 +1456,10 @@ class FetchReportsController(FetchReportsAbstract):
 
         # region Vendors
         self.vendor_list_view = fetch_reports_ui.vendors_list_view_fetch
+        self.vendor_list_view.setHorizontalScrollBarPolicy(
+            Qt.ScrollBarPolicy.ScrollBarAlwaysOff
+        )
+        self.vendor_list_view.scrollToBottom()
         self.vendor_list_model = QStandardItemModel(self.vendor_list_view)
         self.vendor_list_view.setModel(self.vendor_list_model)
 
@@ -1755,6 +1759,7 @@ class FetchReportsController(FetchReportsAbstract):
         for i in range(len(special_options)):
             option_name = special_options[i][1]
             checkbox = QCheckBox(option_name)
+            checkbox.setStyleSheet("color: white;")
             checkbox.toggled.connect(
                 lambda is_checked, option=option_name: self.on_special_option_toggled(
                     option, is_checked
@@ -1770,8 +1775,14 @@ class FetchReportsController(FetchReportsAbstract):
                 or option_type == SpecialOptionType.ADP
             ):
                 line_edit = QLineEdit(DEFAULT_SPECIAL_OPTION_VALUE)
+                line_edit.setStyleSheet(
+                    "color: white; background-color: #000000; border-radius: 4px;"
+                )
                 line_edit.setReadOnly(True)
                 button = QPushButton("Choose")
+                button.setStyleSheet(
+                    "color: white; background-color: #1E1E1E; border-radius: 4px; padding: 5px; "
+                )
                 if option_type == SpecialOptionType.ADP:
                     button.clicked.connect(
                         lambda c, so=special_options[
@@ -1846,6 +1857,27 @@ class FetchReportsController(FetchReportsAbstract):
             flags=Qt.Window | Qt.WindowTitleHint | Qt.CustomizeWindowHint,
         )
         dialog.setWindowTitle(option_name + " options")
+        dialog.setStyleSheet(
+            """
+            QDialog {
+            background-color: #333333;
+            color: #ffffff;
+            }
+
+            QCheckBox {
+            color: #ffffff;
+            }
+
+            QLineEdit {
+            color: #ffffff;
+            background-color: #000000;
+            border-radius: 4px;
+            }
+
+            }   
+        """
+        )
+
         layout = QVBoxLayout(dialog)
 
         list_view = QListView(dialog)
@@ -1861,6 +1893,30 @@ class FetchReportsController(FetchReportsAbstract):
             model.appendRow(item)
 
         list_view.setModel(model)
+
+        # Apply CSS for dark mode
+        list_view.setStyleSheet(
+            """
+            QListView {
+            background-color: #333333;
+            color: #ffffff;
+            }
+        
+            
+            QListView::item:alternate {
+            background-color: #444444;
+            }
+            
+            QListView::item:selected {
+            background-color: #666666;
+            }
+            
+            QListView::item:checked {
+            background-color: #007bff;
+            color: #ffffff;
+            }
+        """
+        )
 
         layout.addWidget(list_view)
 
@@ -2071,7 +2127,7 @@ class FetchReportsController(FetchReportsAbstract):
         self.save_dir = self.settings.yearly_directory
         # self.save_dir = f"{directory_path}/all_data/yearly_files/"
         self.selected_data = []
-        
+
         for i in range(len(vendors)):
             request_data = RequestData(
                 vendors[i],
@@ -2218,6 +2274,12 @@ class FetchReportsController(FetchReportsAbstract):
             request_data = self.selected_data[self.started_processes]
             self.fetch_vendor_data(request_data)
             self.started_processes += 1
+
+    def update_settings(self, settings: SettingsModel):
+        """Called when the settings are saved
+
+        :param settings: the new settings"""
+        self.settings = settings
 
 
 class VendorWorker(QObject):

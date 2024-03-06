@@ -168,3 +168,9 @@ class SearchController(QObject):
             if name == month_name.lower():
                 return number
         return 0
+
+    def update_settings(self, settings: SettingsModel):
+        """Called when the settings are saved
+
+        :param settings: the new settings"""
+        self.settings = settings

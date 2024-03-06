@@ -14,24 +14,28 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 class Ui_MoreOptionsDialog(object):
     def setupUi(self, MoreOptionsDialog):
         MoreOptionsDialog.setObjectName("MoreOptionsDialog")
-        MoreOptionsDialog.resize(375, 430)
-        MoreOptionsDialog.setStyleSheet("")
+        MoreOptionsDialog.resize(399, 479)
+        MoreOptionsDialog.setStyleSheet("QMainWindow{\n"
+"background-color: #323232;\n"
+"color: white;\n"
+"}")
         self.centralwidget = QtWidgets.QWidget(MoreOptionsDialog)
         self.centralwidget.setObjectName("centralwidget")
         self.verticalFrame = QtWidgets.QFrame(self.centralwidget)
-        self.verticalFrame.setGeometry(QtCore.QRect(0, 9, 371, 411))
+        self.verticalFrame.setGeometry(QtCore.QRect(0, 9, 401, 461))
         self.verticalFrame.setObjectName("verticalFrame")
         self.verticalLayout = QtWidgets.QVBoxLayout(self.verticalFrame)
         self.verticalLayout.setObjectName("verticalLayout")
         self.label = QtWidgets.QLabel(self.verticalFrame)
         self.label.setMaximumSize(QtCore.QSize(16777215, 50))
         self.label.setSizeIncrement(QtCore.QSize(50, 0))
-        self.label.setStyleSheet("")
+        self.label.setStyleSheet("color: white;")
         self.label.setObjectName("label")
         self.verticalLayout.addWidget(self.label, 0, QtCore.Qt.AlignHCenter)
         self.options_frame_main = QtWidgets.QFrame(self.verticalFrame)
         self.options_frame_main.setStyleSheet("QFrame{\n"
-"color: \"white\";\n"
+"color: white;\n"
+"\n"
 "}")
         self.options_frame_main.setObjectName("options_frame_main")
         self.options_frame = QtWidgets.QGridLayout(self.options_frame_main)

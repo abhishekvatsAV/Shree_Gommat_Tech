@@ -19,6 +19,9 @@ class Ui_FetchProgressDialog(object):
         font = QtGui.QFont()
         font.setPointSize(9)
         FetchProgressDialog.setFont(font)
+        FetchProgressDialog.setStyleSheet("QDialog {\n"
+"background-color: #323232;\n"
+"}")
         self.verticalLayout = QtWidgets.QVBoxLayout(FetchProgressDialog)
         self.verticalLayout.setObjectName("verticalLayout")
         self.fetching_frame = QtWidgets.QFrame(FetchProgressDialog)
@@ -67,11 +70,51 @@ class Ui_FetchProgressDialog(object):
         sizePolicy.setVerticalStretch(0)
         sizePolicy.setHeightForWidth(self.results_scroll_area.sizePolicy().hasHeightForWidth())
         self.results_scroll_area.setSizePolicy(sizePolicy)
-        self.results_scroll_area.setStyleSheet("")
+        self.results_scroll_area.setStyleSheet("QScrollArea {\n"
+"    background-color: #1E1E1E;\n"
+"    border-radius: 4px;\n"
+"}\n"
+"\n"
+"\n"
+"QScrollBar:vertical {\n"
+"    background: #2A2A2A;\n"
+"    width: 15px;\n"
+"    margin: 15px 0 15px 0;\n"
+"    border: 1px transparent #2A2A2A;\n"
+"    border-radius: 4px;\n"
+"}\n"
+"\n"
+"QScrollBar::handle:vertical {\n"
+"    background: #5A5A5A;\n"
+"    min-height: 20px;\n"
+"    border-radius: 4px;\n"
+"}\n"
+"\n"
+"QScrollBar::add-line:vertical {\n"
+"    background: none;\n"
+"    height: 0px;\n"
+"    subcontrol-position: bottom;\n"
+"    subcontrol-origin: margin;\n"
+"}\n"
+"\n"
+"QScrollBar::sub-line:vertical {\n"
+"    background: none;\n"
+"    height: 0px;\n"
+"    subcontrol-position: top;\n"
+"    subcontrol-origin: margin;\n"
+"}\n"
+"\n"
+"QScrollBar::up-arrow:vertical, QScrollBar::down-arrow:vertical {\n"
+"    background: none;\n"
+"}\n"
+"\n"
+"QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical {\n"
+"    background: none;\n"
+"}")
         self.results_scroll_area.setWidgetResizable(True)
         self.results_scroll_area.setObjectName("results_scroll_area")
         self.scroll_area_widget_contents = QtWidgets.QWidget()
-        self.scroll_area_widget_contents.setGeometry(QtCore.QRect(0, 0, 774, 433))
+        self.scroll_area_widget_contents.setGeometry(QtCore.QRect(0, 0, 776, 430))
         self.scroll_area_widget_contents.setObjectName("scroll_area_widget_contents")
         self.scroll_area_vertical_layout = QtWidgets.QVBoxLayout(self.scroll_area_widget_contents)
         self.scroll_area_vertical_layout.setObjectName("scroll_area_vertical_layout")
@@ -83,11 +126,29 @@ class Ui_FetchProgressDialog(object):
         self.horizontalLayout = QtWidgets.QHBoxLayout(self.horizontalFrame)
         self.horizontalLayout.setObjectName("horizontalLayout")
         self.log_file_button = QtWidgets.QPushButton(self.horizontalFrame)
-        self.log_file_button.setStyleSheet("font-size: 14px;")
+        self.log_file_button.setStyleSheet("QPushButton {\n"
+"    background-color: #1768E3; \n"
+"    color: #FFFFFF;\n"
+"    font: bold;\n"
+"   border-radius: 4px;\n"
+"text-align: center;\n"
+"font-size: 14px;\n"
+"padding: 4px;\n"
+"}\n"
+"\n"
+"QPushButton:hover{\n"
+" background-color: #2095E6;\n"
+"}\n"
+"\n"
+"")
         self.log_file_button.setObjectName("log_file_button")
         self.horizontalLayout.addWidget(self.log_file_button, 0, QtCore.Qt.AlignLeft)
         self.buttonBox = QtWidgets.QDialogButtonBox(self.horizontalFrame)
-        self.buttonBox.setStyleSheet("font-size: 14px;")
+        self.buttonBox.setStyleSheet("border: 2px solid grey;\n"
+"border-radius: 8px;\n"
+"background-color: #000000;\n"
+"font-size: 14px;\n"
+"padding: 4px;")
         self.buttonBox.setStandardButtons(QtWidgets.QDialogButtonBox.Cancel|QtWidgets.QDialogButtonBox.Ok)
         self.buttonBox.setCenterButtons(True)
         self.buttonBox.setObjectName("buttonBox")

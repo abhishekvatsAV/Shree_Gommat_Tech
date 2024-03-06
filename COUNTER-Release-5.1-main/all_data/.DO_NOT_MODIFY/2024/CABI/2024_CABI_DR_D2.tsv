@@ -6,11 +6,17 @@ Institution_ID	cabi:59221
 Metric_Types	No_License; Limit_Exceeded
 Report_Filters	Access_Method=Regular
 Report_Attributes	
-Exceptions	3031: Usage Not Ready for Requested Dates (Requested data between 2024-02-01 and 2024-02-29. However only data between 2022-04-01 and 2024-01-31 exists.)
-Reporting_Period	End_Date=2024-02-29; Begin_Date=2024-01-01
-Created	2024-03-01T05:38:42Z
+Exceptions	
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-05T07:49:39Z
 Created_By	Atypon Systems LLC.
 
 Database	Publisher	Publisher_ID	Platform	Proprietary_ID	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
+Animal Science Collection	CABI		CABI Digital Library	cabi:za	No_License	10	0	10
 CAB Abstracts	CABI		CABI Digital Library	cabi:ca	No_License	7	7	0
+Default Database Publication Group	CABI		CABI Digital Library	cabi:dbpubs	No_License	1	0	1
+Environmental Impact Collection	CABI		CABI Digital Library	cabi:zg	No_License	1	0	1
 Global Health	CABI		CABI Digital Library	cabi:he	No_License	4	4	0
+Global Health Archive	CABI		CABI Digital Library	cabi:x9	No_License	1	0	1
+Index Veterinarius	CABI		CABI Digital Library	cabi:0i	No_License	1	0	1
+Plant Breeding Abstracts	CABI		CABI Digital Library	cabi:0p	No_License	2	0	2

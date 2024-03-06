@@ -12,6 +12,7 @@ from PyQt5.QtWidgets import (
     QMessageBox,
     QLineEdit,
 )
+import ManageDB
 from PyQt5.QtGui import QIcon, QPixmap
 from PyQt5.uic import loadUi
 from PyQt5.QtCore import QPropertyAnimation, QEasingCurve
@@ -134,8 +135,6 @@ if __name__ == "__main__":
     app = QApplication(sys.argv)
     app.setStyleSheet("QWidget {font-family: Segoe UI; font-size: 12pt;}")
 
-    # correct_password = "12345678"  # Replace with your actual password
-
     main_window = QMainWindow()
     main_window_ui = MainWindow.Ui_mainWindow()
     main_window_ui.setupUi(main_window)
@@ -198,6 +197,16 @@ if __name__ == "__main__":
     search_ui = SearchTab.Ui_Search()
     search_ui.setupUi(search_tab)
     search_controller = SearchController(search_ui, settings_controller.settings)
+
+    settings_controller.settings_changed_signal.connect(
+        search_controller.update_settings
+    )
+    settings_controller.settings_changed_signal.connect(
+        manage_vendors_controller.update_settings
+    )
+    settings_controller.settings_changed_signal.connect(
+        fetch_reports_controller.update_settings
+    )
 
     # region Add tabs to main window
     main_window_ui.tab_widget.addTab(

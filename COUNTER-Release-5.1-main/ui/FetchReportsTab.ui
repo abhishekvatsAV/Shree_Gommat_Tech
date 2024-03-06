@@ -572,10 +572,14 @@ border: 2px solid grey ;
                      <item row="4" column="0" colspan="2">
                       <widget class="QListView" name="vendors_list_view_fetch">
                        <property name="styleSheet">
-                        <string notr="true">color:white;
+                        <string notr="true">
+
+color:white;
 background-color: #1E1E1E;
 border-radius: 4px;
-padding: 2px;</string>
+padding: 2px;
+
+</string>
                        </property>
                       </widget>
                      </item>
@@ -1047,7 +1051,7 @@ QDateEdit::down-arrow {
                    <second>0</second>
                    <year>2019</year>
                    <month>12</month>
-                   <day>23</day>
+                   <day>22</day>
                   </datetime>
                  </property>
                  <property name="displayFormat">

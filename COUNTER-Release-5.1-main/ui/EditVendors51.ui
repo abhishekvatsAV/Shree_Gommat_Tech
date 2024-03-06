@@ -593,7 +593,7 @@ QDateEdit::down-arrow {
                  <second>0</second>
                  <year>2019</year>
                  <month>12</month>
-                 <day>28</day>
+                 <day>27</day>
                 </datetime>
                </property>
                <property name="displayFormat">

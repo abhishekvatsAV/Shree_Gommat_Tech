@@ -4,52 +4,58 @@ Release	5
 Institution_Name	University Of Prince Edward Island
 Institution_ID	aaas:20351555
 Metric_Types	Total_Item_Requests; Unique_Item_Requests
-Report_Filters	Access_Type=Controlled; Access_Method=Regular; Data_Type=Journal
+Report_Filters	Data_Type=Journal; Access_Type=Controlled; Access_Method=Regular
 Report_Attributes	
-Exceptions	3031: Usage Not Ready for Requested Dates (Requested data between 2024-02-01 and 2024-02-29. However only data between 2021-05-01 and 2024-01-31 exists.)
-Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
-Created	2024-03-02T01:50:57Z
+Exceptions	
+Reporting_Period	End_Date=2024-02-29; Begin_Date=2024-01-01
+Created	2024-03-05T07:44:03Z
 Created_By	Atypon Systems LLC.
 
 Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	Print_ISSN	Online_ISSN	URI	YOP	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
-Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2000	Unique_Item_Requests	1	1	0
-Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2000	Total_Item_Requests	1	1	0
-Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2002	Unique_Item_Requests	1	1	0
-Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2002	Total_Item_Requests	1	1	0
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2000	Unique_Item_Requests	3	1	2
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2000	Total_Item_Requests	3	1	2
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2002	Unique_Item_Requests	2	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2002	Total_Item_Requests	3	1	2
 Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2003	Unique_Item_Requests	3	3	0
 Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2003	Total_Item_Requests	6	6	0
-Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2006	Unique_Item_Requests	1	1	0
-Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2006	Total_Item_Requests	1	1	0
-Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2007	Unique_Item_Requests	1	1	0
-Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2007	Total_Item_Requests	1	1	0
-Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2008	Unique_Item_Requests	1	1	0
-Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2008	Total_Item_Requests	3	3	0
-Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2009	Unique_Item_Requests	2	2	0
-Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2009	Total_Item_Requests	2	2	0
-Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2010	Unique_Item_Requests	1	1	0
-Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2010	Total_Item_Requests	2	2	0
-Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2011	Unique_Item_Requests	1	1	0
-Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2011	Total_Item_Requests	2	2	0
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2004	Unique_Item_Requests	2	0	2
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2004	Total_Item_Requests	2	0	2
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2006	Unique_Item_Requests	2	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2006	Total_Item_Requests	2	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2007	Unique_Item_Requests	7	1	6
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2007	Total_Item_Requests	11	1	10
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2008	Unique_Item_Requests	2	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2008	Total_Item_Requests	4	3	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2009	Unique_Item_Requests	3	2	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2009	Total_Item_Requests	3	2	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2010	Unique_Item_Requests	2	1	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2010	Total_Item_Requests	4	2	2
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2011	Unique_Item_Requests	3	1	2
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2011	Total_Item_Requests	4	2	2
 Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2012	Unique_Item_Requests	2	2	0
 Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2012	Total_Item_Requests	4	4	0
-Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2013	Unique_Item_Requests	3	3	0
-Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2013	Total_Item_Requests	3	3	0
-Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2014	Unique_Item_Requests	4	4	0
-Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2014	Total_Item_Requests	7	7	0
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2013	Unique_Item_Requests	7	3	4
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2013	Total_Item_Requests	8	3	5
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2014	Unique_Item_Requests	6	4	2
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2014	Total_Item_Requests	9	7	2
 Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2015	Unique_Item_Requests	2	2	0
 Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2015	Total_Item_Requests	4	4	0
 Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2017	Unique_Item_Requests	1	1	0
 Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2017	Total_Item_Requests	1	1	0
-Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2018	Unique_Item_Requests	5	5	0
-Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2018	Total_Item_Requests	5	5	0
-Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2019	Unique_Item_Requests	2	2	0
-Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2019	Total_Item_Requests	3	3	0
-Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2022	Unique_Item_Requests	3	3	0
-Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2022	Total_Item_Requests	3	3	0
-Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2023	Unique_Item_Requests	10	10	0
-Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2023	Total_Item_Requests	13	13	0
-Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2024	Unique_Item_Requests	1	1	0
-Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2024	Total_Item_Requests	1	1	0
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2018	Unique_Item_Requests	6	5	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2018	Total_Item_Requests	6	5	1
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2019	Unique_Item_Requests	4	2	2
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2019	Total_Item_Requests	6	3	3
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2020	Unique_Item_Requests	2	0	2
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2020	Total_Item_Requests	3	0	3
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2022	Unique_Item_Requests	5	3	2
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2022	Total_Item_Requests	7	3	4
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2023	Unique_Item_Requests	15	10	5
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2023	Total_Item_Requests	19	13	6
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2024	Unique_Item_Requests	5	1	4
+Science	American Association for the Advancement of Science		aaas	10.1126/science	aaas:science	0036-8075	1095-9203		2024	Total_Item_Requests	8	1	7
+Science Robotics	American Association for the Advancement of Science		aaas	10.1126/scirobotics	aaas:scirobotics		2470-9476		2023	Unique_Item_Requests	3	0	3
+Science Robotics	American Association for the Advancement of Science		aaas	10.1126/scirobotics	aaas:scirobotics		2470-9476		2023	Total_Item_Requests	3	0	3
 Science Signaling	American Association for the Advancement of Science		aaas	10.1126/signaling	aaas:signaling	1945-0877	1937-9145		2023	Unique_Item_Requests	1	1	0
 Science Signaling	American Association for the Advancement of Science		aaas	10.1126/signaling	aaas:signaling	1945-0877	1937-9145		2023	Total_Item_Requests	1	1	0
 Science Translational Medicine	American Association for the Advancement of Science		aaas	10.1126/stm	aaas:stm	1946-6234	1946-6242		2013	Unique_Item_Requests	2	2	0

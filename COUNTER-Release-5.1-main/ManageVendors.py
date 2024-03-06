@@ -128,7 +128,7 @@ class ManageVendorsController(QObject):
         self.vendor_list_view = manage_vendors_ui.vendorsListView
         self.vendor_list_view.clicked.connect(self.on_vendor_selected)
 
-        self.settings = settings  # TODO - Add settings to the constructor
+        self.settings = settings
         self.vendors_v50: list[Vendor51] = []
         self.vendors_v51: list[Vendor51] = []
         self.vendor_names_v50 = set()
@@ -974,3 +974,9 @@ class ManageVendorsController(QObject):
         button_box.accepted.connect(remove_vendor)
         button_box.rejected.connect(lambda: dialog_remove.close())
         dialog_remove.exec_()
+
+    def update_settings(self, settings: SettingsModel):
+        """Called when the settings are saved
+
+        :param settings: the new settings"""
+        self.settings = settings

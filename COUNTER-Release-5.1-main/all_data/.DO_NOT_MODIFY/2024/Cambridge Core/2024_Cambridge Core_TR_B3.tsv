@@ -8,7 +8,7 @@ Report_Filters	Data_Type=Book; Access_Method=Regular
 Report_Attributes	
 Exceptions	
 Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
-Created	2024-03-01T13:38:41Z
+Created	2024-03-05T15:49:35Z
 Created_By	Cambridge Core
 
 Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	ISBN	Print_ISSN	Online_ISSN	URI	YOP	Access_Type	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
@@ -310,10 +310,10 @@ The Revised Latin Primer	Cambridge University Press		Cambridge Core	10.1017/CBO9
 The Revised Latin Primer	Cambridge University Press		Cambridge Core	10.1017/CBO9780511698156		978-0-511-69815-6			https://doi.org/10.1017/CBO9780511698156	2010	Controlled	Unique_Title_Investigations	3	3	0
 The Revised Latin Primer	Cambridge University Press		Cambridge Core	10.1017/CBO9780511698156		978-0-511-69815-6			https://doi.org/10.1017/CBO9780511698156	2010	Controlled	Unique_Title_Requests	2	2	0
 The Roman Street	Cambridge University Press		Cambridge Core	10.1017/9781316226438		978-1-316-22643-8			https://doi.org/10.1017/9781316226438	2017	Controlled	Total_Item_Investigations	26	5	21
-The Roman Street	Cambridge University Press		Cambridge Core	10.1017/9781316226438		978-1-316-22643-8			https://doi.org/10.1017/9781316226438	2017	Controlled	Total_Item_Requests	5	0	5
 The Roman Street	Cambridge University Press		Cambridge Core	10.1017/9781316226438		978-1-316-22643-8			https://doi.org/10.1017/9781316226438	2017	Controlled	Unique_Item_Investigations	15	3	12
-The Roman Street	Cambridge University Press		Cambridge Core	10.1017/9781316226438		978-1-316-22643-8			https://doi.org/10.1017/9781316226438	2017	Controlled	Unique_Item_Requests	5	0	5
 The Roman Street	Cambridge University Press		Cambridge Core	10.1017/9781316226438		978-1-316-22643-8			https://doi.org/10.1017/9781316226438	2017	Controlled	Unique_Title_Investigations	10	3	7
+The Roman Street	Cambridge University Press		Cambridge Core	10.1017/9781316226438		978-1-316-22643-8			https://doi.org/10.1017/9781316226438	2017	Controlled	Total_Item_Requests	5	0	5
+The Roman Street	Cambridge University Press		Cambridge Core	10.1017/9781316226438		978-1-316-22643-8			https://doi.org/10.1017/9781316226438	2017	Controlled	Unique_Item_Requests	5	0	5
 The Roman Street	Cambridge University Press		Cambridge Core	10.1017/9781316226438		978-1-316-22643-8			https://doi.org/10.1017/9781316226438	2017	Controlled	Unique_Title_Requests	3	0	3
 The Survival of Easter Island	Cambridge University Press		Cambridge Core	10.1017/CBO9781139226639		978-1-139-22663-9			https://doi.org/10.1017/CBO9781139226639	2015	Controlled	Total_Item_Investigations	1	0	1
 The Survival of Easter Island	Cambridge University Press		Cambridge Core	10.1017/CBO9781139226639		978-1-139-22663-9			https://doi.org/10.1017/CBO9781139226639	2015	Controlled	Total_Item_Requests	1	0	1

@@ -6,19 +6,34 @@ Institution_ID	cabi:59221
 Metric_Types	Searches_Automated; Searches_Federated; Searches_Regular; Total_Item_Investigations; Total_Item_Requests
 Report_Filters	Access_Method=Regular
 Report_Attributes	
-Exceptions	3031: Usage Not Ready for Requested Dates (Requested data between 2024-02-01 and 2024-02-29. However only data between 2022-04-01 and 2024-01-31 exists.)
-Reporting_Period	End_Date=2024-02-29; Begin_Date=2024-01-01
-Created	2024-03-01T05:38:35Z
+Exceptions	
+Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
+Created	2024-03-05T07:49:30Z
 Created_By	Atypon Systems LLC.
 
 Database	Publisher	Publisher_ID	Platform	Proprietary_ID	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
-Animal Science Collection	CABI		CABI Digital Library	cabi:za	Total_Item_Investigations	1	1	0
-Animal Science Collection	CABI		CABI Digital Library	cabi:za	Total_Item_Requests	1	1	0
+Animal Science Collection	CABI		CABI Digital Library	cabi:za	Total_Item_Investigations	17	1	16
+Animal Science Collection	CABI		CABI Digital Library	cabi:za	Total_Item_Requests	17	1	16
+CAB Abstracts	CABI		CABI Digital Library	cabi:ca	Total_Item_Investigations	13	7	6
+CAB Abstracts	CABI		CABI Digital Library	cabi:ca	Total_Item_Requests	13	7	6
 CAB Abstracts	CABI		CABI Digital Library	cabi:ca	Searches_Regular	16	16	0
-CAB Abstracts	CABI		CABI Digital Library	cabi:ca	Total_Item_Investigations	7	7	0
-CAB Abstracts	CABI		CABI Digital Library	cabi:ca	Total_Item_Requests	7	7	0
-Environmental Impact Collection	CABI		CABI Digital Library	cabi:zg	Total_Item_Investigations	1	1	0
-Environmental Impact Collection	CABI		CABI Digital Library	cabi:zg	Total_Item_Requests	1	1	0
+Databases	CABI		CABI Digital Library	cabi:cabi-databases	Total_Item_Investigations	3	0	3
+Databases	CABI		CABI Digital Library	cabi:cabi-databases	Total_Item_Requests	3	0	3
+Environmental Impact Collection	CABI		CABI Digital Library	cabi:zg	Total_Item_Investigations	5	1	4
+Environmental Impact Collection	CABI		CABI Digital Library	cabi:zg	Total_Item_Requests	5	1	4
+Forestry Abstracts Archive	CABI		CABI Digital Library	cabi:xf	Total_Item_Investigations	2	0	2
+Forestry Abstracts Archive	CABI		CABI Digital Library	cabi:xf	Total_Item_Requests	2	0	2
 Global Health	CABI		CABI Digital Library	cabi:he	Searches_Regular	1	1	0
-VetMed Resource	CABI		CABI Digital Library	cabi:ve	Total_Item_Investigations	10	10	0
-VetMed Resource	CABI		CABI Digital Library	cabi:ve	Total_Item_Requests	10	10	0
+Global Health	CABI		CABI Digital Library	cabi:he	Total_Item_Investigations	2	0	2
+Global Health	CABI		CABI Digital Library	cabi:he	Total_Item_Requests	2	0	2
+Global Health Archive	CABI		CABI Digital Library	cabi:x9	Total_Item_Investigations	1	0	1
+Global Health Archive	CABI		CABI Digital Library	cabi:x9	Total_Item_Requests	1	0	1
+Index Veterinarius	CABI		CABI Digital Library	cabi:0i	Total_Item_Investigations	2	0	2
+Index Veterinarius	CABI		CABI Digital Library	cabi:0i	Total_Item_Requests	2	0	2
+Pig News & Information	CABI		CABI Digital Library	cabi:7d	Total_Item_Investigations	2	0	2
+Pig News & Information	CABI		CABI Digital Library	cabi:7d	Total_Item_Requests	2	0	2
+Plant Breeding Abstracts	CABI		CABI Digital Library	cabi:0p	Total_Item_Investigations	10	0	10
+Plant Breeding Abstracts	CABI		CABI Digital Library	cabi:0p	Total_Item_Requests	10	0	10
+VetMed Resource	CABI		CABI Digital Library	cabi:ve	Total_Item_Investigations	54	10	44
+VetMed Resource	CABI		CABI Digital Library	cabi:ve	Total_Item_Requests	54	10	44
+VetMed Resource	CABI		CABI Digital Library	cabi:ve	Searches_Regular	13	0	13

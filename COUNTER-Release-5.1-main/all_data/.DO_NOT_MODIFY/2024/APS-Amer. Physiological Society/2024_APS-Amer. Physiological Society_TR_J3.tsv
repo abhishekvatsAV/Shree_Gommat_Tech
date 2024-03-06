@@ -4,59 +4,63 @@ Release	5
 Institution_Name	Univ of Prince Edward Island
 Institution_ID	physio:00015659
 Metric_Types	Total_Item_Investigations; Total_Item_Requests; Unique_Item_Investigations; Unique_Item_Requests
-Report_Filters	Data_Type=Journal; Access_Method=Regular
+Report_Filters	Access_Method=Regular; Data_Type=Journal
 Report_Attributes	
-Exceptions	3031: Usage Not Ready for Requested Dates (Requested data between 2024-02-01 and 2024-02-29. However only data between 2018-11-01 and 2024-01-31 exists.)
+Exceptions	
 Reporting_Period	End_Date=2024-02-29; Begin_Date=2024-01-01
-Created	2024-03-01T22:54:21Z
+Created	2024-03-05T07:47:33Z
 Created_By	Atypon Systems LLC.
 
 Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	Print_ISSN	Online_ISSN	URI	Access_Type	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
-Advances in Physiology Education	American Physiological Society		The American Physiological Society	10.1152/advan	physio:advances	1043-4046	1522-1229		Controlled	Unique_Item_Investigations	2	2	0
-Advances in Physiology Education	American Physiological Society		The American Physiological Society	10.1152/advan	physio:advances	1043-4046	1522-1229		Controlled	Total_Item_Requests	2	2	0
-Advances in Physiology Education	American Physiological Society		The American Physiological Society	10.1152/advan	physio:advances	1043-4046	1522-1229		Controlled	Total_Item_Investigations	2	2	0
-Advances in Physiology Education	American Physiological Society		The American Physiological Society	10.1152/advan	physio:advances	1043-4046	1522-1229		Controlled	Unique_Item_Requests	2	2	0
-American Journal of Physiology-Cell Physiology	American Physiological Society		The American Physiological Society	10.1152/ajpcell	physio:ajpcell	0363-6143	1522-1563		Controlled	Unique_Item_Investigations	5	5	0
-American Journal of Physiology-Cell Physiology	American Physiological Society		The American Physiological Society	10.1152/ajpcell	physio:ajpcell	0363-6143	1522-1563		Controlled	Total_Item_Requests	8	8	0
-American Journal of Physiology-Cell Physiology	American Physiological Society		The American Physiological Society	10.1152/ajpcell	physio:ajpcell	0363-6143	1522-1563		Controlled	Total_Item_Investigations	8	8	0
-American Journal of Physiology-Cell Physiology	American Physiological Society		The American Physiological Society	10.1152/ajpcell	physio:ajpcell	0363-6143	1522-1563		Controlled	Unique_Item_Requests	5	5	0
-American Journal of Physiology-Endocrinology and Metabolism	American Physiological Society		The American Physiological Society	10.1152/ajpendo	physio:ajpendo	0193-1849	1522-1555		Controlled	Unique_Item_Investigations	5	5	0
-American Journal of Physiology-Endocrinology and Metabolism	American Physiological Society		The American Physiological Society	10.1152/ajpendo	physio:ajpendo	0193-1849	1522-1555		Controlled	Total_Item_Requests	6	6	0
-American Journal of Physiology-Endocrinology and Metabolism	American Physiological Society		The American Physiological Society	10.1152/ajpendo	physio:ajpendo	0193-1849	1522-1555		Controlled	Total_Item_Investigations	6	6	0
-American Journal of Physiology-Endocrinology and Metabolism	American Physiological Society		The American Physiological Society	10.1152/ajpendo	physio:ajpendo	0193-1849	1522-1555		Controlled	Unique_Item_Requests	5	5	0
+Advances in Physiology Education	American Physiological Society		The American Physiological Society	10.1152/advan	physio:advances	1043-4046	1522-1229		Controlled	Unique_Item_Investigations	8	2	6
+Advances in Physiology Education	American Physiological Society		The American Physiological Society	10.1152/advan	physio:advances	1043-4046	1522-1229		Controlled	Unique_Item_Requests	8	2	6
+Advances in Physiology Education	American Physiological Society		The American Physiological Society	10.1152/advan	physio:advances	1043-4046	1522-1229		Controlled	Total_Item_Requests	8	2	6
+Advances in Physiology Education	American Physiological Society		The American Physiological Society	10.1152/advan	physio:advances	1043-4046	1522-1229		Controlled	Total_Item_Investigations	8	2	6
+American Journal of Physiology-Cell Physiology	American Physiological Society		The American Physiological Society	10.1152/ajpcell	physio:ajpcell	0363-6143	1522-1563		Controlled	Unique_Item_Investigations	11	5	6
+American Journal of Physiology-Cell Physiology	American Physiological Society		The American Physiological Society	10.1152/ajpcell	physio:ajpcell	0363-6143	1522-1563		Controlled	Unique_Item_Requests	10	5	5
+American Journal of Physiology-Cell Physiology	American Physiological Society		The American Physiological Society	10.1152/ajpcell	physio:ajpcell	0363-6143	1522-1563		Controlled	Total_Item_Requests	13	8	5
+American Journal of Physiology-Cell Physiology	American Physiological Society		The American Physiological Society	10.1152/ajpcell	physio:ajpcell	0363-6143	1522-1563		Controlled	Total_Item_Investigations	16	8	8
+American Journal of Physiology-Endocrinology and Metabolism	American Physiological Society		The American Physiological Society	10.1152/ajpendo	physio:ajpendo	0193-1849	1522-1555		Controlled	Unique_Item_Investigations	7	5	2
+American Journal of Physiology-Endocrinology and Metabolism	American Physiological Society		The American Physiological Society	10.1152/ajpendo	physio:ajpendo	0193-1849	1522-1555		Controlled	Unique_Item_Requests	7	5	2
+American Journal of Physiology-Endocrinology and Metabolism	American Physiological Society		The American Physiological Society	10.1152/ajpendo	physio:ajpendo	0193-1849	1522-1555		Controlled	Total_Item_Requests	9	6	3
+American Journal of Physiology-Endocrinology and Metabolism	American Physiological Society		The American Physiological Society	10.1152/ajpendo	physio:ajpendo	0193-1849	1522-1555		Controlled	Total_Item_Investigations	9	6	3
 American Journal of Physiology-Gastrointestinal and Liver Physiology	American Physiological Society		The American Physiological Society	10.1152/ajpgi	physio:ajpgi	0193-1857	1522-1547		Controlled	Unique_Item_Investigations	1	1	0
+American Journal of Physiology-Gastrointestinal and Liver Physiology	American Physiological Society		The American Physiological Society	10.1152/ajpgi	physio:ajpgi	0193-1857	1522-1547		Controlled	Unique_Item_Requests	1	1	0
 American Journal of Physiology-Gastrointestinal and Liver Physiology	American Physiological Society		The American Physiological Society	10.1152/ajpgi	physio:ajpgi	0193-1857	1522-1547		Controlled	Total_Item_Requests	1	1	0
 American Journal of Physiology-Gastrointestinal and Liver Physiology	American Physiological Society		The American Physiological Society	10.1152/ajpgi	physio:ajpgi	0193-1857	1522-1547		Controlled	Total_Item_Investigations	2	2	0
-American Journal of Physiology-Gastrointestinal and Liver Physiology	American Physiological Society		The American Physiological Society	10.1152/ajpgi	physio:ajpgi	0193-1857	1522-1547		Controlled	Unique_Item_Requests	1	1	0
-American Journal of Physiology-Heart and Circulatory Physiology	American Physiological Society		The American Physiological Society	10.1152/ajpheart	physio:ajpheart	0363-6135	1522-1539		Controlled	Unique_Item_Investigations	2	2	0
-American Journal of Physiology-Heart and Circulatory Physiology	American Physiological Society		The American Physiological Society	10.1152/ajpheart	physio:ajpheart	0363-6135	1522-1539		Controlled	Total_Item_Requests	3	3	0
-American Journal of Physiology-Heart and Circulatory Physiology	American Physiological Society		The American Physiological Society	10.1152/ajpheart	physio:ajpheart	0363-6135	1522-1539		Controlled	Total_Item_Investigations	4	4	0
-American Journal of Physiology-Heart and Circulatory Physiology	American Physiological Society		The American Physiological Society	10.1152/ajpheart	physio:ajpheart	0363-6135	1522-1539		Controlled	Unique_Item_Requests	2	2	0
-American Journal of Physiology-Legacy Content	American Physiological Society		The American Physiological Society	10.1152/ajplegacy	physio:ajplegacy	0002-9513			Controlled	Unique_Item_Investigations	2	2	0
-American Journal of Physiology-Legacy Content	American Physiological Society		The American Physiological Society	10.1152/ajplegacy	physio:ajplegacy	0002-9513			Controlled	Total_Item_Requests	1	1	0
-American Journal of Physiology-Legacy Content	American Physiological Society		The American Physiological Society	10.1152/ajplegacy	physio:ajplegacy	0002-9513			Controlled	Total_Item_Investigations	2	2	0
-American Journal of Physiology-Legacy Content	American Physiological Society		The American Physiological Society	10.1152/ajplegacy	physio:ajplegacy	0002-9513			Controlled	Unique_Item_Requests	1	1	0
-American Journal of Physiology-Regulatory, Integrative and Comparative Physiology	American Physiological Society		The American Physiological Society	10.1152/ajpregu	physio:ajpregu	0363-6119	1522-1490		Controlled	Unique_Item_Investigations	9	9	0
-American Journal of Physiology-Regulatory, Integrative and Comparative Physiology	American Physiological Society		The American Physiological Society	10.1152/ajpregu	physio:ajpregu	0363-6119	1522-1490		Controlled	Total_Item_Requests	13	13	0
-American Journal of Physiology-Regulatory, Integrative and Comparative Physiology	American Physiological Society		The American Physiological Society	10.1152/ajpregu	physio:ajpregu	0363-6119	1522-1490		Controlled	Total_Item_Investigations	15	15	0
-American Journal of Physiology-Regulatory, Integrative and Comparative Physiology	American Physiological Society		The American Physiological Society	10.1152/ajpregu	physio:ajpregu	0363-6119	1522-1490		Controlled	Unique_Item_Requests	9	9	0
-American Journal of Physiology-Renal Physiology	American Physiological Society		The American Physiological Society	10.1152/ajprenal	physio:ajprenal	1931-857X	1522-1466		Controlled	Unique_Item_Investigations	6	6	0
-American Journal of Physiology-Renal Physiology	American Physiological Society		The American Physiological Society	10.1152/ajprenal	physio:ajprenal	1931-857X	1522-1466		Controlled	Total_Item_Requests	6	6	0
-American Journal of Physiology-Renal Physiology	American Physiological Society		The American Physiological Society	10.1152/ajprenal	physio:ajprenal	1931-857X	1522-1466		Controlled	Total_Item_Investigations	7	7	0
-American Journal of Physiology-Renal Physiology	American Physiological Society		The American Physiological Society	10.1152/ajprenal	physio:ajprenal	1931-857X	1522-1466		Controlled	Unique_Item_Requests	6	6	0
-Journal of Applied Physiology	American Physiological Society		The American Physiological Society	10.1152/japplphysiol	physio:jappl	8750-7587	1522-1601		Controlled	Unique_Item_Investigations	4	4	0
-Journal of Applied Physiology	American Physiological Society		The American Physiological Society	10.1152/japplphysiol	physio:jappl	8750-7587	1522-1601		Controlled	Total_Item_Requests	3	3	0
-Journal of Applied Physiology	American Physiological Society		The American Physiological Society	10.1152/japplphysiol	physio:jappl	8750-7587	1522-1601		Controlled	Total_Item_Investigations	4	4	0
-Journal of Applied Physiology	American Physiological Society		The American Physiological Society	10.1152/japplphysiol	physio:jappl	8750-7587	1522-1601		Controlled	Unique_Item_Requests	3	3	0
-Journal of Neurophysiology	American Physiological Society		The American Physiological Society	10.1152/jn	physio:jn	0022-3077	1522-1598		Controlled	Unique_Item_Investigations	1	1	0
-Journal of Neurophysiology	American Physiological Society		The American Physiological Society	10.1152/jn	physio:jn	0022-3077	1522-1598		Controlled	Total_Item_Requests	2	2	0
-Journal of Neurophysiology	American Physiological Society		The American Physiological Society	10.1152/jn	physio:jn	0022-3077	1522-1598		Controlled	Total_Item_Investigations	2	2	0
-Journal of Neurophysiology	American Physiological Society		The American Physiological Society	10.1152/jn	physio:jn	0022-3077	1522-1598		Controlled	Unique_Item_Requests	1	1	0
-Physiological Reviews	American Physiological Society		The American Physiological Society	10.1152/physrev	physio:physrev	0031-9333	1522-1210		Controlled	Unique_Item_Investigations	5	5	0
-Physiological Reviews	American Physiological Society		The American Physiological Society	10.1152/physrev	physio:physrev	0031-9333	1522-1210		Controlled	Total_Item_Requests	4	4	0
-Physiological Reviews	American Physiological Society		The American Physiological Society	10.1152/physrev	physio:physrev	0031-9333	1522-1210		Controlled	Total_Item_Investigations	5	5	0
-Physiological Reviews	American Physiological Society		The American Physiological Society	10.1152/physrev	physio:physrev	0031-9333	1522-1210		Controlled	Unique_Item_Requests	4	4	0
+American Journal of Physiology-Heart and Circulatory Physiology	American Physiological Society		The American Physiological Society	10.1152/ajpheart	physio:ajpheart	0363-6135	1522-1539		Controlled	Unique_Item_Investigations	4	2	2
+American Journal of Physiology-Heart and Circulatory Physiology	American Physiological Society		The American Physiological Society	10.1152/ajpheart	physio:ajpheart	0363-6135	1522-1539		Controlled	Unique_Item_Requests	3	2	1
+American Journal of Physiology-Heart and Circulatory Physiology	American Physiological Society		The American Physiological Society	10.1152/ajpheart	physio:ajpheart	0363-6135	1522-1539		Controlled	Total_Item_Requests	4	3	1
+American Journal of Physiology-Heart and Circulatory Physiology	American Physiological Society		The American Physiological Society	10.1152/ajpheart	physio:ajpheart	0363-6135	1522-1539		Controlled	Total_Item_Investigations	6	4	2
+American Journal of Physiology-Legacy Content	American Physiological Society		The American Physiological Society	10.1152/ajplegacy	physio:ajplegacy	0002-9513			Controlled	Unique_Item_Investigations	3	2	1
+American Journal of Physiology-Legacy Content	American Physiological Society		The American Physiological Society	10.1152/ajplegacy	physio:ajplegacy	0002-9513			Controlled	Unique_Item_Requests	2	1	1
+American Journal of Physiology-Legacy Content	American Physiological Society		The American Physiological Society	10.1152/ajplegacy	physio:ajplegacy	0002-9513			Controlled	Total_Item_Requests	2	1	1
+American Journal of Physiology-Legacy Content	American Physiological Society		The American Physiological Society	10.1152/ajplegacy	physio:ajplegacy	0002-9513			Controlled	Total_Item_Investigations	3	2	1
+American Journal of Physiology-Regulatory, Integrative and Comparative Physiology	American Physiological Society		The American Physiological Society	10.1152/ajpregu	physio:ajpregu	0363-6119	1522-1490		Controlled	Unique_Item_Investigations	12	9	3
+American Journal of Physiology-Regulatory, Integrative and Comparative Physiology	American Physiological Society		The American Physiological Society	10.1152/ajpregu	physio:ajpregu	0363-6119	1522-1490		Controlled	Unique_Item_Requests	12	9	3
+American Journal of Physiology-Regulatory, Integrative and Comparative Physiology	American Physiological Society		The American Physiological Society	10.1152/ajpregu	physio:ajpregu	0363-6119	1522-1490		Controlled	Total_Item_Requests	19	13	6
+American Journal of Physiology-Regulatory, Integrative and Comparative Physiology	American Physiological Society		The American Physiological Society	10.1152/ajpregu	physio:ajpregu	0363-6119	1522-1490		Controlled	Total_Item_Investigations	21	15	6
+American Journal of Physiology-Renal Physiology	American Physiological Society		The American Physiological Society	10.1152/ajprenal	physio:ajprenal	1931-857X	1522-1466		Controlled	Unique_Item_Investigations	9	6	3
+American Journal of Physiology-Renal Physiology	American Physiological Society		The American Physiological Society	10.1152/ajprenal	physio:ajprenal	1931-857X	1522-1466		Controlled	Unique_Item_Requests	9	6	3
+American Journal of Physiology-Renal Physiology	American Physiological Society		The American Physiological Society	10.1152/ajprenal	physio:ajprenal	1931-857X	1522-1466		Controlled	Total_Item_Requests	13	6	7
+American Journal of Physiology-Renal Physiology	American Physiological Society		The American Physiological Society	10.1152/ajprenal	physio:ajprenal	1931-857X	1522-1466		Controlled	Total_Item_Investigations	15	7	8
+Journal of Applied Physiology	American Physiological Society		The American Physiological Society	10.1152/japplphysiol	physio:jappl	8750-7587	1522-1601		Controlled	Unique_Item_Investigations	20	4	16
+Journal of Applied Physiology	American Physiological Society		The American Physiological Society	10.1152/japplphysiol	physio:jappl	8750-7587	1522-1601		Controlled	Unique_Item_Requests	16	3	13
+Journal of Applied Physiology	American Physiological Society		The American Physiological Society	10.1152/japplphysiol	physio:jappl	8750-7587	1522-1601		Controlled	Total_Item_Requests	18	3	15
+Journal of Applied Physiology	American Physiological Society		The American Physiological Society	10.1152/japplphysiol	physio:jappl	8750-7587	1522-1601		Controlled	Total_Item_Investigations	23	4	19
+Journal of Neurophysiology	American Physiological Society		The American Physiological Society	10.1152/jn	physio:jn	0022-3077	1522-1598		Controlled	Unique_Item_Investigations	4	1	3
+Journal of Neurophysiology	American Physiological Society		The American Physiological Society	10.1152/jn	physio:jn	0022-3077	1522-1598		Controlled	Unique_Item_Requests	3	1	2
+Journal of Neurophysiology	American Physiological Society		The American Physiological Society	10.1152/jn	physio:jn	0022-3077	1522-1598		Controlled	Total_Item_Requests	4	2	2
+Journal of Neurophysiology	American Physiological Society		The American Physiological Society	10.1152/jn	physio:jn	0022-3077	1522-1598		Controlled	Total_Item_Investigations	5	2	3
+Physiological Reviews	American Physiological Society		The American Physiological Society	10.1152/physrev	physio:physrev	0031-9333	1522-1210		Controlled	Unique_Item_Investigations	10	5	5
+Physiological Reviews	American Physiological Society		The American Physiological Society	10.1152/physrev	physio:physrev	0031-9333	1522-1210		Controlled	Unique_Item_Requests	8	4	4
+Physiological Reviews	American Physiological Society		The American Physiological Society	10.1152/physrev	physio:physrev	0031-9333	1522-1210		Controlled	Total_Item_Requests	10	4	6
+Physiological Reviews	American Physiological Society		The American Physiological Society	10.1152/physrev	physio:physrev	0031-9333	1522-1210		Controlled	Total_Item_Investigations	14	5	9
 Physiological Reviews	American Physiological Society		The American Physiological Society	10.1152/physrev	physio:physrev	0031-9333	1522-1210		OA_Gold	Unique_Item_Investigations	1	1	0
+Physiological Reviews	American Physiological Society		The American Physiological Society	10.1152/physrev	physio:physrev	0031-9333	1522-1210		OA_Gold	Unique_Item_Requests	1	1	0
 Physiological Reviews	American Physiological Society		The American Physiological Society	10.1152/physrev	physio:physrev	0031-9333	1522-1210		OA_Gold	Total_Item_Requests	2	2	0
 Physiological Reviews	American Physiological Society		The American Physiological Society	10.1152/physrev	physio:physrev	0031-9333	1522-1210		OA_Gold	Total_Item_Investigations	4	4	0
-Physiological Reviews	American Physiological Society		The American Physiological Society	10.1152/physrev	physio:physrev	0031-9333	1522-1210		OA_Gold	Unique_Item_Requests	1	1	0
+Physiology	American Physiological Society		The American Physiological Society	10.1152/physiol	physio:physiologyonline	1548-9213	1548-9221		Controlled	Unique_Item_Investigations	1	0	1
+Physiology	American Physiological Society		The American Physiological Society	10.1152/physiol	physio:physiologyonline	1548-9213	1548-9221		Controlled	Unique_Item_Requests	1	0	1
+Physiology	American Physiological Society		The American Physiological Society	10.1152/physiol	physio:physiologyonline	1548-9213	1548-9221		Controlled	Total_Item_Requests	1	0	1
+Physiology	American Physiological Society		The American Physiological Society	10.1152/physiol	physio:physiologyonline	1548-9213	1548-9221		Controlled	Total_Item_Investigations	1	0	1

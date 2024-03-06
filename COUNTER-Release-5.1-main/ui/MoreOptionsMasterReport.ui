@@ -6,15 +6,18 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>375</width>
-    <height>430</height>
+    <width>399</width>
+    <height>479</height>
    </rect>
   </property>
   <property name="windowTitle">
    <string>MainWindow</string>
   </property>
   <property name="styleSheet">
-   <string notr="true"/>
+   <string notr="true">QMainWindow{
+background-color: #323232;
+color: white;
+}</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QFrame" name="verticalFrame">
@@ -22,8 +25,8 @@
      <rect>
       <x>0</x>
       <y>9</y>
-      <width>371</width>
-      <height>411</height>
+      <width>401</width>
+      <height>461</height>
      </rect>
     </property>
     <layout class="QVBoxLayout" name="verticalLayout">
@@ -42,7 +45,7 @@
         </size>
        </property>
        <property name="styleSheet">
-        <string notr="true"/>
+        <string notr="true">color: white;</string>
        </property>
        <property name="text">
         <string>Options</string>
@@ -53,7 +56,8 @@
       <widget class="QFrame" name="options_frame_main">
        <property name="styleSheet">
         <string notr="true">QFrame{
-color: &quot;white&quot;;
+color: white;
+
 }</string>
        </property>
        <layout class="QGridLayout" name="options_frame"/>

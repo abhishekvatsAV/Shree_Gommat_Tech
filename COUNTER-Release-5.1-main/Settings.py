@@ -2,6 +2,7 @@
 
 import json
 from os import path
+import os
 from PyQt5.QtWidgets import QWidget
 from PyQt5.QtCore import QObject, pyqtSignal
 from ui import Settingtab
@@ -78,21 +79,33 @@ class SettingsModel(JsonModel):
             if "database_location" in json_dict
             else DATABASE_LOCATION
         )
+        if not path.exists(database_location):
+            database_location = DATABASE_LOCATION
+
         vendors_location = (
             json_dict["vendors_location"]
             if "vendors_location" in json_dict
             else VENDORS_FILE_PATH
         )
+        if not path.exists(vendors_location):
+            vendors_location = VENDORS_FILE_PATH
+
         yearly_directory = (
             json_dict["yearly_directory"]
             if "yearly_directory" in json_dict
             else YEARLY_DIR
         )
+        if not path.exists(yearly_directory):
+            yearly_directory = YEARLY_DIR
+
         other_directory = (
             json_dict["other_directory"]
             if "other_directory" in json_dict
             else OTHER_DIR
         )
+        if not path.exists(other_directory):
+            other_directory = OTHER_DIR
+
         request_interval = (
             int(json_dict["request_interval"])
             if "request_interval" in json_dict
@@ -156,6 +169,7 @@ class SettingsController(QObject):
         )
         json_dict = json.loads(json_string)
         self.settings = SettingsModel.from_json(json_dict)
+        self.save_settings_to_disk()
 
         # self.show_debug_checkbox = settings_ui.show_debug_check_box
         # self.show_debug_checkbox.setChecked(self.settings.show_debug_messages)

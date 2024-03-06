@@ -4,109 +4,169 @@ Release	5
 Institution_Name	University of Prince Edward Island
 Institution_ID	ar:106712
 Metric_Types	Total_Item_Investigations; Total_Item_Requests; Unique_Item_Investigations; Unique_Item_Requests
-Report_Filters	Data_Type=Journal; Access_Method=Regular
+Report_Filters	Access_Method=Regular; Data_Type=Journal
 Report_Attributes	
-Exceptions	3031: Usage Not Ready for Requested Dates (Requested data between 2024-02-01 and 2024-02-29. However only data between 2018-11-01 and 2024-01-31 exists.)
+Exceptions	
 Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
-Created	2024-03-02T01:52:36Z
+Created	2024-03-05T07:45:55Z
 Created_By	Atypon Systems LLC.
 
 Title	Publisher	Publisher_ID	Platform	DOI	Proprietary_ID	Print_ISSN	Online_ISSN	URI	Access_Type	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
 Annual Review of Animal Biosciences	Annual Reviews		Annual Reviews	10.1146/animal	ar:animal	2165-8102	2165-8110		Controlled	Unique_Item_Investigations	1	1	0
-Annual Review of Animal Biosciences	Annual Reviews		Annual Reviews	10.1146/animal	ar:animal	2165-8102	2165-8110		Controlled	Unique_Item_Requests	1	1	0
-Annual Review of Animal Biosciences	Annual Reviews		Annual Reviews	10.1146/animal	ar:animal	2165-8102	2165-8110		Controlled	Total_Item_Investigations	2	2	0
 Annual Review of Animal Biosciences	Annual Reviews		Annual Reviews	10.1146/animal	ar:animal	2165-8102	2165-8110		Controlled	Total_Item_Requests	2	2	0
-Annual Review of Anthropology	Annual Reviews		Annual Reviews	10.1146/anthro.672	ar:anthro	0084-6570	1545-4290		Controlled	Unique_Item_Investigations	7	7	0
-Annual Review of Anthropology	Annual Reviews		Annual Reviews	10.1146/anthro.672	ar:anthro	0084-6570	1545-4290		Controlled	Unique_Item_Requests	5	5	0
-Annual Review of Anthropology	Annual Reviews		Annual Reviews	10.1146/anthro.672	ar:anthro	0084-6570	1545-4290		Controlled	Total_Item_Investigations	7	7	0
+Annual Review of Animal Biosciences	Annual Reviews		Annual Reviews	10.1146/animal	ar:animal	2165-8102	2165-8110		Controlled	Total_Item_Investigations	2	2	0
+Annual Review of Animal Biosciences	Annual Reviews		Annual Reviews	10.1146/animal	ar:animal	2165-8102	2165-8110		Controlled	Unique_Item_Requests	1	1	0
+Annual Review of Animal Biosciences	Annual Reviews		Annual Reviews	10.1146/animal	ar:animal	2165-8102	2165-8110		OA_Gold	Unique_Item_Investigations	2	0	2
+Annual Review of Animal Biosciences	Annual Reviews		Annual Reviews	10.1146/animal	ar:animal	2165-8102	2165-8110		OA_Gold	Total_Item_Requests	3	0	3
+Annual Review of Animal Biosciences	Annual Reviews		Annual Reviews	10.1146/animal	ar:animal	2165-8102	2165-8110		OA_Gold	Total_Item_Investigations	5	0	5
+Annual Review of Animal Biosciences	Annual Reviews		Annual Reviews	10.1146/animal	ar:animal	2165-8102	2165-8110		OA_Gold	Unique_Item_Requests	2	0	2
+Annual Review of Anthropology	Annual Reviews		Annual Reviews	10.1146/anthro.672	ar:anthro	0084-6570	1545-4290		Controlled	Unique_Item_Investigations	8	7	1
 Annual Review of Anthropology	Annual Reviews		Annual Reviews	10.1146/anthro.672	ar:anthro	0084-6570	1545-4290		Controlled	Total_Item_Requests	5	5	0
-Annual Review of Biochemistry	Annual Reviews		Annual Reviews	10.1146/biochem.684	ar:biochem	0066-4154	1545-4509		Controlled	Unique_Item_Investigations	2	2	0
-Annual Review of Biochemistry	Annual Reviews		Annual Reviews	10.1146/biochem.684	ar:biochem	0066-4154	1545-4509		Controlled	Unique_Item_Requests	2	2	0
-Annual Review of Biochemistry	Annual Reviews		Annual Reviews	10.1146/biochem.684	ar:biochem	0066-4154	1545-4509		Controlled	Total_Item_Investigations	3	3	0
-Annual Review of Biochemistry	Annual Reviews		Annual Reviews	10.1146/biochem.684	ar:biochem	0066-4154	1545-4509		Controlled	Total_Item_Requests	2	2	0
-Annual Review of Biophysics	Annual Reviews		Annual Reviews	10.1146/biophys.817	ar:biophys	1936-122X	1936-1238		Controlled	Unique_Item_Investigations	1	1	0
-Annual Review of Biophysics	Annual Reviews		Annual Reviews	10.1146/biophys.817	ar:biophys	1936-122X	1936-1238		Controlled	Unique_Item_Requests	1	1	0
-Annual Review of Biophysics	Annual Reviews		Annual Reviews	10.1146/biophys.817	ar:biophys	1936-122X	1936-1238		Controlled	Total_Item_Investigations	1	1	0
+Annual Review of Anthropology	Annual Reviews		Annual Reviews	10.1146/anthro.672	ar:anthro	0084-6570	1545-4290		Controlled	Total_Item_Investigations	8	7	1
+Annual Review of Anthropology	Annual Reviews		Annual Reviews	10.1146/anthro.672	ar:anthro	0084-6570	1545-4290		Controlled	Unique_Item_Requests	5	5	0
+Annual Review of Biochemistry	Annual Reviews		Annual Reviews	10.1146/biochem.684	ar:biochem	0066-4154	1545-4509		Controlled	Unique_Item_Investigations	4	2	2
+Annual Review of Biochemistry	Annual Reviews		Annual Reviews	10.1146/biochem.684	ar:biochem	0066-4154	1545-4509		Controlled	Total_Item_Requests	4	2	2
+Annual Review of Biochemistry	Annual Reviews		Annual Reviews	10.1146/biochem.684	ar:biochem	0066-4154	1545-4509		Controlled	Total_Item_Investigations	5	3	2
+Annual Review of Biochemistry	Annual Reviews		Annual Reviews	10.1146/biochem.684	ar:biochem	0066-4154	1545-4509		Controlled	Unique_Item_Requests	4	2	2
+Annual Review of Biophysics	Annual Reviews		Annual Reviews	10.1146/biophys.817	ar:biophys	1936-122X	1936-1238		Controlled	Unique_Item_Investigations	2	1	1
 Annual Review of Biophysics	Annual Reviews		Annual Reviews	10.1146/biophys.817	ar:biophys	1936-122X	1936-1238		Controlled	Total_Item_Requests	1	1	0
-Annual Review of Clinical Psychology	Annual Reviews		Annual Reviews	10.1146/clinpsy.724	ar:clinpsy	1548-5943	1548-5951		Controlled	Unique_Item_Investigations	1	1	0
-Annual Review of Clinical Psychology	Annual Reviews		Annual Reviews	10.1146/clinpsy.724	ar:clinpsy	1548-5943	1548-5951		Controlled	Unique_Item_Requests	1	1	0
-Annual Review of Clinical Psychology	Annual Reviews		Annual Reviews	10.1146/clinpsy.724	ar:clinpsy	1548-5943	1548-5951		Controlled	Total_Item_Investigations	2	2	0
-Annual Review of Clinical Psychology	Annual Reviews		Annual Reviews	10.1146/clinpsy.724	ar:clinpsy	1548-5943	1548-5951		Controlled	Total_Item_Requests	2	2	0
+Annual Review of Biophysics	Annual Reviews		Annual Reviews	10.1146/biophys.817	ar:biophys	1936-122X	1936-1238		Controlled	Total_Item_Investigations	2	1	1
+Annual Review of Biophysics	Annual Reviews		Annual Reviews	10.1146/biophys.817	ar:biophys	1936-122X	1936-1238		Controlled	Unique_Item_Requests	1	1	0
+Annual Review of Cell and Developmental Biology	Annual Reviews		Annual Reviews	10.1146/cellbio.690	ar:cellbio	1081-0706	1530-8995		Controlled	Unique_Item_Investigations	2	0	2
+Annual Review of Cell and Developmental Biology	Annual Reviews		Annual Reviews	10.1146/cellbio.690	ar:cellbio	1081-0706	1530-8995		Controlled	Total_Item_Requests	2	0	2
+Annual Review of Cell and Developmental Biology	Annual Reviews		Annual Reviews	10.1146/cellbio.690	ar:cellbio	1081-0706	1530-8995		Controlled	Total_Item_Investigations	2	0	2
+Annual Review of Cell and Developmental Biology	Annual Reviews		Annual Reviews	10.1146/cellbio.690	ar:cellbio	1081-0706	1530-8995		Controlled	Unique_Item_Requests	2	0	2
+Annual Review of Clinical Psychology	Annual Reviews		Annual Reviews	10.1146/clinpsy.724	ar:clinpsy	1548-5943	1548-5951		Controlled	Unique_Item_Investigations	4	1	3
+Annual Review of Clinical Psychology	Annual Reviews		Annual Reviews	10.1146/clinpsy.724	ar:clinpsy	1548-5943	1548-5951		Controlled	Total_Item_Requests	4	2	2
+Annual Review of Clinical Psychology	Annual Reviews		Annual Reviews	10.1146/clinpsy.724	ar:clinpsy	1548-5943	1548-5951		Controlled	Total_Item_Investigations	5	2	3
+Annual Review of Clinical Psychology	Annual Reviews		Annual Reviews	10.1146/clinpsy.724	ar:clinpsy	1548-5943	1548-5951		Controlled	Unique_Item_Requests	3	1	2
+Annual Review of Criminology	Annual Reviews		Annual Reviews	10.1146/criminol	ar:criminol	2572-4568	2572-4568		Controlled	Unique_Item_Investigations	1	0	1
+Annual Review of Criminology	Annual Reviews		Annual Reviews	10.1146/criminol	ar:criminol	2572-4568	2572-4568		Controlled	Total_Item_Requests	1	0	1
+Annual Review of Criminology	Annual Reviews		Annual Reviews	10.1146/criminol	ar:criminol	2572-4568	2572-4568		Controlled	Total_Item_Investigations	1	0	1
+Annual Review of Criminology	Annual Reviews		Annual Reviews	10.1146/criminol	ar:criminol	2572-4568	2572-4568		Controlled	Unique_Item_Requests	1	0	1
 Annual Review of Developmental Psychology	Annual Reviews		Annual Reviews	10.1146/devpsych	ar:devpsych	2640-7922	2640-7922		Controlled	Unique_Item_Investigations	1	1	0
 Annual Review of Developmental Psychology	Annual Reviews		Annual Reviews	10.1146/devpsych	ar:devpsych	2640-7922	2640-7922		Controlled	Total_Item_Investigations	1	1	0
 Annual Review of Earth and Planetary Sciences	Annual Reviews		Annual Reviews	10.1146/earth.691	ar:earth	0084-6597	1545-4495		Controlled	Unique_Item_Investigations	1	1	0
-Annual Review of Earth and Planetary Sciences	Annual Reviews		Annual Reviews	10.1146/earth.691	ar:earth	0084-6597	1545-4495		Controlled	Unique_Item_Requests	1	1	0
-Annual Review of Earth and Planetary Sciences	Annual Reviews		Annual Reviews	10.1146/earth.691	ar:earth	0084-6597	1545-4495		Controlled	Total_Item_Investigations	1	1	0
 Annual Review of Earth and Planetary Sciences	Annual Reviews		Annual Reviews	10.1146/earth.691	ar:earth	0084-6597	1545-4495		Controlled	Total_Item_Requests	1	1	0
-Annual Review of Ecology, Evolution, and Systematics	Annual Reviews		Annual Reviews	10.1146/ecolsys.693	ar:ecolsys	1543-592X	1545-2069		Controlled	Unique_Item_Investigations	1	1	0
-Annual Review of Ecology, Evolution, and Systematics	Annual Reviews		Annual Reviews	10.1146/ecolsys.693	ar:ecolsys	1543-592X	1545-2069		Controlled	Unique_Item_Requests	1	1	0
-Annual Review of Ecology, Evolution, and Systematics	Annual Reviews		Annual Reviews	10.1146/ecolsys.693	ar:ecolsys	1543-592X	1545-2069		Controlled	Total_Item_Investigations	2	2	0
-Annual Review of Ecology, Evolution, and Systematics	Annual Reviews		Annual Reviews	10.1146/ecolsys.693	ar:ecolsys	1543-592X	1545-2069		Controlled	Total_Item_Requests	1	1	0
+Annual Review of Earth and Planetary Sciences	Annual Reviews		Annual Reviews	10.1146/earth.691	ar:earth	0084-6597	1545-4495		Controlled	Total_Item_Investigations	1	1	0
+Annual Review of Earth and Planetary Sciences	Annual Reviews		Annual Reviews	10.1146/earth.691	ar:earth	0084-6597	1545-4495		Controlled	Unique_Item_Requests	1	1	0
+Annual Review of Ecology, Evolution, and Systematics	Annual Reviews		Annual Reviews	10.1146/ecolsys.693	ar:ecolsys	1543-592X	1545-2069		Controlled	Unique_Item_Investigations	4	1	3
+Annual Review of Ecology, Evolution, and Systematics	Annual Reviews		Annual Reviews	10.1146/ecolsys.693	ar:ecolsys	1543-592X	1545-2069		Controlled	Total_Item_Requests	3	1	2
+Annual Review of Ecology, Evolution, and Systematics	Annual Reviews		Annual Reviews	10.1146/ecolsys.693	ar:ecolsys	1543-592X	1545-2069		Controlled	Total_Item_Investigations	5	2	3
+Annual Review of Ecology, Evolution, and Systematics	Annual Reviews		Annual Reviews	10.1146/ecolsys.693	ar:ecolsys	1543-592X	1545-2069		Controlled	Unique_Item_Requests	3	1	2
 Annual Review of Economics	Annual Reviews		Annual Reviews	10.1146/economics	ar:economics	1941-1383	1941-1391		Controlled	Unique_Item_Investigations	1	1	0
-Annual Review of Economics	Annual Reviews		Annual Reviews	10.1146/economics	ar:economics	1941-1383	1941-1391		Controlled	Unique_Item_Requests	1	1	0
-Annual Review of Economics	Annual Reviews		Annual Reviews	10.1146/economics	ar:economics	1941-1383	1941-1391		Controlled	Total_Item_Investigations	2	2	0
 Annual Review of Economics	Annual Reviews		Annual Reviews	10.1146/economics	ar:economics	1941-1383	1941-1391		Controlled	Total_Item_Requests	1	1	0
-Annual Review of Entomology	Annual Reviews		Annual Reviews	10.1146/ento.697	ar:ento	0066-4170	1545-4487		Controlled	Unique_Item_Investigations	2	2	0
-Annual Review of Entomology	Annual Reviews		Annual Reviews	10.1146/ento.697	ar:ento	0066-4170	1545-4487		Controlled	Unique_Item_Requests	2	2	0
-Annual Review of Entomology	Annual Reviews		Annual Reviews	10.1146/ento.697	ar:ento	0066-4170	1545-4487		Controlled	Total_Item_Investigations	2	2	0
-Annual Review of Entomology	Annual Reviews		Annual Reviews	10.1146/ento.697	ar:ento	0066-4170	1545-4487		Controlled	Total_Item_Requests	2	2	0
+Annual Review of Economics	Annual Reviews		Annual Reviews	10.1146/economics	ar:economics	1941-1383	1941-1391		Controlled	Total_Item_Investigations	2	2	0
+Annual Review of Economics	Annual Reviews		Annual Reviews	10.1146/economics	ar:economics	1941-1383	1941-1391		Controlled	Unique_Item_Requests	1	1	0
+Annual Review of Economics	Annual Reviews		Annual Reviews	10.1146/economics	ar:economics	1941-1383	1941-1391		OA_Gold	Unique_Item_Investigations	1	0	1
+Annual Review of Economics	Annual Reviews		Annual Reviews	10.1146/economics	ar:economics	1941-1383	1941-1391		OA_Gold	Total_Item_Requests	1	0	1
+Annual Review of Economics	Annual Reviews		Annual Reviews	10.1146/economics	ar:economics	1941-1383	1941-1391		OA_Gold	Total_Item_Investigations	1	0	1
+Annual Review of Economics	Annual Reviews		Annual Reviews	10.1146/economics	ar:economics	1941-1383	1941-1391		OA_Gold	Unique_Item_Requests	1	0	1
+Annual Review of Entomology	Annual Reviews		Annual Reviews	10.1146/ento.697	ar:ento	0066-4170	1545-4487		Controlled	Unique_Item_Investigations	4	2	2
+Annual Review of Entomology	Annual Reviews		Annual Reviews	10.1146/ento.697	ar:ento	0066-4170	1545-4487		Controlled	Total_Item_Requests	5	2	3
+Annual Review of Entomology	Annual Reviews		Annual Reviews	10.1146/ento.697	ar:ento	0066-4170	1545-4487		Controlled	Total_Item_Investigations	6	2	4
+Annual Review of Entomology	Annual Reviews		Annual Reviews	10.1146/ento.697	ar:ento	0066-4170	1545-4487		Controlled	Unique_Item_Requests	4	2	2
 Annual Review of Environment and Resources	Annual Reviews		Annual Reviews	10.1146/energy.721	ar:energy	1543-5938	1545-2050		Controlled	Unique_Item_Investigations	4	4	0
-Annual Review of Environment and Resources	Annual Reviews		Annual Reviews	10.1146/energy.721	ar:energy	1543-5938	1545-2050		Controlled	Unique_Item_Requests	4	4	0
-Annual Review of Environment and Resources	Annual Reviews		Annual Reviews	10.1146/energy.721	ar:energy	1543-5938	1545-2050		Controlled	Total_Item_Investigations	5	5	0
 Annual Review of Environment and Resources	Annual Reviews		Annual Reviews	10.1146/energy.721	ar:energy	1543-5938	1545-2050		Controlled	Total_Item_Requests	4	4	0
+Annual Review of Environment and Resources	Annual Reviews		Annual Reviews	10.1146/energy.721	ar:energy	1543-5938	1545-2050		Controlled	Total_Item_Investigations	5	5	0
+Annual Review of Environment and Resources	Annual Reviews		Annual Reviews	10.1146/energy.721	ar:energy	1543-5938	1545-2050		Controlled	Unique_Item_Requests	4	4	0
 Annual Review of Environment and Resources	Annual Reviews		Annual Reviews	10.1146/energy.721	ar:energy	1543-5938	1545-2050		OA_Gold	Unique_Item_Investigations	1	1	0
-Annual Review of Environment and Resources	Annual Reviews		Annual Reviews	10.1146/energy.721	ar:energy	1543-5938	1545-2050		OA_Gold	Unique_Item_Requests	1	1	0
-Annual Review of Environment and Resources	Annual Reviews		Annual Reviews	10.1146/energy.721	ar:energy	1543-5938	1545-2050		OA_Gold	Total_Item_Investigations	1	1	0
 Annual Review of Environment and Resources	Annual Reviews		Annual Reviews	10.1146/energy.721	ar:energy	1543-5938	1545-2050		OA_Gold	Total_Item_Requests	1	1	0
+Annual Review of Environment and Resources	Annual Reviews		Annual Reviews	10.1146/energy.721	ar:energy	1543-5938	1545-2050		OA_Gold	Total_Item_Investigations	1	1	0
+Annual Review of Environment and Resources	Annual Reviews		Annual Reviews	10.1146/energy.721	ar:energy	1543-5938	1545-2050		OA_Gold	Unique_Item_Requests	1	1	0
 Annual Review of Fluid Mechanics	Annual Reviews		Annual Reviews	10.1146/fluid.698	ar:fluid	0066-4189	1545-4479		Controlled	Unique_Item_Investigations	1	1	0
-Annual Review of Fluid Mechanics	Annual Reviews		Annual Reviews	10.1146/fluid.698	ar:fluid	0066-4189	1545-4479		Controlled	Unique_Item_Requests	1	1	0
-Annual Review of Fluid Mechanics	Annual Reviews		Annual Reviews	10.1146/fluid.698	ar:fluid	0066-4189	1545-4479		Controlled	Total_Item_Investigations	2	2	0
 Annual Review of Fluid Mechanics	Annual Reviews		Annual Reviews	10.1146/fluid.698	ar:fluid	0066-4189	1545-4479		Controlled	Total_Item_Requests	2	2	0
+Annual Review of Fluid Mechanics	Annual Reviews		Annual Reviews	10.1146/fluid.698	ar:fluid	0066-4189	1545-4479		Controlled	Total_Item_Investigations	2	2	0
+Annual Review of Fluid Mechanics	Annual Reviews		Annual Reviews	10.1146/fluid.698	ar:fluid	0066-4189	1545-4479		Controlled	Unique_Item_Requests	1	1	0
+Annual Review of Genetics	Annual Reviews		Annual Reviews	10.1146/genet.699	ar:genet	0066-4197	1545-2948		Controlled	Unique_Item_Investigations	1	0	1
+Annual Review of Genetics	Annual Reviews		Annual Reviews	10.1146/genet.699	ar:genet	0066-4197	1545-2948		Controlled	Total_Item_Requests	1	0	1
+Annual Review of Genetics	Annual Reviews		Annual Reviews	10.1146/genet.699	ar:genet	0066-4197	1545-2948		Controlled	Total_Item_Investigations	1	0	1
+Annual Review of Genetics	Annual Reviews		Annual Reviews	10.1146/genet.699	ar:genet	0066-4197	1545-2948		Controlled	Unique_Item_Requests	1	0	1
+Annual Review of Immunology	Annual Reviews		Annual Reviews	10.1146/immunol.701	ar:immunol	0732-0582	1545-3278		Controlled	Unique_Item_Investigations	1	0	1
+Annual Review of Immunology	Annual Reviews		Annual Reviews	10.1146/immunol.701	ar:immunol	0732-0582	1545-3278		Controlled	Total_Item_Requests	2	0	2
+Annual Review of Immunology	Annual Reviews		Annual Reviews	10.1146/immunol.701	ar:immunol	0732-0582	1545-3278		Controlled	Total_Item_Investigations	2	0	2
+Annual Review of Immunology	Annual Reviews		Annual Reviews	10.1146/immunol.701	ar:immunol	0732-0582	1545-3278		Controlled	Unique_Item_Requests	1	0	1
 Annual Review of Law and Social Science	Annual Reviews		Annual Reviews	10.1146/lawsocsci.807	ar:lawsocsci	1550-3585	1550-3631		Controlled	Unique_Item_Investigations	1	1	0
-Annual Review of Law and Social Science	Annual Reviews		Annual Reviews	10.1146/lawsocsci.807	ar:lawsocsci	1550-3585	1550-3631		Controlled	Unique_Item_Requests	1	1	0
-Annual Review of Law and Social Science	Annual Reviews		Annual Reviews	10.1146/lawsocsci.807	ar:lawsocsci	1550-3585	1550-3631		Controlled	Total_Item_Investigations	1	1	0
 Annual Review of Law and Social Science	Annual Reviews		Annual Reviews	10.1146/lawsocsci.807	ar:lawsocsci	1550-3585	1550-3631		Controlled	Total_Item_Requests	1	1	0
-Annual Review of Marine Science	Annual Reviews		Annual Reviews	10.1146/marine	ar:marine	1941-1405	1941-0611		Controlled	Unique_Item_Investigations	6	6	0
-Annual Review of Marine Science	Annual Reviews		Annual Reviews	10.1146/marine	ar:marine	1941-1405	1941-0611		Controlled	Unique_Item_Requests	3	3	0
-Annual Review of Marine Science	Annual Reviews		Annual Reviews	10.1146/marine	ar:marine	1941-1405	1941-0611		Controlled	Total_Item_Investigations	16	16	0
-Annual Review of Marine Science	Annual Reviews		Annual Reviews	10.1146/marine	ar:marine	1941-1405	1941-0611		Controlled	Total_Item_Requests	11	11	0
+Annual Review of Law and Social Science	Annual Reviews		Annual Reviews	10.1146/lawsocsci.807	ar:lawsocsci	1550-3585	1550-3631		Controlled	Total_Item_Investigations	1	1	0
+Annual Review of Law and Social Science	Annual Reviews		Annual Reviews	10.1146/lawsocsci.807	ar:lawsocsci	1550-3585	1550-3631		Controlled	Unique_Item_Requests	1	1	0
+Annual Review of Marine Science	Annual Reviews		Annual Reviews	10.1146/marine	ar:marine	1941-1405	1941-0611		Controlled	Unique_Item_Investigations	9	6	3
+Annual Review of Marine Science	Annual Reviews		Annual Reviews	10.1146/marine	ar:marine	1941-1405	1941-0611		Controlled	Total_Item_Requests	18	11	7
+Annual Review of Marine Science	Annual Reviews		Annual Reviews	10.1146/marine	ar:marine	1941-1405	1941-0611		Controlled	Total_Item_Investigations	25	16	9
+Annual Review of Marine Science	Annual Reviews		Annual Reviews	10.1146/marine	ar:marine	1941-1405	1941-0611		Controlled	Unique_Item_Requests	6	3	3
 Annual Review of Marine Science	Annual Reviews		Annual Reviews	10.1146/marine	ar:marine	1941-1405	1941-0611		OA_Gold	Unique_Item_Investigations	1	1	0
-Annual Review of Marine Science	Annual Reviews		Annual Reviews	10.1146/marine	ar:marine	1941-1405	1941-0611		OA_Gold	Unique_Item_Requests	1	1	0
-Annual Review of Marine Science	Annual Reviews		Annual Reviews	10.1146/marine	ar:marine	1941-1405	1941-0611		OA_Gold	Total_Item_Investigations	2	2	0
 Annual Review of Marine Science	Annual Reviews		Annual Reviews	10.1146/marine	ar:marine	1941-1405	1941-0611		OA_Gold	Total_Item_Requests	1	1	0
-Annual Review of Nutrition	Annual Reviews		Annual Reviews	10.1146/nutr.709	ar:nutr	0199-9885	1545-4312		Controlled	Unique_Item_Investigations	2	2	0
-Annual Review of Nutrition	Annual Reviews		Annual Reviews	10.1146/nutr.709	ar:nutr	0199-9885	1545-4312		Controlled	Unique_Item_Requests	2	2	0
-Annual Review of Nutrition	Annual Reviews		Annual Reviews	10.1146/nutr.709	ar:nutr	0199-9885	1545-4312		Controlled	Total_Item_Investigations	4	4	0
-Annual Review of Nutrition	Annual Reviews		Annual Reviews	10.1146/nutr.709	ar:nutr	0199-9885	1545-4312		Controlled	Total_Item_Requests	3	3	0
-Annual Review of Pathology: Mechanisms of Disease	Annual Reviews		Annual Reviews	10.1146/pathmechdis.808	ar:pathmechdis	1553-4006	1553-4014		Controlled	Unique_Item_Investigations	1	1	0
-Annual Review of Pathology: Mechanisms of Disease	Annual Reviews		Annual Reviews	10.1146/pathmechdis.808	ar:pathmechdis	1553-4006	1553-4014		Controlled	Unique_Item_Requests	1	1	0
-Annual Review of Pathology: Mechanisms of Disease	Annual Reviews		Annual Reviews	10.1146/pathmechdis.808	ar:pathmechdis	1553-4006	1553-4014		Controlled	Total_Item_Investigations	3	3	0
+Annual Review of Marine Science	Annual Reviews		Annual Reviews	10.1146/marine	ar:marine	1941-1405	1941-0611		OA_Gold	Total_Item_Investigations	2	2	0
+Annual Review of Marine Science	Annual Reviews		Annual Reviews	10.1146/marine	ar:marine	1941-1405	1941-0611		OA_Gold	Unique_Item_Requests	1	1	0
+Annual Review of Medicine	Annual Reviews		Annual Reviews	10.1146/med.704	ar:med	0066-4219	1545-326X		Controlled	Unique_Item_Investigations	1	0	1
+Annual Review of Medicine	Annual Reviews		Annual Reviews	10.1146/med.704	ar:med	0066-4219	1545-326X		Controlled	Total_Item_Requests	1	0	1
+Annual Review of Medicine	Annual Reviews		Annual Reviews	10.1146/med.704	ar:med	0066-4219	1545-326X		Controlled	Total_Item_Investigations	1	0	1
+Annual Review of Medicine	Annual Reviews		Annual Reviews	10.1146/med.704	ar:med	0066-4219	1545-326X		Controlled	Unique_Item_Requests	1	0	1
+Annual Review of Neuroscience	Annual Reviews		Annual Reviews	10.1146/neuro.662	ar:neuro	0147-006X	1545-4126		Controlled	Unique_Item_Investigations	3	0	3
+Annual Review of Neuroscience	Annual Reviews		Annual Reviews	10.1146/neuro.662	ar:neuro	0147-006X	1545-4126		Controlled	Total_Item_Requests	2	0	2
+Annual Review of Neuroscience	Annual Reviews		Annual Reviews	10.1146/neuro.662	ar:neuro	0147-006X	1545-4126		Controlled	Total_Item_Investigations	5	0	5
+Annual Review of Neuroscience	Annual Reviews		Annual Reviews	10.1146/neuro.662	ar:neuro	0147-006X	1545-4126		Controlled	Unique_Item_Requests	2	0	2
+Annual Review of Nuclear and Particle Science	Annual Reviews		Annual Reviews	10.1146/nucl.708	ar:nucl	0163-8998	1545-4134		Controlled	Unique_Item_Investigations	1	0	1
+Annual Review of Nuclear and Particle Science	Annual Reviews		Annual Reviews	10.1146/nucl.708	ar:nucl	0163-8998	1545-4134		Controlled	Total_Item_Requests	1	0	1
+Annual Review of Nuclear and Particle Science	Annual Reviews		Annual Reviews	10.1146/nucl.708	ar:nucl	0163-8998	1545-4134		Controlled	Total_Item_Investigations	1	0	1
+Annual Review of Nuclear and Particle Science	Annual Reviews		Annual Reviews	10.1146/nucl.708	ar:nucl	0163-8998	1545-4134		Controlled	Unique_Item_Requests	1	0	1
+Annual Review of Nutrition	Annual Reviews		Annual Reviews	10.1146/nutr.709	ar:nutr	0199-9885	1545-4312		Controlled	Unique_Item_Investigations	3	2	1
+Annual Review of Nutrition	Annual Reviews		Annual Reviews	10.1146/nutr.709	ar:nutr	0199-9885	1545-4312		Controlled	Total_Item_Requests	4	3	1
+Annual Review of Nutrition	Annual Reviews		Annual Reviews	10.1146/nutr.709	ar:nutr	0199-9885	1545-4312		Controlled	Total_Item_Investigations	6	4	2
+Annual Review of Nutrition	Annual Reviews		Annual Reviews	10.1146/nutr.709	ar:nutr	0199-9885	1545-4312		Controlled	Unique_Item_Requests	3	2	1
+Annual Review of Pathology: Mechanisms of Disease	Annual Reviews		Annual Reviews	10.1146/pathmechdis.808	ar:pathmechdis	1553-4006	1553-4014		Controlled	Unique_Item_Investigations	2	1	1
 Annual Review of Pathology: Mechanisms of Disease	Annual Reviews		Annual Reviews	10.1146/pathmechdis.808	ar:pathmechdis	1553-4006	1553-4014		Controlled	Total_Item_Requests	2	2	0
-Annual Review of Physiology	Annual Reviews		Annual Reviews	10.1146/physiol.713	ar:physiol	0066-4278	1545-1585		Controlled	Unique_Item_Investigations	2	2	0
-Annual Review of Physiology	Annual Reviews		Annual Reviews	10.1146/physiol.713	ar:physiol	0066-4278	1545-1585		Controlled	Unique_Item_Requests	2	2	0
-Annual Review of Physiology	Annual Reviews		Annual Reviews	10.1146/physiol.713	ar:physiol	0066-4278	1545-1585		Controlled	Total_Item_Investigations	2	2	0
-Annual Review of Physiology	Annual Reviews		Annual Reviews	10.1146/physiol.713	ar:physiol	0066-4278	1545-1585		Controlled	Total_Item_Requests	2	2	0
+Annual Review of Pathology: Mechanisms of Disease	Annual Reviews		Annual Reviews	10.1146/pathmechdis.808	ar:pathmechdis	1553-4006	1553-4014		Controlled	Total_Item_Investigations	4	3	1
+Annual Review of Pathology: Mechanisms of Disease	Annual Reviews		Annual Reviews	10.1146/pathmechdis.808	ar:pathmechdis	1553-4006	1553-4014		Controlled	Unique_Item_Requests	1	1	0
+Annual Review of Physiology	Annual Reviews		Annual Reviews	10.1146/physiol.713	ar:physiol	0066-4278	1545-1585		Controlled	Unique_Item_Investigations	5	2	3
+Annual Review of Physiology	Annual Reviews		Annual Reviews	10.1146/physiol.713	ar:physiol	0066-4278	1545-1585		Controlled	Total_Item_Requests	6	2	4
+Annual Review of Physiology	Annual Reviews		Annual Reviews	10.1146/physiol.713	ar:physiol	0066-4278	1545-1585		Controlled	Total_Item_Investigations	6	2	4
+Annual Review of Physiology	Annual Reviews		Annual Reviews	10.1146/physiol.713	ar:physiol	0066-4278	1545-1585		Controlled	Unique_Item_Requests	5	2	3
 Annual Review of Phytopathology	Annual Reviews		Annual Reviews	10.1146/phyto.714	ar:phyto	0066-4286	1545-2107		Controlled	Unique_Item_Investigations	2	2	0
-Annual Review of Phytopathology	Annual Reviews		Annual Reviews	10.1146/phyto.714	ar:phyto	0066-4286	1545-2107		Controlled	Unique_Item_Requests	2	2	0
-Annual Review of Phytopathology	Annual Reviews		Annual Reviews	10.1146/phyto.714	ar:phyto	0066-4286	1545-2107		Controlled	Total_Item_Investigations	4	4	0
 Annual Review of Phytopathology	Annual Reviews		Annual Reviews	10.1146/phyto.714	ar:phyto	0066-4286	1545-2107		Controlled	Total_Item_Requests	3	3	0
+Annual Review of Phytopathology	Annual Reviews		Annual Reviews	10.1146/phyto.714	ar:phyto	0066-4286	1545-2107		Controlled	Total_Item_Investigations	4	4	0
+Annual Review of Phytopathology	Annual Reviews		Annual Reviews	10.1146/phyto.714	ar:phyto	0066-4286	1545-2107		Controlled	Unique_Item_Requests	2	2	0
+Annual Review of Plant Biology	Annual Reviews		Annual Reviews	10.1146/arplant.682	ar:arplant	1543-5008	1545-2123		Controlled	Unique_Item_Investigations	3	0	3
+Annual Review of Plant Biology	Annual Reviews		Annual Reviews	10.1146/arplant.682	ar:arplant	1543-5008	1545-2123		Controlled	Total_Item_Requests	3	0	3
+Annual Review of Plant Biology	Annual Reviews		Annual Reviews	10.1146/arplant.682	ar:arplant	1543-5008	1545-2123		Controlled	Total_Item_Investigations	3	0	3
+Annual Review of Plant Biology	Annual Reviews		Annual Reviews	10.1146/arplant.682	ar:arplant	1543-5008	1545-2123		Controlled	Unique_Item_Requests	3	0	3
 Annual Review of Political Science	Annual Reviews		Annual Reviews	10.1146/polisci.715	ar:polisci	1094-2939	1545-1577		Controlled	Unique_Item_Investigations	1	1	0
-Annual Review of Political Science	Annual Reviews		Annual Reviews	10.1146/polisci.715	ar:polisci	1094-2939	1545-1577		Controlled	Unique_Item_Requests	1	1	0
-Annual Review of Political Science	Annual Reviews		Annual Reviews	10.1146/polisci.715	ar:polisci	1094-2939	1545-1577		Controlled	Total_Item_Investigations	1	1	0
 Annual Review of Political Science	Annual Reviews		Annual Reviews	10.1146/polisci.715	ar:polisci	1094-2939	1545-1577		Controlled	Total_Item_Requests	1	1	0
-Annual Review of Public Health	Annual Reviews		Annual Reviews	10.1146/publhealth.717	ar:publhealth	0163-7525	1545-2093		Controlled	Unique_Item_Investigations	2	2	0
-Annual Review of Public Health	Annual Reviews		Annual Reviews	10.1146/publhealth.717	ar:publhealth	0163-7525	1545-2093		Controlled	Unique_Item_Requests	1	1	0
-Annual Review of Public Health	Annual Reviews		Annual Reviews	10.1146/publhealth.717	ar:publhealth	0163-7525	1545-2093		Controlled	Total_Item_Investigations	3	3	0
-Annual Review of Public Health	Annual Reviews		Annual Reviews	10.1146/publhealth.717	ar:publhealth	0163-7525	1545-2093		Controlled	Total_Item_Requests	2	2	0
-Annual Review of Public Health	Annual Reviews		Annual Reviews	10.1146/publhealth.717	ar:publhealth	0163-7525	1545-2093		OA_Gold	Unique_Item_Investigations	4	4	0
-Annual Review of Public Health	Annual Reviews		Annual Reviews	10.1146/publhealth.717	ar:publhealth	0163-7525	1545-2093		OA_Gold	Unique_Item_Requests	4	4	0
-Annual Review of Public Health	Annual Reviews		Annual Reviews	10.1146/publhealth.717	ar:publhealth	0163-7525	1545-2093		OA_Gold	Total_Item_Investigations	10	10	0
-Annual Review of Public Health	Annual Reviews		Annual Reviews	10.1146/publhealth.717	ar:publhealth	0163-7525	1545-2093		OA_Gold	Total_Item_Requests	9	9	0
-Annual Review of Resource Economics	Annual Reviews		Annual Reviews	10.1146/resource	ar:resource	1941-1340	1941-1359		Controlled	Unique_Item_Investigations	1	1	0
-Annual Review of Resource Economics	Annual Reviews		Annual Reviews	10.1146/resource	ar:resource	1941-1340	1941-1359		Controlled	Unique_Item_Requests	1	1	0
-Annual Review of Resource Economics	Annual Reviews		Annual Reviews	10.1146/resource	ar:resource	1941-1340	1941-1359		Controlled	Total_Item_Investigations	1	1	0
+Annual Review of Political Science	Annual Reviews		Annual Reviews	10.1146/polisci.715	ar:polisci	1094-2939	1545-1577		Controlled	Total_Item_Investigations	1	1	0
+Annual Review of Political Science	Annual Reviews		Annual Reviews	10.1146/polisci.715	ar:polisci	1094-2939	1545-1577		Controlled	Unique_Item_Requests	1	1	0
+Annual Review of Psychology	Annual Reviews		Annual Reviews	10.1146/psych.716	ar:psych	0066-4308	1545-2085		Controlled	Unique_Item_Investigations	5	0	5
+Annual Review of Psychology	Annual Reviews		Annual Reviews	10.1146/psych.716	ar:psych	0066-4308	1545-2085		Controlled	Total_Item_Requests	4	0	4
+Annual Review of Psychology	Annual Reviews		Annual Reviews	10.1146/psych.716	ar:psych	0066-4308	1545-2085		Controlled	Total_Item_Investigations	8	0	8
+Annual Review of Psychology	Annual Reviews		Annual Reviews	10.1146/psych.716	ar:psych	0066-4308	1545-2085		Controlled	Unique_Item_Requests	4	0	4
+Annual Review of Psychology	Annual Reviews		Annual Reviews	10.1146/psych.716	ar:psych	0066-4308	1545-2085		OA_Gold	Unique_Item_Investigations	1	0	1
+Annual Review of Psychology	Annual Reviews		Annual Reviews	10.1146/psych.716	ar:psych	0066-4308	1545-2085		OA_Gold	Total_Item_Requests	1	0	1
+Annual Review of Psychology	Annual Reviews		Annual Reviews	10.1146/psych.716	ar:psych	0066-4308	1545-2085		OA_Gold	Total_Item_Investigations	2	0	2
+Annual Review of Psychology	Annual Reviews		Annual Reviews	10.1146/psych.716	ar:psych	0066-4308	1545-2085		OA_Gold	Unique_Item_Requests	1	0	1
+Annual Review of Public Health	Annual Reviews		Annual Reviews	10.1146/publhealth.717	ar:publhealth	0163-7525	1545-2093		Controlled	Unique_Item_Investigations	32	2	30
+Annual Review of Public Health	Annual Reviews		Annual Reviews	10.1146/publhealth.717	ar:publhealth	0163-7525	1545-2093		Controlled	Total_Item_Requests	5	2	3
+Annual Review of Public Health	Annual Reviews		Annual Reviews	10.1146/publhealth.717	ar:publhealth	0163-7525	1545-2093		Controlled	Total_Item_Investigations	52	3	49
+Annual Review of Public Health	Annual Reviews		Annual Reviews	10.1146/publhealth.717	ar:publhealth	0163-7525	1545-2093		Controlled	Unique_Item_Requests	4	1	3
+Annual Review of Public Health	Annual Reviews		Annual Reviews	10.1146/publhealth.717	ar:publhealth	0163-7525	1545-2093		OA_Gold	Unique_Item_Investigations	5	4	1
+Annual Review of Public Health	Annual Reviews		Annual Reviews	10.1146/publhealth.717	ar:publhealth	0163-7525	1545-2093		OA_Gold	Total_Item_Requests	10	9	1
+Annual Review of Public Health	Annual Reviews		Annual Reviews	10.1146/publhealth.717	ar:publhealth	0163-7525	1545-2093		OA_Gold	Total_Item_Investigations	13	10	3
+Annual Review of Public Health	Annual Reviews		Annual Reviews	10.1146/publhealth.717	ar:publhealth	0163-7525	1545-2093		OA_Gold	Unique_Item_Requests	5	4	1
+Annual Review of Resource Economics	Annual Reviews		Annual Reviews	10.1146/resource	ar:resource	1941-1340	1941-1359		Controlled	Unique_Item_Investigations	2	1	1
 Annual Review of Resource Economics	Annual Reviews		Annual Reviews	10.1146/resource	ar:resource	1941-1340	1941-1359		Controlled	Total_Item_Requests	1	1	0
-Annual Review of Sociology	Annual Reviews		Annual Reviews	10.1146/soc.718	ar:soc	0360-0572	1545-2115		OA_Gold	Unique_Item_Investigations	1	1	0
-Annual Review of Sociology	Annual Reviews		Annual Reviews	10.1146/soc.718	ar:soc	0360-0572	1545-2115		OA_Gold	Unique_Item_Requests	1	1	0
-Annual Review of Sociology	Annual Reviews		Annual Reviews	10.1146/soc.718	ar:soc	0360-0572	1545-2115		OA_Gold	Total_Item_Investigations	1	1	0
-Annual Review of Sociology	Annual Reviews		Annual Reviews	10.1146/soc.718	ar:soc	0360-0572	1545-2115		OA_Gold	Total_Item_Requests	1	1	0
+Annual Review of Resource Economics	Annual Reviews		Annual Reviews	10.1146/resource	ar:resource	1941-1340	1941-1359		Controlled	Total_Item_Investigations	2	1	1
+Annual Review of Resource Economics	Annual Reviews		Annual Reviews	10.1146/resource	ar:resource	1941-1340	1941-1359		Controlled	Unique_Item_Requests	1	1	0
+Annual Review of Sociology	Annual Reviews		Annual Reviews	10.1146/soc.718	ar:soc	0360-0572	1545-2115		Controlled	Unique_Item_Investigations	8	0	8
+Annual Review of Sociology	Annual Reviews		Annual Reviews	10.1146/soc.718	ar:soc	0360-0572	1545-2115		Controlled	Total_Item_Requests	6	0	6
+Annual Review of Sociology	Annual Reviews		Annual Reviews	10.1146/soc.718	ar:soc	0360-0572	1545-2115		Controlled	Total_Item_Investigations	10	0	10
+Annual Review of Sociology	Annual Reviews		Annual Reviews	10.1146/soc.718	ar:soc	0360-0572	1545-2115		Controlled	Unique_Item_Requests	6	0	6
+Annual Review of Sociology	Annual Reviews		Annual Reviews	10.1146/soc.718	ar:soc	0360-0572	1545-2115		OA_Gold	Unique_Item_Investigations	2	1	1
+Annual Review of Sociology	Annual Reviews		Annual Reviews	10.1146/soc.718	ar:soc	0360-0572	1545-2115		OA_Gold	Total_Item_Requests	2	1	1
+Annual Review of Sociology	Annual Reviews		Annual Reviews	10.1146/soc.718	ar:soc	0360-0572	1545-2115		OA_Gold	Total_Item_Investigations	2	1	1
+Annual Review of Sociology	Annual Reviews		Annual Reviews	10.1146/soc.718	ar:soc	0360-0572	1545-2115		OA_Gold	Unique_Item_Requests	2	1	1
+Annual Review of Statistics and Its Application	Annual Reviews		Annual Reviews	10.1146/statistics	ar:statistics	2326-8298	2326-831X		Controlled	Unique_Item_Investigations	3	0	3
+Annual Review of Statistics and Its Application	Annual Reviews		Annual Reviews	10.1146/statistics	ar:statistics	2326-8298	2326-831X		Controlled	Total_Item_Requests	6	0	6
+Annual Review of Statistics and Its Application	Annual Reviews		Annual Reviews	10.1146/statistics	ar:statistics	2326-8298	2326-831X		Controlled	Total_Item_Investigations	7	0	7
+Annual Review of Statistics and Its Application	Annual Reviews		Annual Reviews	10.1146/statistics	ar:statistics	2326-8298	2326-831X		Controlled	Unique_Item_Requests	3	0	3
+Annual Review of Virology	Annual Reviews		Annual Reviews	10.1146/virology	ar:virology	2327-056X	2327-0578		Controlled	Unique_Item_Investigations	1	0	1
+Annual Review of Virology	Annual Reviews		Annual Reviews	10.1146/virology	ar:virology	2327-056X	2327-0578		Controlled	Total_Item_Requests	2	0	2
+Annual Review of Virology	Annual Reviews		Annual Reviews	10.1146/virology	ar:virology	2327-056X	2327-0578		Controlled	Total_Item_Investigations	2	0	2
+Annual Review of Virology	Annual Reviews		Annual Reviews	10.1146/virology	ar:virology	2327-056X	2327-0578		Controlled	Unique_Item_Requests	1	0	1

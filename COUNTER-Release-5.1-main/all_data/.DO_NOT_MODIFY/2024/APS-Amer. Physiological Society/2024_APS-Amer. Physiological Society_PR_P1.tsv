@@ -6,12 +6,12 @@ Institution_ID	physio:00015659
 Metric_Types	Searches_Platform; Total_Item_Requests; Unique_Item_Requests; Unique_Title_Requests
 Report_Filters	Access_Method=Regular
 Report_Attributes	
-Exceptions	3031: Usage Not Ready for Requested Dates (Requested data between 2024-02-01 and 2024-02-29. However only data between 2018-11-01 and 2024-01-31 exists.)
+Exceptions	
 Reporting_Period	End_Date=2024-02-29; Begin_Date=2024-01-01
-Created	2024-03-02T01:52:59Z
+Created	2024-03-05T07:46:45Z
 Created_By	Atypon Systems LLC.
 
 Platform	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
-The American Physiological Society	Total_Item_Requests	51	51	0
+The American Physiological Society	Total_Item_Requests	104	51	53
 The American Physiological Society	Searches_Platform	1	1	0
-The American Physiological Society	Unique_Item_Requests	40	40	0
+The American Physiological Society	Unique_Item_Requests	81	40	41

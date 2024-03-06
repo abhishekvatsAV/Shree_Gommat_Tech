@@ -8,7 +8,7 @@ Report_Filters	Data_Type=All; Attributes_to_Show=Data_Type|Access_Method; Access
 Report_Attributes	Granularity=Month
 Exceptions	
 Reporting_Period	Begin_Date=2024-01-01; End_Date=2024-02-29
-Created	2024-03-02T04:51:35Z
+Created	2024-03-05T10:44:33Z
 Created_By	MathSciNet
 
 Database	Publisher	Publisher_ID	Platform	Proprietary_ID	Data_Type	Access_Method	Metric_Type	Reporting_Period_Total	Jan-2024	Feb-2024
