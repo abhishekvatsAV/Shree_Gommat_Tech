@@ -1,3 +1,4 @@
+from ast import main
 import locale
 import sys
 from PyQt5.QtCore import Qt
@@ -151,9 +152,9 @@ if __name__ == "__main__":
         manage_vendors_tab, manage_vendors_ui, settings_controller.settings
     )
 
-    main_window_ui.tab_widget.addTab(
-        manage_vendors_tab, manage_vendors_tab.windowIcon(), "Manage Vendors"
-    )
+    # main_window_ui.tab_widget.addTab(
+    #     manage_vendors_tab, manage_vendors_tab.windowIcon(), "Manage Vendors"
+    # )
 
     def show_manage_vendors():
         password_dialog = PasswordDialog()
@@ -166,7 +167,7 @@ if __name__ == "__main__":
                 "Incorrect password. Access to 'Manage Vendors' denied.",
             )
 
-    main_window_ui.tab_widget.setCurrentIndex(1)  # Set default tab index
+    # main_window_ui.tab_widget.setCurrentIndex(2)  # Set default tab index
 
     def handle_tab_change(index):
         if index == 0 and authorized == False:  # Index of "Manage Vendors" tab
@@ -180,6 +181,11 @@ if __name__ == "__main__":
         # Allow changing to the selected tab
         main_window_ui.tab_widget.setCurrentIndex(index)
 
+    def handle_tab_change2(index):
+        if index == 0 and authorized == False:
+            main_window_ui.tab_widget.setCurrentIndex(1)
+
+    main_window_ui.tab_widget.currentChanged.connect(handle_tab_change2)
     main_window_ui.tab_widget.tabBarClicked.connect(handle_tab_change)
 
     fetch_reports_tab = QWidget(main_window)

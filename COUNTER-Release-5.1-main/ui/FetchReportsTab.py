@@ -643,7 +643,7 @@ class Ui_FetchReports(object):
 "    border-bottom: none;\n"
 "    border-top-color: white;\n"
 "}")
-        self.All_reports_edit_fetch.setDateTime(QtCore.QDateTime(QtCore.QDate(2019, 12, 22), QtCore.QTime(0, 0, 0)))
+        self.All_reports_edit_fetch.setDateTime(QtCore.QDateTime(QtCore.QDate(2019, 12, 21), QtCore.QTime(0, 0, 0)))
         self.All_reports_edit_fetch.setObjectName("All_reports_edit_fetch")
         self.horizontalLayout.addWidget(self.All_reports_edit_fetch)
         self.fetch_all_data_button = QtWidgets.QPushButton(self.frame_3)
@@ -685,7 +685,7 @@ class Ui_FetchReports(object):
         self.pr_master_report_checkbox.setText(_translate("FetchReports", "PR"))
         self.ir_master_report_checkbox.setText(_translate("FetchReports", "IR"))
         self.select_all_master_reports_button.setText(_translate("FetchReports", "Select all"))
-        self.deselect_all_master_reports_button.setText(_translate("FetchReports", "Deselect all "))
+        self.deselect_all_master_reports_button.setText(_translate("FetchReports", "Deselect all"))
         self.lblFetchAllReport_5.setText(_translate("FetchReports", "Select Report Types"))
         self.label_2.setText(_translate("FetchReports", "Report(s) will be saved to:"))
         self.custom_dir_button.setText(_translate("FetchReports", "Browse"))

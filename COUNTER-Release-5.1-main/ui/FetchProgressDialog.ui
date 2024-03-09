@@ -82,7 +82,7 @@ QProgressBar::chunk {
 }</string>
         </property>
         <property name="value">
-         <number>24</number>
+         <number>20</number>
         </property>
        </widget>
       </item>
@@ -149,7 +149,7 @@ QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical {
         <x>0</x>
         <y>0</y>
         <width>776</width>
-        <height>430</height>
+        <height>434</height>
        </rect>
       </property>
       <layout class="QVBoxLayout" name="scroll_area_vertical_layout"/>

@@ -756,7 +756,7 @@ text-align:center;</string>
                            <string notr="true">text-align:center;</string>
                           </property>
                           <property name="text">
-                           <string>Deselect all </string>
+                           <string>Deselect all</string>
                           </property>
                          </widget>
                         </item>
@@ -1051,7 +1051,7 @@ QDateEdit::down-arrow {
                    <second>0</second>
                    <year>2019</year>
                    <month>12</month>
-                   <day>22</day>
+                   <day>21</day>
                   </datetime>
                  </property>
                  <property name="displayFormat">

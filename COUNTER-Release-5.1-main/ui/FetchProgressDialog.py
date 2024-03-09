@@ -60,7 +60,7 @@ class Ui_FetchProgressDialog(object):
 "    background-color: #05B8CC;\n"
 "    width: 20px;\n"
 "}")
-        self.progress_bar.setProperty("value", 24)
+        self.progress_bar.setProperty("value", 20)
         self.progress_bar.setObjectName("progress_bar")
         self.verticalLayout_2.addWidget(self.progress_bar)
         self.verticalLayout.addWidget(self.fetching_frame)
@@ -114,7 +114,7 @@ class Ui_FetchProgressDialog(object):
         self.results_scroll_area.setWidgetResizable(True)
         self.results_scroll_area.setObjectName("results_scroll_area")
         self.scroll_area_widget_contents = QtWidgets.QWidget()
-        self.scroll_area_widget_contents.setGeometry(QtCore.QRect(0, 0, 776, 430))
+        self.scroll_area_widget_contents.setGeometry(QtCore.QRect(0, 0, 776, 434))
         self.scroll_area_widget_contents.setObjectName("scroll_area_widget_contents")
         self.scroll_area_vertical_layout = QtWidgets.QVBoxLayout(self.scroll_area_widget_contents)
         self.scroll_area_vertical_layout.setObjectName("scroll_area_vertical_layout")

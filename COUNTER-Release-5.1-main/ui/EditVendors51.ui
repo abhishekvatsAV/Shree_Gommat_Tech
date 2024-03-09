@@ -81,7 +81,7 @@ color:white;}</string>
              <enum>QFrame::NoFrame</enum>
             </property>
             <property name="text">
-             <string>Edit Vendor </string>
+             <string>Edit Vendor</string>
             </property>
            </widget>
           </item>
@@ -365,7 +365,7 @@ background-color: #2E2F30;
               </widget>
              </item>
              <item row="17" column="0">
-              <widget class="QLabel" name="companiesText">
+              <widget class="QLabel" name="provider">
                <property name="font">
                 <font>
                  <family>Georgia</family>
@@ -593,7 +593,7 @@ QDateEdit::down-arrow {
                  <second>0</second>
                  <year>2019</year>
                  <month>12</month>
-                 <day>27</day>
+                 <day>26</day>
                 </datetime>
                </property>
                <property name="displayFormat">

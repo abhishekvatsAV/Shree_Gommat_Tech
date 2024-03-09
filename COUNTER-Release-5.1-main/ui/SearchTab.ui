@@ -249,7 +249,7 @@ padding-left: 5px;</string>
                   <string notr="true">border:none</string>
                  </property>
                  <property name="text">
-                  <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;End Month &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+                  <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;End Month&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
                  </property>
                 </widget>
                </item>
@@ -667,7 +667,7 @@ padding-left: 14px;
                   <string notr="true">border:none</string>
                  </property>
                  <property name="text">
-                  <string>Title Search </string>
+                  <string>Title Search</string>
                  </property>
                 </widget>
                </item>
